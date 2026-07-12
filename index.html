@@ -1,0 +1,120 @@
+<!-- @purpose  일본어 JLPT 단어/예문 학습 페이지 (DB·백엔드 없음, 정적 배포용). 카드 퀴즈로 바로 시작, 단어장(목록) 모드로 전환 가능 -->
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>일본어 단어장 | JLPT N5-N1</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>일본어 단어장</h1>
+    <p class="subtitle">JLPT N5 ~ N1 단어와 예문으로 공부하기</p>
+  </header>
+
+  <nav class="level-tabs" aria-label="JLPT 레벨 선택">
+    <button class="level-tab is-active" data-level="ALL" aria-pressed="true">전체</button>
+    <button class="level-tab" data-level="N5" aria-pressed="false">N5</button>
+    <button class="level-tab" data-level="N4" aria-pressed="false">N4</button>
+    <button class="level-tab" data-level="N3" aria-pressed="false">N3</button>
+    <button class="level-tab" data-level="N2" aria-pressed="false">N2</button>
+    <button class="level-tab" data-level="N1" aria-pressed="false">N1</button>
+  </nav>
+
+  <div class="toolbar">
+    <input
+      type="search"
+      id="search-input"
+      class="search-input"
+      placeholder="단어, 읽는 법, 뜻으로 검색"
+      aria-label="단어 검색"
+    />
+    <div class="toolbar-buttons">
+      <button id="mode-toggle" class="toolbar-btn" aria-pressed="false">📚 단어장 보기</button>
+      <button id="shuffle-btn" class="toolbar-btn" aria-label="단어 순서 섞기">🔀 섞기</button>
+    </div>
+  </div>
+
+  <main id="main-content">
+    <div id="tts-warning" class="tts-warning" hidden role="alert">
+      이 브라우저는 음성 재생(TTS)을 지원하지 않습니다. 한글 발음 표기로 학습해 주세요.
+    </div>
+
+    <section id="list-view" class="word-grid" aria-label="단어 목록" hidden></section>
+
+    <section id="card-view" class="card-view" aria-label="카드 학습 모드">
+      <div class="card-nav">
+        <button id="card-prev" class="toolbar-btn" aria-label="이전 단어">← 이전</button>
+        <span id="card-position" class="card-position">0 / 0</span>
+        <button id="card-next" class="toolbar-btn" aria-label="다음 단어로 넘어가기 (스킵)">다음 / 스킵 →</button>
+      </div>
+      <div id="card-slot"></div>
+    </section>
+
+    <p id="empty-state" class="empty-state" hidden>검색 결과에 해당하는 단어가 없습니다.</p>
+  </main>
+
+  <template id="word-card-template">
+    <article class="word-card">
+      <div class="word-card-top">
+        <span class="level-badge"></span>
+        <div class="word-main">
+          <span class="kanji"></span>
+          <span class="reading"></span>
+        </div>
+        <div class="word-actions">
+          <button class="korean-toggle-btn" type="button">🇰🇷 발음</button>
+          <button class="tts-btn" type="button">🔊 듣기</button>
+        </div>
+      </div>
+      <p class="korean-reading" hidden></p>
+      <p class="meaning"></p>
+
+      <div class="example-block">
+        <div class="example-top">
+          <p class="example-jp"></p>
+          <div class="word-actions">
+            <button class="korean-toggle-btn example-korean-toggle" type="button">🇰🇷 발음</button>
+            <button class="tts-btn example-tts" type="button">🔊 듣기</button>
+          </div>
+        </div>
+        <p class="example-korean" hidden></p>
+        <p class="example-meaning"></p>
+      </div>
+    </article>
+  </template>
+
+  <template id="quiz-card-template">
+    <article class="quiz-card">
+      <span class="level-badge"></span>
+
+      <div class="quiz-question">
+        <p class="kanji-line">
+          <span class="kanji"></span><span class="kanji-reading"></span>
+        </p>
+        <p class="example-jp"></p>
+        <p class="example-reading"></p>
+      </div>
+
+      <div class="quiz-controls">
+        <button class="tts-word-btn" type="button">🔊 단어 발음</button>
+        <button class="tts-example-btn" type="button">🔊 예문 발음</button>
+        <button class="reveal-btn" type="button" aria-pressed="false">정답 확인</button>
+      </div>
+
+      <div class="quiz-answer" hidden>
+        <p class="korean-reading"></p>
+        <p class="meaning"></p>
+        <div class="example-answer">
+          <p class="example-korean"></p>
+          <p class="example-meaning"></p>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

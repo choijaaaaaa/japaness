@@ -1,0 +1,436 @@
+/* @purpose  일본어 단어장 스타일. 색상/간격은 CSS 변수(디자인 토큰)로 관리 */
+
+:root {
+  --color-bg: #faf9f7;
+  --color-surface: #ffffff;
+  --color-border: #e5e1da;
+  --color-text: #1f1b16;
+  --color-text-muted: #6b6259;
+  --color-accent: #c8492c;
+  --color-accent-soft: #f4e3dd;
+  --color-n5: #4a7c59;
+  --color-n4: #4a7c9a;
+  --color-n3: #8a6fb0;
+  --color-n2: #c8842c;
+  --color-n1: #c8492c;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+
+  --radius: 12px;
+  --font-jp: "Hiragino Sans", "Yu Gothic", "Noto Sans JP", sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg: #17140f;
+    --color-surface: #211d17;
+    --color-border: #3a342b;
+    --color-text: #f2ede4;
+    --color-text-muted: #a89e8f;
+    --color-accent: #e8734f;
+    --color-accent-soft: #3a241d;
+  }
+}
+
+:root[data-theme="dark"] {
+  --color-bg: #17140f;
+  --color-surface: #211d17;
+  --color-border: #3a342b;
+  --color-text: #f2ede4;
+  --color-text-muted: #a89e8f;
+  --color-accent: #e8734f;
+  --color-accent-soft: #3a241d;
+}
+
+:root[data-theme="light"] {
+  --color-bg: #faf9f7;
+  --color-surface: #ffffff;
+  --color-border: #e5e1da;
+  --color-text: #1f1b16;
+  --color-text-muted: #6b6259;
+  --color-accent: #c8492c;
+  --color-accent-soft: #f4e3dd;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* WHY: .word-grid 등 author 규칙의 display 값이 [hidden]의 기본 display:none보다 우선순위가 높아
+   모드 전환 시 이전 뷰가 계속 남아 보이는 문제가 있었음 */
+[hidden] {
+  display: none !important;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  line-height: 1.5;
+}
+
+.app-header {
+  padding: var(--space-6) var(--space-4) var(--space-4);
+  text-align: center;
+}
+
+.app-header h1 {
+  margin: 0 0 var(--space-1);
+  font-size: 1.75rem;
+}
+
+.subtitle {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+}
+
+.level-tabs {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+  padding: 0 var(--space-4) var(--space-4);
+}
+
+.level-tab {
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  padding: var(--space-2) var(--space-4);
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.level-tab.is-active {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: #fff;
+}
+
+.toolbar {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 var(--space-4) var(--space-4);
+  display: flex;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.search-input {
+  flex: 1 1 240px;
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.95rem;
+}
+
+.toolbar-buttons {
+  display: flex;
+  gap: var(--space-2);
+}
+
+.toolbar-btn {
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.toolbar-btn[aria-pressed="true"] {
+  background: var(--color-accent-soft);
+  border-color: var(--color-accent);
+}
+
+#main-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 var(--space-4) var(--space-6);
+}
+
+.tts-warning {
+  background: var(--color-accent-soft);
+  border: 1px solid var(--color-accent);
+  border-radius: var(--radius);
+  padding: var(--space-3);
+  margin-bottom: var(--space-4);
+  font-size: 0.9rem;
+}
+
+.word-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: var(--space-4);
+}
+
+.word-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: var(--space-4);
+}
+
+.word-card-top {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+}
+
+.level-badge {
+  flex: 0 0 auto;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 2px var(--space-2);
+  border-radius: 999px;
+  color: #fff;
+  align-self: center;
+}
+
+.level-badge[data-level="N5"] { background: var(--color-n5); }
+.level-badge[data-level="N4"] { background: var(--color-n4); }
+.level-badge[data-level="N3"] { background: var(--color-n3); }
+.level-badge[data-level="N2"] { background: var(--color-n2); }
+.level-badge[data-level="N1"] { background: var(--color-n1); }
+
+.word-main {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.kanji {
+  display: block;
+  font-family: var(--font-jp);
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.reading {
+  display: block;
+  font-family: var(--font-jp);
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+.word-actions {
+  flex: 0 0 auto;
+  display: flex;
+  gap: var(--space-1);
+}
+
+.korean-toggle-btn,
+.tts-btn {
+  border: 1px solid var(--color-border);
+  background: transparent;
+  color: var(--color-text);
+  border-radius: var(--space-1);
+  padding: 2px var(--space-2);
+  font-size: 0.78rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.korean-toggle-btn[aria-pressed="true"] {
+  background: var(--color-accent-soft);
+  border-color: var(--color-accent);
+}
+
+.korean-reading {
+  margin: var(--space-2) 0 0;
+  font-size: 0.85rem;
+  color: var(--color-accent);
+}
+
+.meaning {
+  margin: var(--space-2) 0 0;
+  font-weight: 600;
+}
+
+.example-block {
+  margin-top: var(--space-4);
+  padding-top: var(--space-3);
+  border-top: 1px dashed var(--color-border);
+}
+
+.example-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-3);
+}
+
+.example-jp {
+  margin: 0;
+  font-family: var(--font-jp);
+  font-size: 1rem;
+}
+
+.example-korean {
+  margin: var(--space-1) 0 0;
+  font-size: 0.85rem;
+  color: var(--color-accent);
+}
+
+.example-meaning {
+  margin: var(--space-1) 0 0;
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+.card-view {
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.card-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-3);
+}
+
+.card-position {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+.empty-state {
+  text-align: center;
+  color: var(--color-text-muted);
+  padding: var(--space-6) var(--space-4);
+}
+
+@media (max-width: 480px) {
+  .word-card-top {
+    flex-wrap: wrap;
+  }
+  .word-actions {
+    width: 100%;
+    justify-content: flex-end;
+  }
+}
+
+/* ---------- 퀴즈 카드 (카드 모드: 정답은 버튼을 눌러야 표시) ---------- */
+
+.quiz-card {
+  position: relative;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: var(--space-5) var(--space-4);
+  text-align: center;
+}
+
+.quiz-card .level-badge {
+  position: absolute;
+  top: var(--space-3);
+  right: var(--space-3);
+}
+
+.quiz-question {
+  margin: var(--space-4) 0 var(--space-5);
+}
+
+.quiz-question .kanji-line {
+  margin: 0;
+}
+
+.quiz-question .kanji {
+  font-family: var(--font-jp);
+  font-size: 2.4rem;
+  font-weight: 700;
+}
+
+.quiz-question .kanji-reading {
+  margin-left: var(--space-2);
+  font-family: var(--font-jp);
+  font-size: 1.1rem;
+  color: var(--color-text-muted);
+}
+
+.quiz-question .example-jp {
+  margin: var(--space-3) 0 0;
+  font-family: var(--font-jp);
+  color: var(--color-text-muted);
+  font-size: 1rem;
+}
+
+.quiz-question .example-reading {
+  margin: var(--space-1) 0 0;
+  font-family: var(--font-jp);
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+.quiz-controls {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-2);
+  margin-bottom: var(--space-4);
+}
+
+.quiz-controls button {
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.reveal-btn {
+  border-color: var(--color-accent) !important;
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.reveal-btn[aria-pressed="true"] {
+  background: var(--color-accent);
+  color: #fff;
+}
+
+.quiz-answer {
+  border-top: 1px dashed var(--color-border);
+  padding-top: var(--space-4);
+  text-align: left;
+}
+
+.quiz-answer .korean-reading {
+  color: var(--color-accent);
+  margin: var(--space-1) 0 0;
+}
+
+.quiz-answer .meaning {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin: var(--space-2) 0 0;
+}
+
+.quiz-answer .example-answer {
+  margin-top: var(--space-4);
+  padding-top: var(--space-3);
+  border-top: 1px dashed var(--color-border);
+}
+
+.quiz-answer .example-korean {
+  color: var(--color-accent);
+  margin: var(--space-1) 0 0;
+}
+
+.quiz-answer .example-meaning {
+  margin: var(--space-1) 0 0;
+}
