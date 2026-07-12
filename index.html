@@ -20,6 +20,7 @@
     <button class="level-tab" data-level="N3" aria-pressed="false">N3</button>
     <button class="level-tab" data-level="N2" aria-pressed="false">N2</button>
     <button class="level-tab" data-level="N1" aria-pressed="false">N1</button>
+    <button class="level-tab" data-level="접속사" aria-pressed="false">접속사</button>
   </nav>
 
   <div class="toolbar">
@@ -81,6 +82,7 @@
         </div>
         <p class="example-korean" hidden></p>
         <p class="example-meaning"></p>
+        <ul class="breakdown-list" hidden></ul>
       </div>
     </article>
   </template>
@@ -109,12 +111,14 @@
         <div class="example-answer">
           <p class="example-korean"></p>
           <p class="example-meaning"></p>
+          <ul class="breakdown-list" hidden></ul>
         </div>
       </div>
     </article>
   </template>
 
   <script src="data.js"></script>
+  <script src="connectives.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

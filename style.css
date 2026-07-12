@@ -13,6 +13,7 @@
   --color-n3: #8a6fb0;
   --color-n2: #c8842c;
   --color-n1: #c8492c;
+  --color-setsu: #3d7068;
 
   --space-1: 4px;
   --space-2: 8px;
@@ -210,6 +211,7 @@ body {
 .level-badge[data-level="N3"] { background: var(--color-n3); }
 .level-badge[data-level="N2"] { background: var(--color-n2); }
 .level-badge[data-level="N1"] { background: var(--color-n1); }
+.level-badge[data-level="접속사"] { background: var(--color-setsu); }
 
 .word-main {
   flex: 1 1 auto;
@@ -293,6 +295,19 @@ body {
   margin: var(--space-1) 0 0;
   color: var(--color-text-muted);
   font-size: 1rem;
+}
+
+.breakdown-list {
+  margin: var(--space-2) 0 0;
+  padding: var(--space-2) 0 0 var(--space-4);
+  border-top: 1px dashed var(--color-border);
+  list-style: disc;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.breakdown-list li {
+  margin: var(--space-1) 0;
 }
 
 .card-view {

@@ -40,25 +40,42 @@ function speak(text) {
 
 function getFilteredWords() {
   const query = state.query.trim().toLowerCase();
-  return state.order
-    .map((i) => VOCAB[i])
-    .filter((word) => {
-      if (state.level !== "ALL" && word.level !== state.level) return false;
-      if (!query) return true;
-      return (
-        word.kanji.toLowerCase().includes(query) ||
-        word.reading.toLowerCase().includes(query) ||
-        word.meaning.toLowerCase().includes(query)
-      );
-    });
+
+  const source =
+    state.level === "접속사"
+      ? CONNECTIVES
+      : state.order.map((i) => VOCAB[i]).filter((word) => state.level === "ALL" || word.level === state.level);
+
+  return source.filter((word) => {
+    if (!query) return true;
+    return (
+      word.kanji.toLowerCase().includes(query) ||
+      word.reading.toLowerCase().includes(query) ||
+      word.meaning.toLowerCase().includes(query)
+    );
+  });
+}
+
+function renderBreakdown(listEl, breakdown) {
+  listEl.innerHTML = "";
+  if (!breakdown || breakdown.length === 0) {
+    listEl.hidden = true;
+    return;
+  }
+  listEl.hidden = false;
+  breakdown.forEach((item) => {
+    const li = document.createElement("li");
+    li.textContent = `${item.word}(${item.reading}) — ${item.meaning}`;
+    listEl.appendChild(li);
+  });
 }
 
 function buildWordCard(word) {
   const node = template.content.firstElementChild.cloneNode(true);
 
   const badge = node.querySelector(".level-badge");
-  badge.textContent = word.level;
-  badge.dataset.level = word.level;
+  badge.textContent = word.category || word.level;
+  badge.dataset.level = word.category ? "접속사" : word.level;
 
   node.querySelector(".kanji").textContent = word.kanji;
   node.querySelector(".reading").textContent = word.reading;
@@ -93,6 +110,8 @@ function buildWordCard(word) {
   exampleTtsBtn.disabled = !speechSupported;
   exampleTtsBtn.addEventListener("click", () => speak(word.example));
 
+  renderBreakdown(node.querySelector(".breakdown-list"), word.breakdown);
+
   return node;
 }
 
@@ -100,8 +119,8 @@ function buildQuizCard(word) {
   const node = quizTemplate.content.firstElementChild.cloneNode(true);
 
   const badge = node.querySelector(".level-badge");
-  badge.textContent = word.level;
-  badge.dataset.level = word.level;
+  badge.textContent = word.category || word.level;
+  badge.dataset.level = word.category ? "접속사" : word.level;
 
   node.querySelector(".kanji").textContent = word.kanji;
   node.querySelector(".kanji-reading").textContent = `(${word.reading})`;
@@ -129,6 +148,8 @@ function buildQuizCard(word) {
   const exampleTtsBtn = node.querySelector(".tts-example-btn");
   exampleTtsBtn.disabled = !speechSupported;
   exampleTtsBtn.addEventListener("click", () => speak(word.example));
+
+  renderBreakdown(node.querySelector(".breakdown-list"), word.breakdown);
 
   return node;
 }
