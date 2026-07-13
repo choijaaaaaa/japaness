@@ -4054,6 +4054,207 @@ const VOCAB = [
       { word: "地球", reading: "ちきゅう", meaning: "지구" },
     ] },
 
+  { level: "N3", kanji: "講義", reading: "こうぎ", korean: "코-기", meaning: "강의",
+    example: "大学で経済学の講義を受けています。", exampleReading: "だいがくでけいざいがくのこうぎをうけています。", exampleKorean: "다이가쿠데 케-자이가쿠노 코-기오 우케테이마스", exampleMeaning: "대학에서 경제학 강의를 듣고 있습니다.",
+    breakdown: [
+      { word: "経済学", reading: "けいざいがく", meaning: "경제학" }
+    ] },
+  { level: "N3", kanji: "面接", reading: "めんせつ", korean: "멘세츠", meaning: "면접",
+    example: "明日、会社の面接があります。", exampleReading: "あした、かいしゃのめんせつがあります。", exampleKorean: "아시타 카이샤노 멘세츠가 아리마스", exampleMeaning: "내일 회사 면접이 있습니다.",
+    breakdown: [
+      { word: "会社の", reading: "かいしゃの", meaning: "회사의" }
+    ] },
+  { level: "N3", kanji: "履歴書", reading: "りれきしょ", korean: "리레키쇼", meaning: "이력서",
+    example: "履歴書を書いて送りました。", exampleReading: "りれきしょをかいておくりました。", exampleKorean: "리레키쇼오 카이테 오쿠리마시타", exampleMeaning: "이력서를 써서 보냈습니다.",
+    breakdown: [
+      { word: "送りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N3", kanji: "給与", reading: "きゅうよ", korean: "큐-요", meaning: "급여",
+    example: "給与は毎月二十五日に支払われます。", exampleReading: "きゅうよはまいつきにじゅうごにちにしはらわれます。", exampleKorean: "큐-요와 마이츠키 니쥬-고니치니 시하라와레마스", exampleMeaning: "급여는 매달 25일에 지급됩니다.",
+    breakdown: [
+      { word: "支払われます", reading: "しはらわれます", meaning: "지급됩니다 (수동형)" }
+    ] },
+  { level: "N3", kanji: "手当", reading: "てあて", korean: "테아테", meaning: "수당",
+    example: "残業手当がつきます。", exampleReading: "ざんぎょうてあてがつきます。", exampleKorean: "장교- 테아테가 츠키마스", exampleMeaning: "야근 수당이 붙습니다.",
+    breakdown: [
+      { word: "残業", reading: "ざんぎょう", meaning: "야근" }
+    ] },
+  { level: "N3", kanji: "待遇", reading: "たいぐう", korean: "타이구-", meaning: "대우",
+    example: "この会社は待遇がいいです。", exampleReading: "このかいしゃはたいぐうがいいです。", exampleKorean: "코노 카이샤와 타이구-가 이-데스", exampleMeaning: "이 회사는 대우가 좋습니다.",
+    breakdown: [
+      { word: "いいです", reading: "いいです", meaning: "좋습니다" }
+    ] },
+  { level: "N3", kanji: "職場", reading: "しょくば", korean: "쇼쿠바", meaning: "직장",
+    example: "新しい職場に慣れてきました。", exampleReading: "あたらしいしょくばになれてきました。", exampleKorean: "아타라시- 쇼쿠바니 나레테키마시타", exampleMeaning: "새 직장에 익숙해졌습니다.",
+    breakdown: [
+      { word: "慣れてきました", reading: "なれてきました", meaning: "익숙해졌습니다" }
+    ] },
+  { level: "N3", kanji: "労働", reading: "ろうどう", korean: "로-도-", meaning: "노동",
+    example: "長時間労働が問題になっています。", exampleReading: "ちょうじかんろうどうがもんだいになっています。", exampleKorean: "쵸-지캉 로-도-가 몬다이니 낫테이마스", exampleMeaning: "장시간 노동이 문제가 되고 있습니다.",
+    breakdown: [
+      { word: "長時間", reading: "ちょうじかん", meaning: "장시간" }
+    ] },
+  { level: "N3", kanji: "労働者", reading: "ろうどうしゃ", korean: "로-도-샤", meaning: "노동자",
+    example: "労働者の権利を守ります。", exampleReading: "ろうどうしゃのけんりをまもります。", exampleKorean: "로-도-샤노 켄리오 마모리마스", exampleMeaning: "노동자의 권리를 지킵니다.",
+    breakdown: [
+      { word: "権利", reading: "けんり", meaning: "권리" }
+    ] },
+  { level: "N3", kanji: "雇用", reading: "こよう", korean: "코요-", meaning: "고용",
+    example: "若者の雇用を増やします。", exampleReading: "わかもののこようをふやします。", exampleKorean: "와카모노노 코요-오 후야시마스", exampleMeaning: "젊은이의 고용을 늘립니다.",
+    breakdown: [
+      { word: "増やします", reading: "ふやします", meaning: "늘립니다" }
+    ] },
+  { level: "N3", kanji: "解雇", reading: "かいこ", korean: "카이코", meaning: "해고",
+    example: "突然、解雇されました。", exampleReading: "とつぜん、かいこされました。", exampleKorean: "토츠젠 카이코 사레마시타", exampleMeaning: "갑자기 해고당했습니다.",
+    breakdown: [
+      { word: "突然", reading: "とつぜん", meaning: "갑자기" }
+    ] },
+  { level: "N3", kanji: "昇給", reading: "しょうきゅう", korean: "쇼-큐-", meaning: "급여 인상",
+    example: "来月から昇給します。", exampleReading: "らいげつからしょうきゅうします。", exampleKorean: "라이게츠카라 쇼-큐- 시마스", exampleMeaning: "다음 달부터 급여가 오릅니다.",
+    breakdown: [
+      { word: "来月から", reading: "らいげつから", meaning: "다음 달부터" }
+    ] },
+  { level: "N3", kanji: "賃金", reading: "ちんぎん", korean: "친긴", meaning: "임금",
+    example: "最低賃金が上がりました。", exampleReading: "さいていちんぎんがあがりました。", exampleKorean: "사이테- 친긴가 아가리마시타", exampleMeaning: "최저 임금이 올랐습니다.",
+    breakdown: [
+      { word: "最低", reading: "さいてい", meaning: "최저" }
+    ] },
+  { level: "N3", kanji: "収入", reading: "しゅうにゅう", korean: "슈-뉴-", meaning: "수입, 소득",
+    example: "毎月の収入を記録しています。", exampleReading: "まいつきのしゅうにゅうをきろくしています。", exampleKorean: "마이츠키노 슈-뉴-오 키로쿠 시테이마스", exampleMeaning: "매달 수입을 기록하고 있습니다.",
+    breakdown: [
+      { word: "記録しています", reading: "きろくしています", meaning: "기록하고 있습니다" }
+    ] },
+  { level: "N3", kanji: "支出", reading: "ししゅつ", korean: "시슈츠", meaning: "지출",
+    example: "今月の支出を計算します。", exampleReading: "こんげつのししゅつをけいさんします。", exampleKorean: "콘게츠노 시슈츠오 케-산 시마스", exampleMeaning: "이번 달 지출을 계산합니다.",
+    breakdown: [
+      { word: "計算します", reading: "けいさんします", meaning: "계산합니다" }
+    ] },
+  { level: "N3", kanji: "貯蓄", reading: "ちょちく", korean: "쵸치쿠", meaning: "저축",
+    example: "将来のために貯蓄しています。", exampleReading: "しょうらいのためにちょちくしています。", exampleKorean: "쇼-라이노 타메니 쵸치쿠 시테이마스", exampleMeaning: "미래를 위해 저축하고 있습니다.",
+    breakdown: [
+      { word: "将来のために", reading: "しょうらいのために", meaning: "미래를 위해" }
+    ] },
+  { level: "N3", kanji: "借金", reading: "しゃっきん", korean: "샥킨", meaning: "빚",
+    example: "借金を返し終わりました。", exampleReading: "しゃっきんをかえしおわりました。", exampleKorean: "샥킹오 카에시오와리마시타", exampleMeaning: "빚을 다 갚았습니다.",
+    breakdown: [
+      { word: "返し終わりました", reading: "かえしおわりました", meaning: "다 갚았습니다" }
+    ] },
+  { level: "N3", kanji: "返済", reading: "へんさい", korean: "헨사이", meaning: "상환",
+    example: "ローンの返済が終わりました。", exampleReading: "ローンのへんさいがおわりました。", exampleKorean: "로-온노 헨사이가 오와리마시타", exampleMeaning: "대출 상환이 끝났습니다.",
+    breakdown: [
+      { word: "ローン", reading: "ローン", meaning: "대출" }
+    ] },
+  { level: "N3", kanji: "融資", reading: "ゆうし", korean: "유-시", meaning: "융자",
+    example: "銀行から融資を受けました。", exampleReading: "ぎんこうからゆうしをうけました。", exampleKorean: "깅코-카라 유-시오 우케마시타", exampleMeaning: "은행에서 융자를 받았습니다.",
+    breakdown: [
+      { word: "銀行から", reading: "ぎんこうから", meaning: "은행에서" }
+    ] },
+  { level: "N3", kanji: "保険", reading: "ほけん", korean: "호켄", meaning: "보험",
+    example: "生命保険に入りました。", exampleReading: "せいめいほけんにはいりました。", exampleKorean: "세-메- 호켄니 하이리마시타", exampleMeaning: "생명보험에 가입했습니다.",
+    breakdown: [
+      { word: "入りました", reading: "はいりました", meaning: "가입했습니다" }
+    ] },
+  { level: "N3", kanji: "年金", reading: "ねんきん", korean: "넨킨", meaning: "연금",
+    example: "将来、年金がもらえるか心配です。", exampleReading: "しょうらい、ねんきんがもらえるかしんぱいです。", exampleKorean: "쇼-라이 넨킨가 모라에루카 심파이데스", exampleMeaning: "장래에 연금을 받을 수 있을지 걱정입니다.",
+    breakdown: [
+      { word: "もらえるか", reading: "もらえるか", meaning: "받을 수 있을지" }
+    ] },
+  { level: "N3", kanji: "税金", reading: "ぜいきん", korean: "제-킨", meaning: "세금",
+    example: "毎年、税金を納めます。", exampleReading: "まいとし、ぜいきんをおさめます。", exampleKorean: "마이토시 제-킹오 오사메마스", exampleMeaning: "매년 세금을 냅니다.",
+    breakdown: [
+      { word: "納めます", reading: "おさめます", meaning: "냅니다" }
+    ] },
+  { level: "N3", kanji: "申告", reading: "しんこく", korean: "신코쿠", meaning: "신고",
+    example: "確定申告をしました。", exampleReading: "かくていしんこくをしました。", exampleKorean: "카쿠테- 신코쿠오 시마시타", exampleMeaning: "확정 신고를 했습니다.",
+    breakdown: [
+      { word: "確定", reading: "かくてい", meaning: "확정" }
+    ] },
+  { level: "N3", kanji: "手続き", reading: "てつづき", korean: "테츠즈키", meaning: "절차, 수속",
+    example: "入学の手続きをします。", exampleReading: "にゅうがくのてつづきをします。", exampleKorean: "뉴-가쿠노 테츠즈키오 시마스", exampleMeaning: "입학 수속을 합니다.",
+    breakdown: [
+      { word: "入学", reading: "にゅうがく", meaning: "입학" }
+    ] },
+  { level: "N3", kanji: "証明書", reading: "しょうめいしょ", korean: "쇼-메-쇼", meaning: "증명서",
+    example: "在学証明書が必要です。", exampleReading: "ざいがくしょうめいしょがひつようです。", exampleKorean: "자이가쿠 쇼-메-쇼가 히츠요-데스", exampleMeaning: "재학증명서가 필요합니다.",
+    breakdown: [
+      { word: "必要です", reading: "ひつようです", meaning: "필요합니다" }
+    ] },
+  { level: "N3", kanji: "印象的", reading: "いんしょうてき", korean: "인쇼-테키", meaning: "인상적",
+    example: "印象的な映画でした。", exampleReading: "いんしょうてきなえいがでした。", exampleKorean: "인쇼-테키나 에-가데시타", exampleMeaning: "인상적인 영화였습니다.",
+    breakdown: [
+      { word: "映画", reading: "えいが", meaning: "영화" }
+    ] },
+  { level: "N3", kanji: "魅力", reading: "みりょく", korean: "미료쿠", meaning: "매력",
+    example: "彼女には独特の魅力があります。", exampleReading: "かのじょにはどくとくのみりょくがあります。", exampleKorean: "카노죠니와 도쿠토쿠노 미료쿠가 아리마스", exampleMeaning: "그녀에게는 독특한 매력이 있습니다.",
+    breakdown: [
+      { word: "独特の", reading: "どくとくの", meaning: "독특한" }
+    ] },
+  { level: "N3", kanji: "魅力的", reading: "みりょくてき", korean: "미료쿠테키", meaning: "매력적",
+    example: "この街はとても魅力的です。", exampleReading: "このまちはとてもみりょくてきです。", exampleKorean: "코노 마치와 도테모 미료쿠테키데스", exampleMeaning: "이 도시는 아주 매력적입니다.",
+    breakdown: [
+      { word: "街", reading: "まち", meaning: "도시, 마을" }
+    ] },
+  { level: "N3", kanji: "個性", reading: "こせい", korean: "코세-", meaning: "개성",
+    example: "彼は個性が強いです。", exampleReading: "かれはこせいがつよいです。", exampleKorean: "카레와 코세-가 츠요이데스", exampleMeaning: "그는 개성이 강합니다.",
+    breakdown: [
+      { word: "強いです", reading: "つよいです", meaning: "강합니다" }
+    ] },
+  { level: "N3", kanji: "独特", reading: "どくとく", korean: "도쿠토쿠", meaning: "독특",
+    example: "独特な味がします。", exampleReading: "どくとくなあじがします。", exampleKorean: "도쿠토쿠나 아지가 시마스", exampleMeaning: "독특한 맛이 납니다.",
+    breakdown: [
+      { word: "味", reading: "あじ", meaning: "맛" }
+    ] },
+  { level: "N3", kanji: "特有", reading: "とくゆう", korean: "토쿠유-", meaning: "고유",
+    example: "これはこの地方特有の文化です。", exampleReading: "これはこのちほうとくゆうのぶんかです。", exampleKorean: "코레와 코노 치호- 토쿠유-노 붕카데스", exampleMeaning: "이것은 이 지방 고유의 문화입니다.",
+    breakdown: [
+      { word: "地方", reading: "ちほう", meaning: "지방" }
+    ] },
+  { level: "N3", kanji: "典型的", reading: "てんけいてき", korean: "텐케-테키", meaning: "전형적",
+    example: "これは典型的な例です。", exampleReading: "これはてんけいてきなれいです。", exampleKorean: "코레와 텐케-테키나 레-데스", exampleMeaning: "이것은 전형적인 예입니다.",
+    breakdown: [
+      { word: "例", reading: "れい", meaning: "예" }
+    ] },
+  { level: "N3", kanji: "平凡", reading: "へいぼん", korean: "헤-본", meaning: "평범",
+    example: "平凡な毎日を過ごしています。", exampleReading: "へいぼんなまいにちをすごしています。", exampleKorean: "헤-본나 마이니치오 스고시테이마스", exampleMeaning: "평범한 매일을 보내고 있습니다.",
+    breakdown: [
+      { word: "過ごしています", reading: "すごしています", meaning: "보내고 있습니다" }
+    ] },
+  { level: "N3", kanji: "平和", reading: "へいわ", korean: "헤-와", meaning: "평화",
+    example: "世界の平和を願います。", exampleReading: "せかいのへいわをねがいます。", exampleKorean: "세카이노 헤-와오 네가이마스", exampleMeaning: "세계의 평화를 바랍니다.",
+    breakdown: [
+      { word: "願います", reading: "ねがいます", meaning: "바랍니다" }
+    ] },
+  { level: "N3", kanji: "戦争", reading: "せんそう", korean: "센소-", meaning: "전쟁",
+    example: "戦争のない世界を望みます。", exampleReading: "せんそうのないせかいをのぞみます。", exampleKorean: "센소-노 나이 세카이오 노조미마스", exampleMeaning: "전쟁이 없는 세계를 바랍니다.",
+    breakdown: [
+      { word: "望みます", reading: "のぞみます", meaning: "바랍니다" }
+    ] },
+  { level: "N3", kanji: "平等", reading: "びょうどう", korean: "뵤-도-", meaning: "평등",
+    example: "みんな平等に扱われるべきです。", exampleReading: "みんなびょうどうにあつかわれるべきです。", exampleKorean: "민나 뵤-도-니 아츠카와레루 베키데스", exampleMeaning: "모두 평등하게 대우받아야 합니다.",
+    breakdown: [
+      { word: "扱われるべきです", reading: "あつかわれるべきです", meaning: "대우받아야 합니다" }
+    ] },
+  { level: "N3", kanji: "差別", reading: "さべつ", korean: "사베츠", meaning: "차별",
+    example: "差別をなくしたいです。", exampleReading: "さべつをなくしたいです。", exampleKorean: "사베츠오 나쿠시타이데스", exampleMeaning: "차별을 없애고 싶습니다.",
+    breakdown: [
+      { word: "なくしたいです", reading: "なくしたいです", meaning: "없애고 싶습니다" }
+    ] },
+  { level: "N3", kanji: "偏見", reading: "へんけん", korean: "헨켄", meaning: "편견",
+    example: "偏見を持たないようにします。", exampleReading: "へんけんをもたないようにします。", exampleKorean: "헨켄오 모타나이 요-니 시마스", exampleMeaning: "편견을 갖지 않도록 하겠습니다.",
+    breakdown: [
+      { word: "持たないように", reading: "もたないように", meaning: "갖지 않도록" }
+    ] },
+  { level: "N3", kanji: "尊敬", reading: "そんけい", korean: "손케-", meaning: "존경",
+    example: "父を尊敬しています。", exampleReading: "ちちをそんけいしています。", exampleKorean: "치치오 손케- 시테이마스", exampleMeaning: "아버지를 존경하고 있습니다.",
+    breakdown: [
+      { word: "父", reading: "ちち", meaning: "아버지" }
+    ] },
+  { level: "N3", kanji: "感謝", reading: "かんしゃ", korean: "칸샤", meaning: "감사",
+    example: "両親に感謝しています。", exampleReading: "りょうしんにかんしゃしています。", exampleKorean: "료-신니 칸샤 시테이마스", exampleMeaning: "부모님께 감사하고 있습니다.",
+    breakdown: [
+      { word: "両親", reading: "りょうしん", meaning: "부모님" }
+    ] },
+
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
     example: "彼の説明は抽象的すぎます。", exampleReading: "かれのせつめいはちゅうしょうてきすぎます。", exampleKorean: "카레노 세츠메-와 츄-쇼-테키스기마스", exampleMeaning: "그의 설명은 너무 추상적입니다.",
