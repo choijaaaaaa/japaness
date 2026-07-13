@@ -5062,6 +5062,157 @@ const VOCAB = [
       { word: "大きな", reading: "おおきな", meaning: "큰" },
     ] },
 
+  { level: "N2", kanji: "見地", reading: "けんち", korean: "켄치", meaning: "견지, 관점",
+    example: "教育的な見地から意見を述べます。", exampleReading: "きょういくてきなけんちからいけんをのべます。", exampleKorean: "쿄-이쿠테키나 켄치카라 이켄오 노베마스", exampleMeaning: "교육적인 견지에서 의견을 말합니다.",
+    breakdown: [
+      { word: "教育的な", reading: "きょういくてきな", meaning: "교육적인" }
+    ] },
+  { level: "N2", kanji: "立場", reading: "たちば", korean: "타치바", meaning: "입장",
+    example: "相手の立場を考えます。", exampleReading: "あいてのたちばをかんがえます。", exampleKorean: "아이테노 타치바오 캉가에마스", exampleMeaning: "상대의 입장을 생각합니다.",
+    breakdown: [
+      { word: "相手", reading: "あいて", meaning: "상대" }
+    ] },
+  { level: "N2", kanji: "観点", reading: "かんてん", korean: "칸텐", meaning: "관점",
+    example: "別の観点から考えてみます。", exampleReading: "べつのかんてんからかんがえてみます。", exampleKorean: "베츠노 칸텐카라 캉가에테미마스", exampleMeaning: "다른 관점에서 생각해 봅니다.",
+    breakdown: [
+      { word: "別の", reading: "べつの", meaning: "다른" }
+    ] },
+  { level: "N2", kanji: "視点", reading: "してん", korean: "시텐", meaning: "시점",
+    example: "子供の視点で物事を見ます。", exampleReading: "こどものしてんでものごとをみます。", exampleKorean: "코도모노 시텐데 모노고토오 미마스", exampleMeaning: "아이의 시점으로 사물을 봅니다.",
+    breakdown: [
+      { word: "物事", reading: "ものごと", meaning: "사물, 일" }
+    ] },
+  { level: "N2", kanji: "焦点", reading: "しょうてん", korean: "쇼-텐", meaning: "초점",
+    example: "議論の焦点がずれています。", exampleReading: "ぎろんのしょうてんがずれています。", exampleKorean: "기론노 쇼-텐가 즈레테이마스", exampleMeaning: "논의의 초점이 어긋나 있습니다.",
+    breakdown: [
+      { word: "ずれています", reading: "ずれています", meaning: "어긋나 있습니다" }
+    ] },
+  { level: "N2", kanji: "重点", reading: "じゅうてん", korean: "쥬-텐", meaning: "중점",
+    example: "安全に重点を置いています。", exampleReading: "あんぜんにじゅうてんをおいています。", exampleKorean: "안젠니 쥬-텐오 오이테이마스", exampleMeaning: "안전에 중점을 두고 있습니다.",
+    breakdown: [
+      { word: "置いています", reading: "おいています", meaning: "두고 있습니다" }
+    ] },
+  { level: "N2", kanji: "核心", reading: "かくしん", korean: "카쿠신", meaning: "핵심",
+    example: "問題の核心に触れます。", exampleReading: "もんだいのかくしんにふれます。", exampleKorean: "몬다이노 카쿠신니 후레마스", exampleMeaning: "문제의 핵심을 다룹니다.",
+    breakdown: [
+      { word: "触れます", reading: "ふれます", meaning: "다룹니다, 언급합니다" }
+    ] },
+  { level: "N2", kanji: "本質", reading: "ほんしつ", korean: "혼시츠", meaning: "본질",
+    example: "事故の本質を理解する必要があります。", exampleReading: "じこのほんしつをりかいするひつようがあります。", exampleKorean: "지코노 혼시츠오 리카이스루 히츠요-가 아리마스", exampleMeaning: "사고의 본질을 이해할 필요가 있습니다.",
+    breakdown: [
+      { word: "理解する", reading: "りかいする", meaning: "이해하다" }
+    ] },
+  { level: "N2", kanji: "実質", reading: "じっしつ", korean: "짓시츠", meaning: "실질",
+    example: "実質的な効果はありませんでした。", exampleReading: "じっしつてきなこうかはありませんでした。", exampleKorean: "짓시츠테키나 코-카와 아리마센데시타", exampleMeaning: "실질적인 효과는 없었습니다.",
+    breakdown: [
+      { word: "効果", reading: "こうか", meaning: "효과" }
+    ] },
+  { level: "N2", kanji: "実態", reading: "じったい", korean: "짓타이", meaning: "실태",
+    example: "現場の実態を調査します。", exampleReading: "げんばのじったいをちょうさします。", exampleKorean: "겐바노 짓타이오 쵸-사 시마스", exampleMeaning: "현장의 실태를 조사합니다.",
+    breakdown: [
+      { word: "現場", reading: "げんば", meaning: "현장" }
+    ] },
+  { level: "N2", kanji: "実情", reading: "じつじょう", korean: "지츠죠-", meaning: "실정",
+    example: "会社の実情を報告しました。", exampleReading: "かいしゃのじつじょうをほうこくしました。", exampleKorean: "카이샤노 지츠죠-오 호-코쿠 시마시타", exampleMeaning: "회사의 실정을 보고했습니다.",
+    breakdown: [
+      { word: "報告しました", reading: "ほうこくしました", meaning: "보고했습니다" }
+    ] },
+  { level: "N2", kanji: "情勢", reading: "じょうせい", korean: "죠-세-", meaning: "정세",
+    example: "国際情勢が不安定です。", exampleReading: "こくさいじょうせいがふあんていです。", exampleKorean: "코쿠사이 죠-세-가 후안테-데스", exampleMeaning: "국제 정세가 불안정합니다.",
+    breakdown: [
+      { word: "不安定です", reading: "ふあんていです", meaning: "불안정합니다" }
+    ] },
+  { level: "N2", kanji: "局面", reading: "きょくめん", korean: "쿄쿠멘", meaning: "국면",
+    example: "難しい局面を迎えています。", exampleReading: "むずかしいきょくめんをむかえています。", exampleKorean: "무즈카시- 쿄쿠멘오 무카에테이마스", exampleMeaning: "어려운 국면을 맞이하고 있습니다.",
+    breakdown: [
+      { word: "迎えています", reading: "むかえています", meaning: "맞이하고 있습니다" }
+    ] },
+  { level: "N2", kanji: "事態", reading: "じたい", korean: "지타이", meaning: "사태",
+    example: "深刻な事態になりました。", exampleReading: "しんこくなじたいになりました。", exampleKorean: "신코쿠나 지타이니 나리마시타", exampleMeaning: "심각한 사태가 되었습니다.",
+    breakdown: [
+      { word: "深刻な", reading: "しんこくな", meaning: "심각한" }
+    ] },
+  { level: "N2", kanji: "現象", reading: "げんしょう", korean: "겐쇼-", meaning: "현상",
+    example: "珍しい自然現象が見られました。", exampleReading: "めずらしいしぜんげんしょうがみられました。", exampleKorean: "메즈라시- 시젠 겐쇼-가 미라레마시타", exampleMeaning: "희귀한 자연 현상이 관찰되었습니다.",
+    breakdown: [
+      { word: "珍しい", reading: "めずらしい", meaning: "희귀하다" }
+    ] },
+  { level: "N2", kanji: "要因", reading: "よういん", korean: "요-인", meaning: "요인",
+    example: "失敗の要因を分析します。", exampleReading: "しっぱいのよういんをぶんせきします。", exampleKorean: "십파이노 요-인오 분세키 시마스", exampleMeaning: "실패의 요인을 분석합니다.",
+    breakdown: [
+      { word: "分析します", reading: "ぶんせきします", meaning: "분석합니다" }
+    ] },
+  { level: "N2", kanji: "契機", reading: "けいき", korean: "케-키", meaning: "계기",
+    example: "この出来事が契機となりました。", exampleReading: "このできごとがけいきとなりました。", exampleKorean: "코노 데키고토가 케-키토 나리마시타", exampleMeaning: "이 사건이 계기가 되었습니다.",
+    breakdown: [
+      { word: "出来事", reading: "できごと", meaning: "사건, 일" }
+    ] },
+  { level: "N2", kanji: "背景", reading: "はいけい", korean: "하이케-", meaning: "배경",
+    example: "事件の背景を調べます。", exampleReading: "じけんのはいけいをしらべます。", exampleKorean: "지켄노 하이케-오 시라베마스", exampleMeaning: "사건의 배경을 조사합니다.",
+    breakdown: [
+      { word: "事件", reading: "じけん", meaning: "사건" }
+    ] },
+  { level: "N2", kanji: "基盤", reading: "きばん", korean: "키반", meaning: "기반",
+    example: "経済の基盤を強化します。", exampleReading: "けいざいのきばんをきょうかします。", exampleKorean: "케-자이노 키반오 쿄-카 시마스", exampleMeaning: "경제의 기반을 강화합니다.",
+    breakdown: [
+      { word: "強化します", reading: "きょうかします", meaning: "강화합니다" }
+    ] },
+  { level: "N2", kanji: "根本", reading: "こんぽん", korean: "콘폰", meaning: "근본",
+    example: "根本から見直す必要があります。", exampleReading: "こんぽんからみなおすひつようがあります。", exampleKorean: "콘폰카라 미나오스 히츠요-가 아리마스", exampleMeaning: "근본부터 재검토할 필요가 있습니다.",
+    breakdown: [
+      { word: "見直す", reading: "みなおす", meaning: "재검토하다" }
+    ] },
+  { level: "N2", kanji: "本来", reading: "ほんらい", korean: "혼라이", meaning: "본래",
+    example: "本来の目的を忘れないでください。", exampleReading: "ほんらいのもくてきをわすれないでください。", exampleKorean: "혼라이노 모쿠테키오 와스레나이데쿠다사이", exampleMeaning: "본래의 목적을 잊지 마세요.",
+    breakdown: [
+      { word: "目的", reading: "もくてき", meaning: "목적" }
+    ] },
+  { level: "N2", kanji: "元来", reading: "がんらい", korean: "간라이", meaning: "원래",
+    example: "元来、彼は真面目な人です。", exampleReading: "がんらい、かれはまじめなひとです。", exampleKorean: "간라이 카레와 마지메나 히토데스", exampleMeaning: "원래 그는 성실한 사람입니다.",
+    breakdown: [
+      { word: "真面目な", reading: "まじめな", meaning: "성실한" }
+    ] },
+  { level: "N2", kanji: "潜む", reading: "ひそむ", korean: "히소무", meaning: "잠재하다, 숨다",
+    example: "危険が潜んでいます。", exampleReading: "きけんがひそんでいます。", exampleKorean: "키켄가 히손데이마스", exampleMeaning: "위험이 숨어 있습니다.",
+    breakdown: [
+      { word: "危険", reading: "きけん", meaning: "위험" }
+    ] },
+  { level: "N2", kanji: "秘める", reading: "ひめる", korean: "히메루", meaning: "감추다, 품다",
+    example: "彼は大きな才能を秘めています。", exampleReading: "かれはおおきなさいのうをひめています。", exampleKorean: "카레와 오-키나 사이노-오 히메테이마스", exampleMeaning: "그는 큰 재능을 감추고 있습니다.",
+    breakdown: [
+      { word: "才能", reading: "さいのう", meaning: "재능" }
+    ] },
+  { level: "N2", kanji: "巡る", reading: "めぐる", korean: "메구루", meaning: "둘러싸다, 순회하다",
+    example: "この問題を巡って議論が続いています。", exampleReading: "このもんだいをめぐってぎろんがつづいています。", exampleKorean: "코노 몬다이오 메굿테 기론가 츠즈이테이마스", exampleMeaning: "이 문제를 둘러싸고 논의가 계속되고 있습니다.",
+    breakdown: [
+      { word: "議論", reading: "ぎろん", meaning: "논의" }
+    ] },
+  { level: "N2", kanji: "絡む", reading: "からむ", korean: "카라무", meaning: "얽히다",
+    example: "複雑な事情が絡んでいます。", exampleReading: "ふくざつなじじょうがからんでいます。", exampleKorean: "후쿠자츠나 지죠-가 카란데이마스", exampleMeaning: "복잡한 사정이 얽혀 있습니다.",
+    breakdown: [
+      { word: "複雑な事情", reading: "ふくざつなじじょう", meaning: "복잡한 사정" }
+    ] },
+  { level: "N2", kanji: "伴う", reading: "ともなう", korean: "토모나우", meaning: "수반하다",
+    example: "変化には痛みが伴います。", exampleReading: "へんかにはいたみがともないます。", exampleKorean: "헨카니와 이타미가 토모나이마스", exampleMeaning: "변화에는 고통이 수반됩니다.",
+    breakdown: [
+      { word: "痛み", reading: "いたみ", meaning: "고통" }
+    ] },
+  { level: "N2", kanji: "及ぶ", reading: "およぶ", korean: "오요부", meaning: "미치다",
+    example: "被害は広範囲に及びました。", exampleReading: "ひがいはこうはんいにおよびました。", exampleKorean: "히가이와 코-한이니 오요비마시타", exampleMeaning: "피해는 넓은 범위에 미쳤습니다.",
+    breakdown: [
+      { word: "広範囲に", reading: "こうはんいに", meaning: "넓은 범위에" }
+    ] },
+  { level: "N2", kanji: "客観的", reading: "きゃっかんてき", korean: "캭칸테키", meaning: "객관적",
+    example: "客観的な事実に基づいて判断します。", exampleReading: "きゃっかんてきなじじつにもとづいてはんだんします。", exampleKorean: "캭칸테키나 지지츠니 모토즈이테 한단 시마스", exampleMeaning: "객관적인 사실에 근거해 판단합니다.",
+    breakdown: [
+      { word: "事実に基づいて", reading: "じじつにもとづいて", meaning: "사실에 근거해서" }
+    ] },
+  { level: "N2", kanji: "主観的", reading: "しゅかんてき", korean: "슈칸테키", meaning: "주관적",
+    example: "それは主観的な意見にすぎません。", exampleReading: "それはしゅかんてきないけんにすぎません。", exampleKorean: "소레와 슈칸테키나 이켄니 스기마셍", exampleMeaning: "그것은 주관적인 의견에 불과합니다.",
+    breakdown: [
+      { word: "にすぎません", reading: "にすぎません", meaning: "~에 불과합니다" }
+    ] },
+
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
     example: "混乱がようやく収束しました。", exampleReading: "こんらんがようやくしゅうそくしました。", exampleKorean: "콘랑가 요-야쿠 슈-소쿠 시마시타", exampleMeaning: "혼란이 마침내 수습되었습니다.",
