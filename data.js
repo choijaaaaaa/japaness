@@ -5916,4 +5916,154 @@ const VOCAB = [
     breakdown: [
       { word: "考えます", reading: "かんがえます", meaning: "생각합니다" },
     ] },
+  { level: "N1", kanji: "由々しい", reading: "ゆゆしい", korean: "유유시-", meaning: "중대하다",
+    example: "これは由々しい事態です。", exampleReading: "これはゆゆしいじたいです。", exampleKorean: "코레와 유유시- 지타이데스", exampleMeaning: "이것은 중대한 사태입니다.",
+    breakdown: [
+      { word: "事態", reading: "じたい", meaning: "사태" }
+    ] },
+  { level: "N1", kanji: "甚大", reading: "じんだい", korean: "진다이", meaning: "막대함",
+    example: "台風により甚大な被害が出ました。", exampleReading: "たいふうによりじんだいなひがいがでました。", exampleKorean: "타이후-니 요리 진다이나 히가이가 데마시타", exampleMeaning: "태풍으로 인해 막대한 피해가 났습니다.",
+    breakdown: [
+      { word: "被害", reading: "ひがい", meaning: "피해" }
+    ] },
+  { level: "N1", kanji: "悪循環", reading: "あくじゅんかん", korean: "아쿠쥰칸", meaning: "악순환",
+    example: "悪循環から抜け出せません。", exampleReading: "あくじゅんかんからぬけだせません。", exampleKorean: "아쿠쥰칸카라 누케다세마셍", exampleMeaning: "악순환에서 벗어날 수 없습니다.",
+    breakdown: [
+      { word: "抜け出せません", reading: "ぬけだせません", meaning: "벗어날 수 없습니다" }
+    ] },
+  { level: "N1", kanji: "破棄", reading: "はき", korean: "하키", meaning: "파기",
+    example: "契約を破棄しました。", exampleReading: "けいやくをはきしました。", exampleKorean: "케-야쿠오 하키 시마시타", exampleMeaning: "계약을 파기했습니다.",
+    breakdown: [
+      { word: "契約", reading: "けいやく", meaning: "계약" }
+    ] },
+  { level: "N1", kanji: "撤去", reading: "てっきょ", korean: "텍쿄", meaning: "철거",
+    example: "古い建物が撤去されました。", exampleReading: "ふるいたてものがてっきょされました。", exampleKorean: "후루이 타테모노가 텍쿄 사레마시타", exampleMeaning: "오래된 건물이 철거되었습니다.",
+    breakdown: [
+      { word: "建物", reading: "たてもの", meaning: "건물" }
+    ] },
+  { level: "N1", kanji: "撤収", reading: "てっしゅう", korean: "텟슈-", meaning: "철수",
+    example: "部隊が撤収しました。", exampleReading: "ぶたいがてっしゅうしました。", exampleKorean: "부타이가 텟슈- 시마시타", exampleMeaning: "부대가 철수했습니다.",
+    breakdown: [
+      { word: "部隊", reading: "ぶたい", meaning: "부대" }
+    ] },
+  { level: "N1", kanji: "容認", reading: "ようにん", korean: "요-닌", meaning: "용인",
+    example: "その行為は容認できません。", exampleReading: "そのこういはようにんできません。", exampleKorean: "소노 코-이와 요-닌 데키마셍", exampleMeaning: "그 행위는 용인할 수 없습니다.",
+    breakdown: [
+      { word: "行為", reading: "こうい", meaning: "행위" }
+    ] },
+  { level: "N1", kanji: "黙認", reading: "もくにん", korean: "모쿠닌", meaning: "묵인",
+    example: "上司はミスを黙認しました。", exampleReading: "じょうしはミスをもくにんしました。", exampleKorean: "죠-시와 미스오 모쿠닌 시마시타", exampleMeaning: "상사는 실수를 묵인했습니다.",
+    breakdown: [
+      { word: "ミス", reading: "ミス", meaning: "실수" }
+    ] },
+  { level: "N1", kanji: "看過", reading: "かんか", korean: "칸카", meaning: "간과",
+    example: "この問題を看過するわけにはいきません。", exampleReading: "このもんだいをかんかするわけにはいきません。", exampleKorean: "코노 몬다이오 칸카스루 와케니와 이키마셍", exampleMeaning: "이 문제를 간과할 수는 없습니다.",
+    breakdown: [
+      { word: "わけにはいきません", reading: "わけにはいきません", meaning: "~할 수는 없습니다" }
+    ] },
+  { level: "N1", kanji: "一任", reading: "いちにん", korean: "이치닌", meaning: "일임",
+    example: "この件は彼に一任します。", exampleReading: "このけんはかれにいちにんします。", exampleKorean: "코노 켄와 카레니 이치닌 시마스", exampleMeaning: "이 건은 그에게 일임합니다.",
+    breakdown: [
+      { word: "この件", reading: "このけん", meaning: "이 건" }
+    ] },
+  { level: "N1", kanji: "委任", reading: "いにん", korean: "이닌", meaning: "위임",
+    example: "権限を部下に委任しました。", exampleReading: "けんげんをぶかにいにんしました。", exampleKorean: "켄겡오 부카니 이닌 시마시타", exampleMeaning: "권한을 부하에게 위임했습니다.",
+    breakdown: [
+      { word: "権限", reading: "けんげん", meaning: "권한" }
+    ] },
+  { level: "N1", kanji: "委ねる", reading: "ゆだねる", korean: "유다네루", meaning: "맡기다",
+    example: "判断を専門家に委ねます。", exampleReading: "はんだんをせんもんかにゆだねます。", exampleKorean: "한단오 센몬카니 유다네마스", exampleMeaning: "판단을 전문가에게 맡깁니다.",
+    breakdown: [
+      { word: "専門家", reading: "せんもんか", meaning: "전문가" }
+    ] },
+  { level: "N1", kanji: "賄う", reading: "まかなう", korean: "마카나우", meaning: "충당하다, 조달하다",
+    example: "予算内で経費を賄います。", exampleReading: "よさんないでけいひをまかないます。", exampleKorean: "요산나이데 케-히오 마카나이마스", exampleMeaning: "예산 내에서 경비를 충당합니다.",
+    breakdown: [
+      { word: "予算内で", reading: "よさんないで", meaning: "예산 내에서" }
+    ] },
+  { level: "N1", kanji: "講じる", reading: "こうじる", korean: "코-지루", meaning: "강구하다",
+    example: "対策を講じる必要があります。", exampleReading: "たいさくをこうじるひつようがあります。", exampleKorean: "타이사쿠오 코-지루 히츠요-가 아리마스", exampleMeaning: "대책을 강구할 필요가 있습니다.",
+    breakdown: [
+      { word: "対策", reading: "たいさく", meaning: "대책" }
+    ] },
+  { level: "N1", kanji: "図る", reading: "はかる", korean: "하카루", meaning: "도모하다, 꾀하다",
+    example: "業務の効率化を図ります。", exampleReading: "ぎょうむのこうりつかをはかります。", exampleKorean: "교-무노 코-리츠카오 하카리마스", exampleMeaning: "업무의 효율화를 도모합니다.",
+    breakdown: [
+      { word: "効率化", reading: "こうりつか", meaning: "효율화" }
+    ] },
+  { level: "N1", kanji: "企てる", reading: "くわだてる", korean: "쿠와다테루", meaning: "꾀하다, 기도하다",
+    example: "新規事業を企てています。", exampleReading: "しんきじぎょうをくわだてています。", exampleKorean: "신키 지교-오 쿠와다테테이마스", exampleMeaning: "신규 사업을 꾀하고 있습니다.",
+    breakdown: [
+      { word: "新規事業", reading: "しんきじぎょう", meaning: "신규 사업" }
+    ] },
+  { level: "N1", kanji: "目論む", reading: "もくろむ", korean: "모쿠로무", meaning: "꾀하다, 계획하다",
+    example: "市場拡大を目論んでいます。", exampleReading: "しじょうかくだいをもくろんでいます。", exampleKorean: "시죠- 카쿠다이오 모쿠론데이마스", exampleMeaning: "시장 확대를 계획하고 있습니다.",
+    breakdown: [
+      { word: "市場拡大", reading: "しじょうかくだい", meaning: "시장 확대" }
+    ] },
+  { level: "N1", kanji: "遂げる", reading: "とげる", korean: "토게루", meaning: "이루다",
+    example: "大きな発展を遂げました。", exampleReading: "おおきなはってんをとげました。", exampleKorean: "오-키나 핫텐오 토게마시타", exampleMeaning: "큰 발전을 이루었습니다.",
+    breakdown: [
+      { word: "発展", reading: "はってん", meaning: "발전" }
+    ] },
+  { level: "N1", kanji: "成し遂げる", reading: "なしとげる", korean: "나시토게루", meaning: "완수하다, 성취하다",
+    example: "目標を成し遂げました。", exampleReading: "もくひょうをなしとげました。", exampleKorean: "모쿠효-오 나시토게마시타", exampleMeaning: "목표를 완수했습니다.",
+    breakdown: [
+      { word: "目標", reading: "もくひょう", meaning: "목표" }
+    ] },
+  { level: "N1", kanji: "見出す", reading: "みいだす", korean: "미이다스", meaning: "찾아내다",
+    example: "新しい方法を見出しました。", exampleReading: "あたらしいほうほうをみいだしました。", exampleKorean: "아타라시- 호-호-오 미이다시마시타", exampleMeaning: "새로운 방법을 찾아냈습니다.",
+    breakdown: [
+      { word: "方法", reading: "ほうほう", meaning: "방법" }
+    ] },
+  { level: "N1", kanji: "突き止める", reading: "つきとめる", korean: "츠키토메루", meaning: "밝혀내다, 알아내다",
+    example: "原因を突き止めました。", exampleReading: "げんいんをつきとめました。", exampleKorean: "겐잉오 츠키토메마시타", exampleMeaning: "원인을 밝혀냈습니다.",
+    breakdown: [
+      { word: "原因", reading: "げんいん", meaning: "원인" }
+    ] },
+  { level: "N1", kanji: "解明", reading: "かいめい", korean: "카이메-", meaning: "해명",
+    example: "事故の原因を解明します。", exampleReading: "じこのげんいんをかいめいします。", exampleKorean: "지코노 겐잉오 카이메- 시마스", exampleMeaning: "사고의 원인을 해명합니다.",
+    breakdown: [
+      { word: "事故", reading: "じこ", meaning: "사고" }
+    ] },
+  { level: "N1", kanji: "究明", reading: "きゅうめい", korean: "큐-메-", meaning: "규명",
+    example: "真相を究明します。", exampleReading: "しんそうをきゅうめいします。", exampleKorean: "신소-오 큐-메- 시마스", exampleMeaning: "진상을 규명합니다.",
+    breakdown: [
+      { word: "真相", reading: "しんそう", meaning: "진상" }
+    ] },
+  { level: "N1", kanji: "追及", reading: "ついきゅう", korean: "츠이큐-", meaning: "추궁",
+    example: "責任を追及されました。", exampleReading: "せきにんをついきゅうされました。", exampleKorean: "세키닌오 츠이큐- 사레마시타", exampleMeaning: "책임을 추궁당했습니다.",
+    breakdown: [
+      { word: "責任", reading: "せきにん", meaning: "책임" }
+    ] },
+  { level: "N1", kanji: "追求", reading: "ついきゅう", korean: "츠이큐-", meaning: "추구",
+    example: "利益を追求します。", exampleReading: "りえきをついきゅうします。", exampleKorean: "리에키오 츠이큐- 시마스", exampleMeaning: "이익을 추구합니다.",
+    breakdown: [
+      { word: "利益", reading: "りえき", meaning: "이익" }
+    ] },
+  { level: "N1", kanji: "追跡", reading: "ついせき", korean: "츠이세키", meaning: "추적",
+    example: "犯人を追跡しています。", exampleReading: "はんにんをついせきしています。", exampleKorean: "한닌오 츠이세키 시테이마스", exampleMeaning: "범인을 추적하고 있습니다.",
+    breakdown: [
+      { word: "犯人", reading: "はんにん", meaning: "범인" }
+    ] },
+  { level: "N1", kanji: "阻止", reading: "そし", korean: "소시", meaning: "저지",
+    example: "計画を阻止しようとしました。", exampleReading: "けいかくをそししようとしました。", exampleKorean: "케-카쿠오 소시시요-토 시마시타", exampleMeaning: "계획을 저지하려고 했습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N1", kanji: "制止", reading: "せいし", korean: "세-시", meaning: "제지",
+    example: "危険な行動を制止しました。", exampleReading: "きけんなこうどうをせいししました。", exampleKorean: "키켄나 코-도-오 세-시 시마시타", exampleMeaning: "위험한 행동을 제지했습니다.",
+    breakdown: [
+      { word: "危険な行動", reading: "きけんなこうどう", meaning: "위험한 행동" }
+    ] },
+  { level: "N1", kanji: "抑止", reading: "よくし", korean: "요쿠시", meaning: "억지",
+    example: "犯罪を抑止する効果があります。", exampleReading: "はんざいをよくしするこうかがあります。", exampleKorean: "한자이오 요쿠시스루 코-카가 아리마스", exampleMeaning: "범죄를 억지하는 효과가 있습니다.",
+    breakdown: [
+      { word: "犯罪", reading: "はんざい", meaning: "범죄" }
+    ] },
+  { level: "N1", kanji: "牽制", reading: "けんせい", korean: "켄세-", meaning: "견제",
+    example: "相手チームを牽制します。", exampleReading: "あいてチームをけんせいします。", exampleKorean: "아이테 치-무오 켄세- 시마스", exampleMeaning: "상대 팀을 견제합니다.",
+    breakdown: [
+      { word: "相手チーム", reading: "あいてチーム", meaning: "상대 팀" }
+    ] },
 ];
