@@ -5916,6 +5916,157 @@ const VOCAB = [
       { word: "にすぎません", reading: "にすぎません", meaning: "~에 불과합니다" }
     ] },
 
+  { level: "N2", kanji: "控える", reading: "ひかえる", korean: "히카에루", meaning: "삼가다, 대기하다",
+    example: "塩分を控えるようにしています。", exampleReading: "えんぶんをひかえるようにしています。", exampleKorean: "엔붕오 히카에루 요-니 시테이마스", exampleMeaning: "염분을 삼가도록 하고 있습니다.",
+    breakdown: [
+      { word: "塩分", reading: "えんぶん", meaning: "염분" }
+    ] },
+  { level: "N2", kanji: "配慮", reading: "はいりょ", korean: "하이료", meaning: "배려",
+    example: "相手への配慮が大切です。", exampleReading: "あいてへのはいりょがたいせつです。", exampleKorean: "아이테에노 하이료가 타이세츠데스", exampleMeaning: "상대에 대한 배려가 중요합니다.",
+    breakdown: [
+      { word: "相手への", reading: "あいてへの", meaning: "상대에 대한" }
+    ] },
+  { level: "N2", kanji: "気遣い", reading: "きづかい", korean: "키즈카이", meaning: "배려, 신경씀",
+    example: "彼女の気遣いに感謝しています。", exampleReading: "かのじょのきづかいにかんしゃしています。", exampleKorean: "카노죠노 키즈카이니 칸샤 시테이마스", exampleMeaning: "그녀의 배려에 감사하고 있습니다.",
+    breakdown: [
+      { word: "感謝しています", reading: "かんしゃしています", meaning: "감사하고 있습니다" }
+    ] },
+  { level: "N2", kanji: "心遣い", reading: "こころづかい", korean: "코코로즈카이", meaning: "배려",
+    example: "温かい心遣いをありがとう。", exampleReading: "あたたかいこころづかいをありがとう。", exampleKorean: "아타타카이 코코로즈카이오 아리가토-", exampleMeaning: "따뜻한 배려 감사합니다.",
+    breakdown: [
+      { word: "温かい", reading: "あたたかい", meaning: "따뜻하다" }
+    ] },
+  { level: "N2", kanji: "手軽", reading: "てがる", korean: "테가루", meaning: "간편함",
+    example: "手軽に作れる料理を紹介します。", exampleReading: "てがるにつくれるりょうりをしょうかいします。", exampleKorean: "테가루니 츠쿠레루 료-리오 쇼-카이 시마스", exampleMeaning: "간편하게 만들 수 있는 요리를 소개합니다.",
+    breakdown: [
+      { word: "紹介します", reading: "しょうかいします", meaning: "소개합니다" }
+    ] },
+  { level: "N2", kanji: "気軽", reading: "きがる", korean: "키가루", meaning: "부담없음",
+    example: "気軽に相談してください。", exampleReading: "きがるにそうだんしてください。", exampleKorean: "키가루니 소-단 시테쿠다사이", exampleMeaning: "부담없이 상담해 주세요.",
+    breakdown: [
+      { word: "相談してください", reading: "そうだんしてください", meaning: "상담해 주세요" }
+    ] },
+  { level: "N2", kanji: "率直", reading: "そっちょく", korean: "솟쵸쿠", meaning: "솔직",
+    example: "率直な意見を聞かせてください。", exampleReading: "そっちょくないけんをきかせてください。", exampleKorean: "솟쵸쿠나 이켄오 키카세테쿠다사이", exampleMeaning: "솔직한 의견을 들려주세요.",
+    breakdown: [
+      { word: "意見", reading: "いけん", meaning: "의견" }
+    ] },
+  { level: "N2", kanji: "素朴", reading: "そぼく", korean: "소보쿠", meaning: "소박",
+    example: "素朴な疑問があります。", exampleReading: "そぼくなぎもんがあります。", exampleKorean: "소보쿠나 기몬가 아리마스", exampleMeaning: "소박한 의문이 있습니다.",
+    breakdown: [
+      { word: "疑問", reading: "ぎもん", meaning: "의문" }
+    ] },
+  { level: "N2", kanji: "淡々と", reading: "たんたんと", korean: "탄탄토", meaning: "담담하게",
+    example: "彼は淡々と話しました。", exampleReading: "かれはたんたんとはなしました。", exampleKorean: "카레와 탄탄토 하나시마시타", exampleMeaning: "그는 담담하게 말했습니다.",
+    breakdown: [
+      { word: "話しました", reading: "はなしました", meaning: "말했습니다" }
+    ] },
+  { level: "N2", kanji: "着実", reading: "ちゃくじつ", korean: "챠쿠지츠", meaning: "착실",
+    example: "着実に成果を上げています。", exampleReading: "ちゃくじつにせいかをあげています。", exampleKorean: "챠쿠지츠니 세-카오 아게테이마스", exampleMeaning: "착실하게 성과를 올리고 있습니다.",
+    breakdown: [
+      { word: "成果", reading: "せいか", meaning: "성과" }
+    ] },
+  { level: "N2", kanji: "地道", reading: "じみち", korean: "지미치", meaning: "꾸준함, 착실함",
+    example: "地道な努力が実を結びました。", exampleReading: "じみちなどりょくがみをむすびました。", exampleKorean: "지미치나 도료쿠가 미오 무스비마시타", exampleMeaning: "꾸준한 노력이 결실을 맺었습니다.",
+    breakdown: [
+      { word: "実を結びました", reading: "みをむすびました", meaning: "결실을 맺었습니다" }
+    ] },
+  { level: "N2", kanji: "大まか", reading: "おおまか", korean: "오-마카", meaning: "대략적임",
+    example: "大まかな計画を立てました。", exampleReading: "おおまかなけいかくをたてました。", exampleKorean: "오-마카나 케-카쿠오 타테마시타", exampleMeaning: "대략적인 계획을 세웠습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N2", kanji: "大幅", reading: "おおはば", korean: "오-하바", meaning: "대폭",
+    example: "価格が大幅に下がりました。", exampleReading: "かかくがおおはばにさがりました。", exampleKorean: "카카쿠가 오-하바니 사가리마시타", exampleMeaning: "가격이 대폭 내려갔습니다.",
+    breakdown: [
+      { word: "下がりました", reading: "さがりました", meaning: "내려갔습니다" }
+    ] },
+  { level: "N2", kanji: "微妙", reading: "びみょう", korean: "비묘-", meaning: "미묘",
+    example: "微妙な違いがあります。", exampleReading: "びみょうなちがいがあります。", exampleKorean: "비묘-나 치가이가 아리마스", exampleMeaning: "미묘한 차이가 있습니다.",
+    breakdown: [
+      { word: "違い", reading: "ちがい", meaning: "차이" }
+    ] },
+  { level: "N2", kanji: "微か", reading: "かすか", korean: "카스카", meaning: "희미함",
+    example: "微かな音が聞こえました。", exampleReading: "かすかなおとがきこえました。", exampleKorean: "카스카나 오토가 키코에마시타", exampleMeaning: "희미한 소리가 들렸습니다.",
+    breakdown: [
+      { word: "音", reading: "おと", meaning: "소리" }
+    ] },
+  { level: "N2", kanji: "わずか", reading: "わずか", korean: "와즈카", meaning: "약간, 근소함",
+    example: "わずかな差で負けました。", exampleReading: "わずかなさでまけました。", exampleKorean: "와즈카나 사데 마케마시타", exampleMeaning: "근소한 차이로 졌습니다.",
+    breakdown: [
+      { word: "負けました", reading: "まけました", meaning: "졌습니다" }
+    ] },
+  { level: "N2", kanji: "若干", reading: "じゃっかん", korean: "작칸", meaning: "약간",
+    example: "予定より若干遅れています。", exampleReading: "よていよりじゃっかんおくれています。", exampleKorean: "요테-요리 작칸 오쿠레테이마스", exampleMeaning: "예정보다 약간 늦어지고 있습니다.",
+    breakdown: [
+      { word: "予定より", reading: "よていより", meaning: "예정보다" }
+    ] },
+  { level: "N2", kanji: "概ね", reading: "おおむね", korean: "오-무네", meaning: "대체로",
+    example: "計画は概ね順調です。", exampleReading: "けいかくはおおむねじゅんちょうです。", exampleKorean: "케-카쿠와 오-무네 쥰쵸-데스", exampleMeaning: "계획은 대체로 순조롭습니다.",
+    breakdown: [
+      { word: "順調です", reading: "じゅんちょうです", meaning: "순조롭습니다" }
+    ] },
+  { level: "N2", kanji: "おおよそ", reading: "おおよそ", korean: "오-요소", meaning: "대략",
+    example: "おおよその予算を計算しました。", exampleReading: "おおよそのよさんをけいさんしました。", exampleKorean: "오-요소노 요상오 케-산 시마시타", exampleMeaning: "대략적인 예산을 계산했습니다.",
+    breakdown: [
+      { word: "予算", reading: "よさん", meaning: "예산" }
+    ] },
+  { level: "N2", kanji: "依然", reading: "いぜん", korean: "이젠", meaning: "여전",
+    example: "状況は依然として厳しいです。", exampleReading: "じょうきょうはいぜんとしてきびしいです。", exampleKorean: "죠-쿄-와 이젠토시테 키비시-데스", exampleMeaning: "상황은 여전히 어렵습니다.",
+    breakdown: [
+      { word: "状況", reading: "じょうきょう", meaning: "상황" }
+    ] },
+  { level: "N2", kanji: "相変わらず", reading: "あいかわらず", korean: "아이카와라즈", meaning: "여전히",
+    example: "彼は相変わらず元気です。", exampleReading: "かれはあいかわらずげんきです。", exampleKorean: "카레와 아이카와라즈 겐키데스", exampleMeaning: "그는 여전히 건강합니다.",
+    breakdown: [
+      { word: "元気です", reading: "げんきです", meaning: "건강합니다" }
+    ] },
+  { level: "N2", kanji: "引き続き", reading: "ひきつづき", korean: "히키츠즈키", meaning: "계속해서",
+    example: "引き続きご協力をお願いします。", exampleReading: "ひきつづきごきょうりょくをおねがいします。", exampleKorean: "히키츠즈키 고쿄-료쿠오 오네가이시마스", exampleMeaning: "계속해서 협력 부탁드립니다.",
+    breakdown: [
+      { word: "ご協力", reading: "ごきょうりょく", meaning: "협력" }
+    ] },
+  { level: "N2", kanji: "一連", reading: "いちれん", korean: "이치렌", meaning: "일련",
+    example: "一連の事件が起きました。", exampleReading: "いちれんのじけんがおきました。", exampleKorean: "이치렌노 지켄가 오키마시타", exampleMeaning: "일련의 사건이 일어났습니다.",
+    breakdown: [
+      { word: "事件", reading: "じけん", meaning: "사건" }
+    ] },
+  { level: "N2", kanji: "一律", reading: "いちりつ", korean: "이치리츠", meaning: "일률적",
+    example: "一律に料金を値上げしました。", exampleReading: "いちりつにりょうきんをねあげしました。", exampleKorean: "이치리츠니 료-킹오 네아게 시마시타", exampleMeaning: "일률적으로 요금을 인상했습니다.",
+    breakdown: [
+      { word: "料金", reading: "りょうきん", meaning: "요금" }
+    ] },
+  { level: "N2", kanji: "画一的", reading: "かくいつてき", korean: "카쿠이츠테키", meaning: "획일적",
+    example: "画一的な教育を見直すべきです。", exampleReading: "かくいつてきなきょういくをみなおすべきです。", exampleKorean: "카쿠이츠테키나 쿄-이쿠오 미나오스베키데스", exampleMeaning: "획일적인 교육을 재검토해야 합니다.",
+    breakdown: [
+      { word: "教育", reading: "きょういく", meaning: "교육" }
+    ] },
+  { level: "N2", kanji: "統一", reading: "とういつ", korean: "토-이츠", meaning: "통일",
+    example: "表記を統一してください。", exampleReading: "ひょうきをとういつしてください。", exampleKorean: "효-키오 토-이츠 시테쿠다사이", exampleMeaning: "표기를 통일해 주세요.",
+    breakdown: [
+      { word: "表記", reading: "ひょうき", meaning: "표기" }
+    ] },
+  { level: "N2", kanji: "統制", reading: "とうせい", korean: "토-세-", meaning: "통제",
+    example: "情報を統制することは難しいです。", exampleReading: "じょうほうをとうせいすることはむずかしいです。", exampleKorean: "죠-호-오 토-세- 스루 코토와 무즈카시-데스", exampleMeaning: "정보를 통제하는 것은 어렵습니다.",
+    breakdown: [
+      { word: "情報", reading: "じょうほう", meaning: "정보" }
+    ] },
+  { level: "N2", kanji: "規制", reading: "きせい", korean: "키세-", meaning: "규제",
+    example: "新しい規制が導入されました。", exampleReading: "あたらしいきせいがどうにゅうされました。", exampleKorean: "아타라시- 키세-가 도-뉴- 사레마시타", exampleMeaning: "새로운 규제가 도입되었습니다.",
+    breakdown: [
+      { word: "導入されました", reading: "どうにゅうされました", meaning: "도입되었습니다" }
+    ] },
+  { level: "N2", kanji: "制約", reading: "せいやく", korean: "세-야쿠", meaning: "제약",
+    example: "時間の制約があります。", exampleReading: "じかんのせいやくがあります。", exampleKorean: "지칸노 세-야쿠가 아리마스", exampleMeaning: "시간의 제약이 있습니다.",
+    breakdown: [
+      { word: "時間", reading: "じかん", meaning: "시간" }
+    ] },
+  { level: "N2", kanji: "調整", reading: "ちょうせい", korean: "쵸-세-", meaning: "조정",
+    example: "スケジュールを調整します。", exampleReading: "スケジュールをちょうせいします。", exampleKorean: "스케쥬-루오 쵸-세- 시마스", exampleMeaning: "스케줄을 조정합니다.",
+    breakdown: [
+      { word: "スケジュール", reading: "スケジュール", meaning: "스케줄" }
+    ] },
+
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
     example: "混乱がようやく収束しました。", exampleReading: "こんらんがようやくしゅうそくしました。", exampleKorean: "콘랑가 요-야쿠 슈-소쿠 시마시타", exampleMeaning: "혼란이 마침내 수습되었습니다.",
