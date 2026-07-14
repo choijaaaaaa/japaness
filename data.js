@@ -3297,6 +3297,257 @@ const VOCAB = [
       { word: "言う通り", reading: "いうとおり", meaning: "말한 대로" }
     ] },
 
+  { level: "N4", kanji: "伝える", reading: "つたえる", korean: "츠타에루", meaning: "전달하다",
+    example: "彼にメッセージを伝えました。", exampleReading: "かれにメッセージをつたえました。", exampleKorean: "카레니 멧세-지오 츠타에마시타", exampleMeaning: "그에게 메시지를 전달했습니다.",
+    breakdown: [
+      { word: "メッセージ", reading: "メッセージ", meaning: "메시지" }
+    ] },
+  { level: "N4", kanji: "届ける", reading: "とどける", korean: "토도케루", meaning: "보내다, 전달하다",
+    example: "荷物を届けてもらいました。", exampleReading: "にもつをとどけてもらいました。", exampleKorean: "니모츠오 토도케테모라이마시타", exampleMeaning: "짐을 배달받았습니다.",
+    breakdown: [
+      { word: "てもらいました", reading: "てもらいました", meaning: "~해 받았습니다" }
+    ] },
+  { level: "N4", kanji: "配る", reading: "くばる", korean: "쿠바루", meaning: "나누어주다, 배포하다",
+    example: "プリントを配ります。", exampleReading: "プリントをくばります。", exampleKorean: "프린토오 쿠바리마스", exampleMeaning: "프린트를 나누어줍니다.",
+    breakdown: [
+      { word: "プリント", reading: "プリント", meaning: "프린트, 인쇄물" }
+    ] },
+  { level: "N4", kanji: "包む", reading: "つつむ", korean: "츠츠무", meaning: "싸다, 포장하다",
+    example: "プレゼントをきれいに包みました。", exampleReading: "プレゼントをきれいにつつみました。", exampleKorean: "프레젠토오 키레-니 츠츠미마시타", exampleMeaning: "선물을 예쁘게 포장했습니다.",
+    breakdown: [
+      { word: "きれいに", reading: "きれいに", meaning: "예쁘게" }
+    ] },
+  { level: "N4", kanji: "詰める", reading: "つめる", korean: "츠메루", meaning: "채우다, 담다",
+    example: "かばんに荷物を詰めます。", exampleReading: "かばんににもつをつめます。", exampleKorean: "카방니 니모츠오 츠메마스", exampleMeaning: "가방에 짐을 담습니다.",
+    breakdown: [
+      { word: "かばん", reading: "かばん", meaning: "가방" }
+    ] },
+  { level: "N4", kanji: "並べる", reading: "ならべる", korean: "나라베루", meaning: "나란히 놓다",
+    example: "本を棚に並べました。", exampleReading: "ほんをたなにならべました。", exampleKorean: "홍오 타나니 나라베마시타", exampleMeaning: "책을 선반에 나란히 놓았습니다.",
+    breakdown: [
+      { word: "棚", reading: "たな", meaning: "선반" }
+    ] },
+  { level: "N4", kanji: "重ねる", reading: "かさねる", korean: "카사네루", meaning: "겹치다, 포개다",
+    example: "皿を重ねて置きます。", exampleReading: "さらをかさねておきます。", exampleKorean: "사라오 카사네테 오키마스", exampleMeaning: "접시를 겹쳐서 둡니다.",
+    breakdown: [
+      { word: "皿", reading: "さら", meaning: "접시" }
+    ] },
+  { level: "N4", kanji: "曲げる", reading: "まげる", korean: "마게루", meaning: "구부리다",
+    example: "膝を曲げてください。", exampleReading: "ひざをまげてください。", exampleKorean: "히자오 마게테쿠다사이", exampleMeaning: "무릎을 구부려 주세요.",
+    breakdown: [
+      { word: "膝", reading: "ひざ", meaning: "무릎" }
+    ] },
+  { level: "N4", kanji: "伸ばす", reading: "のばす", korean: "노바스", meaning: "늘리다, 뻗다",
+    example: "手を伸ばして取りました。", exampleReading: "てをのばしてとりました。", exampleKorean: "테오 노바시테 토리마시타", exampleMeaning: "손을 뻗어서 잡았습니다.",
+    breakdown: [
+      { word: "取りました", reading: "とりました", meaning: "잡았습니다" }
+    ] },
+  { level: "N4", kanji: "縮む", reading: "ちぢむ", korean: "치지무", meaning: "줄어들다",
+    example: "洗濯したらシャツが縮みました。", exampleReading: "せんたくしたらシャツがちぢみました。", exampleKorean: "센타쿠시타라 샤츠가 치지미마시타", exampleMeaning: "세탁했더니 셔츠가 줄어들었습니다.",
+    breakdown: [
+      { word: "洗濯したら", reading: "せんたくしたら", meaning: "세탁했더니" }
+    ] },
+  { level: "N4", kanji: "安心", reading: "あんしん", korean: "안신", meaning: "안심",
+    example: "結果を聞いて安心しました。", exampleReading: "けっかをきいてあんしんしました。", exampleKorean: "켁카오 키이테 안신 시마시타", exampleMeaning: "결과를 듣고 안심했습니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N4", kanji: "不安", reading: "ふあん", korean: "후안", meaning: "불안",
+    example: "将来に不安を感じます。", exampleReading: "しょうらいにふあんをかんじます。", exampleKorean: "쇼-라이니 후앙오 칸지마스", exampleMeaning: "장래에 불안을 느낍니다.",
+    breakdown: [
+      { word: "将来", reading: "しょうらい", meaning: "장래" }
+    ] },
+  { level: "N4", kanji: "幸せ", reading: "しあわせ", korean: "시아와세", meaning: "행복",
+    example: "家族と一緒にいると幸せです。", exampleReading: "かぞくといっしょにいるとしあわせです。", exampleKorean: "카조쿠토 잇쇼니 이루토 시아와세데스", exampleMeaning: "가족과 함께 있으면 행복합니다.",
+    breakdown: [
+      { word: "家族と一緒に", reading: "かぞくといっしょに", meaning: "가족과 함께" }
+    ] },
+  { level: "N4", kanji: "不幸", reading: "ふこう", korean: "후코-", meaning: "불행",
+    example: "不幸な出来事が続きました。", exampleReading: "ふこうなできごとがつづきました。", exampleKorean: "후코-나 데키고토가 츠즈키마시타", exampleMeaning: "불행한 일이 계속되었습니다.",
+    breakdown: [
+      { word: "出来事", reading: "できごと", meaning: "일, 사건" }
+    ] },
+  { level: "N4", kanji: "愛", reading: "あい", korean: "아이", meaning: "사랑",
+    example: "家族への愛を感じます。", exampleReading: "かぞくへのあいをかんじます。", exampleKorean: "카조쿠에노 아이오 칸지마스", exampleMeaning: "가족에 대한 사랑을 느낍니다.",
+    breakdown: [
+      { word: "家族への", reading: "かぞくへの", meaning: "가족에 대한" }
+    ] },
+  { level: "N4", kanji: "恋", reading: "こい", korean: "코이", meaning: "사랑, 연애",
+    example: "彼女に恋をしています。", exampleReading: "かのじょにこいをしています。", exampleKorean: "카노죠니 코이오 시테이마스", exampleMeaning: "그녀를 사랑하고 있습니다.",
+    breakdown: [
+      { word: "彼女に", reading: "かのじょに", meaning: "그녀에게" }
+    ] },
+  { level: "N4", kanji: "友情", reading: "ゆうじょう", korean: "유-죠-", meaning: "우정",
+    example: "二人の友情は続いています。", exampleReading: "ふたりのゆうじょうはつづいています。", exampleKorean: "후타리노 유-죠-와 츠즈이테이마스", exampleMeaning: "두 사람의 우정은 계속되고 있습니다.",
+    breakdown: [
+      { word: "続いています", reading: "つづいています", meaning: "계속되고 있습니다" }
+    ] },
+  { level: "N4", kanji: "性別", reading: "せいべつ", korean: "세-베츠", meaning: "성별",
+    example: "性別に関係なく応募できます。", exampleReading: "せいべつにかんけいなくおうぼできます。", exampleKorean: "세-베츠니 칸케-나쿠 오-보 데키마스", exampleMeaning: "성별에 관계없이 응모할 수 있습니다.",
+    breakdown: [
+      { word: "関係なく", reading: "かんけいなく", meaning: "관계없이" }
+    ] },
+  { level: "N4", kanji: "年齢", reading: "ねんれい", korean: "넨레-", meaning: "연령",
+    example: "年齢を教えてください。", exampleReading: "ねんれいをおしえてください。", exampleKorean: "넨레-오 오시에테쿠다사이", exampleMeaning: "나이를 알려 주세요.",
+    breakdown: [
+      { word: "教えてください", reading: "おしえてください", meaning: "알려 주세요" }
+    ] },
+  { level: "N4", kanji: "身長", reading: "しんちょう", korean: "신쵸-", meaning: "키, 신장",
+    example: "身長を測りました。", exampleReading: "しんちょうをはかりました。", exampleKorean: "신쵸-오 하카리마시타", exampleMeaning: "키를 쟀습니다.",
+    breakdown: [
+      { word: "測りました", reading: "はかりました", meaning: "쟀습니다" }
+    ] },
+  { level: "N4", kanji: "体重", reading: "たいじゅう", korean: "타이쥬-", meaning: "체중",
+    example: "毎朝、体重を量ります。", exampleReading: "まいあさ、たいじゅうをはかります。", exampleKorean: "마이아사 타이쥬-오 하카리마스", exampleMeaning: "매일 아침 체중을 잽니다.",
+    breakdown: [
+      { word: "量ります", reading: "はかります", meaning: "잽니다" }
+    ] },
+  { level: "N4", kanji: "ソファ", reading: "ソファ", korean: "소파", meaning: "소파",
+    example: "ソファでテレビを見ます。", exampleReading: "ソファでテレビをみます。", exampleKorean: "소파데 테레비오 미마스", exampleMeaning: "소파에서 텔레비전을 봅니다.",
+    breakdown: [
+      { word: "テレビ", reading: "テレビ", meaning: "텔레비전" }
+    ] },
+  { level: "N4", kanji: "テーブル", reading: "テーブル", korean: "테-부루", meaning: "테이블",
+    example: "テーブルの上に花があります。", exampleReading: "テーブルのうえにはながあります。", exampleKorean: "테-부루노 우에니 하나가 아리마스", exampleMeaning: "테이블 위에 꽃이 있습니다.",
+    breakdown: [
+      { word: "花", reading: "はな", meaning: "꽃" }
+    ] },
+  { level: "N4", kanji: "棚", reading: "たな", korean: "타나", meaning: "선반",
+    example: "棚から本を取りました。", exampleReading: "たなからほんをとりました。", exampleKorean: "타나카라 홍오 토리마시타", exampleMeaning: "선반에서 책을 꺼냈습니다.",
+    breakdown: [
+      { word: "取りました", reading: "とりました", meaning: "꺼냈습니다" }
+    ] },
+  { level: "N4", kanji: "ロッカー", reading: "ロッカー", korean: "록카-", meaning: "로커",
+    example: "荷物をロッカーに入れました。", exampleReading: "にもつをロッカーにいれました。", exampleKorean: "니모츠오 록카-니 이레마시타", exampleMeaning: "짐을 로커에 넣었습니다.",
+    breakdown: [
+      { word: "入れました", reading: "いれました", meaning: "넣었습니다" }
+    ] },
+  { level: "N4", kanji: "布団", reading: "ふとん", korean: "후통", meaning: "이불",
+    example: "布団を干しました。", exampleReading: "ふとんをほしました。", exampleKorean: "후통오 호시마시타", exampleMeaning: "이불을 널었습니다.",
+    breakdown: [
+      { word: "干しました", reading: "ほしました", meaning: "널었습니다" }
+    ] },
+  { level: "N4", kanji: "枕", reading: "まくら", korean: "마쿠라", meaning: "베개",
+    example: "新しい枕を買いました。", exampleReading: "あたらしいまくらをかいました。", exampleKorean: "아타라시- 마쿠라오 카이마시타", exampleMeaning: "새 베개를 샀습니다.",
+    breakdown: [
+      { word: "新しい", reading: "あたらしい", meaning: "새롭다" }
+    ] },
+  { level: "N4", kanji: "カーテン", reading: "カーテン", korean: "카-텐", meaning: "커튼",
+    example: "カーテンを閉めます。", exampleReading: "カーテンをしめます。", exampleKorean: "카-텐오 시메마스", exampleMeaning: "커튼을 닫습니다.",
+    breakdown: [
+      { word: "閉めます", reading: "しめます", meaning: "닫습니다" }
+    ] },
+  { level: "N4", kanji: "玄関", reading: "げんかん", korean: "겐칸", meaning: "현관",
+    example: "玄関で靴を脱ぎます。", exampleReading: "げんかんでくつをぬぎます。", exampleKorean: "겐칸데 쿠츠오 누기마스", exampleMeaning: "현관에서 신발을 벗습니다.",
+    breakdown: [
+      { word: "脱ぎます", reading: "ぬぎます", meaning: "벗습니다" }
+    ] },
+  { level: "N4", kanji: "出勤", reading: "しゅっきん", korean: "슉킨", meaning: "출근",
+    example: "九時に出勤します。", exampleReading: "くじにしゅっきんします。", exampleKorean: "쿠지니 슉킨 시마스", exampleMeaning: "9시에 출근합니다.",
+    breakdown: [
+      { word: "九時に", reading: "くじに", meaning: "9시에" }
+    ] },
+  { level: "N4", kanji: "退勤", reading: "たいきん", korean: "타이킨", meaning: "퇴근",
+    example: "六時に退勤します。", exampleReading: "ろくじにたいきんします。", exampleKorean: "로쿠지니 타이킨 시마스", exampleMeaning: "6시에 퇴근합니다.",
+    breakdown: [
+      { word: "六時に", reading: "ろくじに", meaning: "6시에" }
+    ] },
+  { level: "N4", kanji: "通勤", reading: "つうきん", korean: "츠-킨", meaning: "통근",
+    example: "電車で通勤しています。", exampleReading: "でんしゃでつうきんしています。", exampleKorean: "덴샤데 츠-킨 시테이마스", exampleMeaning: "전철로 통근하고 있습니다.",
+    breakdown: [
+      { word: "電車で", reading: "でんしゃで", meaning: "전철로" }
+    ] },
+  { level: "N4", kanji: "勤務", reading: "きんむ", korean: "킨무", meaning: "근무",
+    example: "平日は勤務しています。", exampleReading: "へいじつはきんむしています。", exampleKorean: "헤-지츠와 킨무 시테이마스", exampleMeaning: "평일은 근무하고 있습니다.",
+    breakdown: [
+      { word: "平日は", reading: "へいじつは", meaning: "평일은" }
+    ] },
+  { level: "N4", kanji: "出社", reading: "しゅっしゃ", korean: "슛샤", meaning: "출근 (회사)",
+    example: "早めに出社しました。", exampleReading: "はやめにしゅっしゃしました。", exampleKorean: "하야메니 슛샤 시마시타", exampleMeaning: "일찍 출근했습니다.",
+    breakdown: [
+      { word: "早めに", reading: "はやめに", meaning: "일찍" }
+    ] },
+  { level: "N4", kanji: "退社", reading: "たいしゃ", korean: "타이샤", meaning: "퇴근, 퇴사",
+    example: "五年前に退社しました。", exampleReading: "ごねんまえにたいしゃしました。", exampleKorean: "고넨마에니 타이샤 시마시타", exampleMeaning: "5년 전에 퇴사했습니다.",
+    breakdown: [
+      { word: "五年前に", reading: "ごねんまえに", meaning: "5년 전에" }
+    ] },
+  { level: "N4", kanji: "休暇", reading: "きゅうか", korean: "큐-카", meaning: "휴가",
+    example: "来週、休暇を取ります。", exampleReading: "らいしゅう、きゅうかをとります。", exampleKorean: "라이슈- 큐-카오 토리마스", exampleMeaning: "다음 주 휴가를 냅니다.",
+    breakdown: [
+      { word: "取ります", reading: "とります", meaning: "냅니다 (휴가를 취합니다)" }
+    ] },
+  { level: "N4", kanji: "定時", reading: "ていじ", korean: "테-지", meaning: "정시",
+    example: "今日は定時に帰ります。", exampleReading: "きょうはていじにかえります。", exampleKorean: "쿄-와 테-지니 카에리마스", exampleMeaning: "오늘은 정시에 돌아갑니다.",
+    breakdown: [
+      { word: "帰ります", reading: "かえります", meaning: "돌아갑니다" }
+    ] },
+  { level: "N4", kanji: "早退", reading: "そうたい", korean: "소-타이", meaning: "조퇴",
+    example: "気分が悪くて早退しました。", exampleReading: "きぶんがわるくてそうたいしました。", exampleKorean: "키붕가 와루쿠테 소-타이 시마시타", exampleMeaning: "컨디션이 안 좋아서 조퇴했습니다.",
+    breakdown: [
+      { word: "気分が悪くて", reading: "きぶんがわるくて", meaning: "컨디션이 안 좋아서" }
+    ] },
+  { level: "N4", kanji: "欠勤", reading: "けっきん", korean: "켁킨", meaning: "결근",
+    example: "病気で欠勤しました。", exampleReading: "びょうきでけっきんしました。", exampleKorean: "뵤-키데 켁킨 시마시타", exampleMeaning: "병으로 결근했습니다.",
+    breakdown: [
+      { word: "病気で", reading: "びょうきで", meaning: "병으로" }
+    ] },
+  { level: "N4", kanji: "ボーナス", reading: "ボーナス", korean: "보-나스", meaning: "보너스",
+    example: "冬にボーナスが出ます。", exampleReading: "ふゆにボーナスがでます。", exampleKorean: "후유니 보-나스가 데마스", exampleMeaning: "겨울에 보너스가 나옵니다.",
+    breakdown: [
+      { word: "出ます", reading: "でます", meaning: "나옵니다" }
+    ] },
+  { level: "N4", kanji: "昇格", reading: "しょうかく", korean: "쇼-카쿠", meaning: "승격",
+    example: "部長に昇格しました。", exampleReading: "ぶちょうにしょうかくしました。", exampleKorean: "부쵸-니 쇼-카쿠 시마시타", exampleMeaning: "부장으로 승격했습니다.",
+    breakdown: [
+      { word: "部長", reading: "ぶちょう", meaning: "부장" }
+    ] },
+  { level: "N4", kanji: "降格", reading: "こうかく", korean: "코-카쿠", meaning: "강등",
+    example: "彼は降格されました。", exampleReading: "かれはこうかくされました。", exampleKorean: "카레와 코-카쿠 사레마시타", exampleMeaning: "그는 강등되었습니다.",
+    breakdown: [
+      { word: "彼は", reading: "かれは", meaning: "그는" }
+    ] },
+  { level: "N4", kanji: "異動", reading: "いどう", korean: "이도-", meaning: "인사이동",
+    example: "来月、異動になりました。", exampleReading: "らいげつ、いどうになりました。", exampleKorean: "라이게츠 이도-니 나리마시타", exampleMeaning: "다음 달 인사이동이 되었습니다.",
+    breakdown: [
+      { word: "来月", reading: "らいげつ", meaning: "다음 달" }
+    ] },
+  { level: "N4", kanji: "配属", reading: "はいぞく", korean: "하이조쿠", meaning: "배속",
+    example: "営業部に配属されました。", exampleReading: "えいぎょうぶにはいぞくされました。", exampleKorean: "에-교-부니 하이조쿠 사레마시타", exampleMeaning: "영업부에 배속되었습니다.",
+    breakdown: [
+      { word: "営業部", reading: "えいぎょうぶ", meaning: "영업부" }
+    ] },
+  { level: "N4", kanji: "出向", reading: "しゅっこう", korean: "슉코-", meaning: "파견, 전출",
+    example: "子会社に出向しています。", exampleReading: "こがいしゃにしゅっこうしています。", exampleKorean: "코가이샤니 슉코- 시테이마스", exampleMeaning: "자회사에 파견 중입니다.",
+    breakdown: [
+      { word: "子会社", reading: "こがいしゃ", meaning: "자회사" }
+    ] },
+  { level: "N4", kanji: "転勤", reading: "てんきん", korean: "텐킨", meaning: "전근",
+    example: "大阪に転勤することになりました。", exampleReading: "おおさかにてんきんすることになりました。", exampleKorean: "오-사카니 텐킨스루 코토니 나리마시타", exampleMeaning: "오사카로 전근가게 되었습니다.",
+    breakdown: [
+      { word: "大阪に", reading: "おおさかに", meaning: "오사카로" }
+    ] },
+  { level: "N4", kanji: "赴任", reading: "ふにん", korean: "후닌", meaning: "부임",
+    example: "海外に赴任します。", exampleReading: "かいがいにふにんします。", exampleKorean: "카이가이니 후닌 시마스", exampleMeaning: "해외로 부임합니다.",
+    breakdown: [
+      { word: "海外に", reading: "かいがいに", meaning: "해외로" }
+    ] },
+  { level: "N4", kanji: "引き継ぐ", reading: "ひきつぐ", korean: "히키츠구", meaning: "인계하다",
+    example: "仕事を後任に引き継ぎました。", exampleReading: "しごとをこうにんにひきつぎました。", exampleKorean: "시고토오 코-닌니 히키츠기마시타", exampleMeaning: "일을 후임에게 인계했습니다.",
+    breakdown: [
+      { word: "後任", reading: "こうにん", meaning: "후임" }
+    ] },
+  { level: "N4", kanji: "引き受ける", reading: "ひきうける", korean: "히키우케루", meaning: "맡다, 인수하다",
+    example: "その仕事を引き受けました。", exampleReading: "そのしごとをひきうけました。", exampleKorean: "소노 시고토오 히키우케마시타", exampleMeaning: "그 일을 맡았습니다.",
+    breakdown: [
+      { word: "仕事", reading: "しごと", meaning: "일" }
+    ] },
+  { level: "N4", kanji: "有給", reading: "ゆうきゅう", korean: "유-큐-", meaning: "유급휴가",
+    example: "有給を使って旅行します。", exampleReading: "ゆうきゅうをつかってりょこうします。", exampleKorean: "유-큐-오 츠캇테 료코- 시마스", exampleMeaning: "유급휴가를 써서 여행합니다.",
+    breakdown: [
+      { word: "使って", reading: "つかって", meaning: "써서" }
+    ] },
+
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
     example: "天気は体に影響を与えます。", exampleReading: "てんきはからだにえいきょうをあたえます。", exampleKorean: "텡키와 카라다니 에-쿄-오 아타에마스", exampleMeaning: "날씨는 몸에 영향을 줍니다.",
