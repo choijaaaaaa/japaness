@@ -6920,4 +6920,154 @@ const VOCAB = [
     breakdown: [
       { word: "相手チーム", reading: "あいてチーム", meaning: "상대 팀" }
     ] },
+  { level: "N1", kanji: "辛うじて", reading: "かろうじて", korean: "카로우지테", meaning: "간신히",
+    example: "辛うじて試験に合格しました。", exampleReading: "かろうじてしけんにごうかくしました。", exampleKorean: "카로우지테 시켄니 고-카쿠 시마시타", exampleMeaning: "간신히 시험에 합격했습니다.",
+    breakdown: [
+      { word: "試験", reading: "しけん", meaning: "시험" }
+    ] },
+  { level: "N1", kanji: "危うい", reading: "あやうい", korean: "아야우이", meaning: "위태롭다",
+    example: "会社の経営は危うい状態です。", exampleReading: "かいしゃのけいえいはあやういじょうたいです。", exampleKorean: "카이샤노 케-에-와 아야우이 죠-타이데스", exampleMeaning: "회사의 경영은 위태로운 상태입니다.",
+    breakdown: [
+      { word: "経営", reading: "けいえい", meaning: "경영" }
+    ] },
+  { level: "N1", kanji: "危うく", reading: "あやうく", korean: "아야우쿠", meaning: "하마터면",
+    example: "危うく事故に遭うところでした。", exampleReading: "あやうくじこにあうところでした。", exampleKorean: "아야우쿠 지코니 아우 토코로데시타", exampleMeaning: "하마터면 사고를 당할 뻔했습니다.",
+    breakdown: [
+      { word: "事故に遭う", reading: "じこにあう", meaning: "사고를 당하다" }
+    ] },
+  { level: "N1", kanji: "際どい", reading: "きわどい", korean: "키와도이", meaning: "아슬아슬하다",
+    example: "際どいところで間に合いました。", exampleReading: "きわどいところでまにあいました。", exampleKorean: "키와도이 토코로데 마니아이마시타", exampleMeaning: "아슬아슬하게 시간에 맞췄습니다.",
+    breakdown: [
+      { word: "間に合いました", reading: "まにあいました", meaning: "시간에 맞췄습니다" }
+    ] },
+  { level: "N1", kanji: "危惧", reading: "きぐ", korean: "키구", meaning: "우려, 걱정",
+    example: "将来を危惧する声があります。", exampleReading: "しょうらいをきぐするこえがあります。", exampleKorean: "쇼-라이오 키구스루 코에가 아리마스", exampleMeaning: "장래를 우려하는 목소리가 있습니다.",
+    breakdown: [
+      { word: "将来", reading: "しょうらい", meaning: "장래" }
+    ] },
+  { level: "N1", kanji: "懸案", reading: "けんあん", korean: "켄안", meaning: "현안",
+    example: "懸案の問題を解決します。", exampleReading: "けんあんのもんだいをかいけつします。", exampleKorean: "켄안노 몬다이오 카이케츠 시마스", exampleMeaning: "현안 문제를 해결합니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N1", kanji: "難航", reading: "なんこう", korean: "난코-", meaning: "난항",
+    example: "交渉が難航しています。", exampleReading: "こうしょうがなんこうしています。", exampleKorean: "코-쇼-가 난코- 시테이마스", exampleMeaning: "교섭이 난항을 겪고 있습니다.",
+    breakdown: [
+      { word: "交渉", reading: "こうしょう", meaning: "교섭" }
+    ] },
+  { level: "N1", kanji: "頓挫", reading: "とんざ", korean: "톤자", meaning: "좌절, 차질",
+    example: "計画が頓挫しました。", exampleReading: "けいかくがとんざしました。", exampleKorean: "케-카쿠가 톤자 시마시타", exampleMeaning: "계획이 좌절되었습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N1", kanji: "挫折", reading: "ざせつ", korean: "자세츠", meaning: "좌절",
+    example: "夢を挫折しそうになりました。", exampleReading: "ゆめをざせつしそうになりました。", exampleKorean: "유메오 자세츠시소-니 나리마시타", exampleMeaning: "꿈을 좌절할 뻔했습니다.",
+    breakdown: [
+      { word: "夢", reading: "ゆめ", meaning: "꿈" }
+    ] },
+  { level: "N1", kanji: "挫ける", reading: "くじける", korean: "쿠지케루", meaning: "꺾이다, 좌절하다",
+    example: "何度失敗しても挫けません。", exampleReading: "なんどしっぱいしてもくじけません。", exampleKorean: "난도 십파이시테모 쿠지케마셍", exampleMeaning: "몇 번 실패해도 꺾이지 않습니다.",
+    breakdown: [
+      { word: "何度", reading: "なんど", meaning: "몇 번" }
+    ] },
+  { level: "N1", kanji: "痛手", reading: "いたで", korean: "이타데", meaning: "타격, 상처",
+    example: "大きな痛手を受けました。", exampleReading: "おおきないたでをうけました。", exampleKorean: "오-키나 이타데오 우케마시타", exampleMeaning: "큰 타격을 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N1", kanji: "傷つく", reading: "きずつく", korean: "키즈츠쿠", meaning: "상처받다",
+    example: "彼の言葉に傷つきました。", exampleReading: "かれのことばにきずつきました。", exampleKorean: "카레노 코토바니 키즈츠키마시타", exampleMeaning: "그의 말에 상처받았습니다.",
+    breakdown: [
+      { word: "言葉", reading: "ことば", meaning: "말" }
+    ] },
+  { level: "N1", kanji: "傷つける", reading: "きずつける", korean: "키즈츠케루", meaning: "상처주다",
+    example: "人を傷つける言葉に気をつけます。", exampleReading: "ひとをきずつけることばにきをつけます。", exampleKorean: "히토오 키즈츠케루 코토바니 키오 츠케마스", exampleMeaning: "사람에게 상처주는 말을 조심합니다.",
+    breakdown: [
+      { word: "気をつけます", reading: "きをつけます", meaning: "조심합니다" }
+    ] },
+  { level: "N1", kanji: "癒す", reading: "いやす", korean: "이야스", meaning: "치유하다",
+    example: "音楽が心を癒します。", exampleReading: "おんがくがこころをいやします。", exampleKorean: "옹가쿠가 코코로오 이야시마스", exampleMeaning: "음악이 마음을 치유합니다.",
+    breakdown: [
+      { word: "心", reading: "こころ", meaning: "마음" }
+    ] },
+  { level: "N1", kanji: "和らげる", reading: "やわらげる", korean: "야와라게루", meaning: "완화하다",
+    example: "痛みを和らげる薬です。", exampleReading: "いたみをやわらげるくすりです。", exampleKorean: "이타미오 야와라게루 쿠스리데스", exampleMeaning: "통증을 완화하는 약입니다.",
+    breakdown: [
+      { word: "痛み", reading: "いたみ", meaning: "통증" }
+    ] },
+  { level: "N1", kanji: "和らぐ", reading: "やわらぐ", korean: "야와라구", meaning: "누그러지다",
+    example: "寒さが少し和らぎました。", exampleReading: "さむさがすこしやわらぎました。", exampleKorean: "사무사가 스코시 야와라기마시타", exampleMeaning: "추위가 조금 누그러졌습니다.",
+    breakdown: [
+      { word: "寒さ", reading: "さむさ", meaning: "추위" }
+    ] },
+  { level: "N1", kanji: "緩む", reading: "ゆるむ", korean: "유루무", meaning: "느슨해지다",
+    example: "ネジが緩んでいます。", exampleReading: "ネジがゆるんでいます。", exampleKorean: "네지가 유룬데이마스", exampleMeaning: "나사가 느슨해져 있습니다.",
+    breakdown: [
+      { word: "ネジ", reading: "ネジ", meaning: "나사" }
+    ] },
+  { level: "N1", kanji: "緩める", reading: "ゆるめる", korean: "유루메루", meaning: "느슨하게 하다",
+    example: "スピードを緩めてください。", exampleReading: "スピードをゆるめてください。", exampleKorean: "스피-도오 유루메테쿠다사이", exampleMeaning: "속도를 늦춰 주세요.",
+    breakdown: [
+      { word: "スピード", reading: "スピード", meaning: "속도" }
+    ] },
+  { level: "N1", kanji: "締結", reading: "ていけつ", korean: "테-케츠", meaning: "체결",
+    example: "契約を締結しました。", exampleReading: "けいやくをていけつしました。", exampleKorean: "케-야쿠오 테-케츠 시마시타", exampleMeaning: "계약을 체결했습니다.",
+    breakdown: [
+      { word: "契約", reading: "けいやく", meaning: "계약" }
+    ] },
+  { level: "N1", kanji: "発端", reading: "ほったん", korean: "홋탄", meaning: "발단",
+    example: "事件の発端を調べます。", exampleReading: "じけんのほったんをしらべます。", exampleKorean: "지켄노 홋탄오 시라베마스", exampleMeaning: "사건의 발단을 조사합니다.",
+    breakdown: [
+      { word: "事件", reading: "じけん", meaning: "사건" }
+    ] },
+  { level: "N1", kanji: "布石", reading: "ふせき", korean: "후세키", meaning: "포석",
+    example: "将来のための布石を打ちます。", exampleReading: "しょうらいのためのふせきをうちます。", exampleKorean: "쇼-라이노 타메노 후세키오 우치마스", exampleMeaning: "미래를 위한 포석을 둡니다.",
+    breakdown: [
+      { word: "将来のための", reading: "しょうらいのための", meaning: "미래를 위한" }
+    ] },
+  { level: "N1", kanji: "伏線", reading: "ふくせん", korean: "후쿠센", meaning: "복선",
+    example: "この物語には伏線があります。", exampleReading: "このものがたりにはふくせんがあります。", exampleKorean: "코노 모노가타리니와 후쿠센가 아리마스", exampleMeaning: "이 이야기에는 복선이 있습니다.",
+    breakdown: [
+      { word: "物語", reading: "ものがたり", meaning: "이야기" }
+    ] },
+  { level: "N1", kanji: "兆し", reading: "きざし", korean: "키자시", meaning: "조짐",
+    example: "景気回復の兆しが見えます。", exampleReading: "けいきかいふくのきざしがみえます。", exampleKorean: "케-키 카이후쿠노 키자시가 미에마스", exampleMeaning: "경기 회복의 조짐이 보입니다.",
+    breakdown: [
+      { word: "景気回復", reading: "けいきかいふく", meaning: "경기 회복" }
+    ] },
+  { level: "N1", kanji: "予兆", reading: "よちょう", korean: "요쵸-", meaning: "예조, 전조",
+    example: "地震の予兆かもしれません。", exampleReading: "じしんのよちょうかもしれません。", exampleKorean: "지신노 요쵸-카모 시레마셍", exampleMeaning: "지진의 전조일지도 모릅니다.",
+    breakdown: [
+      { word: "地震", reading: "じしん", meaning: "지진" }
+    ] },
+  { level: "N1", kanji: "前触れ", reading: "まえぶれ", korean: "마에부레", meaning: "전조, 예고",
+    example: "何の前触れもなく起こりました。", exampleReading: "なんのまえぶれもなくおこりました。", exampleKorean: "난노 마에부레모 나쿠 오코리마시타", exampleMeaning: "아무런 예고도 없이 일어났습니다.",
+    breakdown: [
+      { word: "起こりました", reading: "おこりました", meaning: "일어났습니다" }
+    ] },
+  { level: "N1", kanji: "予感", reading: "よかん", korean: "요칸", meaning: "예감",
+    example: "悪い予感がします。", exampleReading: "わるいよかんがします。", exampleKorean: "와루이 요칸가 시마스", exampleMeaning: "나쁜 예감이 듭니다.",
+    breakdown: [
+      { word: "悪い", reading: "わるい", meaning: "나쁘다" }
+    ] },
+  { level: "N1", kanji: "直感", reading: "ちょっかん", korean: "촉칸", meaning: "직감",
+    example: "直感に従って決めました。", exampleReading: "ちょっかんにしたがってきめました。", exampleKorean: "촉칸니 시타갓테 키메마시타", exampleMeaning: "직감에 따라 결정했습니다.",
+    breakdown: [
+      { word: "従って", reading: "したがって", meaning: "따라" }
+    ] },
+  { level: "N1", kanji: "勘", reading: "かん", korean: "칸", meaning: "감, 직감",
+    example: "彼は勘がいいです。", exampleReading: "かれはかんがいいです。", exampleKorean: "카레와 칸가 이-데스", exampleMeaning: "그는 감이 좋습니다.",
+    breakdown: [
+      { word: "いいです", reading: "いいです", meaning: "좋습니다" }
+    ] },
+  { level: "N1", kanji: "見当", reading: "けんとう", korean: "켄토-", meaning: "짐작, 예상",
+    example: "見当がつきません。", exampleReading: "けんとうがつきません。", exampleKorean: "켄토-가 츠키마셍", exampleMeaning: "짐작이 가지 않습니다.",
+    breakdown: [
+      { word: "つきません", reading: "つきません", meaning: "가지 않습니다" }
+    ] },
+  { level: "N1", kanji: "目処", reading: "めど", korean: "메도", meaning: "전망, 목표시점",
+    example: "完成の目処が立ちました。", exampleReading: "かんせいのめどがたちました。", exampleKorean: "칸세-노 메도가 타치마시타", exampleMeaning: "완성의 전망이 섰습니다.",
+    breakdown: [
+      { word: "完成", reading: "かんせい", meaning: "완성" }
+    ] },
 ];
