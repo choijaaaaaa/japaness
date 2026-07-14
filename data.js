@@ -7921,4 +7921,154 @@ const VOCAB = [
     breakdown: [
       { word: "完成", reading: "かんせい", meaning: "완성" }
     ] },
+  { level: "N1", kanji: "潔白", reading: "けっぱく", korean: "켓파쿠", meaning: "결백",
+    example: "彼は潔白を主張しています。", exampleReading: "かれはけっぱくをしゅちょうしています。", exampleKorean: "카레와 켓파쿠오 슈쵸- 시테 이마스", exampleMeaning: "그는 결백을 주장하고 있습니다.",
+    breakdown: [
+      { word: "主張", reading: "しゅちょう", meaning: "주장" }
+    ] },
+  { level: "N1", kanji: "疑惑", reading: "ぎわく", korean: "기와쿠", meaning: "의혹",
+    example: "汚職の疑惑が浮上しました。", exampleReading: "おしょくのぎわくがふじょうしました。", exampleKorean: "오쇼쿠노 기와쿠가 후죠- 시마시타", exampleMeaning: "비리 의혹이 부상했습니다.",
+    breakdown: [
+      { word: "汚職", reading: "おしょく", meaning: "비리, 오직" }
+    ] },
+  { level: "N1", kanji: "嫌疑", reading: "けんぎ", korean: "켄기", meaning: "혐의",
+    example: "嫌疑をかけられています。", exampleReading: "けんぎをかけられています。", exampleKorean: "켄기오 카케라레테 이마스", exampleMeaning: "혐의를 받고 있습니다.",
+    breakdown: [
+      { word: "かけられて", reading: "かけられて", meaning: "(혐의를) 받아서" }
+    ] },
+  { level: "N1", kanji: "供述", reading: "きょうじゅつ", korean: "쿄-쥬츠", meaning: "진술",
+    example: "警察で供述しました。", exampleReading: "けいさつできょうじゅつしました。", exampleKorean: "케-사츠데 쿄-쥬츠 시마시타", exampleMeaning: "경찰에서 진술했습니다.",
+    breakdown: [
+      { word: "警察", reading: "けいさつ", meaning: "경찰" }
+    ] },
+  { level: "N1", kanji: "自白", reading: "じはく", korean: "지하쿠", meaning: "자백",
+    example: "犯人がついに自白しました。", exampleReading: "はんにんがついにじはくしました。", exampleKorean: "한닌가 츠이니 지하쿠 시마시타", exampleMeaning: "범인이 마침내 자백했습니다.",
+    breakdown: [
+      { word: "犯人", reading: "はんにん", meaning: "범인" }
+    ] },
+  { level: "N1", kanji: "証言", reading: "しょうげん", korean: "쇼-겐", meaning: "증언",
+    example: "目撃者が証言しました。", exampleReading: "もくげきしゃがしょうげんしました。", exampleKorean: "모쿠게키샤가 쇼-겐 시마시타", exampleMeaning: "목격자가 증언했습니다.",
+    breakdown: [
+      { word: "目撃者", reading: "もくげきしゃ", meaning: "목격자" }
+    ] },
+  { level: "N1", kanji: "尋問", reading: "じんもん", korean: "진몬", meaning: "심문",
+    example: "容疑者を尋問しました。", exampleReading: "ようぎしゃをじんもんしました。", exampleKorean: "요-기샤오 진몬 시마시타", exampleMeaning: "용의자를 심문했습니다.",
+    breakdown: [
+      { word: "容疑者", reading: "ようぎしゃ", meaning: "용의자" }
+    ] },
+  { level: "N1", kanji: "拘束", reading: "こうそく", korean: "코-소쿠", meaning: "구속",
+    example: "身柄を拘束されました。", exampleReading: "みがらをこうそくされました。", exampleKorean: "미가라오 코-소쿠사레마시타", exampleMeaning: "신병이 구속되었습니다.",
+    breakdown: [
+      { word: "身柄", reading: "みがら", meaning: "신병" }
+    ] },
+  { level: "N1", kanji: "釈放", reading: "しゃくほう", korean: "샤쿠호-", meaning: "석방",
+    example: "容疑者が釈放されました。", exampleReading: "ようぎしゃがしゃくほうされました。", exampleKorean: "요-기샤가 샤쿠호- 사레마시타", exampleMeaning: "용의자가 석방되었습니다.",
+    breakdown: [
+      { word: "容疑者", reading: "ようぎしゃ", meaning: "용의자" }
+    ] },
+  { level: "N1", kanji: "起訴", reading: "きそ", korean: "키소", meaning: "기소",
+    example: "検察が起訴しました。", exampleReading: "けんさつがきそしました。", exampleKorean: "켄사츠가 키소 시마시타", exampleMeaning: "검찰이 기소했습니다.",
+    breakdown: [
+      { word: "検察", reading: "けんさつ", meaning: "검찰" }
+    ] },
+  { level: "N1", kanji: "訴訟", reading: "そしょう", korean: "소쇼-", meaning: "소송",
+    example: "損害賠償の訴訟を起こしました。", exampleReading: "そんがいばいしょうのそしょうをおこしました。", exampleKorean: "손가이바이쇼-노 소쇼-오 오코시마시타", exampleMeaning: "손해배상 소송을 제기했습니다.",
+    breakdown: [
+      { word: "起こしました", reading: "おこしました", meaning: "일으켰습니다, 제기했습니다" }
+    ] },
+  { level: "N1", kanji: "裁定", reading: "さいてい", korean: "사이테-", meaning: "재정, 판정",
+    example: "委員会が裁定を下しました。", exampleReading: "いいんかいがさいていをくだしました。", exampleKorean: "이인카이가 사이테-오 쿠다시마시타", exampleMeaning: "위원회가 판정을 내렸습니다.",
+    breakdown: [
+      { word: "委員会", reading: "いいんかい", meaning: "위원회" }
+    ] },
+  { level: "N1", kanji: "断行", reading: "だんこう", korean: "단코-", meaning: "단행",
+    example: "改革を断行しました。", exampleReading: "かいかくをだんこうしました。", exampleKorean: "카이카쿠오 단코- 시마시타", exampleMeaning: "개혁을 단행했습니다.",
+    breakdown: [
+      { word: "改革", reading: "かいかく", meaning: "개혁" }
+    ] },
+  { level: "N1", kanji: "敢行", reading: "かんこう", korean: "칸코-", meaning: "감행",
+    example: "悪天候の中、決行を敢行しました。", exampleReading: "あくてんこうのなか、けっこうをかんこうしました。", exampleKorean: "아쿠텐코-노 나카, 켁코-오 칸코- 시마시타", exampleMeaning: "악천후 속에서 결행을 감행했습니다.",
+    breakdown: [
+      { word: "悪天候", reading: "あくてんこう", meaning: "악천후" }
+    ] },
+  { level: "N1", kanji: "決行", reading: "けっこう", korean: "켁코-", meaning: "결행",
+    example: "計画通りに決行します。", exampleReading: "けいかくどおりにけっこうします。", exampleKorean: "케-카쿠도-리니 켁코- 시마스", exampleMeaning: "계획대로 결행합니다.",
+    breakdown: [
+      { word: "計画通り", reading: "けいかくどおり", meaning: "계획대로" }
+    ] },
+  { level: "N1", kanji: "精密", reading: "せいみつ", korean: "세-미츠", meaning: "정밀",
+    example: "精密な検査を受けました。", exampleReading: "せいみつなけんさをうけました。", exampleKorean: "세-미츠나 켄사오 우케마시타", exampleMeaning: "정밀 검사를 받았습니다.",
+    breakdown: [
+      { word: "検査", reading: "けんさ", meaning: "검사" }
+    ] },
+  { level: "N1", kanji: "精査", reading: "せいさ", korean: "세-사", meaning: "정밀조사",
+    example: "原因を精査しています。", exampleReading: "げんいんをせいさしています。", exampleKorean: "겡잉오 세-사 시테 이마스", exampleMeaning: "원인을 정밀 조사하고 있습니다.",
+    breakdown: [
+      { word: "原因", reading: "げんいん", meaning: "원인" }
+    ] },
+  { level: "N1", kanji: "吟味", reading: "ぎんみ", korean: "긴미", meaning: "음미, 검토",
+    example: "材料をよく吟味して選びました。", exampleReading: "ざいりょうをよくぎんみしてえらびました。", exampleKorean: "자이료-오 요쿠 긴미시테 에라비마시타", exampleMeaning: "재료를 잘 검토해서 골랐습니다.",
+    breakdown: [
+      { word: "材料", reading: "ざいりょう", meaning: "재료" }
+    ] },
+  { level: "N1", kanji: "熟考", reading: "じゅっこう", korean: "쥭코-", meaning: "숙고",
+    example: "熟考の末、決断しました。", exampleReading: "じゅっこうのすえ、けつだんしました。", exampleKorean: "쥭코-노 스에, 케츠단 시마시타", exampleMeaning: "숙고 끝에 결단했습니다.",
+    breakdown: [
+      { word: "末", reading: "すえ", meaning: "끝" }
+    ] },
+  { level: "N1", kanji: "熟慮", reading: "じゅくりょ", korean: "쥬쿠료", meaning: "숙려",
+    example: "熟慮を重ねて決めました。", exampleReading: "じゅくりょをかさねてきめました。", exampleKorean: "쥬쿠료오 카사네테 키메마시타", exampleMeaning: "숙려를 거듭해서 정했습니다.",
+    breakdown: [
+      { word: "重ねて", reading: "かさねて", meaning: "거듭해서" }
+    ] },
+  { level: "N1", kanji: "再考", reading: "さいこう", korean: "사이코-", meaning: "재고",
+    example: "計画を再考してください。", exampleReading: "けいかくをさいこうしてください。", exampleKorean: "케-카쿠오 사이코- 시테 쿠다사이", exampleMeaning: "계획을 재고해 주세요.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N1", kanji: "察知", reading: "さっち", korean: "삿치", meaning: "알아챔, 察知",
+    example: "危険をいち早く察知しました。", exampleReading: "きけんをいちはやくさっちしました。", exampleKorean: "키켕오 이치하야쿠 삿치 시마시타", exampleMeaning: "위험을 재빨리 알아챘습니다.",
+    breakdown: [
+      { word: "いち早く", reading: "いちはやく", meaning: "재빨리" }
+    ] },
+  { level: "N1", kanji: "予知", reading: "よち", korean: "요치", meaning: "예지",
+    example: "地震を予知するのは困難です。", exampleReading: "じしんをよちするのはこんなんです。", exampleKorean: "지싱오 요치스루노와 콘난데스", exampleMeaning: "지진을 예지하는 것은 곤란합니다.",
+    breakdown: [
+      { word: "困難", reading: "こんなん", meaning: "곤란" }
+    ] },
+  { level: "N1", kanji: "先見", reading: "せんけん", korean: "센켄", meaning: "선견",
+    example: "彼には先見の目がありました。", exampleReading: "かれにはせんけんのめがありました。", exampleKorean: "카레니와 센켄노 메가 아리마시타", exampleMeaning: "그에게는 선견의 눈이 있었습니다.",
+    breakdown: [
+      { word: "目", reading: "め", meaning: "눈, 안목" }
+    ] },
+  { level: "N1", kanji: "明晰", reading: "めいせき", korean: "메-세키", meaning: "명석",
+    example: "頭脳明晰な人です。", exampleReading: "ずのうめいせきなひとです。", exampleKorean: "즈노- 메-세키나 히토데스", exampleMeaning: "두뇌가 명석한 사람입니다.",
+    breakdown: [
+      { word: "頭脳", reading: "ずのう", meaning: "두뇌" }
+    ] },
+  { level: "N1", kanji: "秀でる", reading: "ひいでる", korean: "히이데루", meaning: "뛰어나다",
+    example: "彼は語学に秀でています。", exampleReading: "かれはごがくにひいでています。", exampleKorean: "카레와 고가쿠니 히이데테 이마스", exampleMeaning: "그는 어학에 뛰어납니다.",
+    breakdown: [
+      { word: "語学", reading: "ごがく", meaning: "어학" }
+    ] },
+  { level: "N1", kanji: "抜きん出る", reading: "ぬきんでる", korean: "누킨데루", meaning: "두각을 나타내다",
+    example: "彼女は実力で抜きん出ています。", exampleReading: "かのじょはじつりょくでぬきんでています。", exampleKorean: "카노죠와 지츠료쿠데 누킨데테 이마스", exampleMeaning: "그녀는 실력으로 두각을 나타내고 있습니다.",
+    breakdown: [
+      { word: "実力", reading: "じつりょく", meaning: "실력" }
+    ] },
+  { level: "N1", kanji: "突出", reading: "とっしゅつ", korean: "톳슈츠", meaning: "돌출, 두드러짐",
+    example: "一人だけ突出した成績でした。", exampleReading: "ひとりだけとっしゅつしたせいせきでした。", exampleKorean: "히토리다케 톳슈츠시타 세-세키데시타", exampleMeaning: "혼자만 두드러진 성적이었습니다.",
+    breakdown: [
+      { word: "成績", reading: "せいせき", meaning: "성적" }
+    ] },
+  { level: "N1", kanji: "突飛", reading: "とっぴ", korean: "톳피", meaning: "엉뚱함",
+    example: "突飛な考えだと言われました。", exampleReading: "とっぴなかんがえだといわれました。", exampleKorean: "톳피나 캉가에다토 이와레마시타", exampleMeaning: "엉뚱한 생각이라는 말을 들었습니다.",
+    breakdown: [
+      { word: "考え", reading: "かんがえ", meaning: "생각" }
+    ] },
+  { level: "N1", kanji: "奇抜", reading: "きばつ", korean: "키바츠", meaning: "기발함",
+    example: "奇抜なアイデアが採用されました。", exampleReading: "きばつなアイデアがさいようされました。", exampleKorean: "키바츠나 아이데아가 사이요- 사레마시타", exampleMeaning: "기발한 아이디어가 채택되었습니다.",
+    breakdown: [
+      { word: "採用", reading: "さいよう", meaning: "채택, 채용" }
+    ] },
 ];
