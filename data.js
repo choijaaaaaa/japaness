@@ -4803,6 +4803,246 @@ const VOCAB = [
     breakdown: [
       { word: "商品", reading: "しょうひん", meaning: "상품" }
     ] },
+  { level: "N4", kanji: "交際", reading: "こうさい", korean: "코-사이", meaning: "교제",
+    example: "二人は三年間交際しています。", exampleReading: "ふたりはさんねんかんこうさいしています。", exampleKorean: "후타리와 산넨칸 코-사이 시테 이마스", exampleMeaning: "두 사람은 3년간 교제하고 있습니다.",
+    breakdown: [
+      { word: "三年間", reading: "さんねんかん", meaning: "3년간" }
+    ] },
+  { level: "N4", kanji: "恋愛", reading: "れんあい", korean: "렌아이", meaning: "연애",
+    example: "恋愛について相談されました。", exampleReading: "れんあいについてそうだんされました。", exampleKorean: "렌아이니 츠이테 소-단 사레마시타", exampleMeaning: "연애에 대해 상담받았습니다.",
+    breakdown: [
+      { word: "相談", reading: "そうだん", meaning: "상담" }
+    ] },
+  { level: "N4", kanji: "片思い", reading: "かたおもい", korean: "카타오모이", meaning: "짝사랑",
+    example: "彼女に片思いをしています。", exampleReading: "かのじょにかたおもいをしています。", exampleKorean: "카노죠니 카타오모이오 시테 이마스", exampleMeaning: "그녀를 짝사랑하고 있습니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N4", kanji: "告白", reading: "こくはく", korean: "코쿠하쿠", meaning: "고백",
+    example: "彼女に告白しました。", exampleReading: "かのじょにこくはくしました。", exampleKorean: "카노죠니 코쿠하쿠 시마시타", exampleMeaning: "그녀에게 고백했습니다.",
+    breakdown: [
+      { word: "彼女に", reading: "かのじょに", meaning: "그녀에게" }
+    ] },
+  { level: "N4", kanji: "振る", reading: "ふる", korean: "후루", meaning: "(이성을) 차다",
+    example: "彼を振ってしまいました。", exampleReading: "かれをふってしまいました。", exampleKorean: "카레오 훗테 시마이마시타", exampleMeaning: "그를 차버렸습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N4", kanji: "振られる", reading: "ふられる", korean: "후라레루", meaning: "차이다",
+    example: "好きな人に振られました。", exampleReading: "すきなひとにふられました。", exampleKorean: "스키나 히토니 후라레마시타", exampleMeaning: "좋아하는 사람에게 차였습니다.",
+    breakdown: [
+      { word: "好きな人", reading: "すきなひと", meaning: "좋아하는 사람" }
+    ] },
+  { level: "N4", kanji: "付き合う", reading: "つきあう", korean: "츠키아우", meaning: "사귀다",
+    example: "二人は付き合い始めました。", exampleReading: "ふたりはつきあいはじめました。", exampleKorean: "후타리와 츠키아이 하지메마시타", exampleMeaning: "두 사람은 사귀기 시작했습니다.",
+    breakdown: [
+      { word: "始めました", reading: "はじめました", meaning: "시작했습니다" }
+    ] },
+  { level: "N4", kanji: "デート", reading: "デート", korean: "데-토", meaning: "데이트",
+    example: "週末にデートをしました。", exampleReading: "しゅうまつにデートをしました。", exampleKorean: "슈-마츠니 데-토오 시마시타", exampleMeaning: "주말에 데이트를 했습니다.",
+    breakdown: [
+      { word: "週末", reading: "しゅうまつ", meaning: "주말" }
+    ] },
+  { level: "N4", kanji: "別居", reading: "べっきょ", korean: "벡쿄", meaning: "별거",
+    example: "夫婦は別居しています。", exampleReading: "ふうふはべっきょしています。", exampleKorean: "후-후와 벡쿄 시테 이마스", exampleMeaning: "부부는 별거하고 있습니다.",
+    breakdown: [
+      { word: "夫婦", reading: "ふうふ", meaning: "부부" }
+    ] },
+  { level: "N4", kanji: "同棲", reading: "どうせい", korean: "도-세-", meaning: "동거",
+    example: "恋人と同棲しています。", exampleReading: "こいびととどうせいしています。", exampleKorean: "코이비토토 도-세- 시테 이마스", exampleMeaning: "연인과 동거하고 있습니다.",
+    breakdown: [
+      { word: "恋人", reading: "こいびと", meaning: "연인" }
+    ] },
+  { level: "N4", kanji: "浮気", reading: "うわき", korean: "우와키", meaning: "바람(외도)",
+    example: "浮気がばれてしまいました。", exampleReading: "うわきがばれてしまいました。", exampleKorean: "우와키가 바레테 시마이마시타", exampleMeaning: "바람이 들통났습니다.",
+    breakdown: [
+      { word: "ばれて", reading: "ばれて", meaning: "들통나서" }
+    ] },
+  { level: "N4", kanji: "離れる", reading: "はなれる", korean: "하나레루", meaning: "떨어지다, 멀어지다",
+    example: "故郷を離れて暮らしています。", exampleReading: "こきょうをはなれてくらしています。", exampleKorean: "코쿄-오 하나레테 쿠라시테 이마스", exampleMeaning: "고향을 떠나서 살고 있습니다.",
+    breakdown: [
+      { word: "故郷", reading: "こきょう", meaning: "고향" }
+    ] },
+  { level: "N4", kanji: "距離", reading: "きょり", korean: "쿄리", meaning: "거리",
+    example: "駅から距離があります。", exampleReading: "えきからきょりがあります。", exampleKorean: "에키카라 쿄리가 아리마스", exampleMeaning: "역에서 거리가 있습니다.",
+    breakdown: [
+      { word: "駅から", reading: "えきから", meaning: "역에서" }
+    ] },
+  { level: "N4", kanji: "絆", reading: "きずな", korean: "키즈나", meaning: "유대, 정",
+    example: "家族の絆を大切にしています。", exampleReading: "かぞくのきずなをたいせつにしています。", exampleKorean: "카조쿠노 키즈나오 타이세츠니 시테 이마스", exampleMeaning: "가족의 유대를 소중히 하고 있습니다.",
+    breakdown: [
+      { word: "家族", reading: "かぞく", meaning: "가족" }
+    ] },
+  { level: "N4", kanji: "信頼", reading: "しんらい", korean: "신라이", meaning: "신뢰",
+    example: "彼を信頼しています。", exampleReading: "かれをしんらいしています。", exampleKorean: "카레오 신라이 시테 이마스", exampleMeaning: "그를 신뢰하고 있습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N4", kanji: "疑い", reading: "うたがい", korean: "우타가이", meaning: "의심",
+    example: "疑いの目で見られました。", exampleReading: "うたがいのめでみられました。", exampleKorean: "우타가이노 메데 미라레마시타", exampleMeaning: "의심의 눈초리로 보였습니다.",
+    breakdown: [
+      { word: "目", reading: "め", meaning: "눈" }
+    ] },
+  { level: "N4", kanji: "裏切る", reading: "うらぎる", korean: "우라기루", meaning: "배신하다",
+    example: "友達を裏切ってしまいました。", exampleReading: "ともだちをうらぎってしまいました。", exampleKorean: "토모다치오 우라깃테 시마이마시타", exampleMeaning: "친구를 배신해 버렸습니다.",
+    breakdown: [
+      { word: "友達", reading: "ともだち", meaning: "친구" }
+    ] },
+  { level: "N4", kanji: "許す", reading: "ゆるす", korean: "유루스", meaning: "용서하다",
+    example: "彼を許すことにしました。", exampleReading: "かれをゆるすことにしました。", exampleKorean: "카레오 유루스 코토니 시마시타", exampleMeaning: "그를 용서하기로 했습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N4", kanji: "慰める", reading: "なぐさめる", korean: "나구사메루", meaning: "위로하다",
+    example: "友達を慰めました。", exampleReading: "ともだちをなぐさめました。", exampleKorean: "토모다치오 나구사메마시타", exampleMeaning: "친구를 위로했습니다.",
+    breakdown: [
+      { word: "友達", reading: "ともだち", meaning: "친구" }
+    ] },
+  { level: "N4", kanji: "励ます", reading: "はげます", korean: "하게마스", meaning: "격려하다",
+    example: "後輩を励ましました。", exampleReading: "こうはいをはげましました。", exampleKorean: "코-하이오 하게마시마시타", exampleMeaning: "후배를 격려했습니다.",
+    breakdown: [
+      { word: "後輩", reading: "こうはい", meaning: "후배" }
+    ] },
+  { level: "N4", kanji: "支え合う", reading: "ささえあう", korean: "사사에아우", meaning: "서로 돕다",
+    example: "家族で支え合っています。", exampleReading: "かぞくでささえあっています。", exampleKorean: "카조쿠데 사사에앗테 이마스", exampleMeaning: "가족끼리 서로 돕고 있습니다.",
+    breakdown: [
+      { word: "家族で", reading: "かぞくで", meaning: "가족끼리" }
+    ] },
+  { level: "N4", kanji: "頼りにする", reading: "たよりにする", korean: "타요리니스루", meaning: "의지하다",
+    example: "いつも君を頼りにしています。", exampleReading: "いつもきみをたよりにしています。", exampleKorean: "이츠모 키미오 타요리니 시테 이마스", exampleMeaning: "항상 너를 의지하고 있습니다.",
+    breakdown: [
+      { word: "いつも", reading: "いつも", meaning: "항상" }
+    ] },
+  { level: "N4", kanji: "甘える", reading: "あまえる", korean: "아마에루", meaning: "응석부리다",
+    example: "子供が母親に甘えています。", exampleReading: "こどもがははおやにあまえています。", exampleKorean: "코도모가 하하오야니 아마에테 이마스", exampleMeaning: "아이가 엄마에게 응석부리고 있습니다.",
+    breakdown: [
+      { word: "母親", reading: "ははおや", meaning: "엄마" }
+    ] },
+  { level: "N4", kanji: "見放す", reading: "みはなす", korean: "미하나스", meaning: "포기하다, 저버리다",
+    example: "医者に見放されました。", exampleReading: "いしゃにみはなされました。", exampleKorean: "이샤니 미하나사레마시타", exampleMeaning: "의사에게 포기당했습니다.",
+    breakdown: [
+      { word: "医者", reading: "いしゃ", meaning: "의사" }
+    ] },
+  { level: "N4", kanji: "見捨てる", reading: "みすてる", korean: "미스테루", meaning: "저버리다, 버리다",
+    example: "友達を見捨てることはできません。", exampleReading: "ともだちをみすてることはできません。", exampleKorean: "토모다치오 미스테루 코토와 데키마셍", exampleMeaning: "친구를 저버릴 수는 없습니다.",
+    breakdown: [
+      { word: "できません", reading: "できません", meaning: "할 수 없습니다" }
+    ] },
+  { level: "N4", kanji: "寄り添う", reading: "よりそう", korean: "요리소우", meaning: "곁에 다가붙다",
+    example: "彼女にそっと寄り添いました。", exampleReading: "かのじょにそっとよりそいました。", exampleKorean: "카노죠니 솟토 요리소이마시타", exampleMeaning: "그녀에게 조용히 다가붙었습니다.",
+    breakdown: [
+      { word: "そっと", reading: "そっと", meaning: "조용히, 살며시" }
+    ] },
+  { level: "N4", kanji: "抱きしめる", reading: "だきしめる", korean: "다키시메루", meaning: "껴안다",
+    example: "子供を抱きしめました。", exampleReading: "こどもをだきしめました。", exampleKorean: "코도모오 다키시메마시타", exampleMeaning: "아이를 껴안았습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N4", kanji: "見舞う", reading: "みまう", korean: "미마우", meaning: "병문안하다",
+    example: "入院中の友人を見舞いました。", exampleReading: "にゅういんちゅうのゆうじんをみまいました。", exampleKorean: "뉴-인츄-노 유-징오 미마이마시타", exampleMeaning: "입원 중인 친구를 병문안했습니다.",
+    breakdown: [
+      { word: "入院中", reading: "にゅういんちゅう", meaning: "입원 중" }
+    ] },
+  { level: "N4", kanji: "見舞い", reading: "みまい", korean: "미마이", meaning: "병문안",
+    example: "お見舞いに花を持って行きました。", exampleReading: "おみまいにはなをもっていきました。", exampleKorean: "오미마이니 하나오 못테 이키마시타", exampleMeaning: "병문안에 꽃을 가지고 갔습니다.",
+    breakdown: [
+      { word: "花", reading: "はな", meaning: "꽃" }
+    ] },
+  { level: "N4", kanji: "お見舞い", reading: "おみまい", korean: "오미마이", meaning: "병문안(정중형)",
+    example: "お見舞いのお金を包みました。", exampleReading: "おみまいのおかねをつつみました。", exampleKorean: "오미마이노 오카네오 츠츠미마시타", exampleMeaning: "병문안 돈을 봉투에 넣었습니다.",
+    breakdown: [
+      { word: "お金", reading: "おかね", meaning: "돈" }
+    ] },
+  { level: "N4", kanji: "弔う", reading: "とむらう", korean: "토무라우", meaning: "애도하다",
+    example: "故人を弔いました。", exampleReading: "こじんをとむらいました。", exampleKorean: "코징오 토무라이마시타", exampleMeaning: "고인을 애도했습니다.",
+    breakdown: [
+      { word: "故人", reading: "こじん", meaning: "고인" }
+    ] },
+  { level: "N4", kanji: "葬式", reading: "そうしき", korean: "소-시키", meaning: "장례식",
+    example: "祖父の葬式に参加しました。", exampleReading: "そふのそうしきにさんかしました。", exampleKorean: "소후노 소-시키니 상카시마시타", exampleMeaning: "할아버지의 장례식에 참석했습니다.",
+    breakdown: [
+      { word: "祖父", reading: "そふ", meaning: "할아버지" }
+    ] },
+  { level: "N4", kanji: "法事", reading: "ほうじ", korean: "호-지", meaning: "제사, 법사",
+    example: "来月法事があります。", exampleReading: "らいげつほうじがあります。", exampleKorean: "라이게츠 호-지가 아리마스", exampleMeaning: "다음 달에 제사가 있습니다.",
+    breakdown: [
+      { word: "来月", reading: "らいげつ", meaning: "다음 달" }
+    ] },
+  { level: "N4", kanji: "墓", reading: "はか", korean: "하카", meaning: "무덤",
+    example: "祖父の墓参りに行きました。", exampleReading: "そふのはかまいりにいきました。", exampleKorean: "소후노 하카마이리니 이키마시타", exampleMeaning: "할아버지 성묘를 다녀왔습니다.",
+    breakdown: [
+      { word: "墓参り", reading: "はかまいり", meaning: "성묘" }
+    ] },
+  { level: "N4", kanji: "仏壇", reading: "ぶつだん", korean: "부츠단", meaning: "불단",
+    example: "仏壇にお花を供えました。", exampleReading: "ぶつだんにおはなをそなえました。", exampleKorean: "부츠단니 오하나오 소나에마시타", exampleMeaning: "불단에 꽃을 올렸습니다.",
+    breakdown: [
+      { word: "お花", reading: "おはな", meaning: "꽃" }
+    ] },
+  { level: "N4", kanji: "宗教", reading: "しゅうきょう", korean: "슈-쿄-", meaning: "종교",
+    example: "彼は特に宗教を持っていません。", exampleReading: "かれはとくにしゅうきょうをもっていません。", exampleKorean: "카레와 토쿠니 슈-쿄-오 못테 이마셍", exampleMeaning: "그는 특별히 종교를 가지고 있지 않습니다.",
+    breakdown: [
+      { word: "特に", reading: "とくに", meaning: "특별히" }
+    ] },
+  { level: "N4", kanji: "信仰", reading: "しんこう", korean: "신코-", meaning: "신앙",
+    example: "彼女は熱心に信仰しています。", exampleReading: "かのじょはねっしんにしんこうしています。", exampleKorean: "카노죠와 넷신니 신코- 시테 이마스", exampleMeaning: "그녀는 열심히 신앙을 갖고 있습니다.",
+    breakdown: [
+      { word: "熱心に", reading: "ねっしんに", meaning: "열심히" }
+    ] },
+  { level: "N4", kanji: "祈る", reading: "いのる", korean: "이노루", meaning: "기도하다",
+    example: "家族の健康を祈りました。", exampleReading: "かぞくのけんこうをいのりました。", exampleKorean: "카조쿠노 켄코-오 이노리마시타", exampleMeaning: "가족의 건강을 기도했습니다.",
+    breakdown: [
+      { word: "健康", reading: "けんこう", meaning: "건강" }
+    ] },
+  { level: "N4", kanji: "願う", reading: "ねがう", korean: "네가우", meaning: "바라다, 원하다",
+    example: "早く治ることを願っています。", exampleReading: "はやくなおることをねがっています。", exampleKorean: "하야쿠 나오루 코토오 네갓테 이마스", exampleMeaning: "빨리 낫기를 바라고 있습니다.",
+    breakdown: [
+      { word: "早く", reading: "はやく", meaning: "빨리" }
+    ] },
+  { level: "N4", kanji: "占い", reading: "うらない", korean: "우라나이", meaning: "점",
+    example: "占いを信じています。", exampleReading: "うらないをしんじています。", exampleKorean: "우라나이오 신지테 이마스", exampleMeaning: "점을 믿고 있습니다.",
+    breakdown: [
+      { word: "信じて", reading: "しんじて", meaning: "믿어서" }
+    ] },
+  { level: "N4", kanji: "運勢", reading: "うんせい", korean: "운세-", meaning: "운세",
+    example: "今日の運勢を調べました。", exampleReading: "きょうのうんせいをしらべました。", exampleKorean: "쿄-노 운세-오 시라베마시타", exampleMeaning: "오늘의 운세를 조사했습니다.",
+    breakdown: [
+      { word: "今日", reading: "きょう", meaning: "오늘" }
+    ] },
+  { level: "N4", kanji: "風水", reading: "ふうすい", korean: "후-스이", meaning: "풍수",
+    example: "風水を取り入れました。", exampleReading: "ふうすいをとりいれました。", exampleKorean: "후-스이오 토리이레마시타", exampleMeaning: "풍수를 도입했습니다.",
+    breakdown: [
+      { word: "取り入れました", reading: "とりいれました", meaning: "도입했습니다" }
+    ] },
+  { level: "N4", kanji: "厄年", reading: "やくどし", korean: "야쿠도시", meaning: "액년",
+    example: "今年は厄年です。", exampleReading: "ことしはやくどしです。", exampleKorean: "코토시와 야쿠도시데스", exampleMeaning: "올해는 액년입니다.",
+    breakdown: [
+      { word: "今年", reading: "ことし", meaning: "올해" }
+    ] },
+  { level: "N4", kanji: "悔やむ", reading: "くやむ", korean: "쿠야무", meaning: "후회하다",
+    example: "過去を悔やんでも仕方ありません。", exampleReading: "かこをくやんでもしかたありません。", exampleKorean: "카코오 쿠얀데모 시카타 아리마셍", exampleMeaning: "과거를 후회해도 소용없습니다.",
+    breakdown: [
+      { word: "過去", reading: "かこ", meaning: "과거" }
+    ] },
+  { level: "N4", kanji: "悔しい", reading: "くやしい", korean: "쿠야시-", meaning: "분하다",
+    example: "負けて悔しいです。", exampleReading: "まけてくやしいです。", exampleKorean: "마케테 쿠야시-데스", exampleMeaning: "져서 분합니다.",
+    breakdown: [
+      { word: "負けて", reading: "まけて", meaning: "져서" }
+    ] },
+  { level: "N4", kanji: "惜しむ", reading: "おしむ", korean: "오시무", meaning: "아까워하다",
+    example: "時間を惜しんで勉強しました。", exampleReading: "じかんをおしんでべんきょうしました。", exampleKorean: "지캉오 오신데 벵쿄- 시마시타", exampleMeaning: "시간을 아껴서 공부했습니다.",
+    breakdown: [
+      { word: "時間", reading: "じかん", meaning: "시간" }
+    ] },
+  { level: "N4", kanji: "詫びる", reading: "わびる", korean: "와비루", meaning: "사과하다",
+    example: "深く詫びました。", exampleReading: "ふかくわびました。", exampleKorean: "후카쿠 와비마시타", exampleMeaning: "깊이 사과했습니다.",
+    breakdown: [
+      { word: "深く", reading: "ふかく", meaning: "깊이" }
+    ] },
+  { level: "N4", kanji: "労る", reading: "いたわる", korean: "이타와루", meaning: "위로하다, 돌보다",
+    example: "体を労ってください。", exampleReading: "からだをいたわってください。", exampleKorean: "카라다오 이타왓테 쿠다사이", exampleMeaning: "몸을 돌봐 주세요.",
+    breakdown: [
+      { word: "体", reading: "からだ", meaning: "몸" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
