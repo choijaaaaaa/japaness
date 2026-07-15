@@ -11007,6 +11007,156 @@ const VOCAB = [
     breakdown: [
       { word: "トラブル", reading: "トラブル", meaning: "문제, 트러블" }
     ] },
+  { level: "N2", kanji: "取捨選択", reading: "しゅしゃせんたく", korean: "슈샤센타쿠", meaning: "취사선택",
+    example: "情報を取捨選択する必要があります。", exampleReading: "じょうほうをしゅしゃせんたくするひつようがあります。", exampleKorean: "죠-호-오 슈샤센타쿠스루 히츠요-가 아리마스", exampleMeaning: "정보를 취사선택할 필요가 있습니다.",
+    breakdown: [
+      { word: "情報", reading: "じょうほう", meaning: "정보" }
+    ] },
+  { level: "N2", kanji: "優先順位", reading: "ゆうせんじゅんい", korean: "유-센쥰이", meaning: "우선순위",
+    example: "優先順位をつけて作業します。", exampleReading: "ゆうせんじゅんいをつけてさぎょうします。", exampleKorean: "유-센쥰이오 츠케테 사교- 시마스", exampleMeaning: "우선순위를 정해서 작업합니다.",
+    breakdown: [
+      { word: "作業", reading: "さぎょう", meaning: "작업" }
+    ] },
+  { level: "N2", kanji: "優先度", reading: "ゆうせんど", korean: "유-센도", meaning: "우선도",
+    example: "優先度の高いタスクから始めます。", exampleReading: "ゆうせんどのたかいタスクからはじめます。", exampleKorean: "유-센도노 타카이 타스쿠카라 하지메마스", exampleMeaning: "우선도가 높은 업무부터 시작합니다.",
+    breakdown: [
+      { word: "タスク", reading: "タスク", meaning: "업무, 작업" }
+    ] },
+  { level: "N2", kanji: "緊急度", reading: "きんきゅうど", korean: "킨큐-도", meaning: "긴급도",
+    example: "緊急度に応じて対応します。", exampleReading: "きんきゅうどにおうじてたいおうします。", exampleKorean: "킨큐-도니 오-지테 타이오- 시마스", exampleMeaning: "긴급도에 따라 대응합니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N2", kanji: "重要度", reading: "じゅうようど", korean: "쥬-요-도", meaning: "중요도",
+    example: "重要度で分類しました。", exampleReading: "じゅうようどでぶんるいしました。", exampleKorean: "쥬-요-도데 분루이 시마시타", exampleMeaning: "중요도로 분류했습니다.",
+    breakdown: [
+      { word: "分類", reading: "ぶんるい", meaning: "분류" }
+    ] },
+  { level: "N2", kanji: "緊急事態", reading: "きんきゅうじたい", korean: "킨큐-지타이", meaning: "긴급사태",
+    example: "緊急事態が発生しました。", exampleReading: "きんきゅうじたいがはっせいしました。", exampleKorean: "킨큐-지타이가 핫세- 시마시타", exampleMeaning: "긴급사태가 발생했습니다.",
+    breakdown: [
+      { word: "発生", reading: "はっせい", meaning: "발생" }
+    ] },
+  { level: "N2", kanji: "非常事態", reading: "ひじょうじたい", korean: "히죠-지타이", meaning: "비상사태",
+    example: "非常事態を宣言しました。", exampleReading: "ひじょうじたいをせんげんしました。", exampleKorean: "히죠-지타이오 센겐 시마시타", exampleMeaning: "비상사태를 선언했습니다.",
+    breakdown: [
+      { word: "宣言", reading: "せんげん", meaning: "선언" }
+    ] },
+  { level: "N2", kanji: "危機管理", reading: "ききかんり", korean: "키키칸리", meaning: "위기관리",
+    example: "危機管理が求められます。", exampleReading: "ききかんりがもとめられます。", exampleKorean: "키키칸리가 모토메라레마스", exampleMeaning: "위기관리가 요구됩니다.",
+    breakdown: [
+      { word: "求められます", reading: "もとめられます", meaning: "요구됩니다" }
+    ] },
+  { level: "N2", kanji: "リスク管理", reading: "リスクかんり", korean: "리스쿠칸리", meaning: "리스크 관리",
+    example: "リスク管理を徹底しています。", exampleReading: "リスクかんりをてっていしています。", exampleKorean: "리스쿠칸리오 텟테- 시테 이마스", exampleMeaning: "리스크 관리를 철저히 하고 있습니다.",
+    breakdown: [
+      { word: "徹底", reading: "てってい", meaning: "철저" }
+    ] },
+  { level: "N2", kanji: "危険性", reading: "きけんせい", korean: "키켄세-", meaning: "위험성",
+    example: "この作業には危険性があります。", exampleReading: "このさぎょうにはきけんせいがあります。", exampleKorean: "코노 사교-니와 키켄세-가 아리마스", exampleMeaning: "이 작업에는 위험성이 있습니다.",
+    breakdown: [
+      { word: "作業", reading: "さぎょう", meaning: "작업" }
+    ] },
+  { level: "N2", kanji: "安全性", reading: "あんぜんせい", korean: "안젠세-", meaning: "안전성",
+    example: "製品の安全性を確認しました。", exampleReading: "せいひんのあんぜんせいをかくにんしました。", exampleKorean: "세-힌노 안젠세-오 카쿠닌 시마시타", exampleMeaning: "제품의 안전성을 확인했습니다.",
+    breakdown: [
+      { word: "製品", reading: "せいひん", meaning: "제품" }
+    ] },
+  { level: "N2", kanji: "信憑性", reading: "しんぴょうせい", korean: "신뾰-세-", meaning: "신빙성",
+    example: "この情報の信憑性は低いです。", exampleReading: "このじょうほうのしんぴょうせいはひくいです。", exampleKorean: "코노 죠-호-노 신뾰-세-와 히쿠이데스", exampleMeaning: "이 정보의 신빙성은 낮습니다.",
+    breakdown: [
+      { word: "情報", reading: "じょうほう", meaning: "정보" }
+    ] },
+  { level: "N2", kanji: "信頼性", reading: "しんらいせい", korean: "신라이세-", meaning: "신뢰성",
+    example: "製品の信頼性が高いです。", exampleReading: "せいひんのしんらいせいがたかいです。", exampleKorean: "세-힌노 신라이세-가 타카이데스", exampleMeaning: "제품의 신뢰성이 높습니다.",
+    breakdown: [
+      { word: "製品", reading: "せいひん", meaning: "제품" }
+    ] },
+  { level: "N2", kanji: "客観性", reading: "きゃっかんせい", korean: "캭칸세-", meaning: "객관성",
+    example: "報告書には客観性が必要です。", exampleReading: "ほうこくしょにはきゃっかんせいがひつようです。", exampleKorean: "호-코쿠쇼니와 캭칸세-가 히츠요-데스", exampleMeaning: "보고서에는 객관성이 필요합니다.",
+    breakdown: [
+      { word: "報告書", reading: "ほうこくしょ", meaning: "보고서" }
+    ] },
+  { level: "N2", kanji: "公平性", reading: "こうへいせい", korean: "코-헤-세-", meaning: "공평성",
+    example: "審査の公平性が問われました。", exampleReading: "しんさのこうへいせいがとわれました。", exampleKorean: "신사노 코-헤-세-가 토와레마시타", exampleMeaning: "심사의 공평성이 문제시되었습니다.",
+    breakdown: [
+      { word: "審査", reading: "しんさ", meaning: "심사" }
+    ] },
+  { level: "N2", kanji: "透明性", reading: "とうめいせい", korean: "토-메-세-", meaning: "투명성",
+    example: "経営の透明性を求めました。", exampleReading: "けいえいのとうめいせいをもとめました。", exampleKorean: "케-에-노 토-메-세-오 모토메마시타", exampleMeaning: "경영의 투명성을 요구했습니다.",
+    breakdown: [
+      { word: "経営", reading: "けいえい", meaning: "경영" }
+    ] },
+  { level: "N2", kanji: "一貫性", reading: "いっかんせい", korean: "익칸세-", meaning: "일관성",
+    example: "主張に一貫性がありません。", exampleReading: "しゅちょうにいっかんせいがありません。", exampleKorean: "슈쵸-니 익칸세-가 아리마셍", exampleMeaning: "주장에 일관성이 없습니다.",
+    breakdown: [
+      { word: "主張", reading: "しゅちょう", meaning: "주장" }
+    ] },
+  { level: "N2", kanji: "整合性", reading: "せいごうせい", korean: "세-고-세-", meaning: "정합성",
+    example: "データの整合性を確認しました。", exampleReading: "データのせいごうせいをかくにんしました。", exampleKorean: "데-타노 세-고-세-오 카쿠닌 시마시타", exampleMeaning: "데이터의 정합성을 확인했습니다.",
+    breakdown: [
+      { word: "データ", reading: "データ", meaning: "데이터" }
+    ] },
+  { level: "N2", kanji: "説得性", reading: "せっとくせい", korean: "셋토쿠세-", meaning: "설득성",
+    example: "説得性のある資料を作りました。", exampleReading: "せっとくせいのあるしりょうをつくりました。", exampleKorean: "셋토쿠세-노 아루 시료-오 츠쿠리마시타", exampleMeaning: "설득력 있는 자료를 만들었습니다.",
+    breakdown: [
+      { word: "資料", reading: "しりょう", meaning: "자료" }
+    ] },
+  { level: "N2", kanji: "独自性", reading: "どくじせい", korean: "도쿠지세-", meaning: "독자성",
+    example: "独自性のある商品です。", exampleReading: "どくじせいのあるしょうひんです。", exampleKorean: "도쿠지세-노 아루 쇼-힌데스", exampleMeaning: "독자성이 있는 상품입니다.",
+    breakdown: [
+      { word: "商品", reading: "しょうひん", meaning: "상품" }
+    ] },
+  { level: "N2", kanji: "希少性", reading: "きしょうせい", korean: "키쇼-세-", meaning: "희소성",
+    example: "この資源は希少性が高いです。", exampleReading: "このしげんはきしょうせいがたかいです。", exampleKorean: "코노 시겡와 키쇼-세-가 타카이데스", exampleMeaning: "이 자원은 희소성이 높습니다.",
+    breakdown: [
+      { word: "資源", reading: "しげん", meaning: "자원" }
+    ] },
+  { level: "N2", kanji: "市場性", reading: "しじょうせい", korean: "시죠-세-", meaning: "시장성",
+    example: "この商品は市場性があります。", exampleReading: "このしょうひんはしじょうせいがあります。", exampleKorean: "코노 쇼-힝와 시죠-세-가 아리마스", exampleMeaning: "이 상품은 시장성이 있습니다.",
+    breakdown: [
+      { word: "商品", reading: "しょうひん", meaning: "상품" }
+    ] },
+  { level: "N2", kanji: "将来性", reading: "しょうらいせい", korean: "쇼-라이세-", meaning: "장래성",
+    example: "この業界は将来性があります。", exampleReading: "このぎょうかいはしょうらいせいがあります。", exampleKorean: "코노 교-카이와 쇼-라이세-가 아리마스", exampleMeaning: "이 업계는 장래성이 있습니다.",
+    breakdown: [
+      { word: "業界", reading: "ぎょうかい", meaning: "업계" }
+    ] },
+  { level: "N2", kanji: "発展性", reading: "はってんせい", korean: "핫텐세-", meaning: "발전성",
+    example: "事業の発展性を評価しました。", exampleReading: "じぎょうのはってんせいをひょうかしました。", exampleKorean: "지교-노 핫텐세-오 효-카 시마시타", exampleMeaning: "사업의 발전성을 평가했습니다.",
+    breakdown: [
+      { word: "事業", reading: "じぎょう", meaning: "사업" }
+    ] },
+  { level: "N2", kanji: "汎用性", reading: "はんようせい", korean: "한요-세-", meaning: "범용성",
+    example: "汎用性の高い部品です。", exampleReading: "はんようせいのたかいぶひんです。", exampleKorean: "한요-세-노 타카이 부힌데스", exampleMeaning: "범용성이 높은 부품입니다.",
+    breakdown: [
+      { word: "部品", reading: "ぶひん", meaning: "부품" }
+    ] },
+  { level: "N2", kanji: "柔軟性", reading: "じゅうなんせい", korean: "쥬-난세-", meaning: "유연성",
+    example: "考え方に柔軟性が必要です。", exampleReading: "かんがえかたにじゅうなんせいがひつようです。", exampleKorean: "캉가에카타니 쥬-난세-가 히츠요-데스", exampleMeaning: "사고방식에 유연성이 필요합니다.",
+    breakdown: [
+      { word: "考え方", reading: "かんがえかた", meaning: "사고방식" }
+    ] },
+  { level: "N2", kanji: "実用性", reading: "じつようせい", korean: "지츠요-세-", meaning: "실용성",
+    example: "実用性を重視しました。", exampleReading: "じつようせいをじゅうししました。", exampleKorean: "지츠요-세-오 쥬-시 시마시타", exampleMeaning: "실용성을 중시했습니다.",
+    breakdown: [
+      { word: "重視", reading: "じゅうし", meaning: "중시" }
+    ] },
+  { level: "N2", kanji: "有効性", reading: "ゆうこうせい", korean: "유-코-세-", meaning: "유효성",
+    example: "この方法の有効性を検証しました。", exampleReading: "このほうほうのゆうこうせいをけんしょうしました。", exampleKorean: "코노 호-호-노 유-코-세-오 켄쇼- 시마시타", exampleMeaning: "이 방법의 유효성을 검증했습니다.",
+    breakdown: [
+      { word: "方法", reading: "ほうほう", meaning: "방법" }
+    ] },
+  { level: "N2", kanji: "応用性", reading: "おうようせい", korean: "오-요-세-", meaning: "응용성",
+    example: "この理論は応用性が高いです。", exampleReading: "このりろんはおうようせいがたかいです。", exampleKorean: "코노 리론와 오-요-세-가 타카이데스", exampleMeaning: "이 이론은 응용성이 높습니다.",
+    breakdown: [
+      { word: "理論", reading: "りろん", meaning: "이론" }
+    ] },
+  { level: "N2", kanji: "経済性", reading: "けいざいせい", korean: "케-자이세-", meaning: "경제성",
+    example: "この設備は経済性に優れています。", exampleReading: "このせつびはけいざいせいにすぐれています。", exampleKorean: "코노 세츠비와 케-자이세-니 스구레테 이마스", exampleMeaning: "이 설비는 경제성이 뛰어납니다.",
+    breakdown: [
+      { word: "設備", reading: "せつび", meaning: "설비" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
