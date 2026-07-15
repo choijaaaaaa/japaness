@@ -7622,6 +7622,156 @@ const VOCAB = [
     breakdown: [
       { word: "哲学", reading: "てつがく", meaning: "철학" }
     ] },
+  { level: "N2", kanji: "黒字", reading: "くろじ", korean: "쿠로지", meaning: "흑자",
+    example: "今年は黒字になりました。", exampleReading: "ことしはくろじになりました。", exampleKorean: "코토시와 쿠로지니 나리마시타", exampleMeaning: "올해는 흑자가 되었습니다.",
+    breakdown: [
+      { word: "今年", reading: "ことし", meaning: "올해" }
+    ] },
+  { level: "N2", kanji: "赤字", reading: "あかじ", korean: "아카지", meaning: "적자",
+    example: "会社が赤字続きです。", exampleReading: "かいしゃがあかじつづきです。", exampleKorean: "카이샤가 아카지 츠즈키데스", exampleMeaning: "회사가 계속 적자입니다.",
+    breakdown: [
+      { word: "続き", reading: "つづき", meaning: "계속됨" }
+    ] },
+  { level: "N2", kanji: "経費", reading: "けいひ", korean: "케-히", meaning: "경비",
+    example: "経費を削減しました。", exampleReading: "けいひをさくげんしました。", exampleKorean: "케-히오 사쿠겐 시마시타", exampleMeaning: "경비를 삭감했습니다.",
+    breakdown: [
+      { word: "削減", reading: "さくげん", meaning: "삭감" }
+    ] },
+  { level: "N2", kanji: "出費", reading: "しゅっぴ", korean: "슛피", meaning: "지출",
+    example: "今月は出費が多いです。", exampleReading: "こんげつはしゅっぴがおおいです。", exampleKorean: "콘게츠와 슛피가 오-이데스", exampleMeaning: "이번 달은 지출이 많습니다.",
+    breakdown: [
+      { word: "今月", reading: "こんげつ", meaning: "이번 달" }
+    ] },
+  { level: "N2", kanji: "節減", reading: "せつげん", korean: "세츠겐", meaning: "절감",
+    example: "コストを節減しています。", exampleReading: "コストをせつげんしています。", exampleKorean: "코스토오 세츠겐 시테 이마스", exampleMeaning: "비용을 절감하고 있습니다.",
+    breakdown: [
+      { word: "コスト", reading: "コスト", meaning: "비용" }
+    ] },
+  { level: "N2", kanji: "増税", reading: "ぞうぜい", korean: "조-제-", meaning: "증세",
+    example: "来年から増税されます。", exampleReading: "らいねんからぞうぜいされます。", exampleKorean: "라이넨카라 조-제- 사레마스", exampleMeaning: "내년부터 증세됩니다.",
+    breakdown: [
+      { word: "来年から", reading: "らいねんから", meaning: "내년부터" }
+    ] },
+  { level: "N2", kanji: "減税", reading: "げんぜい", korean: "겐제-", meaning: "감세",
+    example: "政府が減税を発表しました。", exampleReading: "せいふがげんぜいをはっぴょうしました。", exampleKorean: "세-후가 겐제-오 핫표- 시마시타", exampleMeaning: "정부가 감세를 발표했습니다.",
+    breakdown: [
+      { word: "政府", reading: "せいふ", meaning: "정부" }
+    ] },
+  { level: "N2", kanji: "課税", reading: "かぜい", korean: "카제-", meaning: "과세",
+    example: "所得に課税されます。", exampleReading: "しょとくにかぜいされます。", exampleKorean: "쇼토쿠니 카제- 사레마스", exampleMeaning: "소득에 과세됩니다.",
+    breakdown: [
+      { word: "所得", reading: "しょとく", meaning: "소득" }
+    ] },
+  { level: "N2", kanji: "徴収", reading: "ちょうしゅう", korean: "쵸-슈-", meaning: "징수",
+    example: "会費を徴収しました。", exampleReading: "かいひをちょうしゅうしました。", exampleKorean: "카이히오 쵸-슈- 시마시타", exampleMeaning: "회비를 징수했습니다.",
+    breakdown: [
+      { word: "会費", reading: "かいひ", meaning: "회비" }
+    ] },
+  { level: "N2", kanji: "納税", reading: "のうぜい", korean: "노-제-", meaning: "납세",
+    example: "期限内に納税してください。", exampleReading: "きげんないにのうぜいしてください。", exampleKorean: "키겐나이니 노-제- 시테 쿠다사이", exampleMeaning: "기한 내에 납세해 주세요.",
+    breakdown: [
+      { word: "期限内", reading: "きげんない", meaning: "기한 내" }
+    ] },
+  { level: "N2", kanji: "免税", reading: "めんぜい", korean: "멘제-", meaning: "면세",
+    example: "空港で免税品を買いました。", exampleReading: "くうこうでめんぜいひんをかいました。", exampleKorean: "쿠-코-데 멘제-힝오 카이마시타", exampleMeaning: "공항에서 면세품을 샀습니다.",
+    breakdown: [
+      { word: "空港", reading: "くうこう", meaning: "공항" }
+    ] },
+  { level: "N2", kanji: "補助金", reading: "ほじょきん", korean: "호죠킨", meaning: "보조금",
+    example: "国から補助金を受け取りました。", exampleReading: "くにからほじょきんをうけとりました。", exampleKorean: "쿠니카라 호죠킹오 우케토리마시타", exampleMeaning: "국가로부터 보조금을 받았습니다.",
+    breakdown: [
+      { word: "国から", reading: "くにから", meaning: "국가로부터" }
+    ] },
+  { level: "N2", kanji: "助成金", reading: "じょせいきん", korean: "죠세-킨", meaning: "조성금",
+    example: "助成金を申請しました。", exampleReading: "じょせいきんをしんせいしました。", exampleKorean: "죠세-킹오 신세- 시마시타", exampleMeaning: "조성금을 신청했습니다.",
+    breakdown: [
+      { word: "申請", reading: "しんせい", meaning: "신청" }
+    ] },
+  { level: "N2", kanji: "出資", reading: "しゅっし", korean: "슛시", meaning: "출자",
+    example: "新事業に出資しました。", exampleReading: "しんじぎょうにしゅっししました。", exampleKorean: "신지교-니 슛시 시마시타", exampleMeaning: "신규 사업에 출자했습니다.",
+    breakdown: [
+      { word: "新事業", reading: "しんじぎょう", meaning: "신규 사업" }
+    ] },
+  { level: "N2", kanji: "資金", reading: "しきん", korean: "시킨", meaning: "자금",
+    example: "開業の資金を集めました。", exampleReading: "かいぎょうのしきんをあつめました。", exampleKorean: "카이교-노 시킹오 아츠메마시타", exampleMeaning: "개업 자금을 모았습니다.",
+    breakdown: [
+      { word: "開業", reading: "かいぎょう", meaning: "개업" }
+    ] },
+  { level: "N2", kanji: "資産", reading: "しさん", korean: "시산", meaning: "자산",
+    example: "不動産は大きな資産です。", exampleReading: "ふどうさんはおおきなしさんです。", exampleKorean: "후도-상와 오-키나 시산데스", exampleMeaning: "부동산은 큰 자산입니다.",
+    breakdown: [
+      { word: "不動産", reading: "ふどうさん", meaning: "부동산" }
+    ] },
+  { level: "N2", kanji: "負債", reading: "ふさい", korean: "후사이", meaning: "부채",
+    example: "会社の負債が増えました。", exampleReading: "かいしゃのふさいがふえました。", exampleKorean: "카이샤노 후사이가 후에마시타", exampleMeaning: "회사의 부채가 늘었습니다.",
+    breakdown: [
+      { word: "増えました", reading: "ふえました", meaning: "늘었습니다" }
+    ] },
+  { level: "N2", kanji: "元金", reading: "がんきん", korean: "간킨", meaning: "원금",
+    example: "元金を返済しました。", exampleReading: "がんきんをへんさいしました。", exampleKorean: "간킹오 헨사이 시마시타", exampleMeaning: "원금을 상환했습니다.",
+    breakdown: [
+      { word: "返済", reading: "へんさい", meaning: "상환" }
+    ] },
+  { level: "N2", kanji: "利子", reading: "りし", korean: "리시", meaning: "이자",
+    example: "銀行に利子を払います。", exampleReading: "ぎんこうにりしをはらいます。", exampleKorean: "깅코-니 리시오 하라이마스", exampleMeaning: "은행에 이자를 냅니다.",
+    breakdown: [
+      { word: "銀行", reading: "ぎんこう", meaning: "은행" }
+    ] },
+  { level: "N2", kanji: "金利", reading: "きんり", korean: "킨리", meaning: "금리",
+    example: "金利が上がりました。", exampleReading: "きんりがあがりました。", exampleKorean: "킨리가 아가리마시타", exampleMeaning: "금리가 올랐습니다.",
+    breakdown: [
+      { word: "上がりました", reading: "あがりました", meaning: "올랐습니다" }
+    ] },
+  { level: "N2", kanji: "株式", reading: "かぶしき", korean: "카부시키", meaning: "주식",
+    example: "株式を購入しました。", exampleReading: "かぶしきをこうにゅうしました。", exampleKorean: "카부시키오 코-뉴- 시마시타", exampleMeaning: "주식을 구입했습니다.",
+    breakdown: [
+      { word: "購入", reading: "こうにゅう", meaning: "구입" }
+    ] },
+  { level: "N2", kanji: "株価", reading: "かぶか", korean: "카부카", meaning: "주가",
+    example: "株価が下落しました。", exampleReading: "かぶかがげらくしました。", exampleKorean: "카부카가 게라쿠 시마시타", exampleMeaning: "주가가 하락했습니다.",
+    breakdown: [
+      { word: "下落", reading: "げらく", meaning: "하락" }
+    ] },
+  { level: "N2", kanji: "為替", reading: "かわせ", korean: "카와세", meaning: "환율, 외환",
+    example: "為替レートが変動しました。", exampleReading: "かわせレートがへんどうしました。", exampleKorean: "카와세 레-토가 헨도- 시마시타", exampleMeaning: "환율이 변동했습니다.",
+    breakdown: [
+      { word: "レート", reading: "レート", meaning: "레이트, 환율" }
+    ] },
+  { level: "N2", kanji: "相場", reading: "そうば", korean: "소-바", meaning: "시세",
+    example: "株の相場を確認しました。", exampleReading: "かぶのそうばをかくにんしました。", exampleKorean: "카부노 소-바오 카쿠닌시마시타", exampleMeaning: "주식 시세를 확인했습니다.",
+    breakdown: [
+      { word: "株", reading: "かぶ", meaning: "주식" }
+    ] },
+  { level: "N2", kanji: "景気", reading: "けいき", korean: "케-키", meaning: "경기(景氣)",
+    example: "景気が回復しています。", exampleReading: "けいきがかいふくしています。", exampleKorean: "케-키가 카이후쿠 시테 이마스", exampleMeaning: "경기가 회복되고 있습니다.",
+    breakdown: [
+      { word: "回復", reading: "かいふく", meaning: "회복" }
+    ] },
+  { level: "N2", kanji: "不況", reading: "ふきょう", korean: "후쿄-", meaning: "불황",
+    example: "不況で失業者が増えました。", exampleReading: "ふきょうでしつぎょうしゃがふえました。", exampleKorean: "후쿄-데 시츠교-샤가 후에마시타", exampleMeaning: "불황으로 실업자가 늘었습니다.",
+    breakdown: [
+      { word: "失業者", reading: "しつぎょうしゃ", meaning: "실업자" }
+    ] },
+  { level: "N2", kanji: "好況", reading: "こうきょう", korean: "코-쿄-", meaning: "호황",
+    example: "業界全体が好況です。", exampleReading: "ぎょうかいぜんたいがこうきょうです。", exampleKorean: "교-카이 젠타이가 코-쿄-데스", exampleMeaning: "업계 전체가 호황입니다.",
+    breakdown: [
+      { word: "業界", reading: "ぎょうかい", meaning: "업계" }
+    ] },
+  { level: "N2", kanji: "恐慌", reading: "きょうこう", korean: "쿄-코-", meaning: "공황(경제)",
+    example: "世界恐慌が起こりました。", exampleReading: "せかいきょうこうがおこりました。", exampleKorean: "세카이 쿄-코-가 오코리마시타", exampleMeaning: "세계 공황이 일어났습니다.",
+    breakdown: [
+      { word: "世界", reading: "せかい", meaning: "세계" }
+    ] },
+  { level: "N2", kanji: "破産", reading: "はさん", korean: "하산", meaning: "파산",
+    example: "会社が破産しました。", exampleReading: "かいしゃがはさんしました。", exampleKorean: "카이샤가 하산 시마시타", exampleMeaning: "회사가 파산했습니다.",
+    breakdown: [
+      { word: "会社", reading: "かいしゃ", meaning: "회사" }
+    ] },
+  { level: "N2", kanji: "倒産", reading: "とうさん", korean: "토-산", meaning: "도산",
+    example: "中小企業が倒産しました。", exampleReading: "ちゅうしょうきぎょうがとうさんしました。", exampleKorean: "츄-쇼- 키교-가 토-산 시마시타", exampleMeaning: "중소기업이 도산했습니다.",
+    breakdown: [
+      { word: "中小企業", reading: "ちゅうしょうきぎょう", meaning: "중소기업" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
