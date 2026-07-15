@@ -9916,4 +9916,154 @@ const VOCAB = [
     breakdown: [
       { word: "法律", reading: "ほうりつ", meaning: "법률" }
     ] },
+  { level: "N1", kanji: "謙譲", reading: "けんじょう", korean: "켄죠-", meaning: "겸양",
+    example: "謙譲の精神を大切にしています。", exampleReading: "けんじょうのせいしんをたいせつにしています。", exampleKorean: "켄죠-노 세-싱오 타이세츠니 시테 이마스", exampleMeaning: "겸양의 정신을 소중히 하고 있습니다.",
+    breakdown: [
+      { word: "精神", reading: "せいしん", meaning: "정신" }
+    ] },
+  { level: "N1", kanji: "敬語", reading: "けいご", korean: "케-고", meaning: "존댓말",
+    example: "敬語を正しく使うのは難しいです。", exampleReading: "けいごをただしくつかうのはむずかしいです。", exampleKorean: "케-고오 타다시쿠 츠카우노와 무즈카시-데스", exampleMeaning: "존댓말을 정확히 쓰는 것은 어렵습니다.",
+    breakdown: [
+      { word: "正しく", reading: "ただしく", meaning: "정확히" }
+    ] },
+  { level: "N1", kanji: "丁重", reading: "ていちょう", korean: "테-쵸-", meaning: "정중",
+    example: "お客様を丁重にもてなしました。", exampleReading: "おきゃくさまをていちょうにもてなしました。", exampleKorean: "오캬쿠사마오 테-쵸-니 모테나시마시타", exampleMeaning: "손님을 정중하게 대접했습니다.",
+    breakdown: [
+      { word: "お客様", reading: "おきゃくさま", meaning: "손님" }
+    ] },
+  { level: "N1", kanji: "無礼", reading: "ぶれい", korean: "부레-", meaning: "무례",
+    example: "無礼な態度に驚きました。", exampleReading: "ぶれいなたいどにおどろきました。", exampleKorean: "부레-나 타이도니 오도로키마시타", exampleMeaning: "무례한 태도에 놀랐습니다.",
+    breakdown: [
+      { word: "態度", reading: "たいど", meaning: "태도" }
+    ] },
+  { level: "N1", kanji: "失礼", reading: "しつれい", korean: "시츠레-", meaning: "실례",
+    example: "失礼なことを言ってしまいました。", exampleReading: "しつれいなことをいってしまいました。", exampleKorean: "시츠레-나 코토오 잇테 시마이마시타", exampleMeaning: "실례되는 말을 해버렸습니다.",
+    breakdown: [
+      { word: "言って", reading: "いって", meaning: "말해서" }
+    ] },
+  { level: "N1", kanji: "慎み", reading: "つつしみ", korean: "츠츠시미", meaning: "조심스러움, 신중함",
+    example: "慎みのある態度が評価されました。", exampleReading: "つつしみのあるたいどがひょうかされました。", exampleKorean: "츠츠시미노 아루 타이도가 효-카사레마시타", exampleMeaning: "신중한 태도가 평가받았습니다.",
+    breakdown: [
+      { word: "態度", reading: "たいど", meaning: "태도" }
+    ] },
+  { level: "N1", kanji: "奥ゆかしい", reading: "おくゆかしい", korean: "오쿠유카시-", meaning: "그윽하다, 우아하다",
+    example: "彼女は奥ゆかしい人です。", exampleReading: "かのじょはおくゆかしいひとです。", exampleKorean: "카노죠와 오쿠유카시- 히토데스", exampleMeaning: "그녀는 우아한 사람입니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N1", kanji: "品格", reading: "ひんかく", korean: "힌카쿠", meaning: "품격",
+    example: "彼女には品格があります。", exampleReading: "かのじょにはひんかくがあります。", exampleKorean: "카노죠니와 힌카쿠가 아리마스", exampleMeaning: "그녀에게는 품격이 있습니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N1", kanji: "品位", reading: "ひんい", korean: "힌이", meaning: "품위",
+    example: "品位を保つよう心がけています。", exampleReading: "ひんいをたもつようこころがけています。", exampleKorean: "힌이오 타모츠요- 코코로가케테 이마스", exampleMeaning: "품위를 유지하도록 유념하고 있습니다.",
+    breakdown: [
+      { word: "保つ", reading: "たもつ", meaning: "유지하다" }
+    ] },
+  { level: "N1", kanji: "風格", reading: "ふうかく", korean: "후-카쿠", meaning: "풍격",
+    example: "彼には風格があります。", exampleReading: "かれにはふうかくがあります。", exampleKorean: "카레니와 후-카쿠가 아리마스", exampleMeaning: "그에게는 풍격이 있습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N1", kanji: "貫禄", reading: "かんろく", korean: "칸로쿠", meaning: "관록",
+    example: "社長としての貫禄が出てきました。", exampleReading: "しゃちょうとしてのかんろくがでてきました。", exampleKorean: "샤쵸-토시테노 칸로쿠가 데테 키마시타", exampleMeaning: "사장으로서의 관록이 생겼습니다.",
+    breakdown: [
+      { word: "社長", reading: "しゃちょう", meaning: "사장" }
+    ] },
+  { level: "N1", kanji: "威厳", reading: "いげん", korean: "이겐", meaning: "위엄",
+    example: "威厳のある声で話しました。", exampleReading: "いげんのあるこえではなしました。", exampleKorean: "이겐노 아루 코에데 하나시마시타", exampleMeaning: "위엄 있는 목소리로 말했습니다.",
+    breakdown: [
+      { word: "声", reading: "こえ", meaning: "목소리" }
+    ] },
+  { level: "N1", kanji: "厳格", reading: "げんかく", korean: "겐카쿠", meaning: "엄격",
+    example: "父は厳格な人でした。", exampleReading: "ちちはげんかくなひとでした。", exampleKorean: "치치와 겐카쿠나 히토데시타", exampleMeaning: "아버지는 엄격한 사람이었습니다.",
+    breakdown: [
+      { word: "父", reading: "ちち", meaning: "아버지" }
+    ] },
+  { level: "N1", kanji: "厳粛", reading: "げんしゅく", korean: "겐슈쿠", meaning: "엄숙",
+    example: "厳粛な雰囲気で式が行われました。", exampleReading: "げんしゅくなふんいきでしきがおこなわれました。", exampleKorean: "겐슈쿠나 훙이키데 시키가 오코나와레마시타", exampleMeaning: "엄숙한 분위기 속에서 식이 거행되었습니다.",
+    breakdown: [
+      { word: "雰囲気", reading: "ふんいき", meaning: "분위기" }
+    ] },
+  { level: "N1", kanji: "荘厳", reading: "そうごん", korean: "소-곤", meaning: "장엄",
+    example: "荘厳な建物に感動しました。", exampleReading: "そうごんなたてものにかんどうしました。", exampleKorean: "소-곤나 타테모노니 칸도- 시마시타", exampleMeaning: "장엄한 건물에 감동했습니다.",
+    breakdown: [
+      { word: "建物", reading: "たてもの", meaning: "건물" }
+    ] },
+  { level: "N1", kanji: "神妙", reading: "しんみょう", korean: "신묘-", meaning: "신묘함, 얌전함",
+    example: "彼は神妙な顔をしていました。", exampleReading: "かれはしんみょうなかおをしていました。", exampleKorean: "카레와 신묘-나 카오오 시테 이마시타", exampleMeaning: "그는 얌전한 얼굴을 하고 있었습니다.",
+    breakdown: [
+      { word: "顔", reading: "かお", meaning: "얼굴" }
+    ] },
+  { level: "N1", kanji: "殊勝", reading: "しゅしょう", korean: "슈쇼-", meaning: "기특함",
+    example: "殊勝な心がけですね。", exampleReading: "しゅしょうなこころがけですね。", exampleKorean: "슈쇼-나 코코로가케데스네", exampleMeaning: "기특한 마음가짐이네요.",
+    breakdown: [
+      { word: "心がけ", reading: "こころがけ", meaning: "마음가짐" }
+    ] },
+  { level: "N1", kanji: "健気", reading: "けなげ", korean: "케나게", meaning: "기특함, 씩씩함",
+    example: "子供が健気に頑張っています。", exampleReading: "こどもがけなげにがんばっています。", exampleKorean: "코도모가 케나게니 감밧테 이마스", exampleMeaning: "아이가 씩씩하게 노력하고 있습니다.",
+    breakdown: [
+      { word: "頑張って", reading: "がんばって", meaning: "노력해서" }
+    ] },
+  { level: "N1", kanji: "いじらしい", reading: "いじらしい", korean: "이지라시-", meaning: "애처롭다, 갸륵하다",
+    example: "子供の姿がいじらしいです。", exampleReading: "こどものすがたがいじらしいです。", exampleKorean: "코도모노 스가타가 이지라시-데스", exampleMeaning: "아이의 모습이 애처롭습니다.",
+    breakdown: [
+      { word: "姿", reading: "すがた", meaning: "모습" }
+    ] },
+  { level: "N1", kanji: "痛々しい", reading: "いたいたしい", korean: "이타이타시-", meaning: "애처롭다, 안타깝다",
+    example: "痛々しい姿を見て涙が出ました。", exampleReading: "いたいたしいすがたをみてなみだがでました。", exampleKorean: "이타이타시- 스가타오 미테 나미다가 데마시타", exampleMeaning: "안타까운 모습을 보고 눈물이 났습니다.",
+    breakdown: [
+      { word: "涙", reading: "なみだ", meaning: "눈물" }
+    ] },
+  { level: "N1", kanji: "切ない", reading: "せつない", korean: "세츠나이", meaning: "애달프다, 안타깝다",
+    example: "別れが切ないです。", exampleReading: "わかれがせつないです。", exampleKorean: "와카레가 세츠나이데스", exampleMeaning: "이별이 애달픕니다.",
+    breakdown: [
+      { word: "別れ", reading: "わかれ", meaning: "이별" }
+    ] },
+  { level: "N1", kanji: "やるせない", reading: "やるせない", korean: "야루세나이", meaning: "처량하다, 마음이 아프다",
+    example: "やるせない気持ちになりました。", exampleReading: "やるせないきもちになりました。", exampleKorean: "야루세나이 키모치니 나리마시타", exampleMeaning: "처량한 기분이 되었습니다.",
+    breakdown: [
+      { word: "気持ち", reading: "きもち", meaning: "기분" }
+    ] },
+  { level: "N1", kanji: "侘しい", reading: "わびしい", korean: "와비시-", meaning: "쓸쓸하다, 초라하다",
+    example: "一人の食事は侘しいです。", exampleReading: "ひとりのしょくじはわびしいです。", exampleKorean: "히토리노 쇼쿠지와 와비시-데스", exampleMeaning: "혼자 하는 식사는 쓸쓸합니다.",
+    breakdown: [
+      { word: "一人", reading: "ひとり", meaning: "혼자" }
+    ] },
+  { level: "N1", kanji: "儚い", reading: "はかない", korean: "하카나이", meaning: "덧없다",
+    example: "儚い夢を見ました。", exampleReading: "はかないゆめをみました。", exampleKorean: "하카나이 유메오 미마시타", exampleMeaning: "덧없는 꿈을 꿨습니다.",
+    breakdown: [
+      { word: "夢", reading: "ゆめ", meaning: "꿈" }
+    ] },
+  { level: "N1", kanji: "虚しい", reading: "むなしい", korean: "무나시-", meaning: "허무하다",
+    example: "努力が虚しく終わりました。", exampleReading: "どりょくがむなしくおわりました。", exampleKorean: "도료쿠가 무나시쿠 오와리마시타", exampleMeaning: "노력이 허무하게 끝났습니다.",
+    breakdown: [
+      { word: "努力", reading: "どりょく", meaning: "노력" }
+    ] },
+  { level: "N1", kanji: "名残惜しい", reading: "なごりおしい", korean: "나고리오시-", meaning: "아쉽다, 섭섭하다",
+    example: "別れが名残惜しいです。", exampleReading: "わかれがなごりおしいです。", exampleKorean: "와카레가 나고리오시-데스", exampleMeaning: "헤어짐이 아쉽습니다.",
+    breakdown: [
+      { word: "別れ", reading: "わかれ", meaning: "헤어짐" }
+    ] },
+  { level: "N1", kanji: "物悲しい", reading: "ものがなしい", korean: "모노가나시-", meaning: "애처롭다, 구슬프다",
+    example: "物悲しい音楽が流れていました。", exampleReading: "ものがなしいおんがくがながれていました。", exampleKorean: "모노가나시- 옹가쿠가 나가레테 이마시타", exampleMeaning: "구슬픈 음악이 흐르고 있었습니다.",
+    breakdown: [
+      { word: "音楽", reading: "おんがく", meaning: "음악" }
+    ] },
+  { level: "N1", kanji: "悲哀", reading: "ひあい", korean: "히아이", meaning: "비애",
+    example: "人生の悲哀を感じました。", exampleReading: "じんせいのひあいをかんじました。", exampleKorean: "진세-노 히아이오 칸지마시타", exampleMeaning: "인생의 비애를 느꼈습니다.",
+    breakdown: [
+      { word: "人生", reading: "じんせい", meaning: "인생" }
+    ] },
+  { level: "N1", kanji: "哀愁", reading: "あいしゅう", korean: "아이슈-", meaning: "애수",
+    example: "哀愁を帯びたメロディーです。", exampleReading: "あいしゅうをおびたメロディーです。", exampleKorean: "아이슈-오 오비타 메로디-데스", exampleMeaning: "애수를 띤 멜로디입니다.",
+    breakdown: [
+      { word: "メロディー", reading: "メロディー", meaning: "멜로디" }
+    ] },
+  { level: "N1", kanji: "情緒", reading: "じょうちょ", korean: "죠-쵸", meaning: "정서",
+    example: "情緒不安定になっています。", exampleReading: "じょうちょふあんていになっています。", exampleKorean: "죠-쵸 후안테-니 낫테 이마스", exampleMeaning: "정서 불안정 상태가 되었습니다.",
+    breakdown: [
+      { word: "不安定", reading: "ふあんてい", meaning: "불안정" }
+    ] },
 ];
