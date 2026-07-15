@@ -6288,6 +6288,256 @@ const VOCAB = [
     breakdown: [
       { word: "店", reading: "みせ", meaning: "가게" }
     ] },
+  { level: "N4", kanji: "選挙権", reading: "せんきょけん", korean: "센쿄켄", meaning: "선거권",
+    example: "十八歳から選挙権があります。", exampleReading: "じゅうはっさいからせんきょけんがあります。", exampleKorean: "쥬-핫사이카라 센쿄켕가 아리마스", exampleMeaning: "18세부터 선거권이 있습니다.",
+    breakdown: [
+      { word: "十八歳", reading: "じゅうはっさい", meaning: "18세" }
+    ] },
+  { level: "N4", kanji: "投票所", reading: "とうひょうじょ", korean: "토-효-죠", meaning: "투표소",
+    example: "投票所で投票しました。", exampleReading: "とうひょうじょでとうひょうしました。", exampleKorean: "토-효-죠데 토-효- 시마시타", exampleMeaning: "투표소에서 투표했습니다.",
+    breakdown: [
+      { word: "投票", reading: "とうひょう", meaning: "투표" }
+    ] },
+  { level: "N4", kanji: "立候補", reading: "りっこうほ", korean: "릭코-호", meaning: "입후보",
+    example: "市長選に立候補しました。", exampleReading: "しちょうせんにりっこうほしました。", exampleKorean: "시쵸-센니 릭코-호 시마시타", exampleMeaning: "시장 선거에 입후보했습니다.",
+    breakdown: [
+      { word: "市長選", reading: "しちょうせん", meaning: "시장 선거" }
+    ] },
+  { level: "N4", kanji: "当選", reading: "とうせん", korean: "토-센", meaning: "당선",
+    example: "選挙で当選しました。", exampleReading: "せんきょでとうせんしました。", exampleKorean: "센쿄데 토-센 시마시타", exampleMeaning: "선거에서 당선되었습니다.",
+    breakdown: [
+      { word: "選挙", reading: "せんきょ", meaning: "선거" }
+    ] },
+  { level: "N4", kanji: "落選", reading: "らくせん", korean: "라쿠센", meaning: "낙선",
+    example: "惜しくも落選しました。", exampleReading: "おしくもらくせんしました。", exampleKorean: "오시쿠모 라쿠센 시마시타", exampleMeaning: "아쉽게도 낙선했습니다.",
+    breakdown: [
+      { word: "惜しくも", reading: "おしくも", meaning: "아쉽게도" }
+    ] },
+  { level: "N4", kanji: "議席", reading: "ぎせき", korean: "기세키", meaning: "의석",
+    example: "党は議席を増やしました。", exampleReading: "とうはぎせきをふやしました。", exampleKorean: "토-와 기세키오 후야시마시타", exampleMeaning: "당은 의석을 늘렸습니다.",
+    breakdown: [
+      { word: "党", reading: "とう", meaning: "당" }
+    ] },
+  { level: "N4", kanji: "国会議員", reading: "こっかいぎいん", korean: "콕카이기인", meaning: "국회의원",
+    example: "彼は国会議員です。", exampleReading: "かれはこっかいぎいんです。", exampleKorean: "카레와 콕카이기인데스", exampleMeaning: "그는 국회의원입니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N4", kanji: "市議会", reading: "しぎかい", korean: "시기카이", meaning: "시의회",
+    example: "市議会で議論されました。", exampleReading: "しぎかいでぎろんされました。", exampleKorean: "시기카이데 기론사레마시타", exampleMeaning: "시의회에서 논의되었습니다.",
+    breakdown: [
+      { word: "議論", reading: "ぎろん", meaning: "논의" }
+    ] },
+  { level: "N4", kanji: "県議会", reading: "けんぎかい", korean: "켄기카이", meaning: "현의회",
+    example: "県議会に提案しました。", exampleReading: "けんぎかいにていあんしました。", exampleKorean: "켄기카이니 테-안 시마시타", exampleMeaning: "현의회에 제안했습니다.",
+    breakdown: [
+      { word: "提案", reading: "ていあん", meaning: "제안" }
+    ] },
+  { level: "N4", kanji: "条例", reading: "じょうれい", korean: "죠-레-", meaning: "조례",
+    example: "新しい条例が制定されました。", exampleReading: "あたらしいじょうれいがせいていされました。", exampleKorean: "아타라시- 죠-레-가 세-테-사레마시타", exampleMeaning: "새로운 조례가 제정되었습니다.",
+    breakdown: [
+      { word: "制定", reading: "せいてい", meaning: "제정" }
+    ] },
+  { level: "N4", kanji: "行政", reading: "ぎょうせい", korean: "교-세-", meaning: "행정",
+    example: "行政サービスを利用しました。", exampleReading: "ぎょうせいサービスをりようしました。", exampleKorean: "교-세- 사-비스오 리요- 시마시타", exampleMeaning: "행정 서비스를 이용했습니다.",
+    breakdown: [
+      { word: "サービス", reading: "サービス", meaning: "서비스" }
+    ] },
+  { level: "N4", kanji: "公務員", reading: "こうむいん", korean: "코-무인", meaning: "공무원",
+    example: "彼は公務員です。", exampleReading: "かれはこうむいんです。", exampleKorean: "카레와 코-무인데스", exampleMeaning: "그는 공무원입니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N4", kanji: "税務署", reading: "ぜいむしょ", korean: "제-무쇼", meaning: "세무서",
+    example: "税務署に書類を出しました。", exampleReading: "ぜいむしょにしょるいをだしました。", exampleKorean: "제-무쇼니 쇼루이오 다시마시타", exampleMeaning: "세무서에 서류를 냈습니다.",
+    breakdown: [
+      { word: "書類", reading: "しょるい", meaning: "서류" }
+    ] },
+  { level: "N4", kanji: "年金手帳", reading: "ねんきんてちょう", korean: "넨킨테쵸-", meaning: "연금수첩",
+    example: "年金手帳をなくしました。", exampleReading: "ねんきんてちょうをなくしました。", exampleKorean: "넨킨테쵸-오 나쿠시마시타", exampleMeaning: "연금수첩을 잃어버렸습니다.",
+    breakdown: [
+      { word: "なくしました", reading: "なくしました", meaning: "잃어버렸습니다" }
+    ] },
+  { level: "N4", kanji: "戸籍", reading: "こせき", korean: "코세키", meaning: "호적",
+    example: "戸籍を確認しました。", exampleReading: "こせきをかくにんしました。", exampleKorean: "코세키오 카쿠닌 시마시타", exampleMeaning: "호적을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "住民票", reading: "じゅうみんひょう", korean: "쥬-민효-", meaning: "주민등록등본",
+    example: "住民票を取りました。", exampleReading: "じゅうみんひょうをとりました。", exampleKorean: "쥬-민효-오 토리마시타", exampleMeaning: "주민등록등본을 발급받았습니다.",
+    breakdown: [
+      { word: "取りました", reading: "とりました", meaning: "발급받았습니다" }
+    ] },
+  { level: "N4", kanji: "印鑑登録", reading: "いんかんとうろく", korean: "인칸토-로쿠", meaning: "인감등록",
+    example: "印鑑登録をしました。", exampleReading: "いんかんとうろくをしました。", exampleKorean: "인칸토-로쿠오 시마시타", exampleMeaning: "인감등록을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "マイナンバー", reading: "マイナンバー", korean: "마이남바-", meaning: "마이넘버(개인번호)",
+    example: "マイナンバーカードを申請しました。", exampleReading: "マイナンバーカードをしんせいしました。", exampleKorean: "마이남바- 카-도오 신세- 시마시타", exampleMeaning: "마이넘버 카드를 신청했습니다.",
+    breakdown: [
+      { word: "申請", reading: "しんせい", meaning: "신청" }
+    ] },
+  { level: "N4", kanji: "身分証明", reading: "みぶんしょうめい", korean: "미분쇼-메-", meaning: "신분증명",
+    example: "身分証明が必要です。", exampleReading: "みぶんしょうめいがひつようです。", exampleKorean: "미분쇼-메-가 히츠요-데스", exampleMeaning: "신분증명이 필요합니다.",
+    breakdown: [
+      { word: "必要", reading: "ひつよう", meaning: "필요" }
+    ] },
+  { level: "N4", kanji: "国籍", reading: "こくせき", korean: "코쿠세키", meaning: "국적",
+    example: "彼の国籍は日本です。", exampleReading: "かれのこくせきはにほんです。", exampleKorean: "카레노 코쿠세키와 니혼데스", exampleMeaning: "그의 국적은 일본입니다.",
+    breakdown: [
+      { word: "日本", reading: "にほん", meaning: "일본" }
+    ] },
+  { level: "N4", kanji: "永住権", reading: "えいじゅうけん", korean: "에-쥬-켄", meaning: "영주권",
+    example: "永住権を取得しました。", exampleReading: "えいじゅうけんをしゅとくしました。", exampleKorean: "에-쥬-켕오 슈토쿠 시마시타", exampleMeaning: "영주권을 취득했습니다.",
+    breakdown: [
+      { word: "取得", reading: "しゅとく", meaning: "취득" }
+    ] },
+  { level: "N4", kanji: "帰化", reading: "きか", korean: "키카", meaning: "귀화",
+    example: "日本に帰化しました。", exampleReading: "にほんにきかしました。", exampleKorean: "니혼니 키카 시마시타", exampleMeaning: "일본에 귀화했습니다.",
+    breakdown: [
+      { word: "日本", reading: "にほん", meaning: "일본" }
+    ] },
+  { level: "N4", kanji: "外国籍", reading: "がいこくせき", korean: "가이코쿠세키", meaning: "외국국적",
+    example: "外国籍の人が増えています。", exampleReading: "がいこくせきのひとがふえています。", exampleKorean: "가이코쿠세키노 히토가 후에테 이마스", exampleMeaning: "외국국적인 사람이 늘고 있습니다.",
+    breakdown: [
+      { word: "増えて", reading: "ふえて", meaning: "늘어서" }
+    ] },
+  { level: "N4", kanji: "在留カード", reading: "ざいりゅうカード", korean: "자이류-카-도", meaning: "재류카드",
+    example: "在留カードを携帯しています。", exampleReading: "ざいりゅうカードをけいたいしています。", exampleKorean: "자이류-카-도오 케-타이 시테 이마스", exampleMeaning: "재류카드를 휴대하고 있습니다.",
+    breakdown: [
+      { word: "携帯して", reading: "けいたいして", meaning: "휴대해서" }
+    ] },
+  { level: "N4", kanji: "入国管理局", reading: "にゅうこくかんりきょく", korean: "뉴-코쿠칸리쿄쿠", meaning: "출입국관리국",
+    example: "入国管理局で手続きをしました。", exampleReading: "にゅうこくかんりきょくでてつづきをしました。", exampleKorean: "뉴-코쿠칸리쿄쿠데 테츠즈키오 시마시타", exampleMeaning: "출입국관리국에서 절차를 밟았습니다.",
+    breakdown: [
+      { word: "手続き", reading: "てつづき", meaning: "절차" }
+    ] },
+  { level: "N4", kanji: "ビザ更新", reading: "ビザこうしん", korean: "비자코-신", meaning: "비자갱신",
+    example: "ビザ更新の手続きをしました。", exampleReading: "ビザこうしんのてつづきをしました。", exampleKorean: "비자코-신노 테츠즈키오 시마시타", exampleMeaning: "비자갱신 절차를 밟았습니다.",
+    breakdown: [
+      { word: "手続き", reading: "てつづき", meaning: "절차" }
+    ] },
+  { level: "N4", kanji: "査証", reading: "さしょう", korean: "사쇼-", meaning: "사증(비자)",
+    example: "査証を申請しました。", exampleReading: "さしょうをしんせいしました。", exampleKorean: "사쇼-오 신세- 시마시타", exampleMeaning: "사증을 신청했습니다.",
+    breakdown: [
+      { word: "申請", reading: "しんせい", meaning: "신청" }
+    ] },
+  { level: "N4", kanji: "税関", reading: "ぜいかん", korean: "제-칸", meaning: "세관",
+    example: "税関で荷物を調べられました。", exampleReading: "ぜいかんでにもつをしらべられました。", exampleKorean: "제-칸데 니모츠오 시라베라레마시타", exampleMeaning: "세관에서 짐을 검사받았습니다.",
+    breakdown: [
+      { word: "荷物", reading: "にもつ", meaning: "짐" }
+    ] },
+  { level: "N4", kanji: "入国審査", reading: "にゅうこくしんさ", korean: "뉴-코쿠신사", meaning: "입국심사",
+    example: "入国審査を受けました。", exampleReading: "にゅうこくしんさをうけました。", exampleKorean: "뉴-코쿠신사오 우케마시타", exampleMeaning: "입국심사를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "出国", reading: "しゅっこく", korean: "슉코쿠", meaning: "출국",
+    example: "明日出国します。", exampleReading: "あしたしゅっこくします。", exampleKorean: "아시타 슉코쿠 시마스", exampleMeaning: "내일 출국합니다.",
+    breakdown: [
+      { word: "明日", reading: "あした", meaning: "내일" }
+    ] },
+  { level: "N4", kanji: "領事館", reading: "りょうじかん", korean: "료-지칸", meaning: "영사관",
+    example: "領事館でパスポートを申請しました。", exampleReading: "りょうじかんでパスポートをしんせいしました。", exampleKorean: "료-지칸데 파스포-토오 신세- 시마시타", exampleMeaning: "영사관에서 여권을 신청했습니다.",
+    breakdown: [
+      { word: "パスポート", reading: "パスポート", meaning: "여권" }
+    ] },
+  { level: "N4", kanji: "大使", reading: "たいし", korean: "타이시", meaning: "대사",
+    example: "彼は日本の大使です。", exampleReading: "かれはにほんのたいしです。", exampleKorean: "카레와 니혼노 타이시데스", exampleMeaning: "그는 일본의 대사입니다.",
+    breakdown: [
+      { word: "日本", reading: "にほん", meaning: "일본" }
+    ] },
+  { level: "N4", kanji: "通訳", reading: "つうやく", korean: "츠-야쿠", meaning: "통역",
+    example: "会議で通訳をしました。", exampleReading: "かいぎでつうやくをしました。", exampleKorean: "카이기데 츠-야쿠오 시마시타", exampleMeaning: "회의에서 통역을 했습니다.",
+    breakdown: [
+      { word: "会議", reading: "かいぎ", meaning: "회의" }
+    ] },
+  { level: "N4", kanji: "翻訳", reading: "ほんやく", korean: "혼야쿠", meaning: "번역",
+    example: "小説を翻訳しました。", exampleReading: "しょうせつをほんやくしました。", exampleKorean: "쇼-세츠오 혼야쿠 시마시타", exampleMeaning: "소설을 번역했습니다.",
+    breakdown: [
+      { word: "小説", reading: "しょうせつ", meaning: "소설" }
+    ] },
+  { level: "N4", kanji: "語学", reading: "ごがく", korean: "고가쿠", meaning: "어학",
+    example: "語学を勉強しています。", exampleReading: "ごがくをべんきょうしています。", exampleKorean: "고가쿠오 벵쿄- 시테 이마스", exampleMeaning: "어학을 공부하고 있습니다.",
+    breakdown: [
+      { word: "勉強", reading: "べんきょう", meaning: "공부" }
+    ] },
+  { level: "N4", kanji: "母国語", reading: "ぼこくご", korean: "보코쿠고", meaning: "모국어",
+    example: "母国語は韓国語です。", exampleReading: "ぼこくごはかんこくごです。", exampleKorean: "보코쿠고와 캉코쿠고데스", exampleMeaning: "모국어는 한국어입니다.",
+    breakdown: [
+      { word: "韓国語", reading: "かんこくご", meaning: "한국어" }
+    ] },
+  { level: "N4", kanji: "公用語", reading: "こうようご", korean: "코-요-고", meaning: "공용어",
+    example: "英語が公用語です。", exampleReading: "えいごがこうようごです。", exampleKorean: "에-고가 코-요-고데스", exampleMeaning: "영어가 공용어입니다.",
+    breakdown: [
+      { word: "英語", reading: "えいご", meaning: "영어" }
+    ] },
+  { level: "N4", kanji: "方言", reading: "ほうげん", korean: "호-겐", meaning: "방언",
+    example: "地方の方言を勉強しています。", exampleReading: "ちほうのほうげんをべんきょうしています。", exampleKorean: "치호-노 호-겡오 벵쿄- 시테 이마스", exampleMeaning: "지방의 방언을 공부하고 있습니다.",
+    breakdown: [
+      { word: "地方", reading: "ちほう", meaning: "지방" }
+    ] },
+  { level: "N4", kanji: "標準語", reading: "ひょうじゅんご", korean: "효-쥰고", meaning: "표준어",
+    example: "標準語で話しました。", exampleReading: "ひょうじゅんごではなしました。", exampleKorean: "효-쥰고데 하나시마시타", exampleMeaning: "표준어로 말했습니다.",
+    breakdown: [
+      { word: "話しました", reading: "はなしました", meaning: "말했습니다" }
+    ] },
+  { level: "N4", kanji: "略語", reading: "りゃくご", korean: "랴쿠고", meaning: "약어",
+    example: "この略語の意味が分かりません。", exampleReading: "このりゃくごのいみがわかりません。", exampleKorean: "코노 랴쿠고노 이미가 와카리마셍", exampleMeaning: "이 약어의 의미를 모르겠습니다.",
+    breakdown: [
+      { word: "意味", reading: "いみ", meaning: "의미" }
+    ] },
+  { level: "N4", kanji: "敬称", reading: "けいしょう", korean: "케-쇼-", meaning: "경칭",
+    example: "敬称をつけて呼びました。", exampleReading: "けいしょうをつけてよびました。", exampleKorean: "케-쇼-오 츠케테 요비마시타", exampleMeaning: "경칭을 붙여서 불렀습니다.",
+    breakdown: [
+      { word: "呼びました", reading: "よびました", meaning: "불렀습니다" }
+    ] },
+  { level: "N4", kanji: "呼称", reading: "こしょう", korean: "코쇼-", meaning: "호칭",
+    example: "新しい呼称が使われています。", exampleReading: "あたらしいこしょうがつかわれています。", exampleKorean: "아타라시- 코쇼-가 츠카와레테 이마스", exampleMeaning: "새로운 호칭이 사용되고 있습니다.",
+    breakdown: [
+      { word: "使われて", reading: "つかわれて", meaning: "사용되어" }
+    ] },
+  { level: "N4", kanji: "略称", reading: "りゃくしょう", korean: "랴쿠쇼-", meaning: "약칭",
+    example: "会社の略称で呼ばれています。", exampleReading: "かいしゃのりゃくしょうでよばれています。", exampleKorean: "카이샤노 랴쿠쇼-데 요바레테 이마스", exampleMeaning: "회사의 약칭으로 불리고 있습니다.",
+    breakdown: [
+      { word: "会社", reading: "かいしゃ", meaning: "회사" }
+    ] },
+  { level: "N4", kanji: "通称", reading: "つうしょう", korean: "츠-쇼-", meaning: "통칭",
+    example: "通称で知られています。", exampleReading: "つうしょうでしられています。", exampleKorean: "츠-쇼-데 시라레테 이마스", exampleMeaning: "통칭으로 알려져 있습니다.",
+    breakdown: [
+      { word: "知られて", reading: "しられて", meaning: "알려져" }
+    ] },
+  { level: "N4", kanji: "本名", reading: "ほんみょう", korean: "혼묘-", meaning: "본명",
+    example: "本名を教えてください。", exampleReading: "ほんみょうをおしえてください。", exampleKorean: "혼묘-오 오시에테 쿠다사이", exampleMeaning: "본명을 알려 주세요.",
+    breakdown: [
+      { word: "教えて", reading: "おしえて", meaning: "알려줘서" }
+    ] },
+  { level: "N4", kanji: "偽名", reading: "ぎめい", korean: "기메-", meaning: "가명",
+    example: "偽名を使っていました。", exampleReading: "ぎめいをつかっていました。", exampleKorean: "기메-오 츠캇테 이마시타", exampleMeaning: "가명을 사용하고 있었습니다.",
+    breakdown: [
+      { word: "使って", reading: "つかって", meaning: "사용해서" }
+    ] },
+  { level: "N4", kanji: "匿名", reading: "とくめい", korean: "토쿠메-", meaning: "익명",
+    example: "匿名で投稿しました。", exampleReading: "とくめいでとうこうしました。", exampleKorean: "토쿠메-데 토-코- 시마시타", exampleMeaning: "익명으로 게시했습니다.",
+    breakdown: [
+      { word: "投稿", reading: "とうこう", meaning: "게시" }
+    ] },
+  { level: "N4", kanji: "ペンネーム", reading: "ペンネーム", korean: "펜네-무", meaning: "필명",
+    example: "ペンネームで活動しています。", exampleReading: "ペンネームでかつどうしています。", exampleKorean: "펜네-무데 카츠도- 시테 이마스", exampleMeaning: "필명으로 활동하고 있습니다.",
+    breakdown: [
+      { word: "活動", reading: "かつどう", meaning: "활동" }
+    ] },
+  { level: "N4", kanji: "早口", reading: "はやくち", korean: "하야쿠치", meaning: "말이 빠름",
+    example: "彼女は早口で話します。", exampleReading: "かのじょははやくちではなします。", exampleKorean: "카노죠와 하야쿠치데 하나시마스", exampleMeaning: "그녀는 말이 빠릅니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N4", kanji: "独り言", reading: "ひとりごと", korean: "히토리고토", meaning: "혼잣말",
+    example: "独り言を言ってしまいました。", exampleReading: "ひとりごとをいってしまいました。", exampleKorean: "히토리고토오 잇테 시마이마시타", exampleMeaning: "혼잣말을 해버렸습니다.",
+    breakdown: [
+      { word: "言って", reading: "いって", meaning: "말해서" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
