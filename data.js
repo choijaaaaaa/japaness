@@ -2288,6 +2288,256 @@ const VOCAB = [
     breakdown: [
       { word: "料理", reading: "りょうり", meaning: "요리" }
     ] },
+  { level: "N5", kanji: "春", reading: "はる", korean: "하루", meaning: "봄",
+    example: "春は花がきれいです。", exampleReading: "はるははながきれいです。", exampleKorean: "하루와 하나가 키레-데스", exampleMeaning: "봄은 꽃이 예쁩니다.",
+    breakdown: [
+      { word: "花", reading: "はな", meaning: "꽃" }
+    ] },
+  { level: "N5", kanji: "夏", reading: "なつ", korean: "나츠", meaning: "여름",
+    example: "夏はとても暑いです。", exampleReading: "なつはとてもあついです。", exampleKorean: "나츠와 토테모 아츠이데스", exampleMeaning: "여름은 매우 덥습니다.",
+    breakdown: [
+      { word: "暑い", reading: "あつい", meaning: "덥다" }
+    ] },
+  { level: "N5", kanji: "秋", reading: "あき", korean: "아키", meaning: "가을",
+    example: "秋は涼しいです。", exampleReading: "あきはすずしいです。", exampleKorean: "아키와 스즈시-데스", exampleMeaning: "가을은 시원합니다.",
+    breakdown: [
+      { word: "涼しい", reading: "すずしい", meaning: "시원하다" }
+    ] },
+  { level: "N5", kanji: "冬", reading: "ふゆ", korean: "후유", meaning: "겨울",
+    example: "冬は雪が降ります。", exampleReading: "ふゆはゆきがふります。", exampleKorean: "후유와 유키가 후리마스", exampleMeaning: "겨울은 눈이 내립니다.",
+    breakdown: [
+      { word: "雪", reading: "ゆき", meaning: "눈" }
+    ] },
+  { level: "N5", kanji: "季節", reading: "きせつ", korean: "키세츠", meaning: "계절",
+    example: "好きな季節は秋です。", exampleReading: "すきなきせつはあきです。", exampleKorean: "스키나 키세츠와 아키데스", exampleMeaning: "좋아하는 계절은 가을입니다.",
+    breakdown: [
+      { word: "好きな", reading: "すきな", meaning: "좋아하는" }
+    ] },
+  { level: "N5", kanji: "桜", reading: "さくら", korean: "사쿠라", meaning: "벚꽃",
+    example: "桜がきれいに咲きました。", exampleReading: "さくらがきれいにさきました。", exampleKorean: "사쿠라가 키레-니 사키마시타", exampleMeaning: "벚꽃이 예쁘게 피었습니다.",
+    breakdown: [
+      { word: "咲きました", reading: "さきました", meaning: "피었습니다" }
+    ] },
+  { level: "N5", kanji: "紅葉", reading: "もみじ", korean: "모미지", meaning: "단풍",
+    example: "紅葉を見に行きました。", exampleReading: "もみじをみにいきました。", exampleKorean: "모미지오 미니 이키마시타", exampleMeaning: "단풍을 보러 갔습니다.",
+    breakdown: [
+      { word: "見に行きました", reading: "みにいきました", meaning: "보러 갔습니다" }
+    ] },
+  { level: "N5", kanji: "星座", reading: "せいざ", korean: "세-자", meaning: "별자리",
+    example: "星座を見るのが好きです。", exampleReading: "せいざをみるのがすきです。", exampleKorean: "세-자오 미루노가 스키데스", exampleMeaning: "별자리를 보는 것을 좋아합니다.",
+    breakdown: [
+      { word: "好き", reading: "すき", meaning: "좋아함" }
+    ] },
+  { level: "N5", kanji: "雲", reading: "くも", korean: "쿠모", meaning: "구름",
+    example: "空に雲がありません。", exampleReading: "そらにくもがありません。", exampleKorean: "소라니 쿠모가 아리마셍", exampleMeaning: "하늘에 구름이 없습니다.",
+    breakdown: [
+      { word: "空", reading: "そら", meaning: "하늘" }
+    ] },
+  { level: "N5", kanji: "波", reading: "なみ", korean: "나미", meaning: "파도",
+    example: "波が高いです。", exampleReading: "なみがたかいです。", exampleKorean: "나미가 타카이데스", exampleMeaning: "파도가 높습니다.",
+    breakdown: [
+      { word: "高い", reading: "たかい", meaning: "높다" }
+    ] },
+  { level: "N5", kanji: "砂浜", reading: "すなはま", korean: "스나하마", meaning: "모래사장",
+    example: "砂浜を歩きました。", exampleReading: "すなはまをあるきました。", exampleKorean: "스나하마오 아루키마시타", exampleMeaning: "모래사장을 걸었습니다.",
+    breakdown: [
+      { word: "歩きました", reading: "あるきました", meaning: "걸었습니다" }
+    ] },
+  { level: "N5", kanji: "滝", reading: "たき", korean: "타키", meaning: "폭포",
+    example: "滝の音が聞こえます。", exampleReading: "たきのおとがきこえます。", exampleKorean: "타키노 오토가 키코에마스", exampleMeaning: "폭포 소리가 들립니다.",
+    breakdown: [
+      { word: "音", reading: "おと", meaning: "소리" }
+    ] },
+  { level: "N5", kanji: "泉", reading: "いずみ", korean: "이즈미", meaning: "샘",
+    example: "泉の水は冷たいです。", exampleReading: "いずみのみずはつめたいです。", exampleKorean: "이즈미노 미즈와 츠메타이데스", exampleMeaning: "샘물은 차갑습니다.",
+    breakdown: [
+      { word: "水", reading: "みず", meaning: "물" }
+    ] },
+  { level: "N5", kanji: "谷", reading: "たに", korean: "타니", meaning: "계곡",
+    example: "谷を歩いて渡りました。", exampleReading: "たにをあるいてわたりました。", exampleKorean: "타니오 아루이테 와타리마시타", exampleMeaning: "계곡을 걸어서 건넜습니다.",
+    breakdown: [
+      { word: "渡りました", reading: "わたりました", meaning: "건넜습니다" }
+    ] },
+  { level: "N5", kanji: "丘", reading: "おか", korean: "오카", meaning: "언덕",
+    example: "丘の上に家があります。", exampleReading: "おかのうえにいえがあります。", exampleKorean: "오카노 우에니 이에가 아리마스", exampleMeaning: "언덕 위에 집이 있습니다.",
+    breakdown: [
+      { word: "上", reading: "うえ", meaning: "위" }
+    ] },
+  { level: "N5", kanji: "畑", reading: "はたけ", korean: "하타케", meaning: "밭",
+    example: "畑で野菜を作っています。", exampleReading: "はたけでやさいをつくっています。", exampleKorean: "하타케데 야사이오 츠쿳테 이마스", exampleMeaning: "밭에서 채소를 재배하고 있습니다.",
+    breakdown: [
+      { word: "野菜", reading: "やさい", meaning: "채소" }
+    ] },
+  { level: "N5", kanji: "田んぼ", reading: "たんぼ", korean: "탄보", meaning: "논",
+    example: "田んぼで米を育てます。", exampleReading: "たんぼでこめをそだてます。", exampleKorean: "탄보데 코메오 소다테마스", exampleMeaning: "논에서 벼를 기릅니다.",
+    breakdown: [
+      { word: "米", reading: "こめ", meaning: "쌀, 벼" }
+    ] },
+  { level: "N5", kanji: "牧場", reading: "ぼくじょう", korean: "보쿠죠-", meaning: "목장",
+    example: "牧場で牛を見ました。", exampleReading: "ぼくじょうでうしをみました。", exampleKorean: "보쿠죠-데 우시오 미마시타", exampleMeaning: "목장에서 소를 봤습니다.",
+    breakdown: [
+      { word: "牛", reading: "うし", meaning: "소" }
+    ] },
+  { level: "N5", kanji: "農家", reading: "のうか", korean: "노-카", meaning: "농가",
+    example: "祖父は農家です。", exampleReading: "そふはのうかです。", exampleKorean: "소후와 노-카데스", exampleMeaning: "할아버지는 농부입니다.",
+    breakdown: [
+      { word: "祖父", reading: "そふ", meaning: "할아버지" }
+    ] },
+  { level: "N5", kanji: "漁師", reading: "りょうし", korean: "료-시", meaning: "어부",
+    example: "祖父は漁師でした。", exampleReading: "そふはりょうしでした。", exampleKorean: "소후와 료-시데시타", exampleMeaning: "할아버지는 어부였습니다.",
+    breakdown: [
+      { word: "祖父", reading: "そふ", meaning: "할아버지" }
+    ] },
+  { level: "N5", kanji: "ヨット", reading: "ヨット", korean: "욧토", meaning: "요트",
+    example: "海でヨットに乗りました。", exampleReading: "うみでヨットにのりました。", exampleKorean: "우미데 욧토니 노리마시타", exampleMeaning: "바다에서 요트를 탔습니다.",
+    breakdown: [
+      { word: "海", reading: "うみ", meaning: "바다" }
+    ] },
+  { level: "N5", kanji: "港", reading: "みなと", korean: "미나토", meaning: "항구",
+    example: "港で船を見ました。", exampleReading: "みなとでふねをみました。", exampleKorean: "미나토데 후네오 미마시타", exampleMeaning: "항구에서 배를 봤습니다.",
+    breakdown: [
+      { word: "船", reading: "ふね", meaning: "배" }
+    ] },
+  { level: "N5", kanji: "灯台", reading: "とうだい", korean: "토-다이", meaning: "등대",
+    example: "灯台の近くに住んでいます。", exampleReading: "とうだいのちかくにすんでいます。", exampleKorean: "토-다이노 치카쿠니 슨데 이마스", exampleMeaning: "등대 근처에 살고 있습니다.",
+    breakdown: [
+      { word: "近く", reading: "ちかく", meaning: "근처" }
+    ] },
+  { level: "N5", kanji: "洞窟", reading: "どうくつ", korean: "도-쿠츠", meaning: "동굴",
+    example: "洞窟の中は暗いです。", exampleReading: "どうくつのなかはくらいです。", exampleKorean: "도-쿠츠노 나카와 쿠라이데스", exampleMeaning: "동굴 안은 어둡습니다.",
+    breakdown: [
+      { word: "中", reading: "なか", meaning: "안" }
+    ] },
+  { level: "N5", kanji: "火山", reading: "かざん", korean: "카잔", meaning: "화산",
+    example: "火山が噴火しました。", exampleReading: "かざんがふんかしました。", exampleKorean: "카잔가 훙카 시마시타", exampleMeaning: "화산이 분화했습니다.",
+    breakdown: [
+      { word: "噴火", reading: "ふんか", meaning: "분화" }
+    ] },
+  { level: "N5", kanji: "噴水", reading: "ふんすい", korean: "훈스이", meaning: "분수",
+    example: "公園に噴水があります。", exampleReading: "こうえんにふんすいがあります。", exampleKorean: "코-엔니 훈스이가 아리마스", exampleMeaning: "공원에 분수가 있습니다.",
+    breakdown: [
+      { word: "公園", reading: "こうえん", meaning: "공원" }
+    ] },
+  { level: "N5", kanji: "交番", reading: "こうばん", korean: "코-반", meaning: "파출소",
+    example: "交番で道を聞きました。", exampleReading: "こうばんでみちをききました。", exampleKorean: "코-반데 미치오 키키마시타", exampleMeaning: "파출소에서 길을 물었습니다.",
+    breakdown: [
+      { word: "道", reading: "みち", meaning: "길" }
+    ] },
+  { level: "N5", kanji: "消防署", reading: "しょうぼうしょ", korean: "쇼-보-쇼", meaning: "소방서",
+    example: "消防署に電話しました。", exampleReading: "しょうぼうしょにでんわしました。", exampleKorean: "쇼-보-쇼니 뎅와 시마시타", exampleMeaning: "소방서에 전화했습니다.",
+    breakdown: [
+      { word: "電話", reading: "でんわ", meaning: "전화" }
+    ] },
+  { level: "N5", kanji: "市役所", reading: "しやくしょ", korean: "시야쿠쇼", meaning: "시청",
+    example: "市役所で手続きをしました。", exampleReading: "しやくしょでてつづきをしました。", exampleKorean: "시야쿠쇼데 테츠즈키오 시마시타", exampleMeaning: "시청에서 절차를 밟았습니다.",
+    breakdown: [
+      { word: "手続き", reading: "てつづき", meaning: "절차" }
+    ] },
+  { level: "N5", kanji: "区役所", reading: "くやくしょ", korean: "쿠야쿠쇼", meaning: "구청",
+    example: "区役所に書類を出しました。", exampleReading: "くやくしょにしょるいをだしました。", exampleKorean: "쿠야쿠쇼니 쇼루이오 다시마시타", exampleMeaning: "구청에 서류를 냈습니다.",
+    breakdown: [
+      { word: "書類", reading: "しょるい", meaning: "서류" }
+    ] },
+  { level: "N5", kanji: "神社", reading: "じんじゃ", korean: "진자", meaning: "신사",
+    example: "神社にお参りしました。", exampleReading: "じんじゃにおまいりしました。", exampleKorean: "진자니 오마이리 시마시타", exampleMeaning: "신사에 참배했습니다.",
+    breakdown: [
+      { word: "お参り", reading: "おまいり", meaning: "참배" }
+    ] },
+  { level: "N5", kanji: "寺", reading: "てら", korean: "테라", meaning: "절",
+    example: "寺で写真を撮りました。", exampleReading: "てらでしゃしんをとりました。", exampleKorean: "테라데 샤싱오 토리마시타", exampleMeaning: "절에서 사진을 찍었습니다.",
+    breakdown: [
+      { word: "写真", reading: "しゃしん", meaning: "사진" }
+    ] },
+  { level: "N5", kanji: "教会", reading: "きょうかい", korean: "쿄-카이", meaning: "교회",
+    example: "毎週教会に行きます。", exampleReading: "まいしゅうきょうかいにいきます。", exampleKorean: "마이슈- 쿄-카이니 이키마스", exampleMeaning: "매주 교회에 갑니다.",
+    breakdown: [
+      { word: "毎週", reading: "まいしゅう", meaning: "매주" }
+    ] },
+  { level: "N5", kanji: "城", reading: "しろ", korean: "시로", meaning: "성",
+    example: "この城はとても古いです。", exampleReading: "このしろはとてもふるいです。", exampleKorean: "코노 시로와 토테모 후루이데스", exampleMeaning: "이 성은 매우 오래되었습니다.",
+    breakdown: [
+      { word: "古い", reading: "ふるい", meaning: "오래되다" }
+    ] },
+  { level: "N5", kanji: "塔", reading: "とう", korean: "토-", meaning: "탑",
+    example: "塔の上から町が見えます。", exampleReading: "とうのうえからまちがみえます。", exampleKorean: "토-노 우에카라 마치가 미에마스", exampleMeaning: "탑 위에서 마을이 보입니다.",
+    breakdown: [
+      { word: "町", reading: "まち", meaning: "마을" }
+    ] },
+  { level: "N5", kanji: "トンネル", reading: "トンネル", korean: "톤네루", meaning: "터널",
+    example: "車でトンネルを通りました。", exampleReading: "くるまでトンネルをとおりました。", exampleKorean: "쿠루마데 톤네루오 토-리마시타", exampleMeaning: "차로 터널을 지났습니다.",
+    breakdown: [
+      { word: "車", reading: "くるま", meaning: "차" }
+    ] },
+  { level: "N5", kanji: "坂", reading: "さか", korean: "사카", meaning: "언덕길, 비탈",
+    example: "坂を上るのは大変です。", exampleReading: "さかをのぼるのはたいへんです。", exampleKorean: "사카오 노보루노와 타이헨데스", exampleMeaning: "언덕길을 오르는 것은 힘듭니다.",
+    breakdown: [
+      { word: "上る", reading: "のぼる", meaning: "오르다" }
+    ] },
+  { level: "N5", kanji: "曲がり角", reading: "まがりかど", korean: "마가리카도", meaning: "모퉁이",
+    example: "曲がり角を右に曲がってください。", exampleReading: "まがりかどをみぎにまがってください。", exampleKorean: "마가리카도오 미기니 마갓테 쿠다사이", exampleMeaning: "모퉁이에서 오른쪽으로 도세요.",
+    breakdown: [
+      { word: "右に", reading: "みぎに", meaning: "오른쪽으로" }
+    ] },
+  { level: "N5", kanji: "水着", reading: "みずぎ", korean: "미즈기", meaning: "수영복",
+    example: "水着を買いました。", exampleReading: "みずぎをかいました。", exampleKorean: "미즈기오 카이마시타", exampleMeaning: "수영복을 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N5", kanji: "浴衣", reading: "ゆかた", korean: "유카타", meaning: "유카타",
+    example: "祭りで浴衣を着ました。", exampleReading: "まつりでゆかたをきました。", exampleKorean: "마츠리데 유카타오 키마시타", exampleMeaning: "축제에서 유카타를 입었습니다.",
+    breakdown: [
+      { word: "祭り", reading: "まつり", meaning: "축제" }
+    ] },
+  { level: "N5", kanji: "着物", reading: "きもの", korean: "키모노", meaning: "기모노",
+    example: "着物を着てみたいです。", exampleReading: "きものをきてみたいです。", exampleKorean: "키모노오 키테 미타이데스", exampleMeaning: "기모노를 입어 보고 싶습니다.",
+    breakdown: [
+      { word: "着てみたい", reading: "きてみたい", meaning: "입어 보고 싶다" }
+    ] },
+  { level: "N5", kanji: "リュック", reading: "リュック", korean: "류ー쿠", meaning: "배낭",
+    example: "リュックに本を入れました。", exampleReading: "リュックにほんをいれました。", exampleKorean: "류-쿠니 홍오 이레마시타", exampleMeaning: "배낭에 책을 넣었습니다.",
+    breakdown: [
+      { word: "本", reading: "ほん", meaning: "책" }
+    ] },
+  { level: "N5", kanji: "手帳", reading: "てちょう", korean: "테쵸-", meaning: "수첩",
+    example: "手帳に予定を書きます。", exampleReading: "てちょうによていをかきます。", exampleKorean: "테쵸-니 요테-오 카키마스", exampleMeaning: "수첩에 일정을 씁니다.",
+    breakdown: [
+      { word: "予定", reading: "よてい", meaning: "일정" }
+    ] },
+  { level: "N5", kanji: "折り紙", reading: "おりがみ", korean: "오리가미", meaning: "종이접기",
+    example: "子供と折り紙をしました。", exampleReading: "こどもとおりがみをしました。", exampleKorean: "코도모토 오리가미오 시마시타", exampleMeaning: "아이와 종이접기를 했습니다.",
+    breakdown: [
+      { word: "子供と", reading: "こどもと", meaning: "아이와" }
+    ] },
+  { level: "N5", kanji: "絵本", reading: "えほん", korean: "에혼", meaning: "그림책",
+    example: "子供に絵本を読みました。", exampleReading: "こどもにえほんをよみました。", exampleKorean: "코도모니 에홍오 요미마시타", exampleMeaning: "아이에게 그림책을 읽어줬습니다.",
+    breakdown: [
+      { word: "子供に", reading: "こどもに", meaning: "아이에게" }
+    ] },
+  { level: "N5", kanji: "漫画", reading: "まんが", korean: "망가", meaning: "만화",
+    example: "漫画を読むのが好きです。", exampleReading: "まんがをよむのがすきです。", exampleKorean: "망가오 요무노가 스키데스", exampleMeaning: "만화 읽는 것을 좋아합니다.",
+    breakdown: [
+      { word: "読む", reading: "よむ", meaning: "읽다" }
+    ] },
+  { level: "N5", kanji: "アニメ", reading: "アニメ", korean: "아니메", meaning: "애니메이션",
+    example: "日本のアニメが好きです。", exampleReading: "にほんのアニメがすきです。", exampleKorean: "니혼노 아니메가 스키데스", exampleMeaning: "일본 애니메이션을 좋아합니다.",
+    breakdown: [
+      { word: "日本", reading: "にほん", meaning: "일본" }
+    ] },
+  { level: "N5", kanji: "ゲーム", reading: "ゲーム", korean: "게-무", meaning: "게임",
+    example: "友達とゲームをしました。", exampleReading: "ともだちとゲームをしました。", exampleKorean: "토모다치토 게-무오 시마시타", exampleMeaning: "친구와 게임을 했습니다.",
+    breakdown: [
+      { word: "友達と", reading: "ともだちと", meaning: "친구와" }
+    ] },
+  { level: "N5", kanji: "おもちゃ", reading: "おもちゃ", korean: "오모챠", meaning: "장난감",
+    example: "子供におもちゃを買いました。", exampleReading: "こどもにおもちゃをかいました。", exampleKorean: "코도모니 오모챠오 카이마시타", exampleMeaning: "아이에게 장난감을 사줬습니다.",
+    breakdown: [
+      { word: "子供に", reading: "こどもに", meaning: "아이에게" }
+    ] },
+  { level: "N5", kanji: "人形", reading: "にんぎょう", korean: "닌교-", meaning: "인형",
+    example: "かわいい人形をもらいました。", exampleReading: "かわいいにんぎょうをもらいました。", exampleKorean: "카와이- 닌교-오 모라이마시타", exampleMeaning: "귀여운 인형을 받았습니다.",
+    breakdown: [
+      { word: "かわいい", reading: "かわいい", meaning: "귀엽다" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
