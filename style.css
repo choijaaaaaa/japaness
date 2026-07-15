@@ -14,6 +14,7 @@
   --color-n2: #c8842c;
   --color-n1: #c8492c;
   --color-setsu: #3d7068;
+  --color-highlight: #d61f26;
 
   --space-1: 4px;
   --space-2: 8px;
@@ -35,6 +36,7 @@
     --color-text-muted: #a89e8f;
     --color-accent: #e8734f;
     --color-accent-soft: #3a241d;
+    --color-highlight: #ff5b5f;
   }
 }
 
@@ -46,6 +48,7 @@
   --color-text-muted: #a89e8f;
   --color-accent: #e8734f;
   --color-accent-soft: #3a241d;
+  --color-highlight: #ff5b5f;
 }
 
 :root[data-theme="light"] {
@@ -283,6 +286,11 @@ body {
   margin: 0;
   font-family: var(--font-jp);
   font-size: 1.1rem;
+}
+
+.example-highlight {
+  color: var(--color-highlight);
+  font-weight: 700;
 }
 
 .example-korean {

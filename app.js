@@ -56,6 +56,30 @@ function getFilteredWords() {
   });
 }
 
+function escapeHtml(str) {
+  const div = document.createElement("div");
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+// WHY: 예문 속 표제어는 활용형(동사 어미, 형용사 어미 등)으로 등장하는 경우가 많아
+// 완전 일치가 안 될 수 있다. 표제어 끝에서부터 최대 2글자까지 잘라가며 매칭을 시도한다.
+function highlightExample(example, kanji) {
+  if (!kanji) return escapeHtml(example);
+  const minLen = Math.max(1, kanji.length - 2);
+  for (let len = kanji.length; len >= minLen; len--) {
+    const fragment = kanji.slice(0, len);
+    const idx = example.indexOf(fragment);
+    if (idx !== -1) {
+      const before = example.slice(0, idx);
+      const match = example.slice(idx, idx + fragment.length);
+      const after = example.slice(idx + fragment.length);
+      return `${escapeHtml(before)}<span class="example-highlight">${escapeHtml(match)}</span>${escapeHtml(after)}`;
+    }
+  }
+  return escapeHtml(example);
+}
+
 function renderBreakdown(listEl, breakdown) {
   listEl.innerHTML = "";
   if (!breakdown || breakdown.length === 0) {
@@ -94,7 +118,7 @@ function buildWordCard(word) {
   ttsBtn.disabled = !speechSupported;
   ttsBtn.addEventListener("click", () => speak(word.kanji));
 
-  node.querySelector(".example-jp").textContent = word.example;
+  node.querySelector(".example-jp").innerHTML = highlightExample(word.example, word.kanji);
   node.querySelector(".example-meaning").textContent = word.exampleMeaning;
 
   const exampleKoreanEl = node.querySelector(".example-korean");
@@ -124,7 +148,7 @@ function buildQuizCard(word) {
 
   node.querySelector(".kanji").textContent = word.kanji;
   node.querySelector(".kanji-reading").textContent = `(${word.reading})`;
-  node.querySelector(".example-jp").textContent = word.example;
+  node.querySelector(".example-jp").innerHTML = highlightExample(word.example, word.kanji);
   node.querySelector(".example-reading").textContent = `(${word.exampleReading})`;
 
   node.querySelector(".korean-reading").textContent = word.korean;
