@@ -6788,6 +6788,261 @@ const VOCAB = [
     breakdown: [
       { word: "言って", reading: "いって", meaning: "말해서" }
     ] },
+  { level: "N4", kanji: "冠婚葬祭", reading: "かんこんそうさい", korean: "칸콘소-사이", meaning: "관혼상제",
+    example: "冠婚葬祭のマナーを学びました。", exampleReading: "かんこんそうさいのマナーをまなびました。", exampleKorean: "칸콘소-사이노 마나-오 마나비마시타", exampleMeaning: "관혼상제 매너를 배웠습니다.",
+    breakdown: [
+      { word: "マナー", reading: "マナー", meaning: "매너" }
+    ] },
+  { level: "N4", kanji: "結婚式場", reading: "けっこんしきじょう", korean: "켁콘시키죠-", meaning: "결혼식장",
+    example: "結婚式場を予約しました。", exampleReading: "けっこんしきじょうをよやくしました。", exampleKorean: "켁콘시키죠-오 요야쿠 시마시타", exampleMeaning: "결혼식장을 예약했습니다.",
+    breakdown: [
+      { word: "予約", reading: "よやく", meaning: "예약" }
+    ] },
+  { level: "N4", kanji: "披露宴", reading: "ひろうえん", korean: "히로-엔", meaning: "피로연",
+    example: "披露宴に招待されました。", exampleReading: "ひろうえんにしょうたいされました。", exampleKorean: "히로-엔니 쇼-타이 사레마시타", exampleMeaning: "피로연에 초대받았습니다.",
+    breakdown: [
+      { word: "招待", reading: "しょうたい", meaning: "초대" }
+    ] },
+  { level: "N4", kanji: "招待状", reading: "しょうたいじょう", korean: "쇼-타이죠-", meaning: "초대장",
+    example: "招待状を送りました。", exampleReading: "しょうたいじょうをおくりました。", exampleKorean: "쇼-타이죠-오 오쿠리마시타", exampleMeaning: "초대장을 보냈습니다.",
+    breakdown: [
+      { word: "送りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N4", kanji: "ご祝儀", reading: "ごしゅうぎ", korean: "고슈-기", meaning: "축의금",
+    example: "ご祝儀を渡しました。", exampleReading: "ごしゅうぎをわたしました。", exampleKorean: "고슈-기오 와타시마시타", exampleMeaning: "축의금을 건넸습니다.",
+    breakdown: [
+      { word: "渡しました", reading: "わたしました", meaning: "건넸습니다" }
+    ] },
+  { level: "N4", kanji: "引き出物", reading: "ひきでもの", korean: "히키데모노", meaning: "답례품",
+    example: "引き出物をもらいました。", exampleReading: "ひきでものをもらいました。", exampleKorean: "히키데모노오 모라이마시타", exampleMeaning: "답례품을 받았습니다.",
+    breakdown: [
+      { word: "もらいました", reading: "もらいました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "新郎", reading: "しんろう", korean: "신로-", meaning: "신랑",
+    example: "新郎の挨拶がありました。", exampleReading: "しんろうのあいさつがありました。", exampleKorean: "신로-노 아이사츠가 아리마시타", exampleMeaning: "신랑의 인사가 있었습니다.",
+    breakdown: [
+      { word: "挨拶", reading: "あいさつ", meaning: "인사" }
+    ] },
+  { level: "N4", kanji: "新婦", reading: "しんぷ", korean: "심프", meaning: "신부",
+    example: "新婦がとても美しかったです。", exampleReading: "しんぷがとてもうつくしかったです。", exampleKorean: "심프가 토테모 우츠쿠시캇타데스", exampleMeaning: "신부가 매우 아름다웠습니다.",
+    breakdown: [
+      { word: "美しかった", reading: "うつくしかった", meaning: "아름다웠다" }
+    ] },
+  { level: "N4", kanji: "媒酌人", reading: "ばいしゃくにん", korean: "바이샤쿠닌", meaning: "중매인",
+    example: "媒酌人にお願いしました。", exampleReading: "ばいしゃくにんにおねがいしました。", exampleKorean: "바이샤쿠닌니 오네가이 시마시타", exampleMeaning: "중매인에게 부탁했습니다.",
+    breakdown: [
+      { word: "お願い", reading: "おねがい", meaning: "부탁" }
+    ] },
+  { level: "N4", kanji: "仲人", reading: "なこうど", korean: "나코-도", meaning: "중매인",
+    example: "仲人が紹介してくれました。", exampleReading: "なこうどがしょうかいしてくれました。", exampleKorean: "나코-도가 쇼-카이시테 쿠레마시타", exampleMeaning: "중매인이 소개해 주었습니다.",
+    breakdown: [
+      { word: "紹介", reading: "しょうかい", meaning: "소개" }
+    ] },
+  { level: "N4", kanji: "見合い", reading: "みあい", korean: "미아이", meaning: "맞선",
+    example: "見合いで結婚しました。", exampleReading: "みあいでけっこんしました。", exampleKorean: "미아이데 켁콘 시마시타", exampleMeaning: "맞선으로 결혼했습니다.",
+    breakdown: [
+      { word: "結婚", reading: "けっこん", meaning: "결혼" }
+    ] },
+  { level: "N4", kanji: "婚約", reading: "こんやく", korean: "콘야쿠", meaning: "약혼",
+    example: "二人は婚約しました。", exampleReading: "ふたりはこんやくしました。", exampleKorean: "후타리와 콘야쿠 시마시타", exampleMeaning: "두 사람은 약혼했습니다.",
+    breakdown: [
+      { word: "二人", reading: "ふたり", meaning: "두 사람" }
+    ] },
+  { level: "N4", kanji: "指輪交換", reading: "ゆびわこうかん", korean: "유비와코-칸", meaning: "반지 교환",
+    example: "結婚式で指輪交換をしました。", exampleReading: "けっこんしきでゆびわこうかんをしました。", exampleKorean: "켁콘시키데 유비와코-캉오 시마시타", exampleMeaning: "결혼식에서 반지 교환을 했습니다.",
+    breakdown: [
+      { word: "結婚式", reading: "けっこんしき", meaning: "결혼식" }
+    ] },
+  { level: "N4", kanji: "入籍", reading: "にゅうせき", korean: "뉴-세키", meaning: "혼인신고",
+    example: "来月入籍する予定です。", exampleReading: "らいげつにゅうせきするよていです。", exampleKorean: "라이게츠 뉴-세키스루 요테-데스", exampleMeaning: "다음 달에 혼인신고할 예정입니다.",
+    breakdown: [
+      { word: "来月", reading: "らいげつ", meaning: "다음 달" }
+    ] },
+  { level: "N4", kanji: "初七日", reading: "しょなのか", korean: "쇼나노카", meaning: "초칠일(사후 7일째 법요)",
+    example: "初七日の法要を行いました。", exampleReading: "しょなのかのほうようをおこないました。", exampleKorean: "쇼나노카노 호-요-오 오코나이마시타", exampleMeaning: "초칠일 법요를 지냈습니다.",
+    breakdown: [
+      { word: "法要", reading: "ほうよう", meaning: "법요" }
+    ] },
+  { level: "N4", kanji: "四十九日", reading: "しじゅうくにち", korean: "시쥬-쿠니치", meaning: "사십구재",
+    example: "四十九日の法要がありました。", exampleReading: "しじゅうくにちのほうようがありました。", exampleKorean: "시쥬-쿠니치노 호-요-가 아리마시타", exampleMeaning: "사십구재 법요가 있었습니다.",
+    breakdown: [
+      { word: "法要", reading: "ほうよう", meaning: "법요" }
+    ] },
+  { level: "N4", kanji: "喪服", reading: "もふく", korean: "모후쿠", meaning: "상복",
+    example: "葬式に喪服を着て行きました。", exampleReading: "そうしきにもふくをきていきました。", exampleKorean: "소-시키니 모후쿠오 키테 이키마시타", exampleMeaning: "장례식에 상복을 입고 갔습니다.",
+    breakdown: [
+      { word: "葬式", reading: "そうしき", meaning: "장례식" }
+    ] },
+  { level: "N4", kanji: "香典", reading: "こうでん", korean: "코-덴", meaning: "부의금",
+    example: "香典を渡しました。", exampleReading: "こうでんをわたしました。", exampleKorean: "코-덴오 와타시마시타", exampleMeaning: "부의금을 건넸습니다.",
+    breakdown: [
+      { word: "渡しました", reading: "わたしました", meaning: "건넸습니다" }
+    ] },
+  { level: "N4", kanji: "弔電", reading: "ちょうでん", korean: "쵸-덴", meaning: "조전(조의를 표하는 전보)",
+    example: "弔電を送りました。", exampleReading: "ちょうでんをおくりました。", exampleKorean: "쵸-덴오 오쿠리마시타", exampleMeaning: "조전을 보냈습니다.",
+    breakdown: [
+      { word: "送りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N4", kanji: "焼香", reading: "しょうこう", korean: "쇼-코-", meaning: "분향",
+    example: "焼香をしました。", exampleReading: "しょうこうをしました。", exampleKorean: "쇼-코-오 시마시타", exampleMeaning: "분향을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "満タン", reading: "まんタン", korean: "만탄", meaning: "가득 채움(주유)",
+    example: "ガソリンを満タンにしました。", exampleReading: "ガソリンをまんタンにしました。", exampleKorean: "가소린오 만탄니 시마시타", exampleMeaning: "기름을 가득 채웠습니다.",
+    breakdown: [
+      { word: "ガソリン", reading: "ガソリン", meaning: "휘발유" }
+    ] },
+  { level: "N4", kanji: "ガソリンスタンド", reading: "ガソリンスタンド", korean: "가소린스탄도", meaning: "주유소",
+    example: "ガソリンスタンドに寄りました。", exampleReading: "ガソリンスタンドによりました。", exampleKorean: "가소린스탄도니 요리마시타", exampleMeaning: "주유소에 들렀습니다.",
+    breakdown: [
+      { word: "寄りました", reading: "よりました", meaning: "들렀습니다" }
+    ] },
+  { level: "N4", kanji: "給油", reading: "きゅうゆ", korean: "큐-유", meaning: "급유",
+    example: "車に給油しました。", exampleReading: "くるまにきゅうゆしました。", exampleKorean: "쿠루마니 큐-유 시마시타", exampleMeaning: "차에 급유했습니다.",
+    breakdown: [
+      { word: "車", reading: "くるま", meaning: "차" }
+    ] },
+  { level: "N4", kanji: "洗車", reading: "せんしゃ", korean: "센샤", meaning: "세차",
+    example: "週末に洗車をします。", exampleReading: "しゅうまつにせんしゃをします。", exampleKorean: "슈-마츠니 센샤오 시마스", exampleMeaning: "주말에 세차를 합니다.",
+    breakdown: [
+      { word: "週末", reading: "しゅうまつ", meaning: "주말" }
+    ] },
+  { level: "N4", kanji: "車検", reading: "しゃけん", korean: "샤켄", meaning: "자동차 검사",
+    example: "車検を受けました。", exampleReading: "しゃけんをうけました。", exampleKorean: "샤켕오 우케마시타", exampleMeaning: "자동차 검사를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "免許更新", reading: "めんきょこうしん", korean: "멘쿄코-신", meaning: "면허갱신",
+    example: "免許更新に行きました。", exampleReading: "めんきょこうしんにいきました。", exampleKorean: "멘쿄코-신니 이키마시타", exampleMeaning: "면허갱신을 하러 갔습니다.",
+    breakdown: [
+      { word: "行きました", reading: "いきました", meaning: "갔습니다" }
+    ] },
+  { level: "N4", kanji: "違反切符", reading: "いはんきっぷ", korean: "이한킵푸", meaning: "위반딱지",
+    example: "違反切符を切られました。", exampleReading: "いはんきっぷをきられました。", exampleKorean: "이한킵푸오 키라레마시타", exampleMeaning: "위반딱지를 끊었습니다.",
+    breakdown: [
+      { word: "切られました", reading: "きられました", meaning: "끊었습니다" }
+    ] },
+  { level: "N4", kanji: "スピード違反", reading: "スピードいはん", korean: "스피-도 이한", meaning: "속도위반",
+    example: "スピード違反で捕まりました。", exampleReading: "スピードいはんでつかまりました。", exampleKorean: "스피-도 이한데 츠카마리마시타", exampleMeaning: "속도위반으로 잡혔습니다.",
+    breakdown: [
+      { word: "捕まりました", reading: "つかまりました", meaning: "잡혔습니다" }
+    ] },
+  { level: "N4", kanji: "駐車違反", reading: "ちゅうしゃいはん", korean: "츄-샤이한", meaning: "주차위반",
+    example: "駐車違反で罰金を払いました。", exampleReading: "ちゅうしゃいはんでばっきんをはらいました。", exampleKorean: "츄-샤이한데 박킹오 하라이마시타", exampleMeaning: "주차위반으로 벌금을 냈습니다.",
+    breakdown: [
+      { word: "罰金", reading: "ばっきん", meaning: "벌금" }
+    ] },
+  { level: "N4", kanji: "一方通行", reading: "いっぽうつうこう", korean: "잇포-츠-코-", meaning: "일방통행",
+    example: "この道は一方通行です。", exampleReading: "このみちはいっぽうつうこうです。", exampleKorean: "코노 미치와 잇포-츠-코-데스", exampleMeaning: "이 길은 일방통행입니다.",
+    breakdown: [
+      { word: "道", reading: "みち", meaning: "길" }
+    ] },
+  { level: "N4", kanji: "Uターン", reading: "Uターン", korean: "유-탄", meaning: "유턴",
+    example: "ここでUターンしました。", exampleReading: "ここでUターンしました。", exampleKorean: "코코데 유-탄 시마시타", exampleMeaning: "여기서 유턴했습니다.",
+    breakdown: [
+      { word: "ここで", reading: "ここで", meaning: "여기서" }
+    ] },
+  { level: "N4", kanji: "右折", reading: "うせつ", korean: "우세츠", meaning: "우회전",
+    example: "次の信号を右折してください。", exampleReading: "つぎのしんごうをうせつしてください。", exampleKorean: "츠기노 싱고-오 우세츠 시테 쿠다사이", exampleMeaning: "다음 신호에서 우회전해 주세요.",
+    breakdown: [
+      { word: "信号", reading: "しんごう", meaning: "신호" }
+    ] },
+  { level: "N4", kanji: "左折", reading: "させつ", korean: "사세츠", meaning: "좌회전",
+    example: "交差点で左折しました。", exampleReading: "こうさてんでさせつしました。", exampleKorean: "코-사텐데 사세츠 시마시타", exampleMeaning: "교차로에서 좌회전했습니다.",
+    breakdown: [
+      { word: "交差点", reading: "こうさてん", meaning: "교차로" }
+    ] },
+  { level: "N4", kanji: "直進", reading: "ちょくしん", korean: "쵸쿠신", meaning: "직진",
+    example: "そのまま直進してください。", exampleReading: "そのままちょくしんしてください。", exampleKorean: "소노마마 쵸쿠신 시테 쿠다사이", exampleMeaning: "그대로 직진해 주세요.",
+    breakdown: [
+      { word: "そのまま", reading: "そのまま", meaning: "그대로" }
+    ] },
+  { level: "N4", kanji: "通行止め", reading: "つうこうどめ", korean: "츠-코-도메", meaning: "통행금지",
+    example: "道路が通行止めになっています。", exampleReading: "どうろがつうこうどめになっています。", exampleKorean: "도-로가 츠-코-도메니 낫테 이마스", exampleMeaning: "도로가 통행금지가 되어 있습니다.",
+    breakdown: [
+      { word: "道路", reading: "どうろ", meaning: "도로" }
+    ] },
+  { level: "N4", kanji: "カーナビ", reading: "カーナビ", korean: "카-나비", meaning: "내비게이션",
+    example: "カーナビで道を調べました。", exampleReading: "カーナビでみちをしらべました。", exampleKorean: "카-나비데 미치오 시라베마시타", exampleMeaning: "내비게이션으로 길을 찾았습니다.",
+    breakdown: [
+      { word: "道", reading: "みち", meaning: "길" }
+    ] },
+  { level: "N4", kanji: "助手席", reading: "じょしゅせき", korean: "죠슈세키", meaning: "조수석",
+    example: "助手席に座りました。", exampleReading: "じょしゅせきにすわりました。", exampleKorean: "죠슈세키니 스와리마시타", exampleMeaning: "조수석에 앉았습니다.",
+    breakdown: [
+      { word: "座りました", reading: "すわりました", meaning: "앉았습니다" }
+    ] },
+  { level: "N4", kanji: "後部座席", reading: "こうぶざせき", korean: "코-부자세키", meaning: "뒷좌석",
+    example: "後部座席に子供を乗せました。", exampleReading: "こうぶざせきにこどもをのせました。", exampleKorean: "코-부자세키니 코도모오 노세마시타", exampleMeaning: "뒷좌석에 아이를 태웠습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N4", kanji: "シートベルト", reading: "シートベルト", korean: "시-토베루토", meaning: "안전벨트",
+    example: "シートベルトを締めてください。", exampleReading: "シートベルトをしめてください。", exampleKorean: "시-토베루토오 시메테 쿠다사이", exampleMeaning: "안전벨트를 매 주세요.",
+    breakdown: [
+      { word: "締めて", reading: "しめて", meaning: "매서" }
+    ] },
+  { level: "N4", kanji: "エンジン", reading: "エンジン", korean: "엔진", meaning: "엔진",
+    example: "エンジンがかかりません。", exampleReading: "エンジンがかかりません。", exampleKorean: "엔진가 카카리마셍", exampleMeaning: "엔진이 걸리지 않습니다.",
+    breakdown: [
+      { word: "かかりません", reading: "かかりません", meaning: "걸리지 않습니다" }
+    ] },
+  { level: "N4", kanji: "タイヤ", reading: "タイヤ", korean: "타이야", meaning: "타이어",
+    example: "タイヤを交換しました。", exampleReading: "タイヤをこうかんしました。", exampleKorean: "타이야오 코-칸 시마시타", exampleMeaning: "타이어를 교체했습니다.",
+    breakdown: [
+      { word: "交換", reading: "こうかん", meaning: "교체" }
+    ] },
+  { level: "N4", kanji: "パンク", reading: "パンク", korean: "팡쿠", meaning: "펑크",
+    example: "タイヤがパンクしました。", exampleReading: "タイヤがパンクしました。", exampleKorean: "타이야가 팡쿠 시마시타", exampleMeaning: "타이어가 펑크났습니다.",
+    breakdown: [
+      { word: "タイヤ", reading: "タイヤ", meaning: "타이어" }
+    ] },
+  { level: "N4", kanji: "バッテリー上がり", reading: "バッテリーあがり", korean: "밧테리- 아가리", meaning: "배터리 방전",
+    example: "バッテリー上がりで困りました。", exampleReading: "バッテリーあがりでこまりました。", exampleKorean: "밧테리- 아가리데 코마리마시타", exampleMeaning: "배터리 방전으로 곤란했습니다.",
+    breakdown: [
+      { word: "困りました", reading: "こまりました", meaning: "곤란했습니다" }
+    ] },
+  { level: "N4", kanji: "ロードサービス", reading: "ロードサービス", korean: "로-도사-비스", meaning: "로드서비스",
+    example: "ロードサービスを呼びました。", exampleReading: "ロードサービスをよびました。", exampleKorean: "로-도사-비스오 요비마시타", exampleMeaning: "로드서비스를 불렀습니다.",
+    breakdown: [
+      { word: "呼びました", reading: "よびました", meaning: "불렀습니다" }
+    ] },
+  { level: "N4", kanji: "レッカー車", reading: "レッカーしゃ", korean: "렛카-샤", meaning: "견인차",
+    example: "レッカー車で運ばれました。", exampleReading: "レッカーしゃではこばれました。", exampleKorean: "렛카-샤데 하코바레마시타", exampleMeaning: "견인차로 옮겨졌습니다.",
+    breakdown: [
+      { word: "運ばれました", reading: "はこばれました", meaning: "옮겨졌습니다" }
+    ] },
+  { level: "N4", kanji: "事故処理", reading: "じこしょり", korean: "지코쇼리", meaning: "사고 처리",
+    example: "事故処理に時間がかかりました。", exampleReading: "じこしょりにじかんがかかりました。", exampleKorean: "지코쇼리니 지캉가 카카리마시타", exampleMeaning: "사고 처리에 시간이 걸렸습니다.",
+    breakdown: [
+      { word: "時間", reading: "じかん", meaning: "시간" }
+    ] },
+  { level: "N4", kanji: "保険金", reading: "ほけんきん", korean: "호켄킨", meaning: "보험금",
+    example: "保険金を受け取りました。", exampleReading: "ほけんきんをうけとりました。", exampleKorean: "호켄킹오 우케토리마시타", exampleMeaning: "보험금을 받았습니다.",
+    breakdown: [
+      { word: "受け取りました", reading: "うけとりました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "修理代", reading: "しゅうりだい", korean: "슈-리다이", meaning: "수리비",
+    example: "修理代が高かったです。", exampleReading: "しゅうりだいがたかかったです。", exampleKorean: "슈-리다이가 타카캇타데스", exampleMeaning: "수리비가 비쌌습니다.",
+    breakdown: [
+      { word: "高かった", reading: "たかかった", meaning: "비쌌다" }
+    ] },
+  { level: "N4", kanji: "中古車", reading: "ちゅうこしゃ", korean: "츄-코샤", meaning: "중고차",
+    example: "中古車を買いました。", exampleReading: "ちゅうこしゃをかいました。", exampleKorean: "츄-코샤오 카이마시타", exampleMeaning: "중고차를 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N4", kanji: "新車", reading: "しんしゃ", korean: "신샤", meaning: "새 차",
+    example: "新車を購入しました。", exampleReading: "しんしゃをこうにゅうしました。", exampleKorean: "신샤오 코-뉴- 시마시타", exampleMeaning: "새 차를 구입했습니다.",
+    breakdown: [
+      { word: "購入", reading: "こうにゅう", meaning: "구입" }
+    ] },
+  { level: "N4", kanji: "廃車", reading: "はいしゃ", korean: "하이샤", meaning: "폐차",
+    example: "古い車を廃車にしました。", exampleReading: "ふるいくるまをはいしゃにしました。", exampleKorean: "후루이 쿠루마오 하이샤니 시마시타", exampleMeaning: "오래된 차를 폐차했습니다.",
+    breakdown: [
+      { word: "古い車", reading: "ふるいくるま", meaning: "오래된 차" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
