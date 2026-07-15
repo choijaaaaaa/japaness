@@ -3033,6 +3033,256 @@ const VOCAB = [
     breakdown: [
       { word: "友達と", reading: "ともだちと", meaning: "친구와" }
     ] },
+  { level: "N5", kanji: "台所用品", reading: "だいどころようひん", korean: "다이도코로요-힌", meaning: "주방용품",
+    example: "台所用品を新しく買いました。", exampleReading: "だいどころようひんをあたらしくかいました。", exampleKorean: "다이도코로요-힌오 아타라시쿠 카이마시타", exampleMeaning: "주방용품을 새로 샀습니다.",
+    breakdown: [
+      { word: "新しく", reading: "あたらしく", meaning: "새로" }
+    ] },
+  { level: "N5", kanji: "包丁", reading: "ほうちょう", korean: "호-쵸-", meaning: "식칼",
+    example: "包丁で野菜を切りました。", exampleReading: "ほうちょうでやさいをきりました。", exampleKorean: "호-쵸-데 야사이오 키리마시타", exampleMeaning: "식칼로 채소를 잘랐습니다.",
+    breakdown: [
+      { word: "野菜", reading: "やさい", meaning: "채소" }
+    ] },
+  { level: "N5", kanji: "まな板", reading: "まないた", korean: "마나이타", meaning: "도마",
+    example: "まな板の上で肉を切りました。", exampleReading: "まないたのうえでにくをきりました。", exampleKorean: "마나이타노 우에데 니쿠오 키리마시타", exampleMeaning: "도마 위에서 고기를 잘랐습니다.",
+    breakdown: [
+      { word: "肉", reading: "にく", meaning: "고기" }
+    ] },
+  { level: "N5", kanji: "おたま", reading: "おたま", korean: "오타마", meaning: "국자",
+    example: "おたまでスープをよそいました。", exampleReading: "おたまでスープをよそいました。", exampleKorean: "오타마데 스-푸오 요소이마시타", exampleMeaning: "국자로 수프를 펐습니다.",
+    breakdown: [
+      { word: "スープ", reading: "スープ", meaning: "수프" }
+    ] },
+  { level: "N5", kanji: "菜箸", reading: "さいばし", korean: "사이바시", meaning: "조리용 젓가락",
+    example: "菜箸で炒め物を混ぜました。", exampleReading: "さいばしでいためものをまぜました。", exampleKorean: "사이바시데 이타메모노오 마제마시타", exampleMeaning: "조리용 젓가락으로 볶음 요리를 저었습니다.",
+    breakdown: [
+      { word: "炒め物", reading: "いためもの", meaning: "볶음 요리" }
+    ] },
+  { level: "N5", kanji: "ざる", reading: "ざる", korean: "자루", meaning: "소쿠리, 채반",
+    example: "ざるで野菜の水を切りました。", exampleReading: "ざるでやさいのみずをきりました。", exampleKorean: "자루데 야사이노 미즈오 키리마시타", exampleMeaning: "채반으로 채소의 물기를 뺐습니다.",
+    breakdown: [
+      { word: "野菜", reading: "やさい", meaning: "채소" }
+    ] },
+  { level: "N5", kanji: "ボウル", reading: "ボウル", korean: "보-루", meaning: "볼(그릇)",
+    example: "ボウルに材料を入れました。", exampleReading: "ボウルにざいりょうをいれました。", exampleKorean: "보-루니 자이료-오 이레마시타", exampleMeaning: "볼에 재료를 넣었습니다.",
+    breakdown: [
+      { word: "材料", reading: "ざいりょう", meaning: "재료" }
+    ] },
+  { level: "N5", kanji: "泡立て器", reading: "あわだてき", korean: "아와다테키", meaning: "거품기",
+    example: "泡立て器で卵を混ぜました。", exampleReading: "あわだてきでたまごをまぜました。", exampleKorean: "아와다테키데 타마고오 마제마시타", exampleMeaning: "거품기로 계란을 저었습니다.",
+    breakdown: [
+      { word: "卵", reading: "たまご", meaning: "계란" }
+    ] },
+  { level: "N5", kanji: "計量カップ", reading: "けいりょうカップ", korean: "케-료-캅푸", meaning: "계량컵",
+    example: "計量カップで水を量りました。", exampleReading: "けいりょうカップでみずをはかりました。", exampleKorean: "케-료-캅푸데 미즈오 하카리마시타", exampleMeaning: "계량컵으로 물을 쟀습니다.",
+    breakdown: [
+      { word: "水", reading: "みず", meaning: "물" }
+    ] },
+  { level: "N5", kanji: "計量スプーン", reading: "けいりょうスプーン", korean: "케-료-스푼", meaning: "계량스푼",
+    example: "計量スプーンで塩を量りました。", exampleReading: "けいりょうスプーンでしおをはかりました。", exampleKorean: "케-료-스푼데 시오오 하카리마시타", exampleMeaning: "계량스푼으로 소금을 쟀습니다.",
+    breakdown: [
+      { word: "塩", reading: "しお", meaning: "소금" }
+    ] },
+  { level: "N5", kanji: "缶切り", reading: "かんきり", korean: "칸키리", meaning: "캔따개",
+    example: "缶切りで缶を開けました。", exampleReading: "かんきりでかんをあけました。", exampleKorean: "칸키리데 캉오 아케마시타", exampleMeaning: "캔따개로 캔을 땄습니다.",
+    breakdown: [
+      { word: "缶", reading: "かん", meaning: "캔" }
+    ] },
+  { level: "N5", kanji: "栓抜き", reading: "せんぬき", korean: "센누키", meaning: "병따개",
+    example: "栓抜きでビールを開けました。", exampleReading: "せんぬきでビールをあけました。", exampleKorean: "센누키데 비-루오 아케마시타", exampleMeaning: "병따개로 맥주를 땄습니다.",
+    breakdown: [
+      { word: "ビール", reading: "ビール", meaning: "맥주" }
+    ] },
+  { level: "N5", kanji: "ラップ", reading: "ラップ", korean: "랍푸", meaning: "랩(비닐랩)",
+    example: "料理をラップで包みました。", exampleReading: "りょうりをラップでつつみました。", exampleKorean: "료-리오 랍푸데 츠츠미마시타", exampleMeaning: "요리를 랩으로 쌌습니다.",
+    breakdown: [
+      { word: "料理", reading: "りょうり", meaning: "요리" }
+    ] },
+  { level: "N5", kanji: "アルミホイル", reading: "アルミホイル", korean: "아루미호이루", meaning: "알루미늄 호일",
+    example: "肉をアルミホイルで包みました。", exampleReading: "にくをアルミホイルでつつみました。", exampleKorean: "니쿠오 아루미호이루데 츠츠미마시타", exampleMeaning: "고기를 알루미늄 호일로 쌌습니다.",
+    breakdown: [
+      { word: "肉", reading: "にく", meaning: "고기" }
+    ] },
+  { level: "N5", kanji: "タッパー", reading: "タッパー", korean: "탓파-", meaning: "밀폐용기",
+    example: "おかずをタッパーに入れました。", exampleReading: "おかずをタッパーにいれました。", exampleKorean: "오카즈오 탓파-니 이레마시타", exampleMeaning: "반찬을 밀폐용기에 넣었습니다.",
+    breakdown: [
+      { word: "おかず", reading: "おかず", meaning: "반찬" }
+    ] },
+  { level: "N5", kanji: "保存容器", reading: "ほぞんようき", korean: "호존요-키", meaning: "보관용기",
+    example: "保存容器に野菜を入れました。", exampleReading: "ほぞんようきにやさいをいれました。", exampleKorean: "호존요-키니 야사이오 이레마시타", exampleMeaning: "보관용기에 채소를 넣었습니다.",
+    breakdown: [
+      { word: "野菜", reading: "やさい", meaning: "채소" }
+    ] },
+  { level: "N5", kanji: "ゴミ箱", reading: "ゴミばこ", korean: "고미바코", meaning: "쓰레기통",
+    example: "ゴミ箱にゴミを捨てました。", exampleReading: "ゴミばこにゴミをすてました。", exampleKorean: "고미바코니 고미오 스테마시타", exampleMeaning: "쓰레기통에 쓰레기를 버렸습니다.",
+    breakdown: [
+      { word: "ゴミ", reading: "ゴミ", meaning: "쓰레기" }
+    ] },
+  { level: "N5", kanji: "ゴミ袋", reading: "ゴミぶくろ", korean: "고미부쿠로", meaning: "쓰레기봉투",
+    example: "ゴミ袋を交換しました。", exampleReading: "ゴミぶくろをこうかんしました。", exampleKorean: "고미부쿠로오 코-칸 시마시타", exampleMeaning: "쓰레기봉투를 교체했습니다.",
+    breakdown: [
+      { word: "交換", reading: "こうかん", meaning: "교체" }
+    ] },
+  { level: "N5", kanji: "洗剤", reading: "せんざい", korean: "센자이", meaning: "세제",
+    example: "洗剤で食器を洗いました。", exampleReading: "せんざいでしょっきをあらいました。", exampleKorean: "센자이데 쇽키오 아라이마시타", exampleMeaning: "세제로 그릇을 씻었습니다.",
+    breakdown: [
+      { word: "食器", reading: "しょっき", meaning: "그릇" }
+    ] },
+  { level: "N5", kanji: "スポンジ", reading: "スポンジ", korean: "스폰지", meaning: "스펀지",
+    example: "スポンジで洗いました。", exampleReading: "スポンジであらいました。", exampleKorean: "스폰지데 아라이마시타", exampleMeaning: "스펀지로 씻었습니다.",
+    breakdown: [
+      { word: "洗いました", reading: "あらいました", meaning: "씻었습니다" }
+    ] },
+  { level: "N5", kanji: "ふきん", reading: "ふきん", korean: "후킨", meaning: "행주",
+    example: "ふきんでテーブルを拭きました。", exampleReading: "ふきんでテーブルをふきました。", exampleKorean: "후킨데 테-부루오 후키마시타", exampleMeaning: "행주로 테이블을 닦았습니다.",
+    breakdown: [
+      { word: "テーブル", reading: "テーブル", meaning: "테이블" }
+    ] },
+  { level: "N5", kanji: "マット", reading: "マット", korean: "맛토", meaning: "매트",
+    example: "玄関にマットを敷きました。", exampleReading: "げんかんにマットをしきました。", exampleKorean: "겐칸니 맛토오 시키마시타", exampleMeaning: "현관에 매트를 깔았습니다.",
+    breakdown: [
+      { word: "玄関", reading: "げんかん", meaning: "현관" }
+    ] },
+  { level: "N5", kanji: "ほうき", reading: "ほうき", korean: "호-키", meaning: "빗자루",
+    example: "ほうきで床を掃きました。", exampleReading: "ほうきでゆかをはきました。", exampleKorean: "호-키데 유카오 하키마시타", exampleMeaning: "빗자루로 바닥을 쓸었습니다.",
+    breakdown: [
+      { word: "床", reading: "ゆか", meaning: "바닥" }
+    ] },
+  { level: "N5", kanji: "ちりとり", reading: "ちりとり", korean: "치리토리", meaning: "쓰레받기",
+    example: "ちりとりでゴミを集めました。", exampleReading: "ちりとりでゴミをあつめました。", exampleKorean: "치리토리데 고미오 아츠메마시타", exampleMeaning: "쓰레받기로 쓰레기를 모았습니다.",
+    breakdown: [
+      { word: "ゴミ", reading: "ゴミ", meaning: "쓰레기" }
+    ] },
+  { level: "N5", kanji: "モップ", reading: "モップ", korean: "몹푸", meaning: "걸레(대걸레)",
+    example: "モップで床を拭きました。", exampleReading: "モップでゆかをふきました。", exampleKorean: "몹푸데 유카오 후키마시타", exampleMeaning: "대걸레로 바닥을 닦았습니다.",
+    breakdown: [
+      { word: "床", reading: "ゆか", meaning: "바닥" }
+    ] },
+  { level: "N5", kanji: "バケツ", reading: "バケツ", korean: "바케츠", meaning: "양동이",
+    example: "バケツに水を入れました。", exampleReading: "バケツにみずをいれました。", exampleKorean: "바케츠니 미즈오 이레마시타", exampleMeaning: "양동이에 물을 넣었습니다.",
+    breakdown: [
+      { word: "水", reading: "みず", meaning: "물" }
+    ] },
+  { level: "N5", kanji: "雑巾", reading: "ぞうきん", korean: "조-킨", meaning: "걸레",
+    example: "雑巾で床を拭きました。", exampleReading: "ぞうきんでゆかをふきました。", exampleKorean: "조-킨데 유카오 후키마시타", exampleMeaning: "걸레로 바닥을 닦았습니다.",
+    breakdown: [
+      { word: "床", reading: "ゆか", meaning: "바닥" }
+    ] },
+  { level: "N5", kanji: "洗面器", reading: "せんめんき", korean: "센멘키", meaning: "세면대야",
+    example: "洗面器に水をためました。", exampleReading: "せんめんきにみずをためました。", exampleKorean: "센멘키니 미즈오 타메마시타", exampleMeaning: "세면대야에 물을 받았습니다.",
+    breakdown: [
+      { word: "水", reading: "みず", meaning: "물" }
+    ] },
+  { level: "N5", kanji: "歯磨き粉", reading: "はみがきこ", korean: "하미가키코", meaning: "치약",
+    example: "歯磨き粉をつけて歯を磨きました。", exampleReading: "はみがきこをつけてはをみがきました。", exampleKorean: "하미가키코오 츠케테 하오 미가키마시타", exampleMeaning: "치약을 묻혀서 이를 닦았습니다.",
+    breakdown: [
+      { word: "歯", reading: "は", meaning: "이" }
+    ] },
+  { level: "N5", kanji: "ハンドソープ", reading: "ハンドソープ", korean: "한도소-푸", meaning: "핸드솝",
+    example: "ハンドソープで手を洗いました。", exampleReading: "ハンドソープでてをあらいました。", exampleKorean: "한도소-푸데 테오 아라이마시타", exampleMeaning: "핸드솝으로 손을 씻었습니다.",
+    breakdown: [
+      { word: "手", reading: "て", meaning: "손" }
+    ] },
+  { level: "N5", kanji: "目覚まし時計", reading: "めざましどけい", korean: "메자마시도케-", meaning: "자명종",
+    example: "目覚まし時計で起きました。", exampleReading: "めざましどけいでおきました。", exampleKorean: "메자마시도케-데 오키마시타", exampleMeaning: "자명종으로 일어났습니다.",
+    breakdown: [
+      { word: "起きました", reading: "おきました", meaning: "일어났습니다" }
+    ] },
+  { level: "N5", kanji: "加湿器", reading: "かしつき", korean: "카시츠키", meaning: "가습기",
+    example: "冬は加湿器を使います。", exampleReading: "ふゆはかしつきをつかいます。", exampleKorean: "후유와 카시츠키오 츠카이마스", exampleMeaning: "겨울에는 가습기를 사용합니다.",
+    breakdown: [
+      { word: "冬", reading: "ふゆ", meaning: "겨울" }
+    ] },
+  { level: "N5", kanji: "除湿機", reading: "じょしつき", korean: "죠시츠키", meaning: "제습기",
+    example: "梅雨は除湿機を使います。", exampleReading: "つゆはじょしつきをつかいます。", exampleKorean: "츠유와 죠시츠키오 츠카이마스", exampleMeaning: "장마철에는 제습기를 사용합니다.",
+    breakdown: [
+      { word: "梅雨", reading: "つゆ", meaning: "장마" }
+    ] },
+  { level: "N5", kanji: "扇風機", reading: "せんぷうき", korean: "센푸-키", meaning: "선풍기",
+    example: "夏は扇風機をつけます。", exampleReading: "なつはせんぷうきをつけます。", exampleKorean: "나츠와 센푸-키오 츠케마스", exampleMeaning: "여름에는 선풍기를 켭니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
+  { level: "N5", kanji: "ヒーター", reading: "ヒーター", korean: "히-타-", meaning: "히터",
+    example: "冬はヒーターをつけます。", exampleReading: "ふゆはヒーターをつけます。", exampleKorean: "후유와 히-타-오 츠케마스", exampleMeaning: "겨울에는 히터를 켭니다.",
+    breakdown: [
+      { word: "冬", reading: "ふゆ", meaning: "겨울" }
+    ] },
+  { level: "N5", kanji: "こたつ", reading: "こたつ", korean: "코타츠", meaning: "코타츠",
+    example: "こたつに入って温まりました。", exampleReading: "こたつにはいってあたたまりました。", exampleKorean: "코타츠니 하잇테 아타타마리마시타", exampleMeaning: "코타츠에 들어가서 몸을 녹였습니다.",
+    breakdown: [
+      { word: "温まりました", reading: "あたたまりました", meaning: "몸을 녹였습니다" }
+    ] },
+  { level: "N5", kanji: "カーペット", reading: "カーペット", korean: "카-펫토", meaning: "카펫",
+    example: "部屋にカーペットを敷きました。", exampleReading: "へやにカーペットをしきました。", exampleKorean: "헤야니 카-펫토오 시키마시타", exampleMeaning: "방에 카펫을 깔았습니다.",
+    breakdown: [
+      { word: "部屋", reading: "へや", meaning: "방" }
+    ] },
+  { level: "N5", kanji: "クッション", reading: "クッション", korean: "쿳숀", meaning: "쿠션",
+    example: "ソファにクッションを置きました。", exampleReading: "ソファにクッションをおきました。", exampleKorean: "소화니 쿳숀오 오키마시타", exampleMeaning: "소파에 쿠션을 놓았습니다.",
+    breakdown: [
+      { word: "ソファ", reading: "ソファ", meaning: "소파" }
+    ] },
+  { level: "N5", kanji: "座布団", reading: "ざぶとん", korean: "자부통", meaning: "방석",
+    example: "座布団に座りました。", exampleReading: "ざぶとんにすわりました。", exampleKorean: "자부톤니 스와리마시타", exampleMeaning: "방석에 앉았습니다.",
+    breakdown: [
+      { word: "座りました", reading: "すわりました", meaning: "앉았습니다" }
+    ] },
+  { level: "N5", kanji: "物干し", reading: "ものほし", korean: "모노호시", meaning: "빨래 건조대",
+    example: "物干しに洗濯物を干しました。", exampleReading: "ものほしにせんたくものをほしました。", exampleKorean: "모노호시니 센타쿠모노오 호시마시타", exampleMeaning: "빨래 건조대에 세탁물을 널었습니다.",
+    breakdown: [
+      { word: "洗濯物", reading: "せんたくもの", meaning: "세탁물" }
+    ] },
+  { level: "N5", kanji: "ハンガー", reading: "ハンガー", korean: "항가-", meaning: "옷걸이",
+    example: "ハンガーに服をかけました。", exampleReading: "ハンガーにふくをかけました。", exampleKorean: "항가-니 후쿠오 카케마시타", exampleMeaning: "옷걸이에 옷을 걸었습니다.",
+    breakdown: [
+      { word: "服", reading: "ふく", meaning: "옷" }
+    ] },
+  { level: "N5", kanji: "洗濯ばさみ", reading: "せんたくばさみ", korean: "센타쿠바사미", meaning: "빨래집게",
+    example: "洗濯ばさみで洗濯物を挟みました。", exampleReading: "せんたくばさみでせんたくものをはさみました。", exampleKorean: "센타쿠바사미데 센타쿠모노오 하사미마시타", exampleMeaning: "빨래집게로 세탁물을 집었습니다.",
+    breakdown: [
+      { word: "洗濯物", reading: "せんたくもの", meaning: "세탁물" }
+    ] },
+  { level: "N5", kanji: "アイロン", reading: "アイロン", korean: "아이론", meaning: "다리미",
+    example: "シャツにアイロンをかけました。", exampleReading: "シャツにアイロンをかけました。", exampleKorean: "샤츠니 아이론오 카케마시타", exampleMeaning: "셔츠를 다림질했습니다.",
+    breakdown: [
+      { word: "シャツ", reading: "シャツ", meaning: "셔츠" }
+    ] },
+  { level: "N5", kanji: "アイロン台", reading: "アイロンだい", korean: "아이론다이", meaning: "다림판",
+    example: "アイロン台の上でアイロンをかけました。", exampleReading: "アイロンだいのうえでアイロンをかけました。", exampleKorean: "아이론다이노 우에데 아이론오 카케마시타", exampleMeaning: "다림판 위에서 다림질을 했습니다.",
+    breakdown: [
+      { word: "上で", reading: "うえで", meaning: "위에서" }
+    ] },
+  { level: "N5", kanji: "裁縫箱", reading: "さいほうばこ", korean: "사이호-바코", meaning: "반짇고리",
+    example: "裁縫箱から針と糸を出しました。", exampleReading: "さいほうばこからはりといとをだしました。", exampleKorean: "사이호-바코카라 하리토 이토오 다시마시타", exampleMeaning: "반짇고리에서 바늘과 실을 꺼냈습니다.",
+    breakdown: [
+      { word: "針と糸", reading: "はりといと", meaning: "바늘과 실" }
+    ] },
+  { level: "N5", kanji: "針", reading: "はり", korean: "하리", meaning: "바늘",
+    example: "針で穴を縫いました。", exampleReading: "はりであなをぬいました。", exampleKorean: "하리데 아나오 누이마시타", exampleMeaning: "바늘로 구멍을 꿰맸습니다.",
+    breakdown: [
+      { word: "穴", reading: "あな", meaning: "구멍" }
+    ] },
+  { level: "N5", kanji: "糸", reading: "いと", korean: "이토", meaning: "실",
+    example: "糸でボタンをつけました。", exampleReading: "いとでボタンをつけました。", exampleKorean: "이토데 보탕오 츠케마시타", exampleMeaning: "실로 단추를 달았습니다.",
+    breakdown: [
+      { word: "ボタン", reading: "ボタン", meaning: "단추" }
+    ] },
+  { level: "N5", kanji: "ボタン", reading: "ボタン", korean: "보탄", meaning: "단추",
+    example: "服のボタンが取れました。", exampleReading: "ふくのボタンがとれました。", exampleKorean: "후쿠노 보탕가 토레마시타", exampleMeaning: "옷의 단추가 떨어졌습니다.",
+    breakdown: [
+      { word: "服", reading: "ふく", meaning: "옷" }
+    ] },
+  { level: "N5", kanji: "ミシン", reading: "ミシン", korean: "미신", meaning: "재봉틀",
+    example: "ミシンで服を作りました。", exampleReading: "ミシンでふくをつくりました。", exampleKorean: "미신데 후쿠오 츠쿠리마시타", exampleMeaning: "재봉틀로 옷을 만들었습니다.",
+    breakdown: [
+      { word: "服", reading: "ふく", meaning: "옷" }
+    ] },
+  { level: "N5", kanji: "枕カバー", reading: "まくらカバー", korean: "마쿠라카바-", meaning: "베갯잇",
+    example: "枕カバーを洗いました。", exampleReading: "まくらカバーをあらいました。", exampleKorean: "마쿠라카바-오 아라이마시타", exampleMeaning: "베갯잇을 세탁했습니다.",
+    breakdown: [
+      { word: "洗いました", reading: "あらいました", meaning: "세탁했습니다" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
