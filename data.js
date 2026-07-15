@@ -11862,6 +11862,156 @@ const VOCAB = [
     breakdown: [
       { word: "設備", reading: "せつび", meaning: "설비" }
     ] },
+  { level: "N2", kanji: "金融", reading: "きんゆう", korean: "킹유-", meaning: "금융",
+    example: "金融について勉強しています。", exampleReading: "きんゆうについてべんきょうしています。", exampleKorean: "킹유-니 츠이테 벵쿄- 시테 이마스", exampleMeaning: "금융에 대해 공부하고 있습니다.",
+    breakdown: [
+      { word: "勉強", reading: "べんきょう", meaning: "공부" }
+    ] },
+  { level: "N2", kanji: "証券", reading: "しょうけん", korean: "쇼-켄", meaning: "증권",
+    example: "証券会社に勤めています。", exampleReading: "しょうけんがいしゃにつとめています。", exampleKorean: "쇼-켄가이샤니 츠토메테 이마스", exampleMeaning: "증권회사에 근무하고 있습니다.",
+    breakdown: [
+      { word: "会社", reading: "がいしゃ", meaning: "회사" }
+    ] },
+  { level: "N2", kanji: "債券", reading: "さいけん", korean: "사이켄", meaning: "채권",
+    example: "国の債券を購入しました。", exampleReading: "くにのさいけんをこうにゅうしました。", exampleKorean: "쿠니노 사이켕오 코-뉴- 시마시타", exampleMeaning: "국채를 구입했습니다.",
+    breakdown: [
+      { word: "購入", reading: "こうにゅう", meaning: "구입" }
+    ] },
+  { level: "N2", kanji: "投資信託", reading: "とうししんたく", korean: "토-시신타쿠", meaning: "투자신탁(펀드)",
+    example: "投資信託を始めました。", exampleReading: "とうししんたくをはじめました。", exampleKorean: "토-시신타쿠오 하지메마시타", exampleMeaning: "펀드 투자를 시작했습니다.",
+    breakdown: [
+      { word: "始めました", reading: "はじめました", meaning: "시작했습니다" }
+    ] },
+  { level: "N2", kanji: "株式市場", reading: "かぶしきしじょう", korean: "카부시키시죠-", meaning: "주식시장",
+    example: "株式市場が下落しました。", exampleReading: "かぶしきしじょうがげらくしました。", exampleKorean: "카부시키시죠-가 게라쿠 시마시타", exampleMeaning: "주식시장이 하락했습니다.",
+    breakdown: [
+      { word: "下落", reading: "げらく", meaning: "하락" }
+    ] },
+  { level: "N2", kanji: "為替相場", reading: "かわせそうば", korean: "카와세소-바", meaning: "환율시세",
+    example: "為替相場が変動しています。", exampleReading: "かわせそうばがへんどうしています。", exampleKorean: "카와세소-바가 헨도- 시테 이마스", exampleMeaning: "환율시세가 변동하고 있습니다.",
+    breakdown: [
+      { word: "変動", reading: "へんどう", meaning: "변동" }
+    ] },
+  { level: "N2", kanji: "中央銀行", reading: "ちゅうおうぎんこう", korean: "츄-오-깅코-", meaning: "중앙은행",
+    example: "中央銀行が金利を発表しました。", exampleReading: "ちゅうおうぎんこうがきんりをはっぴょうしました。", exampleKorean: "츄-오-깅코-가 킨리오 핫표- 시마시타", exampleMeaning: "중앙은행이 금리를 발표했습니다.",
+    breakdown: [
+      { word: "金利", reading: "きんり", meaning: "금리" }
+    ] },
+  { level: "N2", kanji: "金融政策", reading: "きんゆうせいさく", korean: "킹유-세-사쿠", meaning: "금융정책",
+    example: "新しい金融政策を発表しました。", exampleReading: "あたらしいきんゆうせいさくをはっぴょうしました。", exampleKorean: "아타라시- 킹유-세-사쿠오 핫표- 시마시타", exampleMeaning: "새로운 금융정책을 발표했습니다.",
+    breakdown: [
+      { word: "発表", reading: "はっぴょう", meaning: "발표" }
+    ] },
+  { level: "N2", kanji: "量的緩和", reading: "りょうてきかんわ", korean: "료-테키칸와", meaning: "양적완화",
+    example: "量的緩和政策を続けています。", exampleReading: "りょうてきかんわせいさくをつづけています。", exampleKorean: "료-테키칸와세-사쿠오 츠즈케테 이마스", exampleMeaning: "양적완화 정책을 계속하고 있습니다.",
+    breakdown: [
+      { word: "政策", reading: "せいさく", meaning: "정책" }
+    ] },
+  { level: "N2", kanji: "利下げ", reading: "りさげ", korean: "리사게", meaning: "금리인하",
+    example: "中央銀行が利下げを決定しました。", exampleReading: "ちゅうおうぎんこうがりさげをけっていしました。", exampleKorean: "츄-오-깅코-가 리사게오 켓테- 시마시타", exampleMeaning: "중앙은행이 금리인하를 결정했습니다.",
+    breakdown: [
+      { word: "決定", reading: "けってい", meaning: "결정" }
+    ] },
+  { level: "N2", kanji: "利上げ", reading: "りあげ", korean: "리아게", meaning: "금리인상",
+    example: "来月利上げが予想されています。", exampleReading: "らいげつりあげがよそうされています。", exampleKorean: "라이게츠 리아게가 요소-사레테 이마스", exampleMeaning: "다음 달 금리인상이 예상되고 있습니다.",
+    breakdown: [
+      { word: "来月", reading: "らいげつ", meaning: "다음 달" }
+    ] },
+  { level: "N2", kanji: "景気刺激策", reading: "けいきしげきさく", korean: "케-키시게키사쿠", meaning: "경기부양책",
+    example: "政府が景気刺激策を発表しました。", exampleReading: "せいふがけいきしげきさくをはっぴょうしました。", exampleKorean: "세-후가 케-키시게키사쿠오 핫표- 시마시타", exampleMeaning: "정부가 경기부양책을 발표했습니다.",
+    breakdown: [
+      { word: "政府", reading: "せいふ", meaning: "정부" }
+    ] },
+  { level: "N2", kanji: "財政出動", reading: "ざいせいしゅつどう", korean: "자이세-슛도-", meaning: "재정지출",
+    example: "大規模な財政出動を行いました。", exampleReading: "だいきぼなざいせいしゅつどうをおこないました。", exampleKorean: "다이키보나 자이세-슛도-오 오코나이마시타", exampleMeaning: "대규모 재정지출을 실시했습니다.",
+    breakdown: [
+      { word: "大規模な", reading: "だいきぼな", meaning: "대규모의" }
+    ] },
+  { level: "N2", kanji: "消費税増税", reading: "しょうひぜいぞうぜい", korean: "쇼-히제-조-제-", meaning: "소비세증세",
+    example: "消費税増税が実施されました。", exampleReading: "しょうひぜいぞうぜいがじっしされました。", exampleKorean: "쇼-히제-조-제-가 짓시사레마시타", exampleMeaning: "소비세증세가 실시되었습니다.",
+    breakdown: [
+      { word: "実施", reading: "じっし", meaning: "실시" }
+    ] },
+  { level: "N2", kanji: "デフレ", reading: "デフレ", korean: "데후레", meaning: "디플레이션",
+    example: "デフレから脱却しました。", exampleReading: "デフレからだっきゃくしました。", exampleKorean: "데후레카라 닥캬쿠 시마시타", exampleMeaning: "디플레이션에서 탈출했습니다.",
+    breakdown: [
+      { word: "脱却", reading: "だっきゃく", meaning: "탈출" }
+    ] },
+  { level: "N2", kanji: "インフレ", reading: "インフレ", korean: "인후레", meaning: "인플레이션",
+    example: "インフレが進んでいます。", exampleReading: "インフレがすすんでいます。", exampleKorean: "인후레가 스슨데 이마스", exampleMeaning: "인플레이션이 진행되고 있습니다.",
+    breakdown: [
+      { word: "進んで", reading: "すすんで", meaning: "진행되어" }
+    ] },
+  { level: "N2", kanji: "スタグフレーション", reading: "スタグフレーション", korean: "스타구후레-숀", meaning: "스태그플레이션",
+    example: "スタグフレーションに警戒しています。", exampleReading: "スタグフレーションにけいかいしています。", exampleKorean: "스타구후레-숀니 케-카이 시테 이마스", exampleMeaning: "스태그플레이션을 경계하고 있습니다.",
+    breakdown: [
+      { word: "警戒", reading: "けいかい", meaning: "경계" }
+    ] },
+  { level: "N2", kanji: "バブル経済", reading: "バブルけいざい", korean: "바부루케-자이", meaning: "버블경제",
+    example: "バブル経済が崩壊しました。", exampleReading: "バブルけいざいがほうかいしました。", exampleKorean: "바부루케-자이가 호-카이 시마시타", exampleMeaning: "버블경제가 붕괴했습니다.",
+    breakdown: [
+      { word: "崩壊", reading: "ほうかい", meaning: "붕괴" }
+    ] },
+  { level: "N2", kanji: "経済成長率", reading: "けいざいせいちょうりつ", korean: "케-자이세-쵸-리츠", meaning: "경제성장률",
+    example: "経済成長率が発表されました。", exampleReading: "けいざいせいちょうりつがはっぴょうされました。", exampleKorean: "케-자이세-쵸-리츠가 핫표-사레마시타", exampleMeaning: "경제성장률이 발표되었습니다.",
+    breakdown: [
+      { word: "発表", reading: "はっぴょう", meaning: "발표" }
+    ] },
+  { level: "N2", kanji: "国内総生産", reading: "こくないそうせいさん", korean: "코쿠나이 소-세-산", meaning: "국내총생산(GDP)",
+    example: "国内総生産が増加しました。", exampleReading: "こくないそうせいさんがぞうかしました。", exampleKorean: "코쿠나이 소-세-산가 조-카 시마시타", exampleMeaning: "국내총생산이 증가했습니다.",
+    breakdown: [
+      { word: "増加", reading: "ぞうか", meaning: "증가" }
+    ] },
+  { level: "N2", kanji: "貿易赤字", reading: "ぼうえきあかじ", korean: "보-에키아카지", meaning: "무역적자",
+    example: "貿易赤字が拡大しています。", exampleReading: "ぼうえきあかじがかくだいしています。", exampleKorean: "보-에키아카지가 카쿠다이 시테 이마스", exampleMeaning: "무역적자가 확대되고 있습니다.",
+    breakdown: [
+      { word: "拡大", reading: "かくだい", meaning: "확대" }
+    ] },
+  { level: "N2", kanji: "貿易黒字", reading: "ぼうえきくろじ", korean: "보-에키쿠로지", meaning: "무역흑자",
+    example: "貿易黒字を記録しました。", exampleReading: "ぼうえきくろじをきろくしました。", exampleKorean: "보-에키쿠로지오 키로쿠 시마시타", exampleMeaning: "무역흑자를 기록했습니다.",
+    breakdown: [
+      { word: "記録", reading: "きろく", meaning: "기록" }
+    ] },
+  { level: "N2", kanji: "経常収支", reading: "けいじょうしゅうし", korean: "케-죠-슈-시", meaning: "경상수지",
+    example: "経常収支が改善しました。", exampleReading: "けいじょうしゅうしがかいぜんしました。", exampleKorean: "케-죠-슈-시가 카이젠 시마시타", exampleMeaning: "경상수지가 개선되었습니다.",
+    breakdown: [
+      { word: "改善", reading: "かいぜん", meaning: "개선" }
+    ] },
+  { level: "N2", kanji: "為替介入", reading: "かわせかいにゅう", korean: "카와세카이뉴-", meaning: "환율개입",
+    example: "政府が為替介入を実施しました。", exampleReading: "せいふがかわせかいにゅうをじっししました。", exampleKorean: "세-후가 카와세카이뉴-오 짓시 시마시타", exampleMeaning: "정부가 환율개입을 실시했습니다.",
+    breakdown: [
+      { word: "政府", reading: "せいふ", meaning: "정부" }
+    ] },
+  { level: "N2", kanji: "円高", reading: "えんだか", korean: "엔다카", meaning: "엔고",
+    example: "円高が進んでいます。", exampleReading: "えんだかがすすんでいます。", exampleKorean: "엔다카가 스슨데 이마스", exampleMeaning: "엔고가 진행되고 있습니다.",
+    breakdown: [
+      { word: "進んで", reading: "すすんで", meaning: "진행되어" }
+    ] },
+  { level: "N2", kanji: "円安", reading: "えんやす", korean: "엔야스", meaning: "엔저",
+    example: "円安で輸出が伸びました。", exampleReading: "えんやすでゆしゅつがのびました。", exampleKorean: "엔야스데 유슈츠가 노비마시타", exampleMeaning: "엔저로 수출이 늘었습니다.",
+    breakdown: [
+      { word: "輸出", reading: "ゆしゅつ", meaning: "수출" }
+    ] },
+  { level: "N2", kanji: "内需", reading: "ないじゅ", korean: "나이쥬", meaning: "내수",
+    example: "内需を拡大する政策です。", exampleReading: "ないじゅをかくだいするせいさくです。", exampleKorean: "나이쥬오 카쿠다이스루 세-사쿠데스", exampleMeaning: "내수를 확대하는 정책입니다.",
+    breakdown: [
+      { word: "政策", reading: "せいさく", meaning: "정책" }
+    ] },
+  { level: "N2", kanji: "外需", reading: "がいじゅ", korean: "가이쥬", meaning: "외수",
+    example: "外需に頼っています。", exampleReading: "がいじゅにたよっています。", exampleKorean: "가이쥬니 타욧테 이마스", exampleMeaning: "외수에 의존하고 있습니다.",
+    breakdown: [
+      { word: "頼って", reading: "たよって", meaning: "의존해서" }
+    ] },
+  { level: "N2", kanji: "経済指標", reading: "けいざいしひょう", korean: "케-자이시효-", meaning: "경제지표",
+    example: "経済指標を分析しました。", exampleReading: "けいざいしひょうをぶんせきしました。", exampleKorean: "케-자이시효-오 분세키 시마시타", exampleMeaning: "경제지표를 분석했습니다.",
+    breakdown: [
+      { word: "分析", reading: "ぶんせき", meaning: "분석" }
+    ] },
+  { level: "N2", kanji: "金融緩和", reading: "きんゆうかんわ", korean: "킹유-칸와", meaning: "금융완화",
+    example: "金融緩和政策が続いています。", exampleReading: "きんゆうかんわせいさくがつづいています。", exampleKorean: "킹유-칸와세-사쿠가 츠즈이테 이마스", exampleMeaning: "금융완화 정책이 계속되고 있습니다.",
+    breakdown: [
+      { word: "政策", reading: "せいさく", meaning: "정책" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
