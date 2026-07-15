@@ -8248,6 +8248,206 @@ const VOCAB = [
     breakdown: [
       { word: "問題点", reading: "もんだいてん", meaning: "문제점" }
     ] },
+  { level: "N3", kanji: "論点", reading: "ろんてん", korean: "론텐", meaning: "논점",
+    example: "論点を整理しましょう。", exampleReading: "ろんてんをせいりしましょう。", exampleKorean: "론텡오 세-리시마쇼-", exampleMeaning: "논점을 정리합시다.",
+    breakdown: [
+      { word: "整理しましょう", reading: "せいりしましょう", meaning: "정리합시다" }
+    ] },
+  { level: "N3", kanji: "争点", reading: "そうてん", korean: "소-텐", meaning: "쟁점",
+    example: "裁判の争点は明確です。", exampleReading: "さいばんのそうてんはめいかくです。", exampleKorean: "사이반노 소-텡와 메-카쿠데스", exampleMeaning: "재판의 쟁점은 명확합니다.",
+    breakdown: [
+      { word: "裁判", reading: "さいばん", meaning: "재판" }
+    ] },
+  { level: "N3", kanji: "焦眉", reading: "しょうび", korean: "쇼-비", meaning: "초미(급함)",
+    example: "焦眉の課題です。", exampleReading: "しょうびのかだいです。", exampleKorean: "쇼-비노 카다이데스", exampleMeaning: "초미의 과제입니다.",
+    breakdown: [
+      { word: "課題", reading: "かだい", meaning: "과제" }
+    ] },
+  { level: "N3", kanji: "喫緊", reading: "きっきん", korean: "킥킨", meaning: "긴급함, 초미",
+    example: "喫緊の課題に取り組んでいます。", exampleReading: "きっきんのかだいにとりくんでいます。", exampleKorean: "킥킨노 카다이니 토리쿤데 이마스", exampleMeaning: "시급한 과제에 대처하고 있습니다.",
+    breakdown: [
+      { word: "取り組んで", reading: "とりくんで", meaning: "대처해서" }
+    ] },
+  { level: "N3", kanji: "急務", reading: "きゅうむ", korean: "큐-무", meaning: "급무",
+    example: "対策が急務です。", exampleReading: "たいさくがきゅうむです。", exampleKorean: "타이사쿠가 큐-무데스", exampleMeaning: "대책이 시급합니다.",
+    breakdown: [
+      { word: "対策", reading: "たいさく", meaning: "대책" }
+    ] },
+  { level: "N3", kanji: "課題", reading: "かだい", korean: "카다이", meaning: "과제",
+    example: "新しい課題に直面しています。", exampleReading: "あたらしいかだいにちょくめんしています。", exampleKorean: "아타라시- 카다이니 쵸쿠멘시테 이마스", exampleMeaning: "새로운 과제에 직면해 있습니다.",
+    breakdown: [
+      { word: "直面して", reading: "ちょくめんして", meaning: "직면해서" }
+    ] },
+  { level: "N3", kanji: "懸案事項", reading: "けんあんじこう", korean: "켄안지코-", meaning: "현안 사항",
+    example: "懸案事項を話し合いました。", exampleReading: "けんあんじこうをはなしあいました。", exampleKorean: "켄안지코-오 하나시아이마시타", exampleMeaning: "현안 사항을 논의했습니다.",
+    breakdown: [
+      { word: "話し合いました", reading: "はなしあいました", meaning: "논의했습니다" }
+    ] },
+  { level: "N3", kanji: "重要課題", reading: "じゅうようかだい", korean: "쥬-요-카다이", meaning: "중요 과제",
+    example: "環境問題は重要課題です。", exampleReading: "かんきょうもんだいはじゅうようかだいです。", exampleKorean: "캉쿄- 몬다이와 쥬-요- 카다이데스", exampleMeaning: "환경문제는 중요 과제입니다.",
+    breakdown: [
+      { word: "環境問題", reading: "かんきょうもんだい", meaning: "환경문제" }
+    ] },
+  { level: "N3", kanji: "是非とも", reading: "ぜひとも", korean: "제히토모", meaning: "꼭, 반드시",
+    example: "是非とも参加させてください。", exampleReading: "ぜひともさんかさせてください。", exampleKorean: "제히토모 상카사세테 쿠다사이", exampleMeaning: "꼭 참가하게 해 주세요.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N3", kanji: "必至", reading: "ひっし", korean: "힛시", meaning: "필연적임",
+    example: "値上げは必至の状況です。", exampleReading: "ねあげはひっしのじょうきょうです。", exampleKorean: "네아게와 힛시노 죠-쿄-데스", exampleMeaning: "가격 인상은 필연적인 상황입니다.",
+    breakdown: [
+      { word: "値上げ", reading: "ねあげ", meaning: "가격 인상" }
+    ] },
+  { level: "N3", kanji: "不可避", reading: "ふかひ", korean: "후카히", meaning: "불가피함",
+    example: "変化は不可避です。", exampleReading: "へんかはふかひです。", exampleKorean: "헹카와 후카히데스", exampleMeaning: "변화는 불가피합니다.",
+    breakdown: [
+      { word: "変化", reading: "へんか", meaning: "변화" }
+    ] },
+  { level: "N3", kanji: "不可欠", reading: "ふかけつ", korean: "후카케츠", meaning: "불가결함",
+    example: "努力が不可欠です。", exampleReading: "どりょくがふかけつです。", exampleKorean: "도료쿠가 후카케츠데스", exampleMeaning: "노력이 불가결합니다.",
+    breakdown: [
+      { word: "努力", reading: "どりょく", meaning: "노력" }
+    ] },
+  { level: "N3", kanji: "必然", reading: "ひつぜん", korean: "히츠젠", meaning: "필연",
+    example: "これは必然の結果です。", exampleReading: "これはひつぜんのけっかです。", exampleKorean: "코레와 히츠젠노 켁카데스", exampleMeaning: "이것은 필연적인 결과입니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N3", kanji: "偶発", reading: "ぐうはつ", korean: "구-하츠", meaning: "우발",
+    example: "偶発的な事故でした。", exampleReading: "ぐうはつてきなじこでした。", exampleKorean: "구-하츠테키나 지코데시타", exampleMeaning: "우발적인 사고였습니다.",
+    breakdown: [
+      { word: "事故", reading: "じこ", meaning: "사고" }
+    ] },
+  { level: "N3", kanji: "偶然性", reading: "ぐうぜんせい", korean: "구-젠세-", meaning: "우연성",
+    example: "この結果には偶然性があります。", exampleReading: "このけっかにはぐうぜんせいがあります。", exampleKorean: "코노 켁카니와 구-젠세-가 아리마스", exampleMeaning: "이 결과에는 우연성이 있습니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N3", kanji: "蓋然性", reading: "がいぜんせい", korean: "가이젠세-", meaning: "개연성",
+    example: "成功の蓋然性が高いです。", exampleReading: "せいこうのがいぜんせいがたかいです。", exampleKorean: "세-코-노 가이젠세-가 타카이데스", exampleMeaning: "성공의 개연성이 높습니다.",
+    breakdown: [
+      { word: "成功", reading: "せいこう", meaning: "성공" }
+    ] },
+  { level: "N3", kanji: "妥当性", reading: "だとうせい", korean: "다토-세-", meaning: "타당성",
+    example: "この主張には妥当性があります。", exampleReading: "このしゅちょうにはだとうせいがあります。", exampleKorean: "코노 슈쵸-니와 다토-세-가 아리마스", exampleMeaning: "이 주장에는 타당성이 있습니다.",
+    breakdown: [
+      { word: "主張", reading: "しゅちょう", meaning: "주장" }
+    ] },
+  { level: "N3", kanji: "正当性", reading: "せいとうせい", korean: "세-토-세-", meaning: "정당성",
+    example: "行動の正当性を主張しました。", exampleReading: "こうどうのせいとうせいをしゅちょうしました。", exampleKorean: "코-도-노 세-토-세-오 슈쵸- 시마시타", exampleMeaning: "행동의 정당성을 주장했습니다.",
+    breakdown: [
+      { word: "行動", reading: "こうどう", meaning: "행동" }
+    ] },
+  { level: "N3", kanji: "合法性", reading: "ごうほうせい", korean: "고-호-세-", meaning: "합법성",
+    example: "この取引の合法性が問われています。", exampleReading: "このとりひきのごうほうせいがとわれています。", exampleKorean: "코노 토리히키노 고-호-세-가 토와레테 이마스", exampleMeaning: "이 거래의 합법성이 문제시되고 있습니다.",
+    breakdown: [
+      { word: "取引", reading: "とりひき", meaning: "거래" }
+    ] },
+  { level: "N3", kanji: "違法性", reading: "いほうせい", korean: "이호-세-", meaning: "위법성",
+    example: "違法性が指摘されました。", exampleReading: "いほうせいがしてきされました。", exampleKorean: "이호-세-가 시테키사레마시타", exampleMeaning: "위법성이 지적되었습니다.",
+    breakdown: [
+      { word: "指摘", reading: "してき", meaning: "지적" }
+    ] },
+  { level: "N3", kanji: "適法", reading: "てきほう", korean: "테키호-", meaning: "적법",
+    example: "適法な手続きを取りました。", exampleReading: "てきほうなてつづきをとりました。", exampleKorean: "테키호-나 테츠즈키오 토리마시타", exampleMeaning: "적법한 절차를 밟았습니다.",
+    breakdown: [
+      { word: "手続き", reading: "てつづき", meaning: "절차" }
+    ] },
+  { level: "N3", kanji: "法的根拠", reading: "ほうてきこんきょ", korean: "호-테키콘쿄", meaning: "법적 근거",
+    example: "法的根拠を示してください。", exampleReading: "ほうてきこんきょをしめしてください。", exampleKorean: "호-테키콘쿄오 시메시테 쿠다사이", exampleMeaning: "법적 근거를 제시해 주세요.",
+    breakdown: [
+      { word: "示して", reading: "しめして", meaning: "제시해서" }
+    ] },
+  { level: "N3", kanji: "法的責任", reading: "ほうてきせきにん", korean: "호-테키세키닌", meaning: "법적 책임",
+    example: "法的責任を追及されました。", exampleReading: "ほうてきせきにんをついきゅうされました。", exampleKorean: "호-테키세키닌오 츠이큐- 사레마시타", exampleMeaning: "법적 책임을 추궁당했습니다.",
+    breakdown: [
+      { word: "追及", reading: "ついきゅう", meaning: "추궁" }
+    ] },
+  { level: "N3", kanji: "法的措置", reading: "ほうてきそち", korean: "호-테키소치", meaning: "법적 조치",
+    example: "法的措置を取る予定です。", exampleReading: "ほうてきそちをとるよていです。", exampleKorean: "호-테키소치오 토루 요테-데스", exampleMeaning: "법적 조치를 취할 예정입니다.",
+    breakdown: [
+      { word: "予定", reading: "よてい", meaning: "예정" }
+    ] },
+  { level: "N3", kanji: "法廷", reading: "ほうてい", korean: "호-테-", meaning: "법정",
+    example: "法廷で証言しました。", exampleReading: "ほうていでしょうげんしました。", exampleKorean: "호-테-데 쇼-겐 시마시타", exampleMeaning: "법정에서 증언했습니다.",
+    breakdown: [
+      { word: "証言", reading: "しょうげん", meaning: "증언" }
+    ] },
+  { level: "N3", kanji: "弁護", reading: "べんご", korean: "벤고", meaning: "변호",
+    example: "弁護を依頼しました。", exampleReading: "べんごをいらいしました。", exampleKorean: "벤고오 이라이 시마시타", exampleMeaning: "변호를 의뢰했습니다.",
+    breakdown: [
+      { word: "依頼", reading: "いらい", meaning: "의뢰" }
+    ] },
+  { level: "N3", kanji: "弁護士費用", reading: "べんごしひよう", korean: "벤고시히요-", meaning: "변호사 비용",
+    example: "弁護士費用が高額でした。", exampleReading: "べんごしひようがこうがくでした。", exampleKorean: "벤고시히요-가 코-가쿠데시타", exampleMeaning: "변호사 비용이 고액이었습니다.",
+    breakdown: [
+      { word: "高額", reading: "こうがく", meaning: "고액" }
+    ] },
+  { level: "N3", kanji: "公判", reading: "こうはん", korean: "코-한", meaning: "공판",
+    example: "公判が始まりました。", exampleReading: "こうはんがはじまりました。", exampleKorean: "코-항가 하지마리마시타", exampleMeaning: "공판이 시작되었습니다.",
+    breakdown: [
+      { word: "始まりました", reading: "はじまりました", meaning: "시작되었습니다" }
+    ] },
+  { level: "N3", kanji: "判決", reading: "はんけつ", korean: "한케츠", meaning: "판결",
+    example: "判決が下されました。", exampleReading: "はんけつがくだされました。", exampleKorean: "한케츠가 쿠다사레마시타", exampleMeaning: "판결이 내려졌습니다.",
+    breakdown: [
+      { word: "下されました", reading: "くだされました", meaning: "내려졌습니다" }
+    ] },
+  { level: "N3", kanji: "量刑", reading: "りょうけい", korean: "료-케-", meaning: "양형",
+    example: "量刑が軽すぎると批判されました。", exampleReading: "りょうけいがかるすぎるとひはんされました。", exampleKorean: "료-케-가 카루스기루토 히한사레마시타", exampleMeaning: "양형이 너무 가볍다고 비판받았습니다.",
+    breakdown: [
+      { word: "批判", reading: "ひはん", meaning: "비판" }
+    ] },
+  { level: "N3", kanji: "控訴", reading: "こうそ", korean: "코-소", meaning: "항소",
+    example: "判決を不服として控訴しました。", exampleReading: "はんけつをふふくとしてこうそしました。", exampleKorean: "한케츠오 후후쿠토시테 코-소 시마시타", exampleMeaning: "판결에 불복하여 항소했습니다.",
+    breakdown: [
+      { word: "不服", reading: "ふふく", meaning: "불복" }
+    ] },
+  { level: "N3", kanji: "上告", reading: "じょうこく", korean: "죠-코쿠", meaning: "상고",
+    example: "最高裁に上告しました。", exampleReading: "さいこうさいにじょうこくしました。", exampleKorean: "사이코-사이니 죠-코쿠 시마시타", exampleMeaning: "최고재판소에 상고했습니다.",
+    breakdown: [
+      { word: "最高裁", reading: "さいこうさい", meaning: "최고재판소" }
+    ] },
+  { level: "N3", kanji: "判事", reading: "はんじ", korean: "한지", meaning: "판사",
+    example: "判事が判決を言い渡しました。", exampleReading: "はんじがはんけつをいいわたしました。", exampleKorean: "한지가 한케츠오 이-와타시마시타", exampleMeaning: "판사가 판결을 선고했습니다.",
+    breakdown: [
+      { word: "判決", reading: "はんけつ", meaning: "판결" }
+    ] },
+  { level: "N3", kanji: "検察官", reading: "けんさつかん", korean: "켄사츠칸", meaning: "검사",
+    example: "検察官が起訴しました。", exampleReading: "けんさつかんがきそしました。", exampleKorean: "켄사츠칸가 키소 시마시타", exampleMeaning: "검사가 기소했습니다.",
+    breakdown: [
+      { word: "起訴", reading: "きそ", meaning: "기소" }
+    ] },
+  { level: "N3", kanji: "弁護人", reading: "べんごにん", korean: "벤고닌", meaning: "변호인",
+    example: "弁護人が意見を述べました。", exampleReading: "べんごにんがいけんをのべました。", exampleKorean: "벤고닌가 이켕오 노베마시타", exampleMeaning: "변호인이 의견을 진술했습니다.",
+    breakdown: [
+      { word: "意見", reading: "いけん", meaning: "의견" }
+    ] },
+  { level: "N3", kanji: "陪審員", reading: "ばいしんいん", korean: "바이신인", meaning: "배심원",
+    example: "陪審員が評決を出しました。", exampleReading: "ばいしんいんがひょうけつをだしました。", exampleKorean: "바이신인가 효-케츠오 다시마시타", exampleMeaning: "배심원이 평결을 내렸습니다.",
+    breakdown: [
+      { word: "評決", reading: "ひょうけつ", meaning: "평결" }
+    ] },
+  { level: "N3", kanji: "証人", reading: "しょうにん", korean: "쇼-닌", meaning: "증인",
+    example: "証人として出廷しました。", exampleReading: "しょうにんとしてしゅっていしました。", exampleKorean: "쇼-닌토시테 슛테- 시마시타", exampleMeaning: "증인으로서 출정했습니다.",
+    breakdown: [
+      { word: "出廷", reading: "しゅってい", meaning: "출정" }
+    ] },
+  { level: "N3", kanji: "被告", reading: "ひこく", korean: "히코쿠", meaning: "피고",
+    example: "被告は無罪を主張しました。", exampleReading: "ひこくはむざいをしゅちょうしました。", exampleKorean: "히코쿠와 무자이오 슈쵸- 시마시타", exampleMeaning: "피고는 무죄를 주장했습니다.",
+    breakdown: [
+      { word: "無罪", reading: "むざい", meaning: "무죄" }
+    ] },
+  { level: "N3", kanji: "原告", reading: "げんこく", korean: "겐코쿠", meaning: "원고",
+    example: "原告が訴えを起こしました。", exampleReading: "げんこくがうったえをおこしました。", exampleKorean: "겐코쿠가 웃타에오 오코시마시타", exampleMeaning: "원고가 소송을 제기했습니다.",
+    breakdown: [
+      { word: "訴え", reading: "うったえ", meaning: "소송" }
+    ] },
+  { level: "N3", kanji: "罪状", reading: "ざいじょう", korean: "자이죠-", meaning: "죄상",
+    example: "罪状を認めました。", exampleReading: "ざいじょうをみとめました。", exampleKorean: "자이죠-오 미토메마시타", exampleMeaning: "죄상을 인정했습니다.",
+    breakdown: [
+      { word: "認めました", reading: "みとめました", meaning: "인정했습니다" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
