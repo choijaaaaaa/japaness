@@ -11911,4 +11911,154 @@ const VOCAB = [
     breakdown: [
       { word: "品質", reading: "ひんしつ", meaning: "품질" }
     ] },
+  { level: "N1", kanji: "根絶", reading: "こんぜつ", korean: "콘제츠", meaning: "근절",
+    example: "犯罪を根絶することは困難です。", exampleReading: "はんざいをこんぜつすることはこんなんです。", exampleKorean: "한자이오 콘제츠스루 코토와 콘난데스", exampleMeaning: "범죄를 근절하는 것은 곤란합니다.",
+    breakdown: [
+      { word: "犯罪", reading: "はんざい", meaning: "범죄" }
+    ] },
+  { level: "N1", kanji: "撲滅", reading: "ぼくめつ", korean: "보쿠메츠", meaning: "박멸",
+    example: "害虫を撲滅しました。", exampleReading: "がいちゅうをぼくめつしました。", exampleKorean: "가이츄-오 보쿠메츠 시마시타", exampleMeaning: "해충을 박멸했습니다.",
+    breakdown: [
+      { word: "害虫", reading: "がいちゅう", meaning: "해충" }
+    ] },
+  { level: "N1", kanji: "駆逐", reading: "くちく", korean: "쿠치쿠", meaning: "구축, 몰아냄",
+    example: "競合他社を駆逐しました。", exampleReading: "きょうごうたしゃをくちくしました。", exampleKorean: "쿄-고- 타샤오 쿠치쿠 시마시타", exampleMeaning: "경쟁 타사를 몰아냈습니다.",
+    breakdown: [
+      { word: "競合他社", reading: "きょうごうたしゃ", meaning: "경쟁 타사" }
+    ] },
+  { level: "N1", kanji: "一掃", reading: "いっそう", korean: "잇소-", meaning: "일소, 싹 없애기",
+    example: "不正を一掃しました。", exampleReading: "ふせいをいっそうしました。", exampleKorean: "후세-오 잇소- 시마시타", exampleMeaning: "부정을 일소했습니다.",
+    breakdown: [
+      { word: "不正", reading: "ふせい", meaning: "부정" }
+    ] },
+  { level: "N1", kanji: "浄化", reading: "じょうか", korean: "죠-카", meaning: "정화",
+    example: "水を浄化しています。", exampleReading: "みずをじょうかしています。", exampleKorean: "미즈오 죠-카 시테 이마스", exampleMeaning: "물을 정화하고 있습니다.",
+    breakdown: [
+      { word: "水", reading: "みず", meaning: "물" }
+    ] },
+  { level: "N1", kanji: "浄める", reading: "きよめる", korean: "키요메루", meaning: "정화하다",
+    example: "心を浄めるために座禅を組みました。", exampleReading: "こころをきよめるためにざぜんをくみました。", exampleKorean: "코코로오 키요메루 타메니 자젠오 쿠미마시타", exampleMeaning: "마음을 정화하기 위해 좌선을 했습니다.",
+    breakdown: [
+      { word: "座禅", reading: "ざぜん", meaning: "좌선" }
+    ] },
+  { level: "N1", kanji: "清める", reading: "きよめる", korean: "키요메루", meaning: "깨끗이 하다, 정화하다",
+    example: "神社で身を清めました。", exampleReading: "じんじゃでみをきよめました。", exampleKorean: "진자데 미오 키요메마시타", exampleMeaning: "신사에서 몸을 정갈히 했습니다.",
+    breakdown: [
+      { word: "神社", reading: "じんじゃ", meaning: "신사" }
+    ] },
+  { level: "N1", kanji: "清算", reading: "せいさん", korean: "세-산", meaning: "청산",
+    example: "過去を清算しました。", exampleReading: "かこをせいさんしました。", exampleKorean: "카코오 세-산 시마시타", exampleMeaning: "과거를 청산했습니다.",
+    breakdown: [
+      { word: "過去", reading: "かこ", meaning: "과거" }
+    ] },
+  { level: "N1", kanji: "解消", reading: "かいしょう", korean: "카이쇼-", meaning: "해소",
+    example: "ストレスを解消しました。", exampleReading: "ストレスをかいしょうしました。", exampleKorean: "스토레스오 카이쇼- 시마시타", exampleMeaning: "스트레스를 해소했습니다.",
+    breakdown: [
+      { word: "ストレス", reading: "ストレス", meaning: "스트레스" }
+    ] },
+  { level: "N1", kanji: "払底", reading: "ふってい", korean: "훗테-", meaning: "바닥남, 고갈",
+    example: "資金が払底しています。", exampleReading: "しきんがふっていしています。", exampleKorean: "시킹가 훗테- 시테 이마스", exampleMeaning: "자금이 바닥나고 있습니다.",
+    breakdown: [
+      { word: "資金", reading: "しきん", meaning: "자금" }
+    ] },
+  { level: "N1", kanji: "枯渇", reading: "こかつ", korean: "코카츠", meaning: "고갈",
+    example: "資源が枯渇しています。", exampleReading: "しげんがこかつしています。", exampleKorean: "시겡가 코카츠 시테 이마스", exampleMeaning: "자원이 고갈되고 있습니다.",
+    breakdown: [
+      { word: "資源", reading: "しげん", meaning: "자원" }
+    ] },
+  { level: "N1", kanji: "逼迫感", reading: "ひっぱくかん", korean: "힙파쿠칸", meaning: "핍박감, 압박감",
+    example: "逼迫感が漂っています。", exampleReading: "ひっぱくかんがただよっています。", exampleKorean: "힙파쿠캉가 타다욧테 이마스", exampleMeaning: "압박감이 감돌고 있습니다.",
+    breakdown: [
+      { word: "漂って", reading: "ただよって", meaning: "감돌아서" }
+    ] },
+  { level: "N1", kanji: "切迫", reading: "せっぱく", korean: "셋파쿠", meaning: "절박",
+    example: "状況が切迫しています。", exampleReading: "じょうきょうがせっぱくしています。", exampleKorean: "죠-쿄-가 셋파쿠 시테 이마스", exampleMeaning: "상황이 절박합니다.",
+    breakdown: [
+      { word: "状況", reading: "じょうきょう", meaning: "상황" }
+    ] },
+  { level: "N1", kanji: "切羽詰まる", reading: "せっぱつまる", korean: "셋파츠마루", meaning: "절박해지다, 궁지에 몰리다",
+    example: "切羽詰まった状況です。", exampleReading: "せっぱつまったじょうきょうです。", exampleKorean: "셋파츠맛타 죠-쿄-데스", exampleMeaning: "절박한 상황입니다.",
+    breakdown: [
+      { word: "状況", reading: "じょうきょう", meaning: "상황" }
+    ] },
+  { level: "N1", kanji: "逼塞", reading: "ひっそく", korean: "힛소쿠", meaning: "핍색, 궁색함",
+    example: "経済的に逼塞しています。", exampleReading: "けいざいてきにひっそくしています。", exampleKorean: "케-자이테키니 힛소쿠 시테 이마스", exampleMeaning: "경제적으로 궁색합니다.",
+    breakdown: [
+      { word: "経済的に", reading: "けいざいてきに", meaning: "경제적으로" }
+    ] },
+  { level: "N1", kanji: "窮地", reading: "きゅうち", korean: "큐-치", meaning: "궁지",
+    example: "窮地に立たされました。", exampleReading: "きゅうちにたたされました。", exampleKorean: "큐-치니 타타사레마시타", exampleMeaning: "궁지에 몰렸습니다.",
+    breakdown: [
+      { word: "立たされました", reading: "たたされました", meaning: "서게 되었습니다" }
+    ] },
+  { level: "N1", kanji: "窮する", reading: "きゅうする", korean: "큐-스루", meaning: "궁하다, 곤란해지다",
+    example: "返答に窮しました。", exampleReading: "へんとうにきゅうしました。", exampleKorean: "헨토-니 큐- 시마시타", exampleMeaning: "답변에 궁했습니다.",
+    breakdown: [
+      { word: "返答", reading: "へんとう", meaning: "답변" }
+    ] },
+  { level: "N1", kanji: "困窮", reading: "こんきゅう", korean: "콘큐-", meaning: "곤궁",
+    example: "生活が困窮しています。", exampleReading: "せいかつがこんきゅうしています。", exampleKorean: "세-카츠가 콘큐- 시테 이마스", exampleMeaning: "생활이 곤궁합니다.",
+    breakdown: [
+      { word: "生活", reading: "せいかつ", meaning: "생활" }
+    ] },
+  { level: "N1", kanji: "貧窮", reading: "ひんきゅう", korean: "힌큐-", meaning: "빈궁",
+    example: "貧窮に苦しんでいます。", exampleReading: "ひんきゅうにくるしんでいます。", exampleKorean: "힌큐-니 쿠루신데 이마스", exampleMeaning: "빈궁에 시달리고 있습니다.",
+    breakdown: [
+      { word: "苦しんで", reading: "くるしんで", meaning: "시달려서" }
+    ] },
+  { level: "N1", kanji: "窮屈", reading: "きゅうくつ", korean: "큐-쿠츠", meaning: "답답함, 갑갑함",
+    example: "この靴は窮屈です。", exampleReading: "このくつはきゅうくつです。", exampleKorean: "코노 쿠츠와 큐-쿠츠데스", exampleMeaning: "이 신발은 갑갑합니다.",
+    breakdown: [
+      { word: "靴", reading: "くつ", meaning: "신발" }
+    ] },
+  { level: "N1", kanji: "息苦しい", reading: "いきぐるしい", korean: "이키구루시-", meaning: "숨막히다, 답답하다",
+    example: "満員電車は息苦しいです。", exampleReading: "まんいんでんしゃはいきぐるしいです。", exampleKorean: "만인 덴샤와 이키구루시-데스", exampleMeaning: "만원 전철은 숨이 막힙니다.",
+    breakdown: [
+      { word: "満員電車", reading: "まんいんでんしゃ", meaning: "만원 전철" }
+    ] },
+  { level: "N1", kanji: "圧迫感", reading: "あっぱくかん", korean: "앗파쿠칸", meaning: "압박감",
+    example: "仕事に圧迫感を感じます。", exampleReading: "しごとにあっぱくかんをかんじます。", exampleKorean: "시고토니 앗파쿠캉오 칸지마스", exampleMeaning: "일에 압박감을 느낍니다.",
+    breakdown: [
+      { word: "仕事", reading: "しごと", meaning: "일" }
+    ] },
+  { level: "N1", kanji: "重苦しい", reading: "おもくるしい", korean: "오모쿠루시-", meaning: "무겁고 답답하다",
+    example: "重苦しい雰囲気でした。", exampleReading: "おもくるしいふんいきでした。", exampleKorean: "오모쿠루시- 훙이키데시타", exampleMeaning: "무겁고 답답한 분위기였습니다.",
+    breakdown: [
+      { word: "雰囲気", reading: "ふんいき", meaning: "분위기" }
+    ] },
+  { level: "N1", kanji: "息詰まる", reading: "いきづまる", korean: "이키즈마루", meaning: "숨막히다",
+    example: "息詰まるような試合でした。", exampleReading: "いきづまるようなしあいでした。", exampleKorean: "이키즈마루요-나 시아이데시타", exampleMeaning: "숨막히는 시합이었습니다.",
+    breakdown: [
+      { word: "試合", reading: "しあい", meaning: "시합" }
+    ] },
+  { level: "N1", kanji: "行き詰まる", reading: "いきづまる", korean: "이키즈마루", meaning: "막다르다, 벽에 부딪히다",
+    example: "計画が行き詰まりました。", exampleReading: "けいかくがいきづまりました。", exampleKorean: "케-카쿠가 이키즈마리마시타", exampleMeaning: "계획이 벽에 부딪혔습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N1", kanji: "袋小路", reading: "ふくろこうじ", korean: "후쿠로코-지", meaning: "막다른 골목",
+    example: "交渉が袋小路に陥りました。", exampleReading: "こうしょうがふくろこうじにおちいりました。", exampleKorean: "코-쇼-가 후쿠로코-지니 오치이리마시타", exampleMeaning: "교섭이 막다른 골목에 빠졌습니다.",
+    breakdown: [
+      { word: "交渉", reading: "こうしょう", meaning: "교섭" }
+    ] },
+  { level: "N1", kanji: "八方塞がり", reading: "はっぽうふさがり", korean: "합포-후사가리", meaning: "사면초가",
+    example: "八方塞がりの状態です。", exampleReading: "はっぽうふさがりのじょうたいです。", exampleKorean: "합포-후사가리노 죠-타이데스", exampleMeaning: "사면초가 상태입니다.",
+    breakdown: [
+      { word: "状態", reading: "じょうたい", meaning: "상태" }
+    ] },
+  { level: "N1", kanji: "手詰まり", reading: "てづまり", korean: "테즈마리", meaning: "막다름, 궁지",
+    example: "交渉が手詰まりになりました。", exampleReading: "こうしょうがてづまりになりました。", exampleKorean: "코-쇼-가 테즈마리니 나리마시타", exampleMeaning: "교섭이 궁지에 몰렸습니다.",
+    breakdown: [
+      { word: "交渉", reading: "こうしょう", meaning: "교섭" }
+    ] },
+  { level: "N1", kanji: "八方美人", reading: "はっぽうびじん", korean: "합포-비진", meaning: "팔방미인(모두에게 잘 보이려는 사람)",
+    example: "彼は八方美人だと言われます。", exampleReading: "かれははっぽうびじんだといわれます。", exampleKorean: "카레와 합포-비진다토 이와레마스", exampleMeaning: "그는 팔방미인이라는 말을 듣습니다.",
+    breakdown: [
+      { word: "言われます", reading: "いわれます", meaning: "듣습니다, 말을 듣습니다" }
+    ] },
+  { level: "N1", kanji: "拭い去る", reading: "ぬぐいさる", korean: "누구이사루", meaning: "말끔히 닦아내다, 씻어내다",
+    example: "不安を拭い去りました。", exampleReading: "ふあんをぬぐいさりました。", exampleKorean: "후앙오 누구이사리마시타", exampleMeaning: "불안을 말끔히 씻어냈습니다.",
+    breakdown: [
+      { word: "不安", reading: "ふあん", meaning: "불안" }
+    ] },
 ];
