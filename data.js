@@ -8926,4 +8926,154 @@ const VOCAB = [
     breakdown: [
       { word: "採用", reading: "さいよう", meaning: "채택, 채용" }
     ] },
+  { level: "N1", kanji: "遵守", reading: "じゅんしゅ", korean: "쥰슈", meaning: "준수",
+    example: "規則を遵守してください。", exampleReading: "きそくをじゅんしゅしてください。", exampleKorean: "키소쿠오 쥰슈시테 쿠다사이", exampleMeaning: "규칙을 준수해 주세요.",
+    breakdown: [
+      { word: "規則", reading: "きそく", meaning: "규칙" }
+    ] },
+  { level: "N1", kanji: "準拠", reading: "じゅんきょ", korean: "쥰쿄", meaning: "준거",
+    example: "法律に準拠して行われました。", exampleReading: "ほうりつにじゅんきょしておこなわれました。", exampleKorean: "호-리츠니 쥰쿄시테 오코나와레마시타", exampleMeaning: "법률에 준거하여 이루어졌습니다.",
+    breakdown: [
+      { word: "法律", reading: "ほうりつ", meaning: "법률" }
+    ] },
+  { level: "N1", kanji: "抵触", reading: "ていしょく", korean: "테-쇼쿠", meaning: "저촉(위반)",
+    example: "この計画は法律に抵触します。", exampleReading: "このけいかくはほうりつにていしょくします。", exampleKorean: "코노 케-카쿠와 호-리츠니 테-쇼쿠시마스", exampleMeaning: "이 계획은 법률에 저촉됩니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N1", kanji: "違反", reading: "いはん", korean: "이한", meaning: "위반",
+    example: "規則に違反しました。", exampleReading: "きそくにいはんしました。", exampleKorean: "키소쿠니 이한 시마시타", exampleMeaning: "규칙을 위반했습니다.",
+    breakdown: [
+      { word: "規則", reading: "きそく", meaning: "규칙" }
+    ] },
+  { level: "N1", kanji: "侵害", reading: "しんがい", korean: "신가이", meaning: "침해",
+    example: "著作権を侵害しています。", exampleReading: "ちょさくけんをしんがいしています。", exampleKorean: "쵸사쿠켕오 신가이 시테 이마스", exampleMeaning: "저작권을 침해하고 있습니다.",
+    breakdown: [
+      { word: "著作権", reading: "ちょさくけん", meaning: "저작권" }
+    ] },
+  { level: "N1", kanji: "中傷", reading: "ちゅうしょう", korean: "츄-쇼-", meaning: "중상, 비방",
+    example: "ネットで中傷を受けました。", exampleReading: "ネットでちゅうしょうをうけました。", exampleKorean: "넷토데 츄-쇼-오 우케마시타", exampleMeaning: "인터넷에서 비방을 당했습니다.",
+    breakdown: [
+      { word: "ネット", reading: "ネット", meaning: "인터넷" }
+    ] },
+  { level: "N1", kanji: "誹謗", reading: "ひぼう", korean: "히보-", meaning: "비방",
+    example: "誹謗を繰り返しています。", exampleReading: "ひぼうをくりかえしています。", exampleKorean: "히보-오 쿠리카에시테 이마스", exampleMeaning: "비방을 반복하고 있습니다.",
+    breakdown: [
+      { word: "繰り返して", reading: "くりかえして", meaning: "반복해서" }
+    ] },
+  { level: "N1", kanji: "名誉", reading: "めいよ", korean: "메-요", meaning: "명예",
+    example: "名誉を守りたいです。", exampleReading: "めいよをまもりたいです。", exampleKorean: "메-요오 마모리타이데스", exampleMeaning: "명예를 지키고 싶습니다.",
+    breakdown: [
+      { word: "守りたい", reading: "まもりたい", meaning: "지키고 싶다" }
+    ] },
+  { level: "N1", kanji: "名誉毀損", reading: "めいよきそん", korean: "메-요키손", meaning: "명예훼손",
+    example: "名誉毀損で訴えられました。", exampleReading: "めいよきそんでうったえられました。", exampleKorean: "메-요키손데 웃타에라레마시타", exampleMeaning: "명예훼손으로 고소당했습니다.",
+    breakdown: [
+      { word: "訴えられました", reading: "うったえられました", meaning: "고소당했습니다" }
+    ] },
+  { level: "N1", kanji: "賠償", reading: "ばいしょう", korean: "바이쇼-", meaning: "배상",
+    example: "損害を賠償しました。", exampleReading: "そんがいをばいしょうしました。", exampleKorean: "손가이오 바이쇼- 시마시타", exampleMeaning: "손해를 배상했습니다.",
+    breakdown: [
+      { word: "損害", reading: "そんがい", meaning: "손해" }
+    ] },
+  { level: "N1", kanji: "補償", reading: "ほしょう", korean: "호쇼-", meaning: "보상",
+    example: "被害者に補償しました。", exampleReading: "ひがいしゃにほしょうしました。", exampleKorean: "히가이샤니 호쇼- 시마시타", exampleMeaning: "피해자에게 보상했습니다.",
+    breakdown: [
+      { word: "被害者", reading: "ひがいしゃ", meaning: "피해자" }
+    ] },
+  { level: "N1", kanji: "慰謝料", reading: "いしゃりょう", korean: "이샤료-", meaning: "위자료",
+    example: "慰謝料を請求しました。", exampleReading: "いしゃりょうをせいきゅうしました。", exampleKorean: "이샤료-오 세-큐- 시마시타", exampleMeaning: "위자료를 청구했습니다.",
+    breakdown: [
+      { word: "請求", reading: "せいきゅう", meaning: "청구" }
+    ] },
+  { level: "N1", kanji: "損害", reading: "そんがい", korean: "손가이", meaning: "손해",
+    example: "事故で損害を受けました。", exampleReading: "じこでそんがいをうけました。", exampleKorean: "지코데 손가이오 우케마시타", exampleMeaning: "사고로 손해를 입었습니다.",
+    breakdown: [
+      { word: "事故", reading: "じこ", meaning: "사고" }
+    ] },
+  { level: "N1", kanji: "過失", reading: "かしつ", korean: "카시츠", meaning: "과실",
+    example: "過失を認めました。", exampleReading: "かしつをみとめました。", exampleKorean: "카시츠오 미토메마시타", exampleMeaning: "과실을 인정했습니다.",
+    breakdown: [
+      { word: "認めました", reading: "みとめました", meaning: "인정했습니다" }
+    ] },
+  { level: "N1", kanji: "故意", reading: "こい", korean: "코이", meaning: "고의",
+    example: "故意ではありませんでした。", exampleReading: "こいではありませんでした。", exampleKorean: "코이데와 아리마센데시타", exampleMeaning: "고의가 아니었습니다.",
+    breakdown: [
+      { word: "ではありません", reading: "ではありません", meaning: "이 아닙니다" }
+    ] },
+  { level: "N1", kanji: "悪意", reading: "あくい", korean: "아쿠이", meaning: "악의",
+    example: "悪意はありませんでした。", exampleReading: "あくいはありませんでした。", exampleKorean: "아쿠이와 아리마센데시타", exampleMeaning: "악의는 없었습니다.",
+    breakdown: [
+      { word: "ありません", reading: "ありません", meaning: "없습니다" }
+    ] },
+  { level: "N1", kanji: "善意", reading: "ぜんい", korean: "젠이", meaning: "선의",
+    example: "善意で行動しました。", exampleReading: "ぜんいでこうどうしました。", exampleKorean: "젠이데 코-도- 시마시타", exampleMeaning: "선의로 행동했습니다.",
+    breakdown: [
+      { word: "行動", reading: "こうどう", meaning: "행동" }
+    ] },
+  { level: "N1", kanji: "良心", reading: "りょうしん", korean: "료-신", meaning: "양심",
+    example: "良心が痛みました。", exampleReading: "りょうしんがいたみました。", exampleKorean: "료-신가 이타미마시타", exampleMeaning: "양심이 아팠습니다.",
+    breakdown: [
+      { word: "痛みました", reading: "いたみました", meaning: "아팠습니다" }
+    ] },
+  { level: "N1", kanji: "倫理", reading: "りんり", korean: "린리", meaning: "윤리",
+    example: "倫理に反する行為です。", exampleReading: "りんりにはんするこういです。", exampleKorean: "린리니 한스루 코-이데스", exampleMeaning: "윤리에 반하는 행위입니다.",
+    breakdown: [
+      { word: "反する", reading: "はんする", meaning: "반하다" }
+    ] },
+  { level: "N1", kanji: "道徳", reading: "どうとく", korean: "도-토쿠", meaning: "도덕",
+    example: "道徳の授業がありました。", exampleReading: "どうとくのじゅぎょうがありました。", exampleKorean: "도-토쿠노 쥬교-가 아리마시타", exampleMeaning: "도덕 수업이 있었습니다.",
+    breakdown: [
+      { word: "授業", reading: "じゅぎょう", meaning: "수업" }
+    ] },
+  { level: "N1", kanji: "規範", reading: "きはん", korean: "키한", meaning: "규범",
+    example: "社会の規範を守ります。", exampleReading: "しゃかいのきはんをまもります。", exampleKorean: "샤카이노 키항오 마모리마스", exampleMeaning: "사회의 규범을 지킵니다.",
+    breakdown: [
+      { word: "社会", reading: "しゃかい", meaning: "사회" }
+    ] },
+  { level: "N1", kanji: "掟", reading: "おきて", korean: "오키테", meaning: "규율, 계율",
+    example: "村の掟を守っています。", exampleReading: "むらのおきてをまもっています。", exampleKorean: "무라노 오키테오 마못테 이마스", exampleMeaning: "마을의 규율을 지키고 있습니다.",
+    breakdown: [
+      { word: "村", reading: "むら", meaning: "마을" }
+    ] },
+  { level: "N1", kanji: "戒める", reading: "いましめる", korean: "이마시메루", meaning: "훈계하다, 경계하다",
+    example: "自分を戒めました。", exampleReading: "じぶんをいましめました。", exampleKorean: "지분오 이마시메마시타", exampleMeaning: "스스로를 경계했습니다.",
+    breakdown: [
+      { word: "自分", reading: "じぶん", meaning: "자신" }
+    ] },
+  { level: "N1", kanji: "処罰", reading: "しょばつ", korean: "쇼바츠", meaning: "처벌",
+    example: "違反者を処罰しました。", exampleReading: "いはんしゃをしょばつしました。", exampleKorean: "이한샤오 쇼바츠 시마시타", exampleMeaning: "위반자를 처벌했습니다.",
+    breakdown: [
+      { word: "違反者", reading: "いはんしゃ", meaning: "위반자" }
+    ] },
+  { level: "N1", kanji: "制裁", reading: "せいさい", korean: "세-사이", meaning: "제재",
+    example: "経済制裁を受けています。", exampleReading: "けいざいせいさいをうけています。", exampleKorean: "케-자이 세-사이오 우케테 이마스", exampleMeaning: "경제 제재를 받고 있습니다.",
+    breakdown: [
+      { word: "経済", reading: "けいざい", meaning: "경제" }
+    ] },
+  { level: "N1", kanji: "懲役", reading: "ちょうえき", korean: "쵸-에키", meaning: "징역",
+    example: "三年の懲役が言い渡されました。", exampleReading: "さんねんのちょうえきがいいわたされました。", exampleKorean: "산넨노 쵸-에키가 이-와타사레마시타", exampleMeaning: "3년의 징역이 선고되었습니다.",
+    breakdown: [
+      { word: "言い渡されました", reading: "いいわたされました", meaning: "선고되었습니다" }
+    ] },
+  { level: "N1", kanji: "罰金", reading: "ばっきん", korean: "박킨", meaning: "벌금",
+    example: "罰金を払いました。", exampleReading: "ばっきんをはらいました。", exampleKorean: "박킹오 하라이마시타", exampleMeaning: "벌금을 냈습니다.",
+    breakdown: [
+      { word: "払いました", reading: "はらいました", meaning: "냈습니다" }
+    ] },
+  { level: "N1", kanji: "免責", reading: "めんせき", korean: "멘세키", meaning: "면책",
+    example: "この場合は免責されます。", exampleReading: "このばあいはめんせきされます。", exampleKorean: "코노 바아이와 멘세키 사레마스", exampleMeaning: "이 경우는 면책됩니다.",
+    breakdown: [
+      { word: "場合", reading: "ばあい", meaning: "경우" }
+    ] },
+  { level: "N1", kanji: "猶予", reading: "ゆうよ", korean: "유-요", meaning: "유예",
+    example: "支払いの猶予をお願いしました。", exampleReading: "しはらいのゆうよをおねがいしました。", exampleKorean: "시하라이노 유-요오 오네가이시마시타", exampleMeaning: "지불 유예를 부탁했습니다.",
+    breakdown: [
+      { word: "支払い", reading: "しはらい", meaning: "지불" }
+    ] },
+  { level: "N1", kanji: "罰する", reading: "ばっする", korean: "밧스루", meaning: "벌하다",
+    example: "法律で罰することができます。", exampleReading: "ほうりつでばっすることができます。", exampleKorean: "호-리츠데 밧스루 코토가 데키마스", exampleMeaning: "법률로 벌할 수 있습니다.",
+    breakdown: [
+      { word: "法律", reading: "ほうりつ", meaning: "법률" }
+    ] },
 ];
