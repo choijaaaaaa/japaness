@@ -5788,6 +5788,256 @@ const VOCAB = [
     breakdown: [
       { word: "メール", reading: "メール", meaning: "메일" }
     ] },
+  { level: "N4", kanji: "血液型", reading: "けつえきがた", korean: "케츠에키가타", meaning: "혈액형",
+    example: "私の血液型はA型です。", exampleReading: "わたしのけつえきがたはエーがたです。", exampleKorean: "와타시노 케츠에키가타와 에-가타데스", exampleMeaning: "제 혈액형은 A형입니다.",
+    breakdown: [
+      { word: "A型", reading: "エーがた", meaning: "A형" }
+    ] },
+  { level: "N4", kanji: "花粉症", reading: "かふんしょう", korean: "카훈쇼-", meaning: "꽃가루 알레르기",
+    example: "春は花粉症がひどいです。", exampleReading: "はるはかふんしょうがひどいです。", exampleKorean: "하루와 카훈쇼-가 히도이데스", exampleMeaning: "봄에는 꽃가루 알레르기가 심합니다.",
+    breakdown: [
+      { word: "春", reading: "はる", meaning: "봄" }
+    ] },
+  { level: "N4", kanji: "アレルギー", reading: "アレルギー", korean: "아레루기-", meaning: "알레르기",
+    example: "卵アレルギーがあります。", exampleReading: "たまごアレルギーがあります。", exampleKorean: "타마고 아레루기-가 아리마스", exampleMeaning: "계란 알레르기가 있습니다.",
+    breakdown: [
+      { word: "卵", reading: "たまご", meaning: "계란" }
+    ] },
+  { level: "N4", kanji: "貧血", reading: "ひんけつ", korean: "힌케츠", meaning: "빈혈",
+    example: "貧血で倒れました。", exampleReading: "ひんけつでたおれました。", exampleKorean: "힌케츠데 타오레마시타", exampleMeaning: "빈혈로 쓰러졌습니다.",
+    breakdown: [
+      { word: "倒れました", reading: "たおれました", meaning: "쓰러졌습니다" }
+    ] },
+  { level: "N4", kanji: "食欲", reading: "しょくよく", korean: "쇼쿠요쿠", meaning: "식욕",
+    example: "最近食欲がありません。", exampleReading: "さいきんしょくよくがありません。", exampleKorean: "사이킨 쇼쿠요쿠가 아리마셍", exampleMeaning: "요즘 식욕이 없습니다.",
+    breakdown: [
+      { word: "最近", reading: "さいきん", meaning: "요즘" }
+    ] },
+  { level: "N4", kanji: "便秘", reading: "べんぴ", korean: "벤피", meaning: "변비",
+    example: "便秘に悩んでいます。", exampleReading: "べんぴになやんでいます。", exampleKorean: "벤피니 나얀데 이마스", exampleMeaning: "변비로 고민하고 있습니다.",
+    breakdown: [
+      { word: "悩んで", reading: "なやんで", meaning: "고민해서" }
+    ] },
+  { level: "N4", kanji: "下痢", reading: "げり", korean: "게리", meaning: "설사",
+    example: "昨日から下痢が続いています。", exampleReading: "きのうからげりがつづいています。", exampleKorean: "키노-카라 게리가 츠즈이테 이마스", exampleMeaning: "어제부터 설사가 계속되고 있습니다.",
+    breakdown: [
+      { word: "昨日から", reading: "きのうから", meaning: "어제부터" }
+    ] },
+  { level: "N4", kanji: "吐き気", reading: "はきけ", korean: "하키케", meaning: "구역질, 메스꺼움",
+    example: "吐き気がします。", exampleReading: "はきけがします。", exampleKorean: "하키케가 시마스", exampleMeaning: "구역질이 납니다.",
+    breakdown: [
+      { word: "します", reading: "します", meaning: "납니다" }
+    ] },
+  { level: "N4", kanji: "めまい", reading: "めまい", korean: "메마이", meaning: "현기증",
+    example: "急にめまいがしました。", exampleReading: "きゅうにめまいがしました。", exampleKorean: "큐-니 메마이가 시마시타", exampleMeaning: "갑자기 현기증이 났습니다.",
+    breakdown: [
+      { word: "急に", reading: "きゅうに", meaning: "갑자기" }
+    ] },
+  { level: "N4", kanji: "肩こり", reading: "かたこり", korean: "카타코리", meaning: "어깨 결림",
+    example: "デスクワークで肩こりがひどいです。", exampleReading: "デスクワークでかたこりがひどいです。", exampleKorean: "데스쿠와-쿠데 카타코리가 히도이데스", exampleMeaning: "사무직 일로 어깨 결림이 심합니다.",
+    breakdown: [
+      { word: "デスクワーク", reading: "デスクワーク", meaning: "사무직 일" }
+    ] },
+  { level: "N4", kanji: "腰痛", reading: "ようつう", korean: "요-츠-", meaning: "요통",
+    example: "腰痛で病院に行きました。", exampleReading: "ようつうでびょういんにいきました。", exampleKorean: "요-츠-데 뵤-인니 이키마시타", exampleMeaning: "요통으로 병원에 갔습니다.",
+    breakdown: [
+      { word: "病院", reading: "びょういん", meaning: "병원" }
+    ] },
+  { level: "N4", kanji: "頭痛", reading: "ずつう", korean: "즈츠-", meaning: "두통",
+    example: "頭痛がひどくて薬を飲みました。", exampleReading: "ずつうがひどくてくすりをのみました。", exampleKorean: "즈츠-가 히도쿠테 쿠스리오 노미마시타", exampleMeaning: "두통이 심해서 약을 먹었습니다.",
+    breakdown: [
+      { word: "薬", reading: "くすり", meaning: "약" }
+    ] },
+  { level: "N4", kanji: "歯医者", reading: "はいしゃ", korean: "하이샤", meaning: "치과",
+    example: "歯医者で虫歯を治しました。", exampleReading: "はいしゃでむしばをなおしました。", exampleKorean: "하이샤데 무시바오 나오시마시타", exampleMeaning: "치과에서 충치를 치료했습니다.",
+    breakdown: [
+      { word: "虫歯", reading: "むしば", meaning: "충치" }
+    ] },
+  { level: "N4", kanji: "虫歯", reading: "むしば", korean: "무시바", meaning: "충치",
+    example: "虫歯ができてしまいました。", exampleReading: "むしばができてしまいました。", exampleKorean: "무시바가 데키테 시마이마시타", exampleMeaning: "충치가 생겨버렸습니다.",
+    breakdown: [
+      { word: "できて", reading: "できて", meaning: "생겨서" }
+    ] },
+  { level: "N4", kanji: "抜歯", reading: "ばっし", korean: "밧시", meaning: "발치",
+    example: "親知らずを抜歯しました。", exampleReading: "おやしらずをばっししました。", exampleKorean: "오야시라즈오 밧시 시마시타", exampleMeaning: "사랑니를 발치했습니다.",
+    breakdown: [
+      { word: "親知らず", reading: "おやしらず", meaning: "사랑니" }
+    ] },
+  { level: "N4", kanji: "治療費", reading: "ちりょうひ", korean: "치료-히", meaning: "치료비",
+    example: "治療費が高かったです。", exampleReading: "ちりょうひがたかかったです。", exampleKorean: "치료-히가 타카캇타데스", exampleMeaning: "치료비가 비쌌습니다.",
+    breakdown: [
+      { word: "高かった", reading: "たかかった", meaning: "비쌌다" }
+    ] },
+  { level: "N4", kanji: "入れ歯", reading: "いれば", korean: "이레바", meaning: "틀니",
+    example: "祖父は入れ歯を使っています。", exampleReading: "そふはいればをつかっています。", exampleKorean: "소후와 이레바오 츠캇테 이마스", exampleMeaning: "할아버지는 틀니를 사용하고 있습니다.",
+    breakdown: [
+      { word: "祖父", reading: "そふ", meaning: "할아버지" }
+    ] },
+  { level: "N4", kanji: "矯正", reading: "きょうせい", korean: "쿄-세-", meaning: "교정",
+    example: "歯の矯正をしています。", exampleReading: "はのきょうせいをしています。", exampleKorean: "하노 쿄-세-오 시테 이마스", exampleMeaning: "치아 교정을 하고 있습니다.",
+    breakdown: [
+      { word: "歯", reading: "は", meaning: "치아" }
+    ] },
+  { level: "N4", kanji: "視力", reading: "しりょく", korean: "시료쿠", meaning: "시력",
+    example: "視力が下がりました。", exampleReading: "しりょくがさがりました。", exampleKorean: "시료쿠가 사가리마시타", exampleMeaning: "시력이 떨어졌습니다.",
+    breakdown: [
+      { word: "下がりました", reading: "さがりました", meaning: "떨어졸습니다" }
+    ] },
+  { level: "N4", kanji: "聴力", reading: "ちょうりょく", korean: "쵸-료쿠", meaning: "청력",
+    example: "聴力を検査しました。", exampleReading: "ちょうりょくをけんさしました。", exampleKorean: "쵸-료쿠오 켄사 시마시타", exampleMeaning: "청력을 검사했습니다.",
+    breakdown: [
+      { word: "検査", reading: "けんさ", meaning: "검사" }
+    ] },
+  { level: "N4", kanji: "老眼", reading: "ろうがん", korean: "로-간", meaning: "노안",
+    example: "最近老眼になってきました。", exampleReading: "さいきんろうがんになってきました。", exampleKorean: "사이킨 로-간니 낫테 키마시타", exampleMeaning: "요즘 노안이 되었습니다.",
+    breakdown: [
+      { word: "最近", reading: "さいきん", meaning: "요즘" }
+    ] },
+  { level: "N4", kanji: "近視", reading: "きんし", korean: "킨시", meaning: "근시",
+    example: "近視でめがねをかけています。", exampleReading: "きんしでめがねをかけています。", exampleKorean: "킨시데 메가네오 카케테 이마스", exampleMeaning: "근시라서 안경을 쓰고 있습니다.",
+    breakdown: [
+      { word: "めがね", reading: "めがね", meaning: "안경" }
+    ] },
+  { level: "N4", kanji: "遠視", reading: "えんし", korean: "엔시", meaning: "원시",
+    example: "子供が遠視だと言われました。", exampleReading: "こどもがえんしだといわれました。", exampleKorean: "코도모가 엔시다토 이와레마시타", exampleMeaning: "아이가 원시라고 들었습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N4", kanji: "乱視", reading: "らんし", korean: "란시", meaning: "난시",
+    example: "乱視もあるようです。", exampleReading: "らんしもあるようです。", exampleKorean: "란시모 아루요-데스", exampleMeaning: "난시도 있는 것 같습니다.",
+    breakdown: [
+      { word: "ようです", reading: "ようです", meaning: "것 같습니다" }
+    ] },
+  { level: "N4", kanji: "コンタクト", reading: "コンタクト", korean: "콘타쿠토", meaning: "콘택트렌즈",
+    example: "コンタクトをつけています。", exampleReading: "コンタクトをつけています。", exampleKorean: "콘타쿠토오 츠케테 이마스", exampleMeaning: "콘택트렌즈를 착용하고 있습니다.",
+    breakdown: [
+      { word: "つけて", reading: "つけて", meaning: "착용해서" }
+    ] },
+  { level: "N4", kanji: "点滴", reading: "てんてき", korean: "텐테키", meaning: "링거",
+    example: "病院で点滴を受けました。", exampleReading: "びょういんでてんてきをうけました。", exampleKorean: "뵤-인데 텐테키오 우케마시타", exampleMeaning: "병원에서 링거를 맞았습니다.",
+    breakdown: [
+      { word: "病院", reading: "びょういん", meaning: "병원" }
+    ] },
+  { level: "N4", kanji: "注射", reading: "ちゅうしゃ", korean: "츄-샤", meaning: "주사",
+    example: "注射を打ちました。", exampleReading: "ちゅうしゃをうちました。", exampleKorean: "츄-샤오 우치마시타", exampleMeaning: "주사를 맞았습니다.",
+    breakdown: [
+      { word: "打ちました", reading: "うちました", meaning: "맞았습니다" }
+    ] },
+  { level: "N4", kanji: "麻酔", reading: "ますい", korean: "마스이", meaning: "마취",
+    example: "麻酔をかけて手術しました。", exampleReading: "ますいをかけてしゅじゅつしました。", exampleKorean: "마스이오 카케테 슈쥬츠 시마시타", exampleMeaning: "마취를 하고 수술했습니다.",
+    breakdown: [
+      { word: "手術", reading: "しゅじゅつ", meaning: "수술" }
+    ] },
+  { level: "N4", kanji: "手術室", reading: "しゅじゅつしつ", korean: "슈쥬츠시츠", meaning: "수술실",
+    example: "手術室に運ばれました。", exampleReading: "しゅじゅつしつにはこばれました。", exampleKorean: "슈쥬츠시츠니 하코바레마시타", exampleMeaning: "수술실로 옮겨졌습니다.",
+    breakdown: [
+      { word: "運ばれました", reading: "はこばれました", meaning: "옮겨졌습니다" }
+    ] },
+  { level: "N4", kanji: "診察券", reading: "しんさつけん", korean: "신사츠켄", meaning: "진찰권",
+    example: "診察券を出してください。", exampleReading: "しんさつけんをだしてください。", exampleKorean: "신사츠켕오 다시테 쿠다사이", exampleMeaning: "진찰권을 제출해 주세요.",
+    breakdown: [
+      { word: "出して", reading: "だして", meaning: "제출해서" }
+    ] },
+  { level: "N4", kanji: "賃貸", reading: "ちんたい", korean: "친타이", meaning: "임대",
+    example: "賃貸のマンションに住んでいます。", exampleReading: "ちんたいのマンションにすんでいます。", exampleKorean: "친타이노 만숀니 슨데 이마스", exampleMeaning: "임대 아파트에 살고 있습니다.",
+    breakdown: [
+      { word: "マンション", reading: "マンション", meaning: "아파트" }
+    ] },
+  { level: "N4", kanji: "分譲", reading: "ぶんじょう", korean: "분죠-", meaning: "분양",
+    example: "分譲マンションを買いました。", exampleReading: "ぶんじょうマンションをかいました。", exampleKorean: "분죠- 만숀오 카이마시타", exampleMeaning: "분양 아파트를 샀습니다.",
+    breakdown: [
+      { word: "マンション", reading: "マンション", meaning: "아파트" }
+    ] },
+  { level: "N4", kanji: "敷金", reading: "しききん", korean: "시키킨", meaning: "보증금",
+    example: "敷金を払いました。", exampleReading: "しききんをはらいました。", exampleKorean: "시키킹오 하라이마시타", exampleMeaning: "보증금을 냈습니다.",
+    breakdown: [
+      { word: "払いました", reading: "はらいました", meaning: "냈습니다" }
+    ] },
+  { level: "N4", kanji: "礼金", reading: "れいきん", korean: "레-킨", meaning: "사례금",
+    example: "礼金は不要でした。", exampleReading: "れいきんはふようでした。", exampleKorean: "레-킹와 후요-데시타", exampleMeaning: "사례금은 불필요했습니다.",
+    breakdown: [
+      { word: "不要", reading: "ふよう", meaning: "불필요" }
+    ] },
+  { level: "N4", kanji: "仲介手数料", reading: "ちゅうかいてすうりょう", korean: "츄-카이테스-료-", meaning: "중개수수료",
+    example: "仲介手数料がかかりました。", exampleReading: "ちゅうかいてすうりょうがかかりました。", exampleKorean: "츄-카이테스-료-가 카카리마시타", exampleMeaning: "중개수수료가 들었습니다.",
+    breakdown: [
+      { word: "かかりました", reading: "かかりました", meaning: "들었습니다" }
+    ] },
+  { level: "N4", kanji: "不動産屋", reading: "ふどうさんや", korean: "후도-산야", meaning: "부동산 중개소",
+    example: "不動産屋で部屋を探しました。", exampleReading: "ふどうさんやでへやをさがしました。", exampleKorean: "후도-산야데 헤야오 사가시마시타", exampleMeaning: "부동산에서 방을 찾았습니다.",
+    breakdown: [
+      { word: "部屋", reading: "へや", meaning: "방" }
+    ] },
+  { level: "N4", kanji: "間取り", reading: "まどり", korean: "마도리", meaning: "방 구조, 평면도",
+    example: "この部屋の間取りが気に入りました。", exampleReading: "このへやのまどりがきにいりました。", exampleKorean: "코노 헤야노 마도리가 키니이리마시타", exampleMeaning: "이 방의 구조가 마음에 들었습니다.",
+    breakdown: [
+      { word: "気に入りました", reading: "きにいりました", meaning: "마음에 들었습니다" }
+    ] },
+  { level: "N4", kanji: "築年数", reading: "ちくねんすう", korean: "치쿠넨스-", meaning: "건축연수",
+    example: "築年数が古い物件です。", exampleReading: "ちくねんすうがふるいぶっけんです。", exampleKorean: "치쿠넨스-가 후루이 붓켄데스", exampleMeaning: "건축연수가 오래된 매물입니다.",
+    breakdown: [
+      { word: "物件", reading: "ぶっけん", meaning: "매물" }
+    ] },
+  { level: "N4", kanji: "賃料", reading: "ちんりょう", korean: "친료-", meaning: "임대료",
+    example: "賃料が上がりました。", exampleReading: "ちんりょうがあがりました。", exampleKorean: "친료-가 아가리마시타", exampleMeaning: "임대료가 올랐습니다.",
+    breakdown: [
+      { word: "上がりました", reading: "あがりました", meaning: "올랐습니다" }
+    ] },
+  { level: "N4", kanji: "更新料", reading: "こうしんりょう", korean: "코-신료-", meaning: "갱신료",
+    example: "契約の更新料を払いました。", exampleReading: "けいやくのこうしんりょうをはらいました。", exampleKorean: "케-야쿠노 코-신료-오 하라이마시타", exampleMeaning: "계약 갱신료를 냈습니다.",
+    breakdown: [
+      { word: "契約", reading: "けいやく", meaning: "계약" }
+    ] },
+  { level: "N4", kanji: "退去", reading: "たいきょ", korean: "타이쿄", meaning: "퇴거",
+    example: "来月退去する予定です。", exampleReading: "らいげつたいきょするよていです。", exampleKorean: "라이게츠 타이쿄스루 요테-데스", exampleMeaning: "다음 달에 퇴거할 예정입니다.",
+    breakdown: [
+      { word: "来月", reading: "らいげつ", meaning: "다음 달" }
+    ] },
+  { level: "N4", kanji: "入居", reading: "にゅうきょ", korean: "뉴-쿄", meaning: "입주",
+    example: "来週入居します。", exampleReading: "らいしゅうにゅうきょします。", exampleKorean: "라이슈- 뉴-쿄 시마스", exampleMeaning: "다음 주에 입주합니다.",
+    breakdown: [
+      { word: "来週", reading: "らいしゅう", meaning: "다음 주" }
+    ] },
+  { level: "N4", kanji: "管理費", reading: "かんりひ", korean: "칸리히", meaning: "관리비",
+    example: "毎月管理費を払います。", exampleReading: "まいつきかんりひをはらいます。", exampleKorean: "마이츠키 칸리히오 하라이마스", exampleMeaning: "매달 관리비를 냅니다.",
+    breakdown: [
+      { word: "毎月", reading: "まいつき", meaning: "매달" }
+    ] },
+  { level: "N4", kanji: "修繕", reading: "しゅうぜん", korean: "슈-젠", meaning: "수선",
+    example: "屋根を修繕しました。", exampleReading: "やねをしゅうぜんしました。", exampleKorean: "야네오 슈-젠 시마시타", exampleMeaning: "지붕을 수선했습니다.",
+    breakdown: [
+      { word: "屋根", reading: "やね", meaning: "지붕" }
+    ] },
+  { level: "N4", kanji: "大家", reading: "おおや", korean: "오-야", meaning: "집주인",
+    example: "大家さんに家賃を払いました。", exampleReading: "おおやさんにやちんをはらいました。", exampleKorean: "오-야산니 야칭오 하라이마시타", exampleMeaning: "집주인에게 집세를 냈습니다.",
+    breakdown: [
+      { word: "家賃", reading: "やちん", meaning: "집세" }
+    ] },
+  { level: "N4", kanji: "契約更新", reading: "けいやくこうしん", korean: "케-야쿠코-신", meaning: "계약갱신",
+    example: "契約更新の時期です。", exampleReading: "けいやくこうしんのじきです。", exampleKorean: "케-야쿠코-신노 지키데스", exampleMeaning: "계약갱신 시기입니다.",
+    breakdown: [
+      { word: "時期", reading: "じき", meaning: "시기" }
+    ] },
+  { level: "N4", kanji: "保証人", reading: "ほしょうにん", korean: "호쇼-닌", meaning: "보증인",
+    example: "保証人が必要です。", exampleReading: "ほしょうにんがひつようです。", exampleKorean: "호쇼-닌가 히츠요-데스", exampleMeaning: "보증인이 필요합니다.",
+    breakdown: [
+      { word: "必要", reading: "ひつよう", meaning: "필요" }
+    ] },
+  { level: "N4", kanji: "火災保険", reading: "かさいほけん", korean: "카사이호켄", meaning: "화재보험",
+    example: "火災保険に入りました。", exampleReading: "かさいほけんにはいりました。", exampleKorean: "카사이 호켄니 하이리마시타", exampleMeaning: "화재보험에 가입했습니다.",
+    breakdown: [
+      { word: "入りました", reading: "はいりました", meaning: "가입했습니다" }
+    ] },
+  { level: "N4", kanji: "近隣", reading: "きんりん", korean: "킨린", meaning: "근린, 이웃",
+    example: "近隣の住民と仲良くしています。", exampleReading: "きんりんのじゅうみんとなかよくしています。", exampleKorean: "킨린노 쥬-민토 나카요쿠 시테 이마스", exampleMeaning: "이웃 주민과 사이좋게 지내고 있습니다.",
+    breakdown: [
+      { word: "住民", reading: "じゅうみん", meaning: "주민" }
+    ] },
+  { level: "N4", kanji: "立地", reading: "りっち", korean: "릿치", meaning: "입지",
+    example: "この店は立地が良いです。", exampleReading: "このみせはりっちがいいです。", exampleKorean: "코노 미세와 릿치가 이-데스", exampleMeaning: "이 가게는 입지가 좋습니다.",
+    breakdown: [
+      { word: "店", reading: "みせ", meaning: "가게" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
