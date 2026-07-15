@@ -10916,4 +10916,154 @@ const VOCAB = [
     breakdown: [
       { word: "不安定", reading: "ふあんてい", meaning: "불안정" }
     ] },
+  { level: "N1", kanji: "安穏", reading: "あんのん", korean: "안논", meaning: "안온함, 평온함",
+    example: "安穏な暮らしを望んでいます。", exampleReading: "あんのんなくらしをのぞんでいます。", exampleKorean: "안논나 쿠라시오 노존데 이마스", exampleMeaning: "평온한 생활을 바라고 있습니다.",
+    breakdown: [
+      { word: "暮らし", reading: "くらし", meaning: "생활" }
+    ] },
+  { level: "N1", kanji: "平穏", reading: "へいおん", korean: "헤-온", meaning: "평온",
+    example: "平穏な日々が続いています。", exampleReading: "へいおんなひびがつづいています。", exampleKorean: "헤-온나 히비가 츠즈이테 이마스", exampleMeaning: "평온한 나날이 계속되고 있습니다.",
+    breakdown: [
+      { word: "日々", reading: "ひび", meaning: "나날" }
+    ] },
+  { level: "N1", kanji: "悠然", reading: "ゆうぜん", korean: "유-젠", meaning: "유연함, 태연함",
+    example: "彼は悠然と構えています。", exampleReading: "かれはゆうぜんとかまえています。", exampleKorean: "카레와 유-젠토 카마에테 이마스", exampleMeaning: "그는 태연하게 있습니다.",
+    breakdown: [
+      { word: "構えて", reading: "かまえて", meaning: "자세를 취해서" }
+    ] },
+  { level: "N1", kanji: "超然", reading: "ちょうぜん", korean: "쵸-젠", meaning: "초연함",
+    example: "彼は超然とした態度を取りました。", exampleReading: "かれはちょうぜんとしたたいどをとりました。", exampleKorean: "카레와 쵸-젠토시타 타이도오 토리마시타", exampleMeaning: "그는 초연한 태도를 취했습니다.",
+    breakdown: [
+      { word: "態度", reading: "たいど", meaning: "태도" }
+    ] },
+  { level: "N1", kanji: "泰然", reading: "たいぜん", korean: "타이젠", meaning: "태연함",
+    example: "泰然とした様子で答えました。", exampleReading: "たいぜんとしたようすでこたえました。", exampleKorean: "타이젠토시타 요-스데 코타에마시타", exampleMeaning: "태연한 모습으로 대답했습니다.",
+    breakdown: [
+      { word: "様子", reading: "ようす", meaning: "모습" }
+    ] },
+  { level: "N1", kanji: "毅然", reading: "きぜん", korean: "키젠", meaning: "의연함",
+    example: "毅然とした態度で断りました。", exampleReading: "きぜんとしたたいどでことわりました。", exampleKorean: "키젠토시타 타이도데 코토와리마시타", exampleMeaning: "의연한 태도로 거절했습니다.",
+    breakdown: [
+      { word: "断りました", reading: "ことわりました", meaning: "거절했습니다" }
+    ] },
+  { level: "N1", kanji: "凛然", reading: "りんぜん", korean: "린젠", meaning: "늠름함",
+    example: "凛然たる姿に感動しました。", exampleReading: "りんぜんたるすがたにかんどうしました。", exampleKorean: "린젠타루 스가타니 칸도- 시마시타", exampleMeaning: "늠름한 모습에 감동했습니다.",
+    breakdown: [
+      { word: "姿", reading: "すがた", meaning: "모습" }
+    ] },
+  { level: "N1", kanji: "紛糾", reading: "ふんきゅう", korean: "훙큐-", meaning: "분규",
+    example: "議論が紛糾しました。", exampleReading: "ぎろんがふんきゅうしました。", exampleKorean: "기롱가 훙큐- 시마시타", exampleMeaning: "논의가 분규했습니다.",
+    breakdown: [
+      { word: "議論", reading: "ぎろん", meaning: "논의" }
+    ] },
+  { level: "N1", kanji: "錯綜", reading: "さくそう", korean: "사쿠소-", meaning: "착종, 뒤얽힘",
+    example: "情報が錯綜しています。", exampleReading: "じょうほうがさくそうしています。", exampleKorean: "죠-호-가 사쿠소- 시테 이마스", exampleMeaning: "정보가 뒤얽혀 있습니다.",
+    breakdown: [
+      { word: "情報", reading: "じょうほう", meaning: "정보" }
+    ] },
+  { level: "N1", kanji: "混迷", reading: "こんめい", korean: "콘메-", meaning: "혼미",
+    example: "国は混迷を極めています。", exampleReading: "くにはこんめいをきわめています。", exampleKorean: "쿠니와 콘메-오 키와메테 이마스", exampleMeaning: "나라는 극도의 혼미 상태입니다.",
+    breakdown: [
+      { word: "極めて", reading: "きわめて", meaning: "극도로" }
+    ] },
+  { level: "N1", kanji: "迷走", reading: "めいそう", korean: "메-소-", meaning: "미로를 헤맴, 갈팡질팡함",
+    example: "計画が迷走しています。", exampleReading: "けいかくがめいそうしています。", exampleKorean: "케-카쿠가 메-소- 시테 이마스", exampleMeaning: "계획이 갈팡질팡하고 있습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N1", kanji: "空回り", reading: "からまわり", korean: "카라마와리", meaning: "헛돌기, 헛수고",
+    example: "努力が空回りしています。", exampleReading: "どりょくがからまわりしています。", exampleKorean: "도료쿠가 카라마와리 시테 이마스", exampleMeaning: "노력이 헛돌고 있습니다.",
+    breakdown: [
+      { word: "努力", reading: "どりょく", meaning: "노력" }
+    ] },
+  { level: "N1", kanji: "徒労", reading: "とろう", korean: "토로-", meaning: "헛수고",
+    example: "徒労に終わりました。", exampleReading: "とろうにおわりました。", exampleKorean: "토로-니 오와리마시타", exampleMeaning: "헛수고로 끝났습니다.",
+    breakdown: [
+      { word: "終わりました", reading: "おわりました", meaning: "끝났습니다" }
+    ] },
+  { level: "N1", kanji: "無益", reading: "むえき", korean: "무에키", meaning: "무익함",
+    example: "無益な争いはやめましょう。", exampleReading: "むえきなあらそいはやめましょう。", exampleKorean: "무에키나 아라소이와 야메마쇼-", exampleMeaning: "무익한 다툼은 그만둡시다.",
+    breakdown: [
+      { word: "争い", reading: "あらそい", meaning: "다툼" }
+    ] },
+  { level: "N1", kanji: "無為", reading: "むい", korean: "무이", meaning: "무위, 헛됨",
+    example: "無為に時間を過ごしました。", exampleReading: "むいにじかんをすごしました。", exampleKorean: "무이니 지캉오 스고시마시타", exampleMeaning: "무의미하게 시간을 보냈습니다.",
+    breakdown: [
+      { word: "時間", reading: "じかん", meaning: "시간" }
+    ] },
+  { level: "N1", kanji: "怠慢", reading: "たいまん", korean: "타이만", meaning: "태만",
+    example: "業務怠慢が問題になりました。", exampleReading: "ぎょうむたいまんがもんだいになりました。", exampleKorean: "교-무 타이망가 몬다이니 나리마시타", exampleMeaning: "업무 태만이 문제가 되었습니다.",
+    breakdown: [
+      { word: "業務", reading: "ぎょうむ", meaning: "업무" }
+    ] },
+  { level: "N1", kanji: "安逸", reading: "あんいつ", korean: "안이츠", meaning: "안일함",
+    example: "安逸をむさぼることはできません。", exampleReading: "あんいつをむさぼることはできません。", exampleKorean: "안이츠오 무사보루 코토와 데키마셍", exampleMeaning: "안일함을 탐할 수는 없습니다.",
+    breakdown: [
+      { word: "むさぼる", reading: "むさぼる", meaning: "탐하다" }
+    ] },
+  { level: "N1", kanji: "惰性", reading: "だせい", korean: "다세-", meaning: "타성",
+    example: "惰性で続けています。", exampleReading: "だせいでつづけています。", exampleKorean: "다세-데 츠즈케테 이마스", exampleMeaning: "타성으로 계속하고 있습니다.",
+    breakdown: [
+      { word: "続けて", reading: "つづけて", meaning: "계속해서" }
+    ] },
+  { level: "N1", kanji: "慣性", reading: "かんせい", korean: "칸세-", meaning: "관성",
+    example: "物体には慣性があります。", exampleReading: "ぶったいにはかんせいがあります。", exampleKorean: "붓타이니와 칸세-가 아리마스", exampleMeaning: "물체에는 관성이 있습니다.",
+    breakdown: [
+      { word: "物体", reading: "ぶったい", meaning: "물체" }
+    ] },
+  { level: "N1", kanji: "固執", reading: "こしつ", korean: "코시츠", meaning: "고집",
+    example: "自分の意見に固執しています。", exampleReading: "じぶんのいけんにこしつしています。", exampleKorean: "지분노 이켄니 코시츠 시테 이마스", exampleMeaning: "자신의 의견을 고집하고 있습니다.",
+    breakdown: [
+      { word: "意見", reading: "いけん", meaning: "의견" }
+    ] },
+  { level: "N1", kanji: "偏執", reading: "へんしゅう", korean: "헨슈-", meaning: "편집(집착)",
+    example: "偏執的な性格です。", exampleReading: "へんしゅうてきなせいかくです。", exampleKorean: "헨슈-테키나 세-카쿠데스", exampleMeaning: "편집적인 성격입니다.",
+    breakdown: [
+      { word: "性格", reading: "せいかく", meaning: "성격" }
+    ] },
+  { level: "N1", kanji: "偏狭", reading: "へんきょう", korean: "헨쿄-", meaning: "편협함",
+    example: "偏狭な考え方はよくありません。", exampleReading: "へんきょうなかんがえかたはよくありません。", exampleKorean: "헨쿄-나 캉가에카타와 요쿠 아리마셍", exampleMeaning: "편협한 사고방식은 좋지 않습니다.",
+    breakdown: [
+      { word: "考え方", reading: "かんがえかた", meaning: "사고방식" }
+    ] },
+  { level: "N1", kanji: "狭量", reading: "きょうりょう", korean: "쿄-료-", meaning: "도량이 좁음",
+    example: "狭量な人だと言われました。", exampleReading: "きょうりょうなひとだといわれました。", exampleKorean: "쿄-료-나 히토다토 이와레마시타", exampleMeaning: "도량이 좁은 사람이라는 말을 들었습니다.",
+    breakdown: [
+      { word: "言われました", reading: "いわれました", meaning: "말을 들었습니다" }
+    ] },
+  { level: "N1", kanji: "度量", reading: "どりょう", korean: "도료-", meaning: "도량",
+    example: "彼は度量が広いです。", exampleReading: "かれはどりょうがひろいです。", exampleKorean: "카레와 도료-가 히로이데스", exampleMeaning: "그는 도량이 넓습니다.",
+    breakdown: [
+      { word: "広い", reading: "ひろい", meaning: "넓다" }
+    ] },
+  { level: "N1", kanji: "器量", reading: "きりょう", korean: "키료-", meaning: "기량, 인물됨",
+    example: "器量のある人物です。", exampleReading: "きりょうのあるじんぶつです。", exampleKorean: "키료-노 아루 짐부츠데스", exampleMeaning: "기량이 있는 인물입니다.",
+    breakdown: [
+      { word: "人物", reading: "じんぶつ", meaning: "인물" }
+    ] },
+  { level: "N1", kanji: "裁量", reading: "さいりょう", korean: "사이료-", meaning: "재량",
+    example: "本人の裁量に任せます。", exampleReading: "ほんにんのさいりょうにまかせます。", exampleKorean: "혼닌노 사이료-니 마카세마스", exampleMeaning: "본인의 재량에 맡깁니다.",
+    breakdown: [
+      { word: "本人", reading: "ほんにん", meaning: "본인" }
+    ] },
+  { level: "N1", kanji: "采配", reading: "さいはい", korean: "사이하이", meaning: "지휘, 진두지휘",
+    example: "監督が采配を振りました。", exampleReading: "かんとくがさいはいをふりました。", exampleKorean: "칸토쿠가 사이하이오 후리마시타", exampleMeaning: "감독이 지휘를 했습니다.",
+    breakdown: [
+      { word: "監督", reading: "かんとく", meaning: "감독" }
+    ] },
+  { level: "N1", kanji: "手腕", reading: "しゅわん", korean: "슈완", meaning: "수완",
+    example: "経営の手腕を発揮しました。", exampleReading: "けいえいのしゅわんをはっきしました。", exampleKorean: "케-에-노 슈왕오 학키 시마시타", exampleMeaning: "경영 수완을 발휘했습니다.",
+    breakdown: [
+      { word: "経営", reading: "けいえい", meaning: "경영" }
+    ] },
+  { level: "N1", kanji: "力量", reading: "りきりょう", korean: "리키료-", meaning: "역량",
+    example: "彼の力量を認めています。", exampleReading: "かれのりきりょうをみとめています。", exampleKorean: "카레노 리키료-오 미토메테 이마스", exampleMeaning: "그의 역량을 인정하고 있습니다.",
+    breakdown: [
+      { word: "認めて", reading: "みとめて", meaning: "인정해서" }
+    ] },
+  { level: "N1", kanji: "見劣り", reading: "みおとり", korean: "미오토리", meaning: "뒤떨어져 보임",
+    example: "他社に見劣りしない品質です。", exampleReading: "たしゃにみおとりしないひんしつです。", exampleKorean: "타샤니 미오토리시나이 힌시츠데스", exampleMeaning: "타사에 뒤떨어지지 않는 품질입니다.",
+    breakdown: [
+      { word: "品質", reading: "ひんしつ", meaning: "품질" }
+    ] },
 ];
