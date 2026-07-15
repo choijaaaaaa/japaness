@@ -3533,6 +3533,256 @@ const VOCAB = [
     breakdown: [
       { word: "来月", reading: "らいげつ", meaning: "다음 달" }
     ] },
+  { level: "N5", kanji: "いってきます", reading: "いってきます", korean: "잇테키마스", meaning: "다녀오겠습니다",
+    example: "毎朝いってきますと言います。", exampleReading: "まいあさいってきますといいます。", exampleKorean: "마이아사 잇테키마스토 이이마스", exampleMeaning: "매일 아침 다녀오겠습니다라고 말합니다.",
+    breakdown: [
+      { word: "毎朝", reading: "まいあさ", meaning: "매일 아침" }
+    ] },
+  { level: "N5", kanji: "いってらっしゃい", reading: "いってらっしゃい", korean: "잇테랏샤이", meaning: "다녀오세요",
+    example: "母がいってらっしゃいと言いました。", exampleReading: "ははがいってらっしゃいといいました。", exampleKorean: "하하가 잇테랏샤이토 이이마시타", exampleMeaning: "엄마가 다녀오세요라고 말했습니다.",
+    breakdown: [
+      { word: "母", reading: "はは", meaning: "엄마" }
+    ] },
+  { level: "N5", kanji: "ただいま", reading: "ただいま", korean: "타다이마", meaning: "다녀왔습니다",
+    example: "家に着いてただいまと言いました。", exampleReading: "いえについてただいまといいました。", exampleKorean: "이에니 츠이테 타다이마토 이이마시타", exampleMeaning: "집에 도착해서 다녀왔습니다라고 말했습니다.",
+    breakdown: [
+      { word: "家に着いて", reading: "いえについて", meaning: "집에 도착해서" }
+    ] },
+  { level: "N5", kanji: "おかえりなさい", reading: "おかえりなさい", korean: "오카에리나사이", meaning: "어서 오세요(귀가)",
+    example: "家族がおかえりなさいと迎えてくれました。", exampleReading: "かぞくがおかえりなさいとむかえてくれました。", exampleKorean: "카조쿠가 오카에리나사이토 무카에테 쿠레마시타", exampleMeaning: "가족이 어서 오세요라며 맞아 주었습니다.",
+    breakdown: [
+      { word: "家族", reading: "かぞく", meaning: "가족" }
+    ] },
+  { level: "N5", kanji: "お邪魔します", reading: "おじゃまします", korean: "오자마시마스", meaning: "실례하겠습니다(방문)",
+    example: "友達の家でお邪魔しますと言いました。", exampleReading: "ともだちのいえでおじゃまますといいました。", exampleKorean: "토모다치노 이에데 오자마시마스토 이이마시타", exampleMeaning: "친구 집에서 실례하겠습니다라고 말했습니다.",
+    breakdown: [
+      { word: "友達の家", reading: "ともだちのいえ", meaning: "친구 집" }
+    ] },
+  { level: "N5", kanji: "失礼します", reading: "しつれいします", korean: "시츠레-시마스", meaning: "실례합니다",
+    example: "部屋に入る前に失礼しますと言いました。", exampleReading: "へやにはいるまえにしつれいしますといいました。", exampleKorean: "헤야니 하이루 마에니 시츠레-시마스토 이이마시타", exampleMeaning: "방에 들어가기 전에 실례합니다라고 말했습니다.",
+    breakdown: [
+      { word: "部屋", reading: "へや", meaning: "방" }
+    ] },
+  { level: "N5", kanji: "お疲れ様です", reading: "おつかれさまです", korean: "오츠카레사마데스", meaning: "수고하십니다",
+    example: "会社の同僚にお疲れ様ですと言いました。", exampleReading: "かいしゃのどうりょうにおつかれさまですといいました。", exampleKorean: "카이샤노 도-료-니 오츠카레사마데스토 이이마시타", exampleMeaning: "회사 동료에게 수고하십니다라고 말했습니다.",
+    breakdown: [
+      { word: "同僚", reading: "どうりょう", meaning: "동료" }
+    ] },
+  { level: "N5", kanji: "お世話になります", reading: "おせわになります", korean: "오세와니나리마스", meaning: "신세 지겠습니다",
+    example: "これからお世話になりますと挨拶しました。", exampleReading: "これからおせわになりますとあいさつしました。", exampleKorean: "코레카라 오세와니나리마스토 아이사츠 시마시타", exampleMeaning: "앞으로 신세 지겠습니다라고 인사했습니다.",
+    breakdown: [
+      { word: "これから", reading: "これから", meaning: "앞으로" }
+    ] },
+  { level: "N5", kanji: "気を付けて", reading: "きをつけて", korean: "키오츠케테", meaning: "조심해",
+    example: "車に気を付けてと言われました。", exampleReading: "くるまにきをつけてといわれました。", exampleKorean: "쿠루마니 키오츠케테토 이와레마시타", exampleMeaning: "차 조심하라는 말을 들었습니다.",
+    breakdown: [
+      { word: "車", reading: "くるま", meaning: "차" }
+    ] },
+  { level: "N5", kanji: "お大事に", reading: "おだいじに", korean: "오다이지니", meaning: "몸조리 잘하세요",
+    example: "医者にお大事にと言われました。", exampleReading: "いしゃにおだいじにといわれました。", exampleKorean: "이샤니 오다이지니토 이와레마시타", exampleMeaning: "의사에게 몸조리 잘하시라는 말을 들었습니다.",
+    breakdown: [
+      { word: "医者", reading: "いしゃ", meaning: "의사" }
+    ] },
+  { level: "N5", kanji: "梅雨", reading: "つゆ", korean: "츠유", meaning: "장마",
+    example: "日本には梅雨があります。", exampleReading: "にほんにはつゆがあります。", exampleKorean: "니혼니와 츠유가 아리마스", exampleMeaning: "일본에는 장마가 있습니다.",
+    breakdown: [
+      { word: "日本", reading: "にほん", meaning: "일본" }
+    ] },
+  { level: "N5", kanji: "猛暑", reading: "もうしょ", korean: "모-쇼", meaning: "폭염",
+    example: "今年の夏は猛暑です。", exampleReading: "ことしのなつはもうしょです。", exampleKorean: "코토시노 나츠와 모-쇼데스", exampleMeaning: "올해 여름은 폭염입니다.",
+    breakdown: [
+      { word: "今年", reading: "ことし", meaning: "올해" }
+    ] },
+  { level: "N5", kanji: "蒸し暑い", reading: "むしあつい", korean: "무시아츠이", meaning: "무덥다",
+    example: "今日は蒸し暑いですね。", exampleReading: "きょうはむしあついですね。", exampleKorean: "쿄-와 무시아츠이데스네", exampleMeaning: "오늘은 무덥네요.",
+    breakdown: [
+      { word: "今日", reading: "きょう", meaning: "오늘" }
+    ] },
+  { level: "N5", kanji: "肌寒い", reading: "はだざむい", korean: "하다자무이", meaning: "쌀쌀하다",
+    example: "朝晩は肌寒いです。", exampleReading: "あさばんははだざむいです。", exampleKorean: "아사반와 하다자무이데스", exampleMeaning: "아침저녁으로 쌀쌀합니다.",
+    breakdown: [
+      { word: "朝晩", reading: "あさばん", meaning: "아침저녁" }
+    ] },
+  { level: "N5", kanji: "冷え込む", reading: "ひえこむ", korean: "히에코무", meaning: "급격히 추워지다",
+    example: "今夜は冷え込むそうです。", exampleReading: "こんやはひえこむそうです。", exampleKorean: "콘야와 히에코무 소-데스", exampleMeaning: "오늘 밤은 급격히 추워진다고 합니다.",
+    breakdown: [
+      { word: "今夜", reading: "こんや", meaning: "오늘 밤" }
+    ] },
+  { level: "N5", kanji: "天気予報", reading: "てんきよほう", korean: "텐키요호-", meaning: "일기예보",
+    example: "天気予報を見ました。", exampleReading: "てんきよほうをみました。", exampleKorean: "텐키요호-오 미마시타", exampleMeaning: "일기예보를 봤습니다.",
+    breakdown: [
+      { word: "見ました", reading: "みました", meaning: "봤습니다" }
+    ] },
+  { level: "N5", kanji: "積雪", reading: "せきせつ", korean: "세키세츠", meaning: "적설",
+    example: "積雪が多い地域です。", exampleReading: "せきせつがおおいちいきです。", exampleKorean: "세키세츠가 오-이 치이키데스", exampleMeaning: "적설이 많은 지역입니다.",
+    breakdown: [
+      { word: "地域", reading: "ちいき", meaning: "지역" }
+    ] },
+  { level: "N5", kanji: "雷", reading: "かみなり", korean: "카미나리", meaning: "천둥",
+    example: "昨夜、雷が鳴りました。", exampleReading: "さくや、かみなりがなりました。", exampleKorean: "사쿠야, 카미나리가 나리마시타", exampleMeaning: "어젯밤 천둥이 쳤습니다.",
+    breakdown: [
+      { word: "昨夜", reading: "さくや", meaning: "어젯밤" }
+    ] },
+  { level: "N5", kanji: "稲妻", reading: "いなずま", korean: "이나즈마", meaning: "번개",
+    example: "稲妻が光りました。", exampleReading: "いなずまがひかりました。", exampleKorean: "이나즈마가 히카리마시타", exampleMeaning: "번개가 번쩍였습니다.",
+    breakdown: [
+      { word: "光りました", reading: "ひかりました", meaning: "번쩍였습니다" }
+    ] },
+  { level: "N5", kanji: "霧", reading: "きり", korean: "키리", meaning: "안개",
+    example: "朝は霧が濃かったです。", exampleReading: "あさはきりがこかったです。", exampleKorean: "아사와 키리가 코캇타데스", exampleMeaning: "아침에는 안개가 짙었습니다.",
+    breakdown: [
+      { word: "濃かった", reading: "こかった", meaning: "짙었다" }
+    ] },
+  { level: "N5", kanji: "露", reading: "つゆ", korean: "츠유", meaning: "이슬",
+    example: "草に露がついています。", exampleReading: "くさにつゆがついています。", exampleKorean: "쿠사니 츠유가 츠이테 이마스", exampleMeaning: "풀에 이슬이 맺혀 있습니다.",
+    breakdown: [
+      { word: "草", reading: "くさ", meaning: "풀" }
+    ] },
+  { level: "N5", kanji: "朝露", reading: "あさつゆ", korean: "아사츠유", meaning: "아침이슬",
+    example: "朝露で靴が濡れました。", exampleReading: "あさつゆでくつがぬれました。", exampleKorean: "아사츠유데 쿠츠가 누레마시타", exampleMeaning: "아침이슬로 신발이 젖었습니다.",
+    breakdown: [
+      { word: "靴", reading: "くつ", meaning: "신발" }
+    ] },
+  { level: "N5", kanji: "夕立", reading: "ゆうだち", korean: "유-다치", meaning: "소나기",
+    example: "夕立に降られました。", exampleReading: "ゆうだちにふられました。", exampleKorean: "유-다치니 후라레마시타", exampleMeaning: "소나기를 맞았습니다.",
+    breakdown: [
+      { word: "降られました", reading: "ふられました", meaning: "맞았습니다" }
+    ] },
+  { level: "N5", kanji: "にわか雨", reading: "にわかあめ", korean: "니와카아메", meaning: "소나기",
+    example: "にわか雨が降ってきました。", exampleReading: "にわかあめがふってきました。", exampleKorean: "니와카아메가 훗테 키마시타", exampleMeaning: "소나기가 내리기 시작했습니다.",
+    breakdown: [
+      { word: "降ってきました", reading: "ふってきました", meaning: "내리기 시작했습니다" }
+    ] },
+  { level: "N5", kanji: "快晴", reading: "かいせい", korean: "카이세-", meaning: "쾌청",
+    example: "今日は快晴です。", exampleReading: "きょうはかいせいです。", exampleKorean: "쿄-와 카이세-데스", exampleMeaning: "오늘은 쾌청합니다.",
+    breakdown: [
+      { word: "今日", reading: "きょう", meaning: "오늘" }
+    ] },
+  { level: "N5", kanji: "曇天", reading: "どんてん", korean: "돈텐", meaning: "흐린 하늘",
+    example: "曇天が続いています。", exampleReading: "どんてんがつづいています。", exampleKorean: "돈텐가 츠즈이테 이마스", exampleMeaning: "흐린 날씨가 계속되고 있습니다.",
+    breakdown: [
+      { word: "続いて", reading: "つづいて", meaning: "계속되어" }
+    ] },
+  { level: "N5", kanji: "突風", reading: "とっぷう", korean: "톳푸-", meaning: "돌풍",
+    example: "突風が吹きました。", exampleReading: "とっぷうがふきました。", exampleKorean: "톳푸-가 후키마시타", exampleMeaning: "돌풍이 불었습니다.",
+    breakdown: [
+      { word: "吹きました", reading: "ふきました", meaning: "불었습니다" }
+    ] },
+  { level: "N5", kanji: "強風", reading: "きょうふう", korean: "쿄-후-", meaning: "강풍",
+    example: "強風に注意してください。", exampleReading: "きょうふうにちゅういしてください。", exampleKorean: "쿄-후-니 츄-이 시테 쿠다사이", exampleMeaning: "강풍에 주의해 주세요.",
+    breakdown: [
+      { word: "注意", reading: "ちゅうい", meaning: "주의" }
+    ] },
+  { level: "N5", kanji: "微風", reading: "びふう", korean: "비후-", meaning: "산들바람",
+    example: "微風が心地よいです。", exampleReading: "びふうがここちよいです。", exampleKorean: "비후-가 코코치요이데스", exampleMeaning: "산들바람이 기분 좋습니다.",
+    breakdown: [
+      { word: "心地よい", reading: "ここちよい", meaning: "기분 좋다" }
+    ] },
+  { level: "N5", kanji: "虹色", reading: "にじいろ", korean: "니지이로", meaning: "무지개색",
+    example: "虹色に光っています。", exampleReading: "にじいろにひかっています。", exampleKorean: "니지이로니 히캇테 이마스", exampleMeaning: "무지개색으로 빛나고 있습니다.",
+    breakdown: [
+      { word: "光って", reading: "ひかって", meaning: "빛나서" }
+    ] },
+  { level: "N5", kanji: "花見", reading: "はなみ", korean: "하나미", meaning: "꽃구경",
+    example: "春に花見をしました。", exampleReading: "はるにはなみをしました。", exampleKorean: "하루니 하나미오 시마시타", exampleMeaning: "봄에 꽃구경을 했습니다.",
+    breakdown: [
+      { word: "春", reading: "はる", meaning: "봄" }
+    ] },
+  { level: "N5", kanji: "紅葉狩り", reading: "もみじがり", korean: "모미지가리", meaning: "단풍놀이",
+    example: "秋に紅葉狩りに行きました。", exampleReading: "あきにもみじがりにいきました。", exampleKorean: "아키니 모미지가리니 이키마시타", exampleMeaning: "가을에 단풍놀이를 갔습니다.",
+    breakdown: [
+      { word: "秋", reading: "あき", meaning: "가을" }
+    ] },
+  { level: "N5", kanji: "雪だるま", reading: "ゆきだるま", korean: "유키다루마", meaning: "눈사람",
+    example: "雪だるまを作りました。", exampleReading: "ゆきだるまをつくりました。", exampleKorean: "유키다루마오 츠쿠리마시타", exampleMeaning: "눈사람을 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N5", kanji: "雪合戦", reading: "ゆきがっせん", korean: "유키갓센", meaning: "눈싸움",
+    example: "子供と雪合戦をしました。", exampleReading: "こどもとゆきがっせんをしました。", exampleKorean: "코도모토 유키갓센오 시마시타", exampleMeaning: "아이와 눈싸움을 했습니다.",
+    breakdown: [
+      { word: "子供と", reading: "こどもと", meaning: "아이와" }
+    ] },
+  { level: "N5", kanji: "初詣", reading: "はつもうで", korean: "하츠모-데", meaning: "새해 첫 참배",
+    example: "元日に初詣に行きました。", exampleReading: "がんじつにはつもうでにいきました。", exampleKorean: "간지츠니 하츠모-데니 이키마시타", exampleMeaning: "설날에 새해 첫 참배를 갔습니다.",
+    breakdown: [
+      { word: "元日", reading: "がんじつ", meaning: "설날" }
+    ] },
+  { level: "N5", kanji: "年越しそば", reading: "としこしそば", korean: "토시코시소바", meaning: "해넘이 소바",
+    example: "大晦日に年越しそばを食べました。", exampleReading: "おおみそかにとしこしそばをたべました。", exampleKorean: "오-미소카니 토시코시소바오 타베마시타", exampleMeaning: "섣달그믐에 해넘이 소바를 먹었습니다.",
+    breakdown: [
+      { word: "大晦日", reading: "おおみそか", meaning: "섣달그믐" }
+    ] },
+  { level: "N5", kanji: "お正月", reading: "おしょうがつ", korean: "오쇼-가츠", meaning: "설날",
+    example: "お正月に家族で集まりました。", exampleReading: "おしょうがつにかぞくであつまりました。", exampleKorean: "오쇼-가츠니 카조쿠데 아츠마리마시타", exampleMeaning: "설날에 가족이 모였습니다.",
+    breakdown: [
+      { word: "家族", reading: "かぞく", meaning: "가족" }
+    ] },
+  { level: "N5", kanji: "お盆", reading: "おぼん", korean: "오본", meaning: "오봉(추석)",
+    example: "お盆に実家に帰りました。", exampleReading: "おぼんにじっかにかえりました。", exampleKorean: "오본니 짓카니 카에리마시타", exampleMeaning: "오봉(추석)에 본가에 갔습니다.",
+    breakdown: [
+      { word: "実家", reading: "じっか", meaning: "본가" }
+    ] },
+  { level: "N5", kanji: "クリスマス", reading: "クリスマス", korean: "쿠리스마스", meaning: "크리스마스",
+    example: "クリスマスにケーキを食べました。", exampleReading: "クリスマスにケーキをたべました。", exampleKorean: "쿠리스마스니 케-키오 타베마시타", exampleMeaning: "크리스마스에 케이크를 먹었습니다.",
+    breakdown: [
+      { word: "ケーキ", reading: "ケーキ", meaning: "케이크" }
+    ] },
+  { level: "N5", kanji: "バレンタインデー", reading: "バレンタインデー", korean: "바렌타인데-", meaning: "밸런타인데이",
+    example: "バレンタインデーにチョコをあげました。", exampleReading: "バレンタインデーにチョコをあげました。", exampleKorean: "바렌타인데-니 쵸코오 아게마시타", exampleMeaning: "밸런타인데이에 초콜릿을 줬습니다.",
+    breakdown: [
+      { word: "チョコ", reading: "チョコ", meaning: "초콜릿" }
+    ] },
+  { level: "N5", kanji: "ハロウィン", reading: "ハロウィン", korean: "하로윈", meaning: "할로윈",
+    example: "ハロウィンの仮装をしました。", exampleReading: "ハロウィンのかそうをしました。", exampleKorean: "하로윈노 카소-오 시마시타", exampleMeaning: "할로윈 분장을 했습니다.",
+    breakdown: [
+      { word: "仮装", reading: "かそう", meaning: "분장" }
+    ] },
+  { level: "N5", kanji: "誕生日プレゼント", reading: "たんじょうびプレゼント", korean: "탄죠-비 푸레젠토", meaning: "생일 선물",
+    example: "誕生日プレゼントをもらいました。", exampleReading: "たんじょうびプレゼントをもらいました。", exampleKorean: "탄죠-비 푸레젠토오 모라이마시타", exampleMeaning: "생일 선물을 받았습니다.",
+    breakdown: [
+      { word: "もらいました", reading: "もらいました", meaning: "받았습니다" }
+    ] },
+  { level: "N5", kanji: "結婚祝い", reading: "けっこんいわい", korean: "켁콘이와이", meaning: "결혼 축하선물",
+    example: "結婚祝いを贈りました。", exampleReading: "けっこんいわいをおくりました。", exampleKorean: "켁콘이와이오 오쿠리마시타", exampleMeaning: "결혼 축하선물을 보냈습니다.",
+    breakdown: [
+      { word: "贈りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N5", kanji: "出産祝い", reading: "しゅっさんいわい", korean: "슛산이와이", meaning: "출산 축하선물",
+    example: "出産祝いを渡しました。", exampleReading: "しゅっさんいわいをわたしました。", exampleKorean: "슛산이와이오 와타시마시타", exampleMeaning: "출산 축하선물을 건넸습니다.",
+    breakdown: [
+      { word: "渡しました", reading: "わたしました", meaning: "건넸습니다" }
+    ] },
+  { level: "N5", kanji: "お年玉", reading: "おとしだま", korean: "오토시다마", meaning: "세뱃돈",
+    example: "子供にお年玉をあげました。", exampleReading: "こどもにおとしだまをあげました。", exampleKorean: "코도모니 오토시다마오 아게마시타", exampleMeaning: "아이에게 세뱃돈을 줬습니다.",
+    breakdown: [
+      { word: "子供に", reading: "こどもに", meaning: "아이에게" }
+    ] },
+  { level: "N5", kanji: "年賀状", reading: "ねんがじょう", korean: "넨가죠-", meaning: "연하장",
+    example: "年賀状を書きました。", exampleReading: "ねんがじょうをかきました。", exampleKorean: "넨가죠-오 카키마시타", exampleMeaning: "연하장을 썼습니다.",
+    breakdown: [
+      { word: "書きました", reading: "かきました", meaning: "썼습니다" }
+    ] },
+  { level: "N5", kanji: "お歳暮", reading: "おせいぼ", korean: "오세-보", meaning: "연말 선물",
+    example: "お世話になった人にお歳暮を贈りました。", exampleReading: "おせわになったひとにおせいぼをおくりました。", exampleKorean: "오세와니 낫타 히토니 오세-보오 오쿠리마시타", exampleMeaning: "신세 진 분께 연말 선물을 보냈습니다.",
+    breakdown: [
+      { word: "お世話になった", reading: "おせわになった", meaning: "신세 진" }
+    ] },
+  { level: "N5", kanji: "お中元", reading: "おちゅうげん", korean: "오츄-겐", meaning: "여름 선물",
+    example: "お中元を送りました。", exampleReading: "おちゅうげんをおくりました。", exampleKorean: "오츄-겡오 오쿠리마시타", exampleMeaning: "여름 선물을 보냈습니다.",
+    breakdown: [
+      { word: "送りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N5", kanji: "記念写真", reading: "きねんしゃしん", korean: "키넨샤신", meaning: "기념사진",
+    example: "記念写真を撮りました。", exampleReading: "きねんしゃしんをとりました。", exampleKorean: "키넨샤신오 토리마시타", exampleMeaning: "기념사진을 찍었습니다.",
+    breakdown: [
+      { word: "撮りました", reading: "とりました", meaning: "찍었습니다" }
+    ] },
+  { level: "N5", kanji: "家族旅行", reading: "かぞくりょこう", korean: "카조쿠료코-", meaning: "가족여행",
+    example: "夏に家族旅行に行きました。", exampleReading: "なつにかぞくりょこうにいきました。", exampleKorean: "나츠니 카조쿠료코-니 이키마시타", exampleMeaning: "여름에 가족여행을 갔습니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
