@@ -10157,6 +10157,156 @@ const VOCAB = [
     breakdown: [
       { word: "内閣", reading: "ないかく", meaning: "내각" }
     ] },
+  { level: "N2", kanji: "臨機応変", reading: "りんきおうへん", korean: "린키오-헨", meaning: "임기응변",
+    example: "臨機応変に対応しました。", exampleReading: "りんきおうへんにたいおうしました。", exampleKorean: "린키오-헨니 타이오- 시마시타", exampleMeaning: "임기응변으로 대응했습니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N2", kanji: "機転", reading: "きてん", korean: "키텐", meaning: "기지, 재치",
+    example: "彼女は機転が利きます。", exampleReading: "かのじょはきてんがききます。", exampleKorean: "카노죠와 키텐가 키키마스", exampleMeaning: "그녀는 기지가 있습니다.",
+    breakdown: [
+      { word: "利きます", reading: "ききます", meaning: "작용합니다, 발휘됩니다" }
+    ] },
+  { level: "N2", kanji: "機敏", reading: "きびん", korean: "키빈", meaning: "기민함",
+    example: "機敏な対応が求められます。", exampleReading: "きびんなたいおうがもとめられます。", exampleKorean: "키빈나 타이오-가 모토메라레마스", exampleMeaning: "기민한 대응이 요구됩니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N2", kanji: "俊敏", reading: "しゅんびん", korean: "슝빈", meaning: "준민함",
+    example: "俊敏な動きに驚きました。", exampleReading: "しゅんびんなうごきにおどろきました。", exampleKorean: "슝빈나 우고키니 오도로키마시타", exampleMeaning: "민첩한 움직임에 놀랐습니다.",
+    breakdown: [
+      { word: "動き", reading: "うごき", meaning: "움직임" }
+    ] },
+  { level: "N2", kanji: "鋭敏", reading: "えいびん", korean: "에-빈", meaning: "예민함",
+    example: "鋭敏な感覚を持っています。", exampleReading: "えいびんなかんかくをもっています。", exampleKorean: "에-빈나 캉카쿠오 못테 이마스", exampleMeaning: "예민한 감각을 가지고 있습니다.",
+    breakdown: [
+      { word: "感覚", reading: "かんかく", meaning: "감각" }
+    ] },
+  { level: "N2", kanji: "鈍い", reading: "にぶい", korean: "니부이", meaning: "둔하다",
+    example: "彼は感覚が鈍いです。", exampleReading: "かれはかんかくがにぶいです。", exampleKorean: "카레와 캉카쿠가 니부이데스", exampleMeaning: "그는 감각이 둔합니다.",
+    breakdown: [
+      { word: "感覚", reading: "かんかく", meaning: "감각" }
+    ] },
+  { level: "N2", kanji: "鋭い", reading: "するどい", korean: "스루도이", meaning: "날카롭다",
+    example: "鋭い質問をされました。", exampleReading: "するどいしつもんをされました。", exampleKorean: "스루도이 시츠몬오 사레마시타", exampleMeaning: "날카로운 질문을 받았습니다.",
+    breakdown: [
+      { word: "質問", reading: "しつもん", meaning: "질문" }
+    ] },
+  { level: "N2", kanji: "洞察力", reading: "どうさつりょく", korean: "도-사츠료쿠", meaning: "통찰력",
+    example: "彼は洞察力に優れています。", exampleReading: "かれはどうさつりょくにすぐれています。", exampleKorean: "카레와 도-사츠료쿠니 스구레테 이마스", exampleMeaning: "그는 통찰력이 뛰어납니다.",
+    breakdown: [
+      { word: "優れて", reading: "すぐれて", meaning: "뛰어나서" }
+    ] },
+  { level: "N2", kanji: "分析力", reading: "ぶんせきりょく", korean: "분세키료쿠", meaning: "분석력",
+    example: "分析力が高く評価されました。", exampleReading: "ぶんせきりょくがたかくひょうかされました。", exampleKorean: "분세키료쿠가 타카쿠 효-카사레마시타", exampleMeaning: "분석력이 높이 평가받았습니다.",
+    breakdown: [
+      { word: "評価", reading: "ひょうか", meaning: "평가" }
+    ] },
+  { level: "N2", kanji: "判断力", reading: "はんだんりょく", korean: "한단료쿠", meaning: "판단력",
+    example: "冷静な判断力が必要です。", exampleReading: "れいせいなはんだんりょくがひつようです。", exampleKorean: "레-세-나 한단료쿠가 히츠요-데스", exampleMeaning: "냉정한 판단력이 필요합니다.",
+    breakdown: [
+      { word: "冷静な", reading: "れいせいな", meaning: "냉정한" }
+    ] },
+  { level: "N2", kanji: "思考力", reading: "しこうりょく", korean: "시코-료쿠", meaning: "사고력",
+    example: "論理的な思考力を養います。", exampleReading: "ろんりてきなしこうりょくをやしないます。", exampleKorean: "론리테키나 시코-료쿠오 야시나이마스", exampleMeaning: "논리적인 사고력을 기릅니다.",
+    breakdown: [
+      { word: "養います", reading: "やしないます", meaning: "기릅니다" }
+    ] },
+  { level: "N2", kanji: "発想力", reading: "はっそうりょく", korean: "핫소-료쿠", meaning: "발상력",
+    example: "子供の発想力に驚きました。", exampleReading: "こどものはっそうりょくにおどろきました。", exampleKorean: "코도모노 핫소-료쿠니 오도로키마시타", exampleMeaning: "아이의 발상력에 놀랐습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N2", kanji: "創造力", reading: "そうぞうりょく", korean: "소-조-료쿠", meaning: "창조력",
+    example: "創造力を発揮しました。", exampleReading: "そうぞうりょくをはっきしました。", exampleKorean: "소-조-료쿠오 학키 시마시타", exampleMeaning: "창조력을 발휘했습니다.",
+    breakdown: [
+      { word: "発揮", reading: "はっき", meaning: "발휘" }
+    ] },
+  { level: "N2", kanji: "想像力", reading: "そうぞうりょく", korean: "소-조-료쿠", meaning: "상상력",
+    example: "子供の想像力は豊かです。", exampleReading: "こどものそうぞうりょくはゆたかです。", exampleKorean: "코도모노 소-조-료쿠와 유타카데스", exampleMeaning: "아이의 상상력은 풍부합니다.",
+    breakdown: [
+      { word: "豊か", reading: "ゆたか", meaning: "풍부하다" }
+    ] },
+  { level: "N2", kanji: "企画力", reading: "きかくりょく", korean: "키카쿠료쿠", meaning: "기획력",
+    example: "企画力を評価されました。", exampleReading: "きかくりょくをひょうかされました。", exampleKorean: "키카쿠료쿠오 효-카사레마시타", exampleMeaning: "기획력을 평가받았습니다.",
+    breakdown: [
+      { word: "評価", reading: "ひょうか", meaning: "평가" }
+    ] },
+  { level: "N2", kanji: "交渉力", reading: "こうしょうりょく", korean: "코-쇼-료쿠", meaning: "교섭력",
+    example: "交渉力が求められます。", exampleReading: "こうしょうりょくがもとめられます。", exampleKorean: "코-쇼-료쿠가 모토메라레마스", exampleMeaning: "교섭력이 요구됩니다.",
+    breakdown: [
+      { word: "求められます", reading: "もとめられます", meaning: "요구됩니다" }
+    ] },
+  { level: "N2", kanji: "説得力", reading: "せっとくりょく", korean: "셋토쿠료쿠", meaning: "설득력",
+    example: "彼の話には説得力があります。", exampleReading: "かれのはなしにはせっとくりょくがあります。", exampleKorean: "카레노 하나시니와 셋토쿠료쿠가 아리마스", exampleMeaning: "그의 이야기에는 설득력이 있습니다.",
+    breakdown: [
+      { word: "話", reading: "はなし", meaning: "이야기" }
+    ] },
+  { level: "N2", kanji: "実行力", reading: "じっこうりょく", korean: "직코-료쿠", meaning: "실행력",
+    example: "彼女は実行力があります。", exampleReading: "かのじょはじっこうりょくがあります。", exampleKorean: "카노죠와 직코-료쿠가 아리마스", exampleMeaning: "그녀는 실행력이 있습니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N2", kanji: "行動力", reading: "こうどうりょく", korean: "코-도-료쿠", meaning: "행동력",
+    example: "若者の行動力に感心しました。", exampleReading: "わかもののこうどうりょくにかんしんしました。", exampleKorean: "와카모노노 코-도-료쿠니 칸신 시마시타", exampleMeaning: "젊은이의 행동력에 감탄했습니다.",
+    breakdown: [
+      { word: "若者", reading: "わかもの", meaning: "젊은이" }
+    ] },
+  { level: "N2", kanji: "統率力", reading: "とうそつりょく", korean: "토-소츠료쿠", meaning: "통솔력",
+    example: "彼には統率力があります。", exampleReading: "かれにはとうそつりょくがあります。", exampleKorean: "카레니와 토-소츠료쿠가 아리마스", exampleMeaning: "그에게는 통솔력이 있습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N2", kanji: "指導力", reading: "しどうりょく", korean: "시도-료쿠", meaning: "지도력",
+    example: "監督の指導力が試されます。", exampleReading: "かんとくのしどうりょくがためされます。", exampleKorean: "칸토쿠노 시도-료쿠가 타메사레마스", exampleMeaning: "감독의 지도력이 시험받습니다.",
+    breakdown: [
+      { word: "監督", reading: "かんとく", meaning: "감독" }
+    ] },
+  { level: "N2", kanji: "影響力", reading: "えいきょうりょく", korean: "에-쿄-료쿠", meaning: "영향력",
+    example: "彼は業界に影響力があります。", exampleReading: "かれはぎょうかいにえいきょうりょくがあります。", exampleKorean: "카레와 교-카이니 에-쿄-료쿠가 아리마스", exampleMeaning: "그는 업계에 영향력이 있습니다.",
+    breakdown: [
+      { word: "業界", reading: "ぎょうかい", meaning: "업계" }
+    ] },
+  { level: "N2", kanji: "発信力", reading: "はっしんりょく", korean: "핫신료쿠", meaning: "발신력",
+    example: "SNSでの発信力が高いです。", exampleReading: "エスエヌエスでのはっしんりょくがたかいです。", exampleKorean: "에스에누에스데노 핫신료쿠가 타카이데스", exampleMeaning: "SNS에서의 발신력이 높습니다.",
+    breakdown: [
+      { word: "SNS", reading: "エスエヌエス", meaning: "SNS" }
+    ] },
+  { level: "N2", kanji: "発言力", reading: "はつげんりょく", korean: "하츠겐료쿠", meaning: "발언력",
+    example: "会議での発言力があります。", exampleReading: "かいぎでのはつげんりょくがあります。", exampleKorean: "카이기데노 하츠겐료쿠가 아리마스", exampleMeaning: "회의에서의 발언력이 있습니다.",
+    breakdown: [
+      { word: "会議", reading: "かいぎ", meaning: "회의" }
+    ] },
+  { level: "N2", kanji: "包容力", reading: "ほうようりょく", korean: "호-요-료쿠", meaning: "포용력",
+    example: "彼女には包容力があります。", exampleReading: "かのじょにはほうようりょくがあります。", exampleKorean: "카노죠니와 호-요-료쿠가 아리마스", exampleMeaning: "그녀에게는 포용력이 있습니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N2", kanji: "忍耐力", reading: "にんたいりょく", korean: "닌타이료쿠", meaning: "인내력",
+    example: "忍耐力が試される仕事です。", exampleReading: "にんたいりょくがためされるしごとです。", exampleKorean: "닌타이료쿠가 타메사레루 시고토데스", exampleMeaning: "인내력이 시험받는 일입니다.",
+    breakdown: [
+      { word: "仕事", reading: "しごと", meaning: "일" }
+    ] },
+  { level: "N2", kanji: "継続力", reading: "けいぞくりょく", korean: "케-조쿠료쿠", meaning: "지속력",
+    example: "継続力が成功の鍵です。", exampleReading: "けいぞくりょくがせいこうのかぎです。", exampleKorean: "케-조쿠료쿠가 세-코-노 카기데스", exampleMeaning: "지속력이 성공의 열쇠입니다.",
+    breakdown: [
+      { word: "成功", reading: "せいこう", meaning: "성공" }
+    ] },
+  { level: "N2", kanji: "適応力", reading: "てきおうりょく", korean: "테키오-료쿠", meaning: "적응력",
+    example: "彼は適応力が高いです。", exampleReading: "かれはてきおうりょくがたかいです。", exampleKorean: "카레와 테키오-료쿠가 타카이데스", exampleMeaning: "그는 적응력이 높습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N2", kanji: "応用力", reading: "おうようりょく", korean: "오-요-료쿠", meaning: "응용력",
+    example: "応用力を身につけました。", exampleReading: "おうようりょくをみにつけました。", exampleKorean: "오-요-료쿠오 미니츠케마시타", exampleMeaning: "응용력을 익혔습니다.",
+    breakdown: [
+      { word: "身につけました", reading: "みにつけました", meaning: "익혔습니다" }
+    ] },
+  { level: "N2", kanji: "対応力", reading: "たいおうりょく", korean: "타이오-료쿠", meaning: "대응력",
+    example: "トラブルへの対応力が重要です。", exampleReading: "トラブルへのたいおうりょくがじゅうようです。", exampleKorean: "토라부루에노 타이오-료쿠가 쥬-요-데스", exampleMeaning: "문제에 대한 대응력이 중요합니다.",
+    breakdown: [
+      { word: "トラブル", reading: "トラブル", meaning: "문제, 트러블" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
