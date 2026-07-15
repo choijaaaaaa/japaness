@@ -8462,6 +8462,156 @@ const VOCAB = [
     breakdown: [
       { word: "中小企業", reading: "ちゅうしょうきぎょう", meaning: "중소기업" }
     ] },
+  { level: "N2", kanji: "雇う", reading: "やとう", korean: "야토우", meaning: "고용하다",
+    example: "新しい社員を雇いました。", exampleReading: "あたらしいしゃいんをやといました。", exampleKorean: "아타라시- 샤인오 야토이마시타", exampleMeaning: "새로운 사원을 고용했습니다.",
+    breakdown: [
+      { word: "社員", reading: "しゃいん", meaning: "사원" }
+    ] },
+  { level: "N2", kanji: "雇用主", reading: "こようぬし", korean: "코요-누시", meaning: "고용주",
+    example: "雇用主として責任があります。", exampleReading: "こようぬしとしてせきにんがあります。", exampleKorean: "코요-누시토시테 세키닌가 아리마스", exampleMeaning: "고용주로서 책임이 있습니다.",
+    breakdown: [
+      { word: "責任", reading: "せきにん", meaning: "책임" }
+    ] },
+  { level: "N2", kanji: "契約社員", reading: "けいやくしゃいん", korean: "케-야쿠샤인", meaning: "계약직 사원",
+    example: "契約社員として働いています。", exampleReading: "けいやくしゃいんとしてはたらいています。", exampleKorean: "케-야쿠샤인토시테 하타라이테 이마스", exampleMeaning: "계약직 사원으로 일하고 있습니다.",
+    breakdown: [
+      { word: "働いて", reading: "はたらいて", meaning: "일해서" }
+    ] },
+  { level: "N2", kanji: "正社員", reading: "せいしゃいん", korean: "세-샤인", meaning: "정규직 사원",
+    example: "正社員になりたいです。", exampleReading: "せいしゃいんになりたいです。", exampleKorean: "세-샤인니 나리타이데스", exampleMeaning: "정규직 사원이 되고 싶습니다.",
+    breakdown: [
+      { word: "なりたい", reading: "なりたい", meaning: "되고 싶다" }
+    ] },
+  { level: "N2", kanji: "非正規", reading: "ひせいき", korean: "히세-키", meaning: "비정규",
+    example: "非正規で働く人が増えています。", exampleReading: "ひせいきではたらくひとがふえています。", exampleKorean: "히세-키데 하타라쿠 히토가 후에테 이마스", exampleMeaning: "비정규직으로 일하는 사람이 늘고 있습니다.",
+    breakdown: [
+      { word: "増えて", reading: "ふえて", meaning: "늘어서" }
+    ] },
+  { level: "N2", kanji: "パート", reading: "パート", korean: "파-토", meaning: "파트타임",
+    example: "主婦がパートで働いています。", exampleReading: "しゅふがパートではたらいています。", exampleKorean: "슈후가 파-토데 하타라이테 이마스", exampleMeaning: "주부가 파트타임으로 일하고 있습니다.",
+    breakdown: [
+      { word: "主婦", reading: "しゅふ", meaning: "주부" }
+    ] },
+  { level: "N2", kanji: "アルバイト先", reading: "アルバイトさき", korean: "아루바이토사키", meaning: "아르바이트 하는 곳",
+    example: "アルバイト先で友達ができました。", exampleReading: "アルバイトさきでともだちができました。", exampleKorean: "아루바이토사키데 토모다치가 데키마시타", exampleMeaning: "알바하는 곳에서 친구가 생겼습니다.",
+    breakdown: [
+      { word: "友達", reading: "ともだち", meaning: "친구" }
+    ] },
+  { level: "N2", kanji: "有給休暇", reading: "ゆうきゅうきゅうか", korean: "유-큐-큐-카", meaning: "유급휴가",
+    example: "有給休暇を取りました。", exampleReading: "ゆうきゅうきゅうかをとりました。", exampleKorean: "유-큐-큐-카오 토리마시타", exampleMeaning: "유급휴가를 냈습니다.",
+    breakdown: [
+      { word: "取りました", reading: "とりました", meaning: "냈습니다" }
+    ] },
+  { level: "N2", kanji: "育児休暇", reading: "いくじきゅうか", korean: "이쿠지큐-카", meaning: "육아휴직",
+    example: "一年間育児休暇を取ります。", exampleReading: "いちねんかんいくじきゅうかをとります。", exampleKorean: "이치넨칸 이쿠지큐-카오 토리마스", exampleMeaning: "1년간 육아휴직을 냅니다.",
+    breakdown: [
+      { word: "一年間", reading: "いちねんかん", meaning: "1년간" }
+    ] },
+  { level: "N2", kanji: "産休", reading: "さんきゅう", korean: "산큐-", meaning: "출산휴가",
+    example: "来月から産休に入ります。", exampleReading: "らいげつからさんきゅうにはいります。", exampleKorean: "라이게츠카라 산큐-니 하이리마스", exampleMeaning: "다음 달부터 출산휴가에 들어갑니다.",
+    breakdown: [
+      { word: "来月から", reading: "らいげつから", meaning: "다음 달부터" }
+    ] },
+  { level: "N2", kanji: "時短勤務", reading: "じたんきんむ", korean: "지탄킨무", meaning: "단축근무",
+    example: "子育て中は時短勤務です。", exampleReading: "こそだてちゅうはじたんきんむです。", exampleKorean: "코소다테츄-와 지탄킨무데스", exampleMeaning: "육아 중에는 단축근무입니다.",
+    breakdown: [
+      { word: "子育て中", reading: "こそだてちゅう", meaning: "육아 중" }
+    ] },
+  { level: "N2", kanji: "在宅勤務", reading: "ざいたくきんむ", korean: "자이타쿠킨무", meaning: "재택근무",
+    example: "週三日在宅勤務をしています。", exampleReading: "しゅうみっかざいたくきんむをしています。", exampleKorean: "슈-믹카 자이타쿠킨무오 시테 이마스", exampleMeaning: "주 3일 재택근무를 하고 있습니다.",
+    breakdown: [
+      { word: "週三日", reading: "しゅうみっか", meaning: "주 3일" }
+    ] },
+  { level: "N2", kanji: "通勤時間", reading: "つうきんじかん", korean: "츠-킨지칸", meaning: "통근시간",
+    example: "通勤時間が一時間かかります。", exampleReading: "つうきんじかんがいちじかんかかります。", exampleKorean: "츠-킨지칸가 이치지칸 카카리마스", exampleMeaning: "통근시간이 1시간 걸립니다.",
+    breakdown: [
+      { word: "一時間", reading: "いちじかん", meaning: "1시간" }
+    ] },
+  { level: "N2", kanji: "副業", reading: "ふくぎょう", korean: "후쿠교-", meaning: "부업",
+    example: "週末に副業をしています。", exampleReading: "しゅうまつにふくぎょうをしています。", exampleKorean: "슈-마츠니 후쿠교-오 시테 이마스", exampleMeaning: "주말에 부업을 하고 있습니다.",
+    breakdown: [
+      { word: "週末", reading: "しゅうまつ", meaning: "주말" }
+    ] },
+  { level: "N2", kanji: "兼業", reading: "けんぎょう", korean: "켄교-", meaning: "겸업",
+    example: "農業と兼業しています。", exampleReading: "のうぎょうとけんぎょうしています。", exampleKorean: "노-교-토 켄교- 시테 이마스", exampleMeaning: "농업과 겸업하고 있습니다.",
+    breakdown: [
+      { word: "農業", reading: "のうぎょう", meaning: "농업" }
+    ] },
+  { level: "N2", kanji: "起業", reading: "きぎょう", korean: "키교-", meaning: "창업",
+    example: "三十歳で起業しました。", exampleReading: "さんじゅっさいできぎょうしました。", exampleKorean: "산쥿사이데 키교- 시마시타", exampleMeaning: "서른 살에 창업했습니다.",
+    breakdown: [
+      { word: "三十歳", reading: "さんじゅっさい", meaning: "서른 살" }
+    ] },
+  { level: "N2", kanji: "独立", reading: "どくりつ", korean: "도쿠리츠", meaning: "독립",
+    example: "会社から独立しました。", exampleReading: "かいしゃからどくりつしました。", exampleKorean: "카이샤카라 도쿠리츠 시마시타", exampleMeaning: "회사에서 독립했습니다.",
+    breakdown: [
+      { word: "会社から", reading: "かいしゃから", meaning: "회사에서" }
+    ] },
+  { level: "N2", kanji: "廃業", reading: "はいぎょう", korean: "하이교-", meaning: "폐업",
+    example: "不況で廃業しました。", exampleReading: "ふきょうではいぎょうしました。", exampleKorean: "후쿄-데 하이교- 시마시타", exampleMeaning: "불황으로 폐업했습니다.",
+    breakdown: [
+      { word: "不況", reading: "ふきょう", meaning: "불황" }
+    ] },
+  { level: "N2", kanji: "倒産件数", reading: "とうさんけんすう", korean: "토-산켄스-", meaning: "도산 건수",
+    example: "今年の倒産件数が増えました。", exampleReading: "ことしのとうさんけんすうがふえました。", exampleKorean: "코토시노 토-산켄스-가 후에마시타", exampleMeaning: "올해 도산 건수가 늘었습니다.",
+    breakdown: [
+      { word: "今年", reading: "ことし", meaning: "올해" }
+    ] },
+  { level: "N2", kanji: "経営者", reading: "けいえいしゃ", korean: "케-에-샤", meaning: "경영자",
+    example: "彼は優秀な経営者です。", exampleReading: "かれはゆうしゅうなけいえいしゃです。", exampleKorean: "카레와 유-슈-나 케-에-샤데스", exampleMeaning: "그는 우수한 경영자입니다.",
+    breakdown: [
+      { word: "優秀な", reading: "ゆうしゅうな", meaning: "우수한" }
+    ] },
+  { level: "N2", kanji: "株主", reading: "かぶぬし", korean: "카부누시", meaning: "주주",
+    example: "株主総会が開かれました。", exampleReading: "かぶぬしそうかいがひらかれました。", exampleKorean: "카부누시 소-카이가 히라카레마시타", exampleMeaning: "주주총회가 열렸습니다.",
+    breakdown: [
+      { word: "総会", reading: "そうかい", meaning: "총회" }
+    ] },
+  { level: "N2", kanji: "取締役", reading: "とりしまりやく", korean: "토리시마리야쿠", meaning: "이사(임원)",
+    example: "彼は取締役に就任しました。", exampleReading: "かれはとりしまりやくにしゅうにんしました。", exampleKorean: "카레와 토리시마리야쿠니 슈-닌 시마시타", exampleMeaning: "그는 이사로 취임했습니다.",
+    breakdown: [
+      { word: "就任", reading: "しゅうにん", meaning: "취임" }
+    ] },
+  { level: "N2", kanji: "役員", reading: "やくいん", korean: "야쿠인", meaning: "임원",
+    example: "役員会議に出席しました。", exampleReading: "やくいんかいぎにしゅっせきしました。", exampleKorean: "야쿠인 카이기니 슛세키 시마시타", exampleMeaning: "임원 회의에 출석했습니다.",
+    breakdown: [
+      { word: "会議", reading: "かいぎ", meaning: "회의" }
+    ] },
+  { level: "N2", kanji: "幹部", reading: "かんぶ", korean: "칸부", meaning: "간부",
+    example: "幹部として働いています。", exampleReading: "かんぶとしてはたらいています。", exampleKorean: "칸부토시테 하타라이테 이마스", exampleMeaning: "간부로서 일하고 있습니다.",
+    breakdown: [
+      { word: "働いて", reading: "はたらいて", meaning: "일해서" }
+    ] },
+  { level: "N2", kanji: "部門", reading: "ぶもん", korean: "부몬", meaning: "부문",
+    example: "営業部門に配属されました。", exampleReading: "えいぎょうぶもんにはいぞくされました。", exampleKorean: "에-교- 부몬니 하이조쿠 사레마시타", exampleMeaning: "영업 부문에 배속되었습니다.",
+    breakdown: [
+      { word: "営業", reading: "えいぎょう", meaning: "영업" }
+    ] },
+  { level: "N2", kanji: "子会社", reading: "こがいしゃ", korean: "코가이샤", meaning: "자회사",
+    example: "子会社を設立しました。", exampleReading: "こがいしゃをせつりつしました。", exampleKorean: "코가이샤오 세츠리츠 시마시타", exampleMeaning: "자회사를 설립했습니다.",
+    breakdown: [
+      { word: "設立", reading: "せつりつ", meaning: "설립" }
+    ] },
+  { level: "N2", kanji: "親会社", reading: "おやがいしゃ", korean: "오야가이샤", meaning: "모회사",
+    example: "親会社の方針に従います。", exampleReading: "おやがいしゃのほうしんにしたがいます。", exampleKorean: "오야가이샤노 호-신니 시타가이마스", exampleMeaning: "모회사의 방침에 따릅니다.",
+    breakdown: [
+      { word: "方針", reading: "ほうしん", meaning: "방침" }
+    ] },
+  { level: "N2", kanji: "系列", reading: "けいれつ", korean: "케-레츠", meaning: "계열",
+    example: "系列会社に転勤しました。", exampleReading: "けいれつがいしゃにてんきんしました。", exampleKorean: "케-레츠가이샤니 텐킨 시마시타", exampleMeaning: "계열회사로 전근했습니다.",
+    breakdown: [
+      { word: "転勤", reading: "てんきん", meaning: "전근" }
+    ] },
+  { level: "N2", kanji: "提携", reading: "ていけい", korean: "테-케-", meaning: "제휴",
+    example: "他社と提携しました。", exampleReading: "たしゃとていけいしました。", exampleKorean: "타샤토 테-케- 시마시타", exampleMeaning: "타사와 제휴했습니다.",
+    breakdown: [
+      { word: "他社", reading: "たしゃ", meaning: "타사" }
+    ] },
+  { level: "N2", kanji: "合併", reading: "がっぺい", korean: "갓페-", meaning: "합병",
+    example: "二つの会社が合併しました。", exampleReading: "ふたつのかいしゃががっぺいしました。", exampleKorean: "후타츠노 카이샤가 갓페- 시마시타", exampleMeaning: "두 회사가 합병했습니다.",
+    breakdown: [
+      { word: "会社", reading: "かいしゃ", meaning: "회사" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
