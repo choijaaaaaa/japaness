@@ -5293,6 +5293,256 @@ const VOCAB = [
     breakdown: [
       { word: "体", reading: "からだ", meaning: "몸" }
     ] },
+  { level: "N4", kanji: "留学生", reading: "りゅうがくせい", korean: "류-가쿠세-", meaning: "유학생",
+    example: "留学生と友達になりました。", exampleReading: "りゅうがくせいとともだちになりました。", exampleKorean: "류-가쿠세-토 토모다치니 나리마시타", exampleMeaning: "유학생과 친구가 되었습니다.",
+    breakdown: [
+      { word: "友達", reading: "ともだち", meaning: "친구" }
+    ] },
+  { level: "N4", kanji: "奨学金", reading: "しょうがくきん", korean: "쇼-가쿠킨", meaning: "장학금",
+    example: "奨学金をもらっています。", exampleReading: "しょうがくきんをもらっています。", exampleKorean: "쇼-가쿠킹오 모랏테 이마스", exampleMeaning: "장학금을 받고 있습니다.",
+    breakdown: [
+      { word: "もらって", reading: "もらって", meaning: "받아서" }
+    ] },
+  { level: "N4", kanji: "単位", reading: "たんい", korean: "탄이", meaning: "학점",
+    example: "今学期は十五単位を取ります。", exampleReading: "こんがっきはじゅうごたんいをとります。", exampleKorean: "콘각키와 쥬-고 탄이오 토리마스", exampleMeaning: "이번 학기는 15학점을 이수합니다.",
+    breakdown: [
+      { word: "今学期", reading: "こんがっき", meaning: "이번 학기" }
+    ] },
+  { level: "N4", kanji: "専攻", reading: "せんこう", korean: "센코-", meaning: "전공",
+    example: "経済学を専攻しています。", exampleReading: "けいざいがくをせんこうしています。", exampleKorean: "케-자이가쿠오 센코- 시테 이마스", exampleMeaning: "경제학을 전공하고 있습니다.",
+    breakdown: [
+      { word: "経済学", reading: "けいざいがく", meaning: "경제학" }
+    ] },
+  { level: "N4", kanji: "学部", reading: "がくぶ", korean: "가쿠부", meaning: "학부",
+    example: "文学部に入学しました。", exampleReading: "ぶんがくぶににゅうがくしました。", exampleKorean: "붕가쿠부니 뉴-가쿠 시마시타", exampleMeaning: "문학부에 입학했습니다.",
+    breakdown: [
+      { word: "入学", reading: "にゅうがく", meaning: "입학" }
+    ] },
+  { level: "N4", kanji: "大学院", reading: "だいがくいん", korean: "다이가쿠인", meaning: "대학원",
+    example: "大学院に進学しました。", exampleReading: "だいがくいんにしんがくしました。", exampleKorean: "다이가쿠인니 신가쿠 시마시타", exampleMeaning: "대학원에 진학했습니다.",
+    breakdown: [
+      { word: "進学", reading: "しんがく", meaning: "진학" }
+    ] },
+  { level: "N4", kanji: "修士", reading: "しゅうし", korean: "슈-시", meaning: "석사",
+    example: "修士課程を修了しました。", exampleReading: "しゅうしかていをしゅうりょうしました。", exampleKorean: "슈-시 카테-오 슈-료- 시마시타", exampleMeaning: "석사 과정을 수료했습니다.",
+    breakdown: [
+      { word: "課程", reading: "かてい", meaning: "과정" }
+    ] },
+  { level: "N4", kanji: "博士", reading: "はかせ", korean: "하카세", meaning: "박사",
+    example: "彼は博士号を持っています。", exampleReading: "かれははかせごうをもっています。", exampleKorean: "카레와 하카세고-오 못테 이마스", exampleMeaning: "그는 박사 학위를 가지고 있습니다.",
+    breakdown: [
+      { word: "号", reading: "ごう", meaning: "학위, 호" }
+    ] },
+  { level: "N4", kanji: "論文", reading: "ろんぶん", korean: "론분", meaning: "논문",
+    example: "卒業論文を書いています。", exampleReading: "そつぎょうろんぶんをかいています。", exampleKorean: "소츠교- 론붕오 카이테 이마스", exampleMeaning: "졸업논문을 쓰고 있습니다.",
+    breakdown: [
+      { word: "卒業", reading: "そつぎょう", meaning: "졸업" }
+    ] },
+  { level: "N4", kanji: "講師", reading: "こうし", korean: "코-시", meaning: "강사",
+    example: "大学の講師をしています。", exampleReading: "だいがくのこうしをしています。", exampleKorean: "다이가쿠노 코-시오 시테 이마스", exampleMeaning: "대학 강사를 하고 있습니다.",
+    breakdown: [
+      { word: "大学", reading: "だいがく", meaning: "대학" }
+    ] },
+  { level: "N4", kanji: "教授", reading: "きょうじゅ", korean: "쿄-쥬", meaning: "교수",
+    example: "教授に質問しました。", exampleReading: "きょうじゅにしつもんしました。", exampleKorean: "쿄-쥬니 시츠몬 시마시타", exampleMeaning: "교수님께 질문했습니다.",
+    breakdown: [
+      { word: "質問", reading: "しつもん", meaning: "질문" }
+    ] },
+  { level: "N4", kanji: "部活", reading: "ぶかつ", korean: "부카츠", meaning: "동아리 활동",
+    example: "毎日部活に参加しています。", exampleReading: "まいにちぶかつにさんかしています。", exampleKorean: "마이니치 부카츠니 상카 시테 이마스", exampleMeaning: "매일 동아리 활동에 참가하고 있습니다.",
+    breakdown: [
+      { word: "参加して", reading: "さんかして", meaning: "참가해서" }
+    ] },
+  { level: "N4", kanji: "サークル", reading: "サークル", korean: "사-쿠루", meaning: "동아리(대학)",
+    example: "テニスサークルに入りました。", exampleReading: "テニスサークルにはいりました。", exampleKorean: "테니스 사-쿠루니 하이리마시타", exampleMeaning: "테니스 동아리에 들어갔습니다.",
+    breakdown: [
+      { word: "入りました", reading: "はいりました", meaning: "들어갔습니다" }
+    ] },
+  { level: "N4", kanji: "文化祭", reading: "ぶんかさい", korean: "붕카사이", meaning: "문화제",
+    example: "文化祭で劇をしました。", exampleReading: "ぶんかさいでげきをしました。", exampleKorean: "붕카사이데 게키오 시마시타", exampleMeaning: "문화제에서 연극을 했습니다.",
+    breakdown: [
+      { word: "劇", reading: "げき", meaning: "연극" }
+    ] },
+  { level: "N4", kanji: "体育祭", reading: "たいいくさい", korean: "타이이쿠사이", meaning: "체육대회",
+    example: "体育祭でリレーに出ました。", exampleReading: "たいいくさいでリレーにでました。", exampleKorean: "타이이쿠사이데 리레-니 데마시타", exampleMeaning: "체육대회에서 릴레이에 나갔습니다.",
+    breakdown: [
+      { word: "リレー", reading: "リレー", meaning: "릴레이" }
+    ] },
+  { level: "N4", kanji: "修学旅行", reading: "しゅうがくりょこう", korean: "슈-가쿠료코-", meaning: "수학여행",
+    example: "修学旅行で京都に行きました。", exampleReading: "しゅうがくりょこうできょうとにいきました。", exampleKorean: "슈-가쿠료코-데 쿄-토니 이키마시타", exampleMeaning: "수학여행으로 교토에 갔습니다.",
+    breakdown: [
+      { word: "京都", reading: "きょうと", meaning: "교토" }
+    ] },
+  { level: "N4", kanji: "校則", reading: "こうそく", korean: "코-소쿠", meaning: "교칙",
+    example: "校則が厳しいです。", exampleReading: "こうそくがきびしいです。", exampleKorean: "코-소쿠가 키비시-데스", exampleMeaning: "교칙이 엄격합니다.",
+    breakdown: [
+      { word: "厳しい", reading: "きびしい", meaning: "엄격하다" }
+    ] },
+  { level: "N4", kanji: "制服", reading: "せいふく", korean: "세-후쿠", meaning: "교복",
+    example: "制服を着て学校に行きます。", exampleReading: "せいふくをきてがっこうにいきます。", exampleKorean: "세-후쿠오 키테 각코-니 이키마스", exampleMeaning: "교복을 입고 학교에 갑니다.",
+    breakdown: [
+      { word: "着て", reading: "きて", meaning: "입고" }
+    ] },
+  { level: "N4", kanji: "私服", reading: "しふく", korean: "시후쿠", meaning: "사복",
+    example: "今日は私服で登校しました。", exampleReading: "きょうはしふくでとうこうしました。", exampleKorean: "쿄-와 시후쿠데 토-코- 시마시타", exampleMeaning: "오늘은 사복으로 등교했습니다.",
+    breakdown: [
+      { word: "登校", reading: "とうこう", meaning: "등교" }
+    ] },
+  { level: "N4", kanji: "校門", reading: "こうもん", korean: "코-몬", meaning: "교문",
+    example: "校門の前で待っています。", exampleReading: "こうもんのまえでまっています。", exampleKorean: "코-몬노 마에데 맛테 이마스", exampleMeaning: "교문 앞에서 기다리고 있습니다.",
+    breakdown: [
+      { word: "前で", reading: "まえで", meaning: "앞에서" }
+    ] },
+  { level: "N4", kanji: "校庭", reading: "こうてい", korean: "코-테-", meaning: "교정, 운동장",
+    example: "校庭でサッカーをしました。", exampleReading: "こうていでサッカーをしました。", exampleKorean: "코-테-데 삭카-오 시마시타", exampleMeaning: "운동장에서 축구를 했습니다.",
+    breakdown: [
+      { word: "サッカー", reading: "サッカー", meaning: "축구" }
+    ] },
+  { level: "N4", kanji: "体育館", reading: "たいいくかん", korean: "타이이쿠칸", meaning: "체육관",
+    example: "体育館でバスケをしました。", exampleReading: "たいいくかんでバスケをしました。", exampleKorean: "타이이쿠칸데 바스케오 시마시타", exampleMeaning: "체육관에서 농구를 했습니다.",
+    breakdown: [
+      { word: "バスケ", reading: "バスケ", meaning: "농구" }
+    ] },
+  { level: "N4", kanji: "図書室", reading: "としょしつ", korean: "토쇼시츠", meaning: "도서실",
+    example: "図書室で勉強しました。", exampleReading: "としょしつでべんきょうしました。", exampleKorean: "토쇼시츠데 벵쿄- 시마시타", exampleMeaning: "도서실에서 공부했습니다.",
+    breakdown: [
+      { word: "勉強", reading: "べんきょう", meaning: "공부" }
+    ] },
+  { level: "N4", kanji: "保健室", reading: "ほけんしつ", korean: "호켄시츠", meaning: "보건실",
+    example: "保健室で休みました。", exampleReading: "ほけんしつでやすみました。", exampleKorean: "호켄시츠데 야스미마시타", exampleMeaning: "보건실에서 쉬었습니다.",
+    breakdown: [
+      { word: "休みました", reading: "やすみました", meaning: "쉬었습니다" }
+    ] },
+  { level: "N4", kanji: "職員室", reading: "しょくいんしつ", korean: "쇼쿠인시츠", meaning: "교무실",
+    example: "職員室に呼ばれました。", exampleReading: "しょくいんしつによばれました。", exampleKorean: "쇼쿠인시츠니 요바레마시타", exampleMeaning: "교무실에 불려갔습니다.",
+    breakdown: [
+      { word: "呼ばれました", reading: "よばれました", meaning: "불려갔습니다" }
+    ] },
+  { level: "N4", kanji: "担任", reading: "たんにん", korean: "탄닌", meaning: "담임",
+    example: "担任の先生に相談しました。", exampleReading: "たんにんのせんせいにそうだんしました。", exampleKorean: "탄닌노 센세-니 소-단 시마시타", exampleMeaning: "담임 선생님께 상담했습니다.",
+    breakdown: [
+      { word: "先生", reading: "せんせい", meaning: "선생님" }
+    ] },
+  { level: "N4", kanji: "出席番号", reading: "しゅっせきばんごう", korean: "슛세키방고-", meaning: "출석번호",
+    example: "出席番号順に並びました。", exampleReading: "しゅっせきばんごうじゅんにならびました。", exampleKorean: "슛세키방고- 쥰니 나라비마시타", exampleMeaning: "출석번호 순으로 줄섰습니다.",
+    breakdown: [
+      { word: "並びました", reading: "ならびました", meaning: "줄섰습니다" }
+    ] },
+  { level: "N4", kanji: "時間割", reading: "じかんわり", korean: "지칸와리", meaning: "시간표",
+    example: "時間割を確認しました。", exampleReading: "じかんわりをかくにんしました。", exampleKorean: "지칸와리오 카쿠닌 시마시타", exampleMeaning: "시간표를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "進路", reading: "しんろ", korean: "신로", meaning: "진로",
+    example: "進路について悩んでいます。", exampleReading: "しんろについてなやんでいます。", exampleKorean: "신로니 츠이테 나얀데 이마스", exampleMeaning: "진로에 대해 고민하고 있습니다.",
+    breakdown: [
+      { word: "悩んで", reading: "なやんで", meaning: "고민해서" }
+    ] },
+  { level: "N4", kanji: "進学", reading: "しんがく", korean: "신가쿠", meaning: "진학",
+    example: "大学に進学することにしました。", exampleReading: "だいがくにしんがくすることにしました。", exampleKorean: "다이가쿠니 신가쿠스루 코토니 시마시타", exampleMeaning: "대학에 진학하기로 했습니다.",
+    breakdown: [
+      { word: "大学", reading: "だいがく", meaning: "대학" }
+    ] },
+  { level: "N4", kanji: "アップロード", reading: "アップロード", korean: "앗푸로-도", meaning: "업로드",
+    example: "写真をアップロードしました。", exampleReading: "しゃしんをアップロードしました。", exampleKorean: "샤싱오 앗푸로-도 시마시타", exampleMeaning: "사진을 업로드했습니다.",
+    breakdown: [
+      { word: "写真", reading: "しゃしん", meaning: "사진" }
+    ] },
+  { level: "N4", kanji: "ダウンロード", reading: "ダウンロード", korean: "다운로-도", meaning: "다운로드",
+    example: "アプリをダウンロードしました。", exampleReading: "アプリをダウンロードしました。", exampleKorean: "아프리오 다운로-도 시마시타", exampleMeaning: "앱을 다운로드했습니다.",
+    breakdown: [
+      { word: "アプリ", reading: "アプリ", meaning: "앱" }
+    ] },
+  { level: "N4", kanji: "ログイン", reading: "ログイン", korean: "로구인", meaning: "로그인",
+    example: "IDでログインしてください。", exampleReading: "IDでログインしてください。", exampleKorean: "아이디데 로구인 시테 쿠다사이", exampleMeaning: "아이디로 로그인해 주세요.",
+    breakdown: [
+      { word: "ID", reading: "ID", meaning: "아이디" }
+    ] },
+  { level: "N4", kanji: "ログアウト", reading: "ログアウト", korean: "로구아우토", meaning: "로그아웃",
+    example: "使用後はログアウトしてください。", exampleReading: "しようごはログアウトしてください。", exampleKorean: "시요-고와 로구아우토 시테 쿠다사이", exampleMeaning: "사용 후에는 로그아웃해 주세요.",
+    breakdown: [
+      { word: "使用後", reading: "しようご", meaning: "사용 후" }
+    ] },
+  { level: "N4", kanji: "アカウント", reading: "アカウント", korean: "아카운토", meaning: "계정",
+    example: "新しいアカウントを作りました。", exampleReading: "あたらしいアカウントをつくりました。", exampleKorean: "아타라시- 아카운토오 츠쿠리마시타", exampleMeaning: "새 계정을 만들었습니다.",
+    breakdown: [
+      { word: "新しい", reading: "あたらしい", meaning: "새로운" }
+    ] },
+  { level: "N4", kanji: "登録", reading: "とうろく", korean: "토-로쿠", meaning: "등록",
+    example: "会員登録をしました。", exampleReading: "かいいんとうろくをしました。", exampleKorean: "카이인 토-로쿠오 시마시타", exampleMeaning: "회원 등록을 했습니다.",
+    breakdown: [
+      { word: "会員", reading: "かいいん", meaning: "회원" }
+    ] },
+  { level: "N4", kanji: "削除", reading: "さくじょ", korean: "사쿠죠", meaning: "삭제",
+    example: "写真を削除しました。", exampleReading: "しゃしんをさくじょしました。", exampleKorean: "샤싱오 사쿠죠 시마시타", exampleMeaning: "사진을 삭제했습니다.",
+    breakdown: [
+      { word: "写真", reading: "しゃしん", meaning: "사진" }
+    ] },
+  { level: "N4", kanji: "検索", reading: "けんさく", korean: "켄사쿠", meaning: "검색",
+    example: "インターネットで検索しました。", exampleReading: "インターネットでけんさくしました。", exampleKorean: "인타-넷토데 켄사쿠 시마시타", exampleMeaning: "인터넷으로 검색했습니다.",
+    breakdown: [
+      { word: "インターネット", reading: "インターネット", meaning: "인터넷" }
+    ] },
+  { level: "N4", kanji: "クリック", reading: "クリック", korean: "쿠릭쿠", meaning: "클릭",
+    example: "ボタンをクリックしてください。", exampleReading: "ボタンをクリックしてください。", exampleKorean: "보탄오 쿠릭쿠 시테 쿠다사이", exampleMeaning: "버튼을 클릭해 주세요.",
+    breakdown: [
+      { word: "ボタン", reading: "ボタン", meaning: "버튼" }
+    ] },
+  { level: "N4", kanji: "通知", reading: "つうち", korean: "츠-치", meaning: "통지, 알림",
+    example: "スマホに通知が来ました。", exampleReading: "スマホにつうちがきました。", exampleKorean: "스마호니 츠-치가 키마시타", exampleMeaning: "스마트폰에 알림이 왔습니다.",
+    breakdown: [
+      { word: "スマホ", reading: "スマホ", meaning: "스마트폰" }
+    ] },
+  { level: "N4", kanji: "設定", reading: "せってい", korean: "셋테-", meaning: "설정",
+    example: "スマホの設定を変えました。", exampleReading: "スマホのせっていをかえました。", exampleKorean: "스마호노 셋테-오 카에마시타", exampleMeaning: "스마트폰 설정을 바꿨습니다.",
+    breakdown: [
+      { word: "変えました", reading: "かえました", meaning: "바꿨습니다" }
+    ] },
+  { level: "N4", kanji: "インストール", reading: "インストール", korean: "인스토-루", meaning: "설치",
+    example: "新しいアプリをインストールしました。", exampleReading: "あたらしいアプリをインストールしました。", exampleKorean: "아타라시- 아프리오 인스토-루 시마시타", exampleMeaning: "새 앱을 설치했습니다.",
+    breakdown: [
+      { word: "アプリ", reading: "アプリ", meaning: "앱" }
+    ] },
+  { level: "N4", kanji: "アップデート", reading: "アップデート", korean: "앗푸데-토", meaning: "업데이트",
+    example: "アプリをアップデートしました。", exampleReading: "アプリをアップデートしました。", exampleKorean: "아프리오 앗푸데-토 시마시타", exampleMeaning: "앱을 업데이트했습니다.",
+    breakdown: [
+      { word: "アプリ", reading: "アプリ", meaning: "앱" }
+    ] },
+  { level: "N4", kanji: "バージョン", reading: "バージョン", korean: "바-죤", meaning: "버전",
+    example: "最新バージョンに更新しました。", exampleReading: "さいしんバージョンにこうしんしました。", exampleKorean: "사이신 바-죤니 코-신 시마시타", exampleMeaning: "최신 버전으로 갱신했습니다.",
+    breakdown: [
+      { word: "最新", reading: "さいしん", meaning: "최신" }
+    ] },
+  { level: "N4", kanji: "接続", reading: "せつぞく", korean: "세츠조쿠", meaning: "접속",
+    example: "Wi-Fiに接続できません。", exampleReading: "Wi-Fiにせつぞくできません。", exampleKorean: "와이파이니 세츠조쿠 데키마셍", exampleMeaning: "와이파이에 접속할 수 없습니다.",
+    breakdown: [
+      { word: "Wi-Fi", reading: "Wi-Fi", meaning: "와이파이" }
+    ] },
+  { level: "N4", kanji: "切断", reading: "せつだん", korean: "세츠단", meaning: "절단, 연결끊김",
+    example: "通信が切断されました。", exampleReading: "つうしんがせつだんされました。", exampleKorean: "츠-싱가 세츠단 사레마시타", exampleMeaning: "통신이 끊겼습니다.",
+    breakdown: [
+      { word: "通信", reading: "つうしん", meaning: "통신" }
+    ] },
+  { level: "N4", kanji: "共有", reading: "きょうゆう", korean: "쿄-유-", meaning: "공유",
+    example: "写真を家族と共有しました。", exampleReading: "しゃしんをかぞくときょうゆうしました。", exampleKorean: "샤싱오 카조쿠토 쿄-유- 시마시타", exampleMeaning: "사진을 가족과 공유했습니다.",
+    breakdown: [
+      { word: "家族と", reading: "かぞくと", meaning: "가족과" }
+    ] },
+  { level: "N4", kanji: "添付", reading: "てんぷ", korean: "텐푸", meaning: "첨부",
+    example: "ファイルを添付しました。", exampleReading: "ファイルをてんぷしました。", exampleKorean: "화이루오 텐푸 시마시타", exampleMeaning: "파일을 첨부했습니다.",
+    breakdown: [
+      { word: "ファイル", reading: "ファイル", meaning: "파일" }
+    ] },
+  { level: "N4", kanji: "返信", reading: "へんしん", korean: "헨신", meaning: "답장",
+    example: "メールに返信しました。", exampleReading: "メールにへんしんしました。", exampleKorean: "메-루니 헨신 시마시타", exampleMeaning: "메일에 답장했습니다.",
+    breakdown: [
+      { word: "メール", reading: "メール", meaning: "메일" }
+    ] },
+  { level: "N4", kanji: "転送", reading: "てんそう", korean: "텐소-", meaning: "전송",
+    example: "メールを転送しました。", exampleReading: "メールをてんそうしました。", exampleKorean: "메-루오 텐소- 시마시타", exampleMeaning: "메일을 전송했습니다.",
+    breakdown: [
+      { word: "メール", reading: "メール", meaning: "메일" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
