@@ -2538,6 +2538,256 @@ const VOCAB = [
     breakdown: [
       { word: "かわいい", reading: "かわいい", meaning: "귀엽다" }
     ] },
+  { level: "N5", kanji: "牛肉", reading: "ぎゅうにく", korean: "규-니쿠", meaning: "소고기",
+    example: "牛肉を焼いて食べました。", exampleReading: "ぎゅうにくをやいてたべました。", exampleKorean: "규-니쿠오 야이테 타베마시타", exampleMeaning: "소고기를 구워서 먹었습니다.",
+    breakdown: [
+      { word: "焼いて", reading: "やいて", meaning: "구워서" }
+    ] },
+  { level: "N5", kanji: "豚肉", reading: "ぶたにく", korean: "부타니쿠", meaning: "돼지고기",
+    example: "豚肉のカレーを作りました。", exampleReading: "ぶたにくのカレーをつくりました。", exampleKorean: "부타니쿠노 카레-오 츠쿠리마시타", exampleMeaning: "돼지고기 카레를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N5", kanji: "鶏肉", reading: "とりにく", korean: "토리니쿠", meaning: "닭고기",
+    example: "鶏肉は安くて美味しいです。", exampleReading: "とりにくはやすくておいしいです。", exampleKorean: "토리니쿠와 야스쿠테 오이시-데스", exampleMeaning: "닭고기는 싸고 맛있습니다.",
+    breakdown: [
+      { word: "安くて", reading: "やすくて", meaning: "싸고" }
+    ] },
+  { level: "N5", kanji: "刺身", reading: "さしみ", korean: "사시미", meaning: "회",
+    example: "新鮮な刺身を食べました。", exampleReading: "しんせんなさしみをたべました。", exampleKorean: "신센나 사시미오 타베마시타", exampleMeaning: "신선한 회를 먹었습니다.",
+    breakdown: [
+      { word: "新鮮な", reading: "しんせんな", meaning: "신선한" }
+    ] },
+  { level: "N5", kanji: "天丼", reading: "てんどん", korean: "텐돈", meaning: "튀김덮밥",
+    example: "昼ご飯に天丼を食べました。", exampleReading: "ひるごはんにてんどんをたべました。", exampleKorean: "히루고한니 텐동오 타베마시타", exampleMeaning: "점심으로 튀김덮밥을 먹었습니다.",
+    breakdown: [
+      { word: "昼ご飯", reading: "ひるごはん", meaning: "점심" }
+    ] },
+  { level: "N5", kanji: "親子丼", reading: "おやこどん", korean: "오야코돈", meaning: "오야코동",
+    example: "親子丼を注文しました。", exampleReading: "おやこどんをちゅうもんしました。", exampleKorean: "오야코동오 츄-몬 시마시타", exampleMeaning: "오야코동을 주문했습니다.",
+    breakdown: [
+      { word: "注文", reading: "ちゅうもん", meaning: "주문" }
+    ] },
+  { level: "N5", kanji: "牛丼", reading: "ぎゅうどん", korean: "규-동", meaning: "규동",
+    example: "牛丼屋でご飯を食べました。", exampleReading: "ぎゅうどんやでごはんをたべました。", exampleKorean: "규-돈야데 고항오 타베마시타", exampleMeaning: "규동집에서 밥을 먹었습니다.",
+    breakdown: [
+      { word: "ご飯", reading: "ごはん", meaning: "밥" }
+    ] },
+  { level: "N5", kanji: "餃子", reading: "ぎょうざ", korean: "교-자", meaning: "만두",
+    example: "餃子を焼いて食べました。", exampleReading: "ぎょうざをやいてたべました。", exampleKorean: "교-자오 야이테 타베마시타", exampleMeaning: "만두를 구워서 먹었습니다.",
+    breakdown: [
+      { word: "焼いて", reading: "やいて", meaning: "구워서" }
+    ] },
+  { level: "N5", kanji: "焼きそば", reading: "やきそば", korean: "야키소바", meaning: "야키소바",
+    example: "お祭りで焼きそばを買いました。", exampleReading: "おまつりでやきそばをかいました。", exampleKorean: "오마츠리데 야키소바오 카이마시타", exampleMeaning: "축제에서 야키소바를 샀습니다.",
+    breakdown: [
+      { word: "お祭り", reading: "おまつり", meaning: "축제" }
+    ] },
+  { level: "N5", kanji: "お好み焼き", reading: "おこのみやき", korean: "오코노미야키", meaning: "오코노미야키",
+    example: "お好み焼きを作って食べました。", exampleReading: "おこのみやきをつくってたべました。", exampleKorean: "오코노미야키오 츠쿳테 타베마시타", exampleMeaning: "오코노미야키를 만들어 먹었습니다.",
+    breakdown: [
+      { word: "作って", reading: "つくって", meaning: "만들어서" }
+    ] },
+  { level: "N5", kanji: "たこ焼き", reading: "たこやき", korean: "타코야키", meaning: "타코야키",
+    example: "たこ焼きは大阪の名物です。", exampleReading: "たこやきはおおさかのめいぶつです。", exampleKorean: "타코야키와 오-사카노 메-부츠데스", exampleMeaning: "타코야키는 오사카의 명물입니다.",
+    breakdown: [
+      { word: "名物", reading: "めいぶつ", meaning: "명물" }
+    ] },
+  { level: "N5", kanji: "おにぎり", reading: "おにぎり", korean: "오니기리", meaning: "주먹밥",
+    example: "コンビニでおにぎりを買いました。", exampleReading: "コンビニでおにぎりをかいました。", exampleKorean: "콘비니데 오니기리오 카이마시타", exampleMeaning: "편의점에서 주먹밥을 샀습니다.",
+    breakdown: [
+      { word: "コンビニ", reading: "コンビニ", meaning: "편의점" }
+    ] },
+  { level: "N5", kanji: "弁当", reading: "べんとう", korean: "벤토-", meaning: "도시락",
+    example: "毎日弁当を作ります。", exampleReading: "まいにちべんとうをつくります。", exampleKorean: "마이니치 벤토-오 츠쿠리마스", exampleMeaning: "매일 도시락을 만듭니다.",
+    breakdown: [
+      { word: "毎日", reading: "まいにち", meaning: "매일" }
+    ] },
+  { level: "N5", kanji: "デザート", reading: "デザート", korean: "데자-토", meaning: "디저트",
+    example: "デザートにケーキを食べました。", exampleReading: "デザートにケーキをたべました。", exampleKorean: "데자-토니 케-키오 타베마시타", exampleMeaning: "디저트로 케이크를 먹었습니다.",
+    breakdown: [
+      { word: "ケーキ", reading: "ケーキ", meaning: "케이크" }
+    ] },
+  { level: "N5", kanji: "ケーキ屋", reading: "ケーキや", korean: "케-키야", meaning: "케이크 가게",
+    example: "駅前にケーキ屋があります。", exampleReading: "えきまえにケーキやがあります。", exampleKorean: "에키마에니 케-키야가 아리마스", exampleMeaning: "역 앞에 케이크 가게가 있습니다.",
+    breakdown: [
+      { word: "駅前", reading: "えきまえ", meaning: "역 앞" }
+    ] },
+  { level: "N5", kanji: "パン屋", reading: "パンや", korean: "팡야", meaning: "빵집",
+    example: "パン屋でパンを買いました。", exampleReading: "パンやでパンをかいました。", exampleKorean: "팡야데 팡오 카이마시타", exampleMeaning: "빵집에서 빵을 샀습니다.",
+    breakdown: [
+      { word: "パン", reading: "パン", meaning: "빵" }
+    ] },
+  { level: "N5", kanji: "八百屋", reading: "やおや", korean: "야오야", meaning: "채소가게",
+    example: "八百屋で野菜を買いました。", exampleReading: "やおやでやさいをかいました。", exampleKorean: "야오야데 야사이오 카이마시타", exampleMeaning: "채소가게에서 채소를 샀습니다.",
+    breakdown: [
+      { word: "野菜", reading: "やさい", meaning: "채소" }
+    ] },
+  { level: "N5", kanji: "肉屋", reading: "にくや", korean: "니쿠야", meaning: "정육점",
+    example: "肉屋で肉を買いました。", exampleReading: "にくやでにくをかいました。", exampleKorean: "니쿠야데 니쿠오 카이마시타", exampleMeaning: "정육점에서 고기를 샀습니다.",
+    breakdown: [
+      { word: "肉", reading: "にく", meaning: "고기" }
+    ] },
+  { level: "N5", kanji: "魚屋", reading: "さかなや", korean: "사카나야", meaning: "생선가게",
+    example: "魚屋で魚を買いました。", exampleReading: "さかなやでさかなをかいました。", exampleKorean: "사카나야데 사카나오 카이마시타", exampleMeaning: "생선가게에서 생선을 샀습니다.",
+    breakdown: [
+      { word: "魚", reading: "さかな", meaning: "생선" }
+    ] },
+  { level: "N5", kanji: "花屋", reading: "はなや", korean: "하나야", meaning: "꽃집",
+    example: "花屋で花を買いました。", exampleReading: "はなやではなをかいました。", exampleKorean: "하나야데 하나오 카이마시타", exampleMeaning: "꽃집에서 꽃을 샀습니다.",
+    breakdown: [
+      { word: "花", reading: "はな", meaning: "꽃" }
+    ] },
+  { level: "N5", kanji: "本屋", reading: "ほんや", korean: "홍야", meaning: "서점",
+    example: "本屋で本を買いました。", exampleReading: "ほんやでほんをかいました。", exampleKorean: "홍야데 홍오 카이마시타", exampleMeaning: "서점에서 책을 샀습니다.",
+    breakdown: [
+      { word: "本", reading: "ほん", meaning: "책" }
+    ] },
+  { level: "N5", kanji: "靴屋", reading: "くつや", korean: "쿠츠야", meaning: "신발가게",
+    example: "靴屋で靴を買いました。", exampleReading: "くつやでくつをかいました。", exampleKorean: "쿠츠야데 쿠츠오 카이마시타", exampleMeaning: "신발가게에서 신발을 샀습니다.",
+    breakdown: [
+      { word: "靴", reading: "くつ", meaning: "신발" }
+    ] },
+  { level: "N5", kanji: "洋服屋", reading: "ようふくや", korean: "요-후쿠야", meaning: "옷가게",
+    example: "洋服屋で服を買いました。", exampleReading: "ようふくやでふくをかいました。", exampleKorean: "요-후쿠야데 후쿠오 카이마시타", exampleMeaning: "옷가게에서 옷을 샀습니다.",
+    breakdown: [
+      { word: "服", reading: "ふく", meaning: "옷" }
+    ] },
+  { level: "N5", kanji: "眼鏡屋", reading: "めがねや", korean: "메가네야", meaning: "안경점",
+    example: "眼鏡屋で眼鏡を作りました。", exampleReading: "めがねやでめがねをつくりました。", exampleKorean: "메가네야데 메가네오 츠쿠리마시타", exampleMeaning: "안경점에서 안경을 맞췄습니다.",
+    breakdown: [
+      { word: "眼鏡", reading: "めがね", meaning: "안경" }
+    ] },
+  { level: "N5", kanji: "時計屋", reading: "とけいや", korean: "토케-야", meaning: "시계방",
+    example: "時計屋で時計を直しました。", exampleReading: "とけいやでとけいをなおしました。", exampleKorean: "토케-야데 토케-오 나오시마시타", exampleMeaning: "시계방에서 시계를 고쳤습니다.",
+    breakdown: [
+      { word: "時計", reading: "とけい", meaning: "시계" }
+    ] },
+  { level: "N5", kanji: "電気屋", reading: "でんきや", korean: "덴키야", meaning: "전자제품 가게",
+    example: "電気屋でテレビを買いました。", exampleReading: "でんきやでテレビをかいました。", exampleKorean: "덴키야데 테레비오 카이마시타", exampleMeaning: "전자제품 가게에서 텔레비전을 샀습니다.",
+    breakdown: [
+      { word: "テレビ", reading: "テレビ", meaning: "텔레비전" }
+    ] },
+  { level: "N5", kanji: "おもちゃ屋", reading: "おもちゃや", korean: "오모챠야", meaning: "장난감 가게",
+    example: "おもちゃ屋で人形を買いました。", exampleReading: "おもちゃやでにんぎょうをかいました。", exampleKorean: "오모챠야데 닌교-오 카이마시타", exampleMeaning: "장난감 가게에서 인형을 샀습니다.",
+    breakdown: [
+      { word: "人形", reading: "にんぎょう", meaning: "인형" }
+    ] },
+  { level: "N5", kanji: "酒屋", reading: "さかや", korean: "사카야", meaning: "술가게",
+    example: "酒屋でお酒を買いました。", exampleReading: "さかやでおさけをかいました。", exampleKorean: "사카야데 오사케오 카이마시타", exampleMeaning: "술가게에서 술을 샀습니다.",
+    breakdown: [
+      { word: "お酒", reading: "おさけ", meaning: "술" }
+    ] },
+  { level: "N5", kanji: "古本屋", reading: "ふるほんや", korean: "후루홍야", meaning: "헌책방",
+    example: "古本屋で古い本を買いました。", exampleReading: "ふるほんやでふるいほんをかいました。", exampleKorean: "후루홍야데 후루이 홍오 카이마시타", exampleMeaning: "헌책방에서 오래된 책을 샀습니다.",
+    breakdown: [
+      { word: "古い", reading: "ふるい", meaning: "오래된" }
+    ] },
+  { level: "N5", kanji: "クリーニング屋", reading: "クリーニングや", korean: "쿠리-닝구야", meaning: "세탁소",
+    example: "クリーニング屋にコートを出しました。", exampleReading: "クリーニングやにコートをだしました。", exampleKorean: "쿠리-닝구야니 코-토오 다시마시타", exampleMeaning: "세탁소에 코트를 맡겼습니다.",
+    breakdown: [
+      { word: "コート", reading: "コート", meaning: "코트" }
+    ] },
+  { level: "N5", kanji: "果物屋", reading: "くだものや", korean: "쿠다모노야", meaning: "과일가게",
+    example: "果物屋でりんごを買いました。", exampleReading: "くだものやでりんごをかいました。", exampleKorean: "쿠다모노야데 링고오 카이마시타", exampleMeaning: "과일가게에서 사과를 샀습니다.",
+    breakdown: [
+      { word: "りんご", reading: "りんご", meaning: "사과" }
+    ] },
+  { level: "N5", kanji: "文房具屋", reading: "ぶんぼうぐや", korean: "분보-구야", meaning: "문구점",
+    example: "文房具屋でノートを買いました。", exampleReading: "ぶんぼうぐやでノートをかいました。", exampleKorean: "분보-구야데 노-토오 카이마시타", exampleMeaning: "문구점에서 노트를 샀습니다.",
+    breakdown: [
+      { word: "ノート", reading: "ノート", meaning: "노트" }
+    ] },
+  { level: "N5", kanji: "スーパー", reading: "スーパー", korean: "스-파-", meaning: "슈퍼마켓",
+    example: "スーパーで買い物をしました。", exampleReading: "スーパーでかいものをしました。", exampleKorean: "스-파-데 카이모노오 시마시타", exampleMeaning: "슈퍼마켓에서 장을 봤습니다.",
+    breakdown: [
+      { word: "買い物", reading: "かいもの", meaning: "쇼핑" }
+    ] },
+  { level: "N5", kanji: "定食屋", reading: "ていしょくや", korean: "테-쇼쿠야", meaning: "백반집",
+    example: "近所の定食屋で食べました。", exampleReading: "きんじょのていしょくやでたべました。", exampleKorean: "킨죠노 테-쇼쿠야데 타베마시타", exampleMeaning: "근처 백반집에서 먹었습니다.",
+    breakdown: [
+      { word: "近所", reading: "きんじょ", meaning: "근처" }
+    ] },
+  { level: "N5", kanji: "屋台", reading: "やたい", korean: "야타이", meaning: "포장마차",
+    example: "祭りの屋台でラーメンを食べました。", exampleReading: "まつりのやたいでラーメンをたべました。", exampleKorean: "마츠리노 야타이데 라-멘오 타베마시타", exampleMeaning: "축제 포장마차에서 라면을 먹었습니다.",
+    breakdown: [
+      { word: "祭り", reading: "まつり", meaning: "축제" }
+    ] },
+  { level: "N5", kanji: "市場", reading: "いちば", korean: "이치바", meaning: "시장",
+    example: "市場で新鮮な魚を買いました。", exampleReading: "いちばでしんせんなさかなをかいました。", exampleKorean: "이치바데 신센나 사카나오 카이마시타", exampleMeaning: "시장에서 신선한 생선을 샀습니다.",
+    breakdown: [
+      { word: "新鮮な", reading: "しんせんな", meaning: "신선한" }
+    ] },
+  { level: "N5", kanji: "商店", reading: "しょうてん", korean: "쇼-텐", meaning: "상점",
+    example: "駅前に小さな商店があります。", exampleReading: "えきまえにちいさなしょうてんがあります。", exampleKorean: "에키마에니 치-사나 쇼-텐가 아리마스", exampleMeaning: "역 앞에 작은 상점이 있습니다.",
+    breakdown: [
+      { word: "小さな", reading: "ちいさな", meaning: "작은" }
+    ] },
+  { level: "N5", kanji: "レジ", reading: "レジ", korean: "레지", meaning: "계산대",
+    example: "レジでお金を払いました。", exampleReading: "レジでおかねをはらいました。", exampleKorean: "레지데 오카네오 하라이마시타", exampleMeaning: "계산대에서 돈을 냈습니다.",
+    breakdown: [
+      { word: "お金", reading: "おかね", meaning: "돈" }
+    ] },
+  { level: "N5", kanji: "試着室", reading: "しちゃくしつ", korean: "시챠쿠시츠", meaning: "탈의실",
+    example: "試着室で服を着てみました。", exampleReading: "しちゃくしつでふくをきてみました。", exampleKorean: "시챠쿠시츠데 후쿠오 키테 미마시타", exampleMeaning: "탈의실에서 옷을 입어봤습니다.",
+    breakdown: [
+      { word: "服", reading: "ふく", meaning: "옷" }
+    ] },
+  { level: "N5", kanji: "試食", reading: "ししょく", korean: "시쇼쿠", meaning: "시식",
+    example: "スーパーで試食をしました。", exampleReading: "スーパーでししょくをしました。", exampleKorean: "스-파-데 시쇼쿠오 시마시타", exampleMeaning: "슈퍼에서 시식을 했습니다.",
+    breakdown: [
+      { word: "スーパー", reading: "スーパー", meaning: "슈퍼마켓" }
+    ] },
+  { level: "N5", kanji: "割引券", reading: "わりびきけん", korean: "와리비키켄", meaning: "할인권",
+    example: "割引券を使いました。", exampleReading: "わりびきけんをつかいました。", exampleKorean: "와리비키켕오 츠카이마시타", exampleMeaning: "할인권을 사용했습니다.",
+    breakdown: [
+      { word: "使いました", reading: "つかいました", meaning: "사용했습니다" }
+    ] },
+  { level: "N5", kanji: "クーポン", reading: "クーポン", korean: "쿠-폰", meaning: "쿠폰",
+    example: "クーポンで安くなりました。", exampleReading: "クーポンでやすくなりました。", exampleKorean: "쿠-폰데 야스쿠 나리마시타", exampleMeaning: "쿠폰으로 저렴해졌습니다.",
+    breakdown: [
+      { word: "安く", reading: "やすく", meaning: "싸게" }
+    ] },
+  { level: "N5", kanji: "ポイントカード", reading: "ポイントカード", korean: "포인토카-도", meaning: "포인트카드",
+    example: "ポイントカードを作りました。", exampleReading: "ポイントカードをつくりました。", exampleKorean: "포인토카-도오 츠쿠리마시타", exampleMeaning: "포인트카드를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N5", kanji: "カード払い", reading: "カードばらい", korean: "카-도바라이", meaning: "카드 결제",
+    example: "カード払いでお願いします。", exampleReading: "カードばらいでおねがいします。", exampleKorean: "카-도바라이데 오네가이 시마스", exampleMeaning: "카드 결제로 부탁드립니다.",
+    breakdown: [
+      { word: "お願いします", reading: "おねがいします", meaning: "부탁드립니다" }
+    ] },
+  { level: "N5", kanji: "お札", reading: "おさつ", korean: "오사츠", meaning: "지폐",
+    example: "財布にお札が入っています。", exampleReading: "さいふにおさつがはいっています。", exampleKorean: "사이후니 오사츠가 하잇테 이마스", exampleMeaning: "지갑에 지폐가 들어 있습니다.",
+    breakdown: [
+      { word: "財布", reading: "さいふ", meaning: "지갑" }
+    ] },
+  { level: "N5", kanji: "硬貨", reading: "こうか", korean: "코-카", meaning: "동전",
+    example: "硬貨で払いました。", exampleReading: "こうかではらいました。", exampleKorean: "코-카데 하라이마시타", exampleMeaning: "동전으로 냈습니다.",
+    breakdown: [
+      { word: "払いました", reading: "はらいました", meaning: "냈습니다" }
+    ] },
+  { level: "N5", kanji: "小銭", reading: "こぜに", korean: "코제니", meaning: "잔돈",
+    example: "小銭がありません。", exampleReading: "こぜにがありません。", exampleKorean: "코제니가 아리마셍", exampleMeaning: "잔돈이 없습니다.",
+    breakdown: [
+      { word: "ありません", reading: "ありません", meaning: "없습니다" }
+    ] },
+  { level: "N5", kanji: "焼き鳥", reading: "やきとり", korean: "야키토리", meaning: "야키토리(꼬치구이)",
+    example: "居酒屋で焼き鳥を食べました。", exampleReading: "いざかやでやきとりをたべました。", exampleKorean: "이자카야데 야키토리오 타베마시타", exampleMeaning: "이자카야에서 야키토리를 먹었습니다.",
+    breakdown: [
+      { word: "居酒屋", reading: "いざかや", meaning: "이자카야" }
+    ] },
+  { level: "N5", kanji: "定食", reading: "ていしょく", korean: "테-쇼쿠", meaning: "정식(세트메뉴)",
+    example: "焼き魚定食を注文しました。", exampleReading: "やきざかなていしょくをちゅうもんしました。", exampleKorean: "야키자카나 테-쇼쿠오 츄-몬 시마시타", exampleMeaning: "생선구이 정식을 주문했습니다.",
+    breakdown: [
+      { word: "注文", reading: "ちゅうもん", meaning: "주문" }
+    ] },
+  { level: "N5", kanji: "弁当箱", reading: "べんとうばこ", korean: "벤토-바코", meaning: "도시락통",
+    example: "弁当箱を洗いました。", exampleReading: "べんとうばこをあらいました。", exampleKorean: "벤토-바코오 아라이마시타", exampleMeaning: "도시락통을 씻었습니다.",
+    breakdown: [
+      { word: "洗いました", reading: "あらいました", meaning: "씻었습니다" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
