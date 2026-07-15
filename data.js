@@ -8948,6 +8948,206 @@ const VOCAB = [
     breakdown: [
       { word: "認めました", reading: "みとめました", meaning: "인정했습니다" }
     ] },
+  { level: "N3", kanji: "遂に", reading: "ついに", korean: "츠이니", meaning: "드디어, 마침내",
+    example: "遂に完成しました。", exampleReading: "ついにかんせいしました。", exampleKorean: "츠이니 칸세- 시마시타", exampleMeaning: "드디어 완성했습니다.",
+    breakdown: [
+      { word: "完成", reading: "かんせい", meaning: "완성" }
+    ] },
+  { level: "N3", kanji: "いよいよ", reading: "いよいよ", korean: "이요이요", meaning: "드디어, 점점",
+    example: "いよいよ試験が始まります。", exampleReading: "いよいよしけんがはじまります。", exampleKorean: "이요이요 시켕가 하지마리마스", exampleMeaning: "드디어 시험이 시작됩니다.",
+    breakdown: [
+      { word: "試験", reading: "しけん", meaning: "시험" }
+    ] },
+  { level: "N3", kanji: "まさしく", reading: "まさしく", korean: "마사시쿠", meaning: "바로, 틀림없이",
+    example: "これはまさしく傑作です。", exampleReading: "これはまさしくけっさくです。", exampleKorean: "코레와 마사시쿠 켓사쿠데스", exampleMeaning: "이것은 바로 걸작입니다.",
+    breakdown: [
+      { word: "傑作", reading: "けっさく", meaning: "걸작" }
+    ] },
+  { level: "N3", kanji: "いかにも", reading: "いかにも", korean: "이카니모", meaning: "정말로, 과연",
+    example: "いかにも彼らしい行動です。", exampleReading: "いかにもかれらしいこうどうです。", exampleKorean: "이카니모 카레라시- 코-도-데스", exampleMeaning: "정말 그다운 행동입니다.",
+    breakdown: [
+      { word: "行動", reading: "こうどう", meaning: "행동" }
+    ] },
+  { level: "N3", kanji: "さすがに", reading: "さすがに", korean: "사스가니", meaning: "과연, 역시나",
+    example: "さすがに疲れました。", exampleReading: "さすがにつかれました。", exampleKorean: "사스가니 츠카레마시타", exampleMeaning: "역시나 지쳤습니다.",
+    breakdown: [
+      { word: "疲れました", reading: "つかれました", meaning: "지쳤습니다" }
+    ] },
+  { level: "N3", kanji: "言わば", reading: "いわば", korean: "이와바", meaning: "말하자면",
+    example: "言わば彼は師匠です。", exampleReading: "いわばかれはししょうです。", exampleKorean: "이와바 카레와 시쇼-데스", exampleMeaning: "말하자면 그는 스승입니다.",
+    breakdown: [
+      { word: "師匠", reading: "ししょう", meaning: "스승" }
+    ] },
+  { level: "N3", kanji: "いわゆる", reading: "いわゆる", korean: "이와유루", meaning: "이른바, 소위",
+    example: "これがいわゆる成功者です。", exampleReading: "これがいわゆるせいこうしゃです。", exampleKorean: "코레가 이와유루 세-코-샤데스", exampleMeaning: "이것이 이른바 성공자입니다.",
+    breakdown: [
+      { word: "成功者", reading: "せいこうしゃ", meaning: "성공자" }
+    ] },
+  { level: "N3", kanji: "とりもなおさず", reading: "とりもなおさず", korean: "토리모나오사즈", meaning: "다름아니라, 즉",
+    example: "それはとりもなおさず努力の結果です。", exampleReading: "それはとりもなおさずどりょくのけっかです。", exampleKorean: "소레와 토리모나오사즈 도료쿠노 켁카데스", exampleMeaning: "그것은 다름아니라 노력의 결과입니다.",
+    breakdown: [
+      { word: "努力", reading: "どりょく", meaning: "노력" }
+    ] },
+  { level: "N3", kanji: "要するに", reading: "ようするに", korean: "요-스루니", meaning: "요컨대",
+    example: "要するに時間がないということです。", exampleReading: "ようするにじかんがないということです。", exampleKorean: "요-스루니 지캉가 나이토 이우 코토데스", exampleMeaning: "요컨대 시간이 없다는 것입니다.",
+    breakdown: [
+      { word: "時間", reading: "じかん", meaning: "시간" }
+    ] },
+  { level: "N3", kanji: "言い換えれば", reading: "いいかえれば", korean: "이-카에레바", meaning: "바꿔 말하면",
+    example: "言い換えれば失敗です。", exampleReading: "いいかえればしっぱいです。", exampleKorean: "이-카에레바 싯파이데스", exampleMeaning: "바꿔 말하면 실패입니다.",
+    breakdown: [
+      { word: "失敗", reading: "しっぱい", meaning: "실패" }
+    ] },
+  { level: "N3", kanji: "換言すれば", reading: "かんげんすれば", korean: "칸겐스레바", meaning: "환언하면, 바꿔 말하면",
+    example: "換言すれば選択の問題です。", exampleReading: "かんげんすればせんたくのもんだいです。", exampleKorean: "칸겐스레바 센타쿠노 몬다이데스", exampleMeaning: "환언하면 선택의 문제입니다.",
+    breakdown: [
+      { word: "選択", reading: "せんたく", meaning: "선택" }
+    ] },
+  { level: "N3", kanji: "逆説的", reading: "ぎゃくせつてき", korean: "갹세츠테키", meaning: "역설적",
+    example: "逆説的な結果になりました。", exampleReading: "ぎゃくせつてきなけっかになりました。", exampleKorean: "갹세츠테키나 켁카니 나리마시타", exampleMeaning: "역설적인 결과가 되었습니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N3", kanji: "矛盾点", reading: "むじゅんてん", korean: "무쥰텐", meaning: "모순점",
+    example: "話に矛盾点があります。", exampleReading: "はなしにむじゅんてんがあります。", exampleKorean: "하나시니 무쥰텡가 아리마스", exampleMeaning: "이야기에 모순점이 있습니다.",
+    breakdown: [
+      { word: "話", reading: "はなし", meaning: "이야기" }
+    ] },
+  { level: "N3", kanji: "パラドックス", reading: "パラドックス", korean: "파라돗쿠스", meaning: "패러독스, 역설",
+    example: "時間のパラドックスについて考えました。", exampleReading: "じかんのパラドックスについてかんがえました。", exampleKorean: "지칸노 파라돗쿠스니 츠이테 캉가에마시타", exampleMeaning: "시간의 패러독스에 대해 생각했습니다.",
+    breakdown: [
+      { word: "時間", reading: "じかん", meaning: "시간" }
+    ] },
+  { level: "N3", kanji: "ジレンマ", reading: "ジレンマ", korean: "지렌마", meaning: "딜레마",
+    example: "難しいジレンマに陥りました。", exampleReading: "むずかしいジレンマにおちいりました。", exampleKorean: "무즈카시- 지렌마니 오치이리마시타", exampleMeaning: "어려운 딜레마에 빠졌습니다.",
+    breakdown: [
+      { word: "陥りました", reading: "おちいりました", meaning: "빠졌습니다" }
+    ] },
+  { level: "N3", kanji: "葛藤", reading: "かっとう", korean: "캇토-", meaning: "갈등",
+    example: "内面の葛藤を抱えています。", exampleReading: "ないめんのかっとうをかかえています。", exampleKorean: "나이멘노 캇토-오 카카에테 이마스", exampleMeaning: "내면의 갈등을 안고 있습니다.",
+    breakdown: [
+      { word: "内面", reading: "ないめん", meaning: "내면" }
+    ] },
+  { level: "N3", kanji: "板挟み", reading: "いたばさみ", korean: "이타바사미", meaning: "진퇴양난, 사이에 낀 상태",
+    example: "上司と部下の板挟みになりました。", exampleReading: "じょうしとぶかのいたばさみになりました。", exampleKorean: "죠-시토 부카노 이타바사미니 나리마시타", exampleMeaning: "상사와 부하 사이에 끼었습니다.",
+    breakdown: [
+      { word: "上司と部下", reading: "じょうしとぶか", meaning: "상사와 부하" }
+    ] },
+  { level: "N3", kanji: "二律背反", reading: "にりつはいはん", korean: "니리츠하이한", meaning: "이율배반",
+    example: "二律背反する状況です。", exampleReading: "にりつはいはんするじょうきょうです。", exampleKorean: "니리츠하이한스루 죠-쿄-데스", exampleMeaning: "이율배반적인 상황입니다.",
+    breakdown: [
+      { word: "状況", reading: "じょうきょう", meaning: "상황" }
+    ] },
+  { level: "N3", kanji: "相容れない", reading: "あいいれない", korean: "아이이레나이", meaning: "서로 용납할 수 없다",
+    example: "二人の意見は相容れないようです。", exampleReading: "ふたりのいけんはあいいれないようです。", exampleKorean: "후타리노 이켕와 아이이레나이 요-데스", exampleMeaning: "두 사람의 의견은 서로 맞지 않는 것 같습니다.",
+    breakdown: [
+      { word: "意見", reading: "いけん", meaning: "의견" }
+    ] },
+  { level: "N3", kanji: "折り合い", reading: "おりあい", korean: "오리아이", meaning: "타협, 합의",
+    example: "折り合いをつけました。", exampleReading: "おりあいをつけました。", exampleKorean: "오리아이오 츠케마시타", exampleMeaning: "타협을 봤습니다.",
+    breakdown: [
+      { word: "つけました", reading: "つけました", meaning: "봤습니다" }
+    ] },
+  { level: "N3", kanji: "歩み寄り", reading: "あゆみより", korean: "아유미요리", meaning: "서로 다가섬, 타협",
+    example: "お互いの歩み寄りが必要です。", exampleReading: "おたがいのあゆみよりがひつようです。", exampleKorean: "오타가이노 아유미요리가 히츠요-데스", exampleMeaning: "서로의 타협이 필요합니다.",
+    breakdown: [
+      { word: "お互い", reading: "おたがい", meaning: "서로" }
+    ] },
+  { level: "N3", kanji: "妥協案", reading: "だきょうあん", korean: "다쿄-안", meaning: "타협안",
+    example: "妥協案を提示しました。", exampleReading: "だきょうあんをていじしました。", exampleKorean: "다쿄-안오 테-지 시마시타", exampleMeaning: "타협안을 제시했습니다.",
+    breakdown: [
+      { word: "提示", reading: "ていじ", meaning: "제시" }
+    ] },
+  { level: "N3", kanji: "落としどころ", reading: "おとしどころ", korean: "오토시도코로", meaning: "타협점, 절충점",
+    example: "落としどころを探りました。", exampleReading: "おとしどころをさぐりました。", exampleKorean: "오토시도코로오 사구리마시타", exampleMeaning: "타협점을 모색했습니다.",
+    breakdown: [
+      { word: "探りました", reading: "さぐりました", meaning: "모색했습니다" }
+    ] },
+  { level: "N3", kanji: "綱引き", reading: "つなひき", korean: "츠나히키", meaning: "줄다리기, 세력다툼",
+    example: "権力の綱引きが続いています。", exampleReading: "けんりょくのつなひきがつづいています。", exampleKorean: "켄료쿠노 츠나히키가 츠즈이테 이마스", exampleMeaning: "권력 다툼이 계속되고 있습니다.",
+    breakdown: [
+      { word: "権力", reading: "けんりょく", meaning: "권력" }
+    ] },
+  { level: "N3", kanji: "駆け引き", reading: "かけひき", korean: "카케히키", meaning: "흥정, 책략",
+    example: "交渉で駆け引きをしました。", exampleReading: "こうしょうでかけひきをしました。", exampleKorean: "코-쇼-데 카케히키오 시마시타", exampleMeaning: "교섭에서 흥정을 했습니다.",
+    breakdown: [
+      { word: "交渉", reading: "こうしょう", meaning: "교섭" }
+    ] },
+  { level: "N3", kanji: "腹の探り合い", reading: "はらのさぐりあい", korean: "하라노 사구리아이", meaning: "속마음 떠보기",
+    example: "互いに腹の探り合いをしていました。", exampleReading: "たがいにはらのさぐりあいをしていました。", exampleKorean: "타가이니 하라노 사구리아이오 시테 이마시타", exampleMeaning: "서로 속마음을 떠보고 있었습니다.",
+    breakdown: [
+      { word: "互いに", reading: "たがいに", meaning: "서로" }
+    ] },
+  { level: "N3", kanji: "水面下", reading: "すいめんか", korean: "스이멘카", meaning: "수면 아래, 물밑",
+    example: "交渉は水面下で進んでいます。", exampleReading: "こうしょうはすいめんかですすんでいます。", exampleKorean: "코-쇼-와 스이멘카데 스슨데 이마스", exampleMeaning: "교섭은 물밑에서 진행되고 있습니다.",
+    breakdown: [
+      { word: "交渉", reading: "こうしょう", meaning: "교섭" }
+    ] },
+  { level: "N3", kanji: "裏で", reading: "うらで", korean: "우라데", meaning: "뒤에서, 배후에서",
+    example: "裏で操っていました。", exampleReading: "うらであやつっていました。", exampleKorean: "우라데 아야츳테 이마시타", exampleMeaning: "뒤에서 조종하고 있었습니다.",
+    breakdown: [
+      { word: "操って", reading: "あやつって", meaning: "조종해서" }
+    ] },
+  { level: "N3", kanji: "表向き", reading: "おもてむき", korean: "오모테무키", meaning: "표면상",
+    example: "表向きは平静を装っています。", exampleReading: "おもてむきはへいせいをよそおっています。", exampleKorean: "오모테무키와 헤-세-오 요소옷테 이마스", exampleMeaning: "표면상으로는 평정을 가장하고 있습니다.",
+    breakdown: [
+      { word: "平静", reading: "へいせい", meaning: "평정" }
+    ] },
+  { level: "N3", kanji: "建前", reading: "たてまえ", korean: "타테마에", meaning: "겉치레, 명목",
+    example: "建前と本音が違います。", exampleReading: "たてまえとほんねがちがいます。", exampleKorean: "타테마에토 혼네가 치가이마스", exampleMeaning: "겉치레와 본심이 다릅니다.",
+    breakdown: [
+      { word: "本音", reading: "ほんね", meaning: "본심" }
+    ] },
+  { level: "N3", kanji: "本音", reading: "ほんね", korean: "혼네", meaning: "본심",
+    example: "本音を話してください。", exampleReading: "ほんねをはなしてください。", exampleKorean: "혼네오 하나시테 쿠다사이", exampleMeaning: "본심을 말해 주세요.",
+    breakdown: [
+      { word: "話して", reading: "はなして", meaning: "말해서" }
+    ] },
+  { level: "N3", kanji: "裏腹", reading: "うらはら", korean: "우라하라", meaning: "상반됨",
+    example: "言葉とは裏腹に悲しそうでした。", exampleReading: "ことばとはうらはらにかなしそうでした。", exampleKorean: "코토바토와 우라하라니 카나시소-데시타", exampleMeaning: "말과는 반대로 슬퍼 보였습니다.",
+    breakdown: [
+      { word: "言葉", reading: "ことば", meaning: "말" }
+    ] },
+  { level: "N3", kanji: "表裏一体", reading: "ひょうりいったい", korean: "효-리잇타이", meaning: "표리일체",
+    example: "リスクとリターンは表裏一体です。", exampleReading: "リスクとリターンはひょうりいったいです。", exampleKorean: "리스쿠토 리타-은와 효-리잇타이데스", exampleMeaning: "리스크와 리턴은 표리일체입니다.",
+    breakdown: [
+      { word: "リスク", reading: "リスク", meaning: "리스크" }
+    ] },
+  { level: "N3", kanji: "一長一短", reading: "いっちょういったん", korean: "잇쵸-잇탄", meaning: "일장일단",
+    example: "どちらも一長一短があります。", exampleReading: "どちらもいっちょういったんがあります。", exampleKorean: "도치라모 잇쵸-잇탕가 아리마스", exampleMeaning: "어느 쪽이든 일장일단이 있습니다.",
+    breakdown: [
+      { word: "どちらも", reading: "どちらも", meaning: "어느 쪽이든" }
+    ] },
+  { level: "N3", kanji: "良し悪し", reading: "よしあし", korean: "요시아시", meaning: "좋고 나쁨",
+    example: "一概に良し悪しは言えません。", exampleReading: "いちがいによしあしはいえません。", exampleKorean: "이치가이니 요시아시와 이에마셍", exampleMeaning: "일률적으로 좋고 나쁨을 말할 수 없습니다.",
+    breakdown: [
+      { word: "一概に", reading: "いちがいに", meaning: "일률적으로" }
+    ] },
+  { level: "N3", kanji: "白黒", reading: "しろくろ", korean: "시로쿠로", meaning: "흑백, 시비",
+    example: "白黒はっきりさせましょう。", exampleReading: "しろくろはっきりさせましょう。", exampleKorean: "시로쿠로 학키리 사세마쇼-", exampleMeaning: "흑백을 명확히 합시다.",
+    breakdown: [
+      { word: "はっきり", reading: "はっきり", meaning: "명확히" }
+    ] },
+  { level: "N3", kanji: "一石二鳥", reading: "いっせきにちょう", korean: "잇세키니쵸-", meaning: "일석이조",
+    example: "一石二鳥の方法です。", exampleReading: "いっせきにちょうのほうほうです。", exampleKorean: "잇세키니쵸-노 호-호-데스", exampleMeaning: "일석이조의 방법입니다.",
+    breakdown: [
+      { word: "方法", reading: "ほうほう", meaning: "방법" }
+    ] },
+  { level: "N3", kanji: "千差万別", reading: "せんさばんべつ", korean: "센사반베츠", meaning: "천차만별",
+    example: "人の考えは千差万別です。", exampleReading: "ひとのかんがえはせんさばんべつです。", exampleKorean: "히토노 캉가에와 센사반베츠데스", exampleMeaning: "사람의 생각은 천차만별입니다.",
+    breakdown: [
+      { word: "考え", reading: "かんがえ", meaning: "생각" }
+    ] },
+  { level: "N3", kanji: "玉虫色", reading: "たまむしいろ", korean: "타마무시이로", meaning: "애매모호함(다양하게 해석 가능)",
+    example: "玉虫色の回答でした。", exampleReading: "たまむしいろのかいとうでした。", exampleKorean: "타마무시이로노 카이토-데시타", exampleMeaning: "애매모호한 답변이었습니다.",
+    breakdown: [
+      { word: "回答", reading: "かいとう", meaning: "답변" }
+    ] },
+  { level: "N3", kanji: "十人十色", reading: "じゅうにんといろ", korean: "쥬-닌토이로", meaning: "십인십색",
+    example: "好みは十人十色です。", exampleReading: "このみはじゅうにんといろです。", exampleKorean: "코노미와 쥬-닌토이로데스", exampleMeaning: "취향은 십인십색입니다.",
+    breakdown: [
+      { word: "好み", reading: "このみ", meaning: "취향" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
