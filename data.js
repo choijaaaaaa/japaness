@@ -6853,6 +6853,206 @@ const VOCAB = [
     breakdown: [
       { word: "政治", reading: "せいじ", meaning: "정치" }
     ] },
+  { level: "N3", kanji: "デジタル化", reading: "デジタルか", korean: "데지타루카", meaning: "디지털화",
+    example: "会社の業務をデジタル化しました。", exampleReading: "かいしゃのぎょうむをデジタルかしました。", exampleKorean: "카이샤노 교-무오 데지타루카 시마시타", exampleMeaning: "회사 업무를 디지털화했습니다.",
+    breakdown: [
+      { word: "業務", reading: "ぎょうむ", meaning: "업무" }
+    ] },
+  { level: "N3", kanji: "効率化", reading: "こうりつか", korean: "코-리츠카", meaning: "효율화",
+    example: "作業を効率化しました。", exampleReading: "さぎょうをこうりつかしました。", exampleKorean: "사교-오 코-리츠카 시마시타", exampleMeaning: "작업을 효율화했습니다.",
+    breakdown: [
+      { word: "作業", reading: "さぎょう", meaning: "작업" }
+    ] },
+  { level: "N3", kanji: "自動化", reading: "じどうか", korean: "지도-카", meaning: "자동화",
+    example: "工場の自動化が進んでいます。", exampleReading: "こうじょうのじどうかがすすんでいます。", exampleKorean: "코-죠-노 지도-카가 스슨데 이마스", exampleMeaning: "공장의 자동화가 진행되고 있습니다.",
+    breakdown: [
+      { word: "工場", reading: "こうじょう", meaning: "공장" }
+    ] },
+  { level: "N3", kanji: "機械化", reading: "きかいか", korean: "키카이카", meaning: "기계화",
+    example: "農業の機械化が進みました。", exampleReading: "のうぎょうのきかいかがすすみました。", exampleKorean: "노-교-노 키카이카가 스스미마시타", exampleMeaning: "농업의 기계화가 진행되었습니다.",
+    breakdown: [
+      { word: "農業", reading: "のうぎょう", meaning: "농업" }
+    ] },
+  { level: "N3", kanji: "人工知能", reading: "じんこうちのう", korean: "진코-치노-", meaning: "인공지능",
+    example: "人工知能の研究をしています。", exampleReading: "じんこうちのうのけんきゅうをしています。", exampleKorean: "진코-치노-노 켕큐-오 시테 이마스", exampleMeaning: "인공지능 연구를 하고 있습니다.",
+    breakdown: [
+      { word: "研究", reading: "けんきゅう", meaning: "연구" }
+    ] },
+  { level: "N3", kanji: "人材", reading: "じんざい", korean: "진자이", meaning: "인재",
+    example: "優秀な人材を募集しています。", exampleReading: "ゆうしゅうなじんざいをぼしゅうしています。", exampleKorean: "유-슈-나 진자이오 보슈- 시테 이마스", exampleMeaning: "우수한 인재를 모집하고 있습니다.",
+    breakdown: [
+      { word: "優秀な", reading: "ゆうしゅうな", meaning: "우수한" }
+    ] },
+  { level: "N3", kanji: "人手不足", reading: "ひとでぶそく", korean: "히토데부소쿠", meaning: "인력 부족",
+    example: "業界全体が人手不足です。", exampleReading: "ぎょうかいぜんたいがひとでぶそくです。", exampleKorean: "교-카이 젠타이가 히토데부소쿠데스", exampleMeaning: "업계 전체가 인력 부족입니다.",
+    breakdown: [
+      { word: "業界", reading: "ぎょうかい", meaning: "업계" }
+    ] },
+  { level: "N3", kanji: "労働力", reading: "ろうどうりょく", korean: "로-도-료쿠", meaning: "노동력",
+    example: "労働力が不足しています。", exampleReading: "ろうどうりょくがふそくしています。", exampleKorean: "로-도-료쿠가 후소쿠 시테 이마스", exampleMeaning: "노동력이 부족합니다.",
+    breakdown: [
+      { word: "不足して", reading: "ふそくして", meaning: "부족해서" }
+    ] },
+  { level: "N3", kanji: "生産性", reading: "せいさんせい", korean: "세-산세-", meaning: "생산성",
+    example: "生産性を上げる必要があります。", exampleReading: "せいさんせいをあげるひつようがあります。", exampleKorean: "세-산세-오 아게루 히츠요-가 아리마스", exampleMeaning: "생산성을 높일 필요가 있습니다.",
+    breakdown: [
+      { word: "上げる", reading: "あげる", meaning: "높이다" }
+    ] },
+  { level: "N3", kanji: "業績", reading: "ぎょうせき", korean: "교-세키", meaning: "업적, 실적",
+    example: "今年の業績は好調です。", exampleReading: "ことしのぎょうせきはこうちょうです。", exampleKorean: "코토시노 교-세키와 코-쵸-데스", exampleMeaning: "올해 실적은 호조입니다.",
+    breakdown: [
+      { word: "好調", reading: "こうちょう", meaning: "호조" }
+    ] },
+  { level: "N3", kanji: "成果", reading: "せいか", korean: "세-카", meaning: "성과",
+    example: "努力の成果が出ました。", exampleReading: "どりょくのせいかがでました。", exampleKorean: "도료쿠노 세-카가 데마시타", exampleMeaning: "노력의 성과가 나왔습니다.",
+    breakdown: [
+      { word: "努力", reading: "どりょく", meaning: "노력" }
+    ] },
+  { level: "N3", kanji: "実績", reading: "じっせき", korean: "짓세키", meaning: "실적",
+    example: "高い実績を残しました。", exampleReading: "たかいじっせきをのこしました。", exampleKorean: "타카이 짓세키오 노코시마시타", exampleMeaning: "높은 실적을 남겼습니다.",
+    breakdown: [
+      { word: "残しました", reading: "のこしました", meaning: "남겼습니다" }
+    ] },
+  { level: "N3", kanji: "評価", reading: "ひょうか", korean: "효-카", meaning: "평가",
+    example: "上司から高く評価されました。", exampleReading: "じょうしからたかくひょうかされました。", exampleKorean: "죠-시카라 타카쿠 효-카사레마시타", exampleMeaning: "상사에게 높이 평가받았습니다.",
+    breakdown: [
+      { word: "上司から", reading: "じょうしから", meaning: "상사에게" }
+    ] },
+  { level: "N3", kanji: "査定", reading: "さてい", korean: "사테-", meaning: "사정, 평정",
+    example: "給料の査定が行われました。", exampleReading: "きゅうりょうのさていがおこなわれました。", exampleKorean: "큐-료-노 사테-가 오코나와레마시타", exampleMeaning: "급여 사정이 이루어졌습니다.",
+    breakdown: [
+      { word: "給料", reading: "きゅうりょう", meaning: "급여" }
+    ] },
+  { level: "N3", kanji: "起用", reading: "きよう", korean: "키요-", meaning: "기용",
+    example: "新人を起用しました。", exampleReading: "しんじんをきようしました。", exampleKorean: "신징오 키요- 시마시타", exampleMeaning: "신인을 기용했습니다.",
+    breakdown: [
+      { word: "新人", reading: "しんじん", meaning: "신인" }
+    ] },
+  { level: "N3", kanji: "適応", reading: "てきおう", korean: "테키오-", meaning: "적응",
+    example: "新しい環境に適応しました。", exampleReading: "あたらしいかんきょうにてきおうしました。", exampleKorean: "아타라시- 캉쿄-니 테키오- 시마시타", exampleMeaning: "새로운 환경에 적응했습니다.",
+    breakdown: [
+      { word: "環境", reading: "かんきょう", meaning: "환경" }
+    ] },
+  { level: "N3", kanji: "順応", reading: "じゅんのう", korean: "쥰노-", meaning: "순응",
+    example: "気候の変化に順応します。", exampleReading: "きこうのへんかにじゅんのうします。", exampleKorean: "키코-노 헹카니 쥰노- 시마스", exampleMeaning: "기후 변화에 순응합니다.",
+    breakdown: [
+      { word: "気候", reading: "きこう", meaning: "기후" }
+    ] },
+  { level: "N3", kanji: "馴染む", reading: "なじむ", korean: "나지무", meaning: "익숙해지다",
+    example: "新しい職場に馴染みました。", exampleReading: "あたらしいしょくばになじみました。", exampleKorean: "아타라시- 쇼쿠바니 나지미마시타", exampleMeaning: "새 직장에 익숙해졌습니다.",
+    breakdown: [
+      { word: "職場", reading: "しょくば", meaning: "직장" }
+    ] },
+  { level: "N3", kanji: "温室効果", reading: "おんしつこうか", korean: "온시츠코-카", meaning: "온실효과",
+    example: "温室効果ガスを減らす必要があります。", exampleReading: "おんしつこうかガスをへらすひつようがあります。", exampleKorean: "온시츠코-카 가스오 헤라스 히츠요-가 아리마스", exampleMeaning: "온실효과 가스를 줄일 필요가 있습니다.",
+    breakdown: [
+      { word: "ガス", reading: "ガス", meaning: "가스" }
+    ] },
+  { level: "N3", kanji: "異常気象", reading: "いじょうきしょう", korean: "이죠-키쇼-", meaning: "이상기후",
+    example: "異常気象が続いています。", exampleReading: "いじょうきしょうがつづいています。", exampleKorean: "이죠-키쇼-가 츠즈이테 이마스", exampleMeaning: "이상기후가 계속되고 있습니다.",
+    breakdown: [
+      { word: "続いて", reading: "つづいて", meaning: "계속되어" }
+    ] },
+  { level: "N3", kanji: "自然災害", reading: "しぜんさいがい", korean: "시젠사이가이", meaning: "자연재해",
+    example: "自然災害の対策が必要です。", exampleReading: "しぜんさいがいのたいさくがひつようです。", exampleKorean: "시젠사이가이노 타이사쿠가 히츠요-데스", exampleMeaning: "자연재해 대책이 필요합니다.",
+    breakdown: [
+      { word: "対策", reading: "たいさく", meaning: "대책" }
+    ] },
+  { level: "N3", kanji: "被害", reading: "ひがい", korean: "히가이", meaning: "피해",
+    example: "台風による被害が大きいです。", exampleReading: "たいふうによるひがいがおおきいです。", exampleKorean: "타이후-니 요루 히가이가 오-키-데스", exampleMeaning: "태풍으로 인한 피해가 큽니다.",
+    breakdown: [
+      { word: "台風", reading: "たいふう", meaning: "태풍" }
+    ] },
+  { level: "N3", kanji: "避難", reading: "ひなん", korean: "히난", meaning: "피난",
+    example: "住民が避難しました。", exampleReading: "じゅうみんがひなんしました。", exampleKorean: "쥬-민가 히난 시마시타", exampleMeaning: "주민이 피난했습니다.",
+    breakdown: [
+      { word: "住民", reading: "じゅうみん", meaning: "주민" }
+    ] },
+  { level: "N3", kanji: "救助", reading: "きゅうじょ", korean: "큐-죠", meaning: "구조",
+    example: "消防隊が救助しました。", exampleReading: "しょうぼうたいがきゅうじょしました。", exampleKorean: "쇼-보-타이가 큐-죠 시마시타", exampleMeaning: "소방대가 구조했습니다.",
+    breakdown: [
+      { word: "消防隊", reading: "しょうぼうたい", meaning: "소방대" }
+    ] },
+  { level: "N3", kanji: "支援", reading: "しえん", korean: "시엔", meaning: "지원",
+    example: "被災地を支援しています。", exampleReading: "ひさいちをしえんしています。", exampleKorean: "히사이치오 시엔 시테 이마스", exampleMeaning: "재해 지역을 지원하고 있습니다.",
+    breakdown: [
+      { word: "被災地", reading: "ひさいち", meaning: "재해 지역" }
+    ] },
+  { level: "N3", kanji: "援助", reading: "えんじょ", korean: "엔죠", meaning: "원조",
+    example: "経済的な援助を受けました。", exampleReading: "けいざいてきなえんじょをうけました。", exampleKorean: "케-자이테키나 엔죠오 우케마시타", exampleMeaning: "경제적인 원조를 받았습니다.",
+    breakdown: [
+      { word: "経済的な", reading: "けいざいてきな", meaning: "경제적인" }
+    ] },
+  { level: "N3", kanji: "寄付", reading: "きふ", korean: "키후", meaning: "기부",
+    example: "団体に寄付をしました。", exampleReading: "だんたいにきふをしました。", exampleKorean: "단타이니 키후오 시마시타", exampleMeaning: "단체에 기부를 했습니다.",
+    breakdown: [
+      { word: "団体", reading: "だんたい", meaning: "단체" }
+    ] },
+  { level: "N3", kanji: "募金", reading: "ぼきん", korean: "보킨", meaning: "모금",
+    example: "街頭で募金をしています。", exampleReading: "がいとうでぼきんをしています。", exampleKorean: "가이토-데 보킹오 시테 이마스", exampleMeaning: "길거리에서 모금을 하고 있습니다.",
+    breakdown: [
+      { word: "街頭", reading: "がいとう", meaning: "길거리" }
+    ] },
+  { level: "N3", kanji: "ボランティア", reading: "ボランティア", korean: "보란티아", meaning: "봉사(자원봉사)",
+    example: "週末にボランティアをします。", exampleReading: "しゅうまつにボランティアをします。", exampleKorean: "슈-마츠니 보란티아오 시마스", exampleMeaning: "주말에 봉사활동을 합니다.",
+    breakdown: [
+      { word: "週末", reading: "しゅうまつ", meaning: "주말" }
+    ] },
+  { level: "N3", kanji: "インフラ", reading: "インフラ", korean: "인후라", meaning: "인프라",
+    example: "町のインフラを整備しました。", exampleReading: "まちのインフラをせいびしました。", exampleKorean: "마치노 인후라오 세-비 시마시타", exampleMeaning: "마을의 인프라를 정비했습니다.",
+    breakdown: [
+      { word: "整備", reading: "せいび", meaning: "정비" }
+    ] },
+  { level: "N3", kanji: "公共", reading: "こうきょう", korean: "코-쿄-", meaning: "공공",
+    example: "公共の施設を利用します。", exampleReading: "こうきょうのしせつをりようします。", exampleKorean: "코-쿄-노 시세츠오 리요- 시마스", exampleMeaning: "공공시설을 이용합니다.",
+    breakdown: [
+      { word: "施設", reading: "しせつ", meaning: "시설" }
+    ] },
+  { level: "N3", kanji: "福祉", reading: "ふくし", korean: "후쿠시", meaning: "복지",
+    example: "社会福祉に関心があります。", exampleReading: "しゃかいふくしにかんしんがあります。", exampleKorean: "샤카이 후쿠시니 칸싱가 아리마스", exampleMeaning: "사회복지에 관심이 있습니다.",
+    breakdown: [
+      { word: "関心", reading: "かんしん", meaning: "관심" }
+    ] },
+  { level: "N3", kanji: "介護", reading: "かいご", korean: "카이고", meaning: "간병, 요양",
+    example: "祖母の介護をしています。", exampleReading: "そぼのかいごをしています。", exampleKorean: "소보노 카이고오 시테 이마스", exampleMeaning: "할머니의 간병을 하고 있습니다.",
+    breakdown: [
+      { word: "祖母", reading: "そぼ", meaning: "할머니" }
+    ] },
+  { level: "N3", kanji: "高齢化", reading: "こうれいか", korean: "코-레-카", meaning: "고령화",
+    example: "日本は高齢化が進んでいます。", exampleReading: "にほんはこうれいかがすすんでいます。", exampleKorean: "니홍와 코-레-카가 스슨데 이마스", exampleMeaning: "일본은 고령화가 진행되고 있습니다.",
+    breakdown: [
+      { word: "日本", reading: "にほん", meaning: "일본" }
+    ] },
+  { level: "N3", kanji: "少子化", reading: "しょうしか", korean: "쇼-시카", meaning: "저출산화",
+    example: "少子化が問題になっています。", exampleReading: "しょうしかがもんだいになっています。", exampleKorean: "쇼-시카가 몬다이니 낫테 이마스", exampleMeaning: "저출산화가 문제가 되고 있습니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N3", kanji: "都市化", reading: "としか", korean: "토시카", meaning: "도시화",
+    example: "急速に都市化が進みました。", exampleReading: "きゅうそくにとしかがすすみました。", exampleKorean: "큐-소쿠니 토시카가 스스미마시타", exampleMeaning: "급속히 도시화가 진행되었습니다.",
+    breakdown: [
+      { word: "急速に", reading: "きゅうそくに", meaning: "급속히" }
+    ] },
+  { level: "N3", kanji: "移住", reading: "いじゅう", korean: "이쥬-", meaning: "이주",
+    example: "田舎に移住しました。", exampleReading: "いなかにいじゅうしました。", exampleKorean: "이나카니 이쥬- 시마시타", exampleMeaning: "시골로 이주했습니다.",
+    breakdown: [
+      { word: "田舎", reading: "いなか", meaning: "시골" }
+    ] },
+  { level: "N3", kanji: "移民", reading: "いみん", korean: "이민", meaning: "이민",
+    example: "移民として働いています。", exampleReading: "いみんとしてはたらいています。", exampleKorean: "이민토시테 하타라이테 이마스", exampleMeaning: "이민자로서 일하고 있습니다.",
+    breakdown: [
+      { word: "働いて", reading: "はたらいて", meaning: "일해서" }
+    ] },
+  { level: "N3", kanji: "難民", reading: "なんみん", korean: "난민", meaning: "난민",
+    example: "難民を受け入れています。", exampleReading: "なんみんをうけいれています。", exampleKorean: "난밍오 우케이레테 이마스", exampleMeaning: "난민을 수용하고 있습니다.",
+    breakdown: [
+      { word: "受け入れて", reading: "うけいれて", meaning: "수용해서" }
+    ] },
+  { level: "N3", kanji: "格差", reading: "かくさ", korean: "카쿠사", meaning: "격차",
+    example: "経済格差が広がっています。", exampleReading: "けいざいかくさがひろがっています。", exampleKorean: "케-자이 카쿠사가 히로갓테 이마스", exampleMeaning: "경제 격차가 확대되고 있습니다.",
+    breakdown: [
+      { word: "経済", reading: "けいざい", meaning: "경제" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
