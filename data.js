@@ -9312,6 +9312,156 @@ const VOCAB = [
     breakdown: [
       { word: "会社", reading: "かいしゃ", meaning: "회사" }
     ] },
+  { level: "N2", kanji: "選定", reading: "せんてい", korean: "센테-", meaning: "선정",
+    example: "候補地を選定しました。", exampleReading: "こうほちをせんていしました。", exampleKorean: "코-호치오 센테- 시마시타", exampleMeaning: "후보지를 선정했습니다.",
+    breakdown: [
+      { word: "候補地", reading: "こうほち", meaning: "후보지" }
+    ] },
+  { level: "N2", kanji: "選考", reading: "せんこう", korean: "센코-", meaning: "전형, 심사",
+    example: "書類選考を通過しました。", exampleReading: "しょるいせんこうをつうかしました。", exampleKorean: "쇼루이 센코-오 츠-카 시마시타", exampleMeaning: "서류전형을 통과했습니다.",
+    breakdown: [
+      { word: "書類", reading: "しょるい", meaning: "서류" }
+    ] },
+  { level: "N2", kanji: "選出", reading: "せんしゅつ", korean: "센슈츠", meaning: "선출",
+    example: "代表者を選出しました。", exampleReading: "だいひょうしゃをせんしゅつしました。", exampleKorean: "다이효-샤오 센슈츠 시마시타", exampleMeaning: "대표자를 선출했습니다.",
+    breakdown: [
+      { word: "代表者", reading: "だいひょうしゃ", meaning: "대표자" }
+    ] },
+  { level: "N2", kanji: "抽選", reading: "ちゅうせん", korean: "츄-센", meaning: "추첨",
+    example: "抽選で当たりました。", exampleReading: "ちゅうせんであたりました。", exampleKorean: "츄-센데 아타리마시타", exampleMeaning: "추첨으로 당첨되었습니다.",
+    breakdown: [
+      { word: "当たりました", reading: "あたりました", meaning: "당첨되었습니다" }
+    ] },
+  { level: "N2", kanji: "審査", reading: "しんさ", korean: "신사", meaning: "심사",
+    example: "作品が審査されます。", exampleReading: "さくひんがしんさされます。", exampleKorean: "사쿠힝가 신사사레마스", exampleMeaning: "작품이 심사됩니다.",
+    breakdown: [
+      { word: "作品", reading: "さくひん", meaning: "작품" }
+    ] },
+  { level: "N2", kanji: "審議", reading: "しんぎ", korean: "신기", meaning: "심의",
+    example: "法案が審議されています。", exampleReading: "ほうあんがしんぎされています。", exampleKorean: "호-앙가 신기사레테 이마스", exampleMeaning: "법안이 심의되고 있습니다.",
+    breakdown: [
+      { word: "法案", reading: "ほうあん", meaning: "법안" }
+    ] },
+  { level: "N2", kanji: "採否", reading: "さいひ", korean: "사이히", meaning: "채용 여부",
+    example: "採否の結果を待っています。", exampleReading: "さいひのけっかをまっています。", exampleKorean: "사이히노 켁카오 맛테 이마스", exampleMeaning: "채용 여부 결과를 기다리고 있습니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N2", kanji: "合否", reading: "ごうひ", korean: "고-히", meaning: "합격 여부",
+    example: "合否の連絡が来ました。", exampleReading: "ごうひのれんらくがきました。", exampleKorean: "고-히노 렌라쿠가 키마시타", exampleMeaning: "합격 여부 연락이 왔습니다.",
+    breakdown: [
+      { word: "連絡", reading: "れんらく", meaning: "연락" }
+    ] },
+  { level: "N2", kanji: "内定", reading: "ないてい", korean: "나이테-", meaning: "내정(취업)",
+    example: "第一志望から内定をもらいました。", exampleReading: "だいいちしぼうからないていをもらいました。", exampleKorean: "다이이치 시보-카라 나이테-오 모라이마시타", exampleMeaning: "제1지망에서 내정을 받았습니다.",
+    breakdown: [
+      { word: "第一志望", reading: "だいいちしぼう", meaning: "제1지망" }
+    ] },
+  { level: "N2", kanji: "内々定", reading: "ないないてい", korean: "나이나이테-", meaning: "비공식 내정",
+    example: "内々定の連絡が来ました。", exampleReading: "ないないていのれんらくがきました。", exampleKorean: "나이나이테-노 렌라쿠가 키마시타", exampleMeaning: "비공식 내정 연락이 왔습니다.",
+    breakdown: [
+      { word: "連絡", reading: "れんらく", meaning: "연락" }
+    ] },
+  { level: "N2", kanji: "辞退", reading: "じたい", korean: "지타이", meaning: "사퇴",
+    example: "内定を辞退しました。", exampleReading: "ないていをじたいしました。", exampleKorean: "나이테-오 지타이 시마시타", exampleMeaning: "내정을 사퇴했습니다.",
+    breakdown: [
+      { word: "内定", reading: "ないてい", meaning: "내정" }
+    ] },
+  { level: "N2", kanji: "受諾", reading: "じゅだく", korean: "쥬다쿠", meaning: "수락",
+    example: "提案を受諾しました。", exampleReading: "ていあんをじゅだくしました。", exampleKorean: "테-앙오 쥬다쿠 시마시타", exampleMeaning: "제안을 수락했습니다.",
+    breakdown: [
+      { word: "提案", reading: "ていあん", meaning: "제안" }
+    ] },
+  { level: "N2", kanji: "斡旋", reading: "あっせん", korean: "앗센", meaning: "알선",
+    example: "就職を斡旋してもらいました。", exampleReading: "しゅうしょくをあっせんしてもらいました。", exampleKorean: "슈-쇼쿠오 앗센시테 모라이마시타", exampleMeaning: "취업을 알선받았습니다.",
+    breakdown: [
+      { word: "就職", reading: "しゅうしょく", meaning: "취업" }
+    ] },
+  { level: "N2", kanji: "紹介状", reading: "しょうかいじょう", korean: "쇼-카이죠-", meaning: "소개장",
+    example: "病院への紹介状をもらいました。", exampleReading: "びょういんへのしょうかいじょうをもらいました。", exampleKorean: "뵤-인에노 쇼-카이죠-오 모라이마시타", exampleMeaning: "병원 소개장을 받았습니다.",
+    breakdown: [
+      { word: "病院", reading: "びょういん", meaning: "병원" }
+    ] },
+  { level: "N2", kanji: "推薦", reading: "すいせん", korean: "스이센", meaning: "추천",
+    example: "先生に推薦してもらいました。", exampleReading: "せんせいにすいせんしてもらいました。", exampleKorean: "센세-니 스이센시테 모라이마시타", exampleMeaning: "선생님께 추천받았습니다.",
+    breakdown: [
+      { word: "先生", reading: "せんせい", meaning: "선생님" }
+    ] },
+  { level: "N2", kanji: "推薦状", reading: "すいせんじょう", korean: "스이센죠-", meaning: "추천서",
+    example: "推薦状を書いてもらいました。", exampleReading: "すいせんじょうをかいてもらいました。", exampleKorean: "스이센죠-오 카이테 모라이마시타", exampleMeaning: "추천서를 써 받았습니다.",
+    breakdown: [
+      { word: "書いて", reading: "かいて", meaning: "써서" }
+    ] },
+  { level: "N2", kanji: "照会", reading: "しょうかい", korean: "쇼-카이", meaning: "조회",
+    example: "在庫を照会しました。", exampleReading: "ざいこをしょうかいしました。", exampleKorean: "자이코오 쇼-카이 시마시타", exampleMeaning: "재고를 조회했습니다.",
+    breakdown: [
+      { word: "在庫", reading: "ざいこ", meaning: "재고" }
+    ] },
+  { level: "N2", kanji: "問い合わせ", reading: "といあわせ", korean: "토이아와세", meaning: "문의",
+    example: "問い合わせに答えました。", exampleReading: "といあわせにこたえました。", exampleKorean: "토이아와세니 코타에마시타", exampleMeaning: "문의에 답했습니다.",
+    breakdown: [
+      { word: "答えました", reading: "こたえました", meaning: "답했습니다" }
+    ] },
+  { level: "N2", kanji: "窓口", reading: "まどぐち", korean: "마도구치", meaning: "창구",
+    example: "窓口で手続きをしました。", exampleReading: "まどぐちでてつづきをしました。", exampleKorean: "마도구치데 테츠즈키오 시마시타", exampleMeaning: "창구에서 절차를 밟았습니다.",
+    breakdown: [
+      { word: "手続き", reading: "てつづき", meaning: "절차" }
+    ] },
+  { level: "N2", kanji: "受付", reading: "うけつけ", korean: "우케츠케", meaning: "접수",
+    example: "受付で名前を書きました。", exampleReading: "うけつけでなまえをかきました。", exampleKorean: "우케츠케데 나마에오 카키마시타", exampleMeaning: "접수처에서 이름을 썼습니다.",
+    breakdown: [
+      { word: "名前", reading: "なまえ", meaning: "이름" }
+    ] },
+  { level: "N2", kanji: "案内係", reading: "あんないがかり", korean: "안나이가카리", meaning: "안내원",
+    example: "案内係に道を聞きました。", exampleReading: "あんないがかりにみちをききました。", exampleKorean: "안나이가카리니 미치오 키키마시타", exampleMeaning: "안내원에게 길을 물었습니다.",
+    breakdown: [
+      { word: "道", reading: "みち", meaning: "길" }
+    ] },
+  { level: "N2", kanji: "対応窓口", reading: "たいおうまどぐち", korean: "타이오-마도구치", meaning: "대응 창구",
+    example: "対応窓口に相談しました。", exampleReading: "たいおうまどぐちにそうだんしました。", exampleKorean: "타이오-마도구치니 소-단 시마시타", exampleMeaning: "대응 창구에 상담했습니다.",
+    breakdown: [
+      { word: "相談", reading: "そうだん", meaning: "상담" }
+    ] },
+  { level: "N2", kanji: "苦情", reading: "くじょう", korean: "쿠죠-", meaning: "불만, 클레임",
+    example: "客から苦情が来ました。", exampleReading: "きゃくからくじょうがきました。", exampleKorean: "캬쿠카라 쿠죠-가 키마시타", exampleMeaning: "손님으로부터 불만이 들어왔습니다.",
+    breakdown: [
+      { word: "客", reading: "きゃく", meaning: "손님" }
+    ] },
+  { level: "N2", kanji: "クレーム", reading: "クレーム", korean: "쿠레-무", meaning: "클레임",
+    example: "商品にクレームをつけました。", exampleReading: "しょうひんにクレームをつけました。", exampleKorean: "쇼-힌니 쿠레-무오 츠케마시타", exampleMeaning: "상품에 클레임을 걸었습니다.",
+    breakdown: [
+      { word: "商品", reading: "しょうひん", meaning: "상품" }
+    ] },
+  { level: "N2", kanji: "要望", reading: "ようぼう", korean: "요-보-", meaning: "요망, 요구",
+    example: "住民の要望を聞きました。", exampleReading: "じゅうみんのようぼうをききました。", exampleKorean: "쥬-민노 요-보-오 키키마시타", exampleMeaning: "주민의 요망을 들었습니다.",
+    breakdown: [
+      { word: "住民", reading: "じゅうみん", meaning: "주민" }
+    ] },
+  { level: "N2", kanji: "意見箱", reading: "いけんばこ", korean: "이켄바코", meaning: "의견함",
+    example: "意見箱に投書しました。", exampleReading: "いけんばこにとうしょしました。", exampleKorean: "이켄바코니 토-쇼 시마시타", exampleMeaning: "의견함에 투서했습니다.",
+    breakdown: [
+      { word: "投書", reading: "とうしょ", meaning: "투서" }
+    ] },
+  { level: "N2", kanji: "アンケート", reading: "アンケート", korean: "앙케-토", meaning: "설문조사",
+    example: "アンケートに答えました。", exampleReading: "アンケートにこたえました。", exampleKorean: "앙케-토니 코타에마시타", exampleMeaning: "설문조사에 답했습니다.",
+    breakdown: [
+      { word: "答えました", reading: "こたえました", meaning: "답했습니다" }
+    ] },
+  { level: "N2", kanji: "世論", reading: "よろん", korean: "요론", meaning: "여론",
+    example: "世論の動向を注視しています。", exampleReading: "よろんのどうこうをちゅうししています。", exampleKorean: "요론노 도-코-오 츄-시 시테 이마스", exampleMeaning: "여론의 동향을 주시하고 있습니다.",
+    breakdown: [
+      { word: "動向", reading: "どうこう", meaning: "동향" }
+    ] },
+  { level: "N2", kanji: "世論調査", reading: "よろんちょうさ", korean: "요론쵸-사", meaning: "여론조사",
+    example: "世論調査の結果が出ました。", exampleReading: "よろんちょうさのけっかがでました。", exampleKorean: "요론쵸-사노 켁카가 데마시타", exampleMeaning: "여론조사 결과가 나왔습니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N2", kanji: "支持率", reading: "しじりつ", korean: "시지리츠", meaning: "지지율",
+    example: "内閣の支持率が下がりました。", exampleReading: "ないかくのしじりつがさがりました。", exampleKorean: "나이카쿠노 시지리츠가 사가리마시타", exampleMeaning: "내각의 지지율이 떨어졌습니다.",
+    breakdown: [
+      { word: "内閣", reading: "ないかく", meaning: "내각" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
