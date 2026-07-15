@@ -6163,6 +6163,206 @@ const VOCAB = [
     breakdown: [
       { word: "他人", reading: "たにん", meaning: "타인" }
     ] },
+  { level: "N3", kanji: "感覚", reading: "かんかく", korean: "캉카쿠", meaning: "감각",
+    example: "足の感覚がなくなりました。", exampleReading: "あしのかんかくがなくなりました。", exampleKorean: "아시노 캉카쿠가 나쿠나리마시타", exampleMeaning: "다리의 감각이 없어졌습니다.",
+    breakdown: [
+      { word: "足", reading: "あし", meaning: "다리" }
+    ] },
+  { level: "N3", kanji: "直面", reading: "ちょくめん", korean: "쵸쿠멘", meaning: "직면",
+    example: "困難に直面しています。", exampleReading: "こんなんにちょくめんしています。", exampleKorean: "콘난니 쵸쿠멘시테 이마스", exampleMeaning: "곤란에 직면해 있습니다.",
+    breakdown: [
+      { word: "困難", reading: "こんなん", meaning: "곤란" }
+    ] },
+  { level: "N3", kanji: "持続", reading: "じぞく", korean: "지조쿠", meaning: "지속",
+    example: "効果が持続します。", exampleReading: "こうかがじぞくします。", exampleKorean: "코-카가 지조쿠시마스", exampleMeaning: "효과가 지속됩니다.",
+    breakdown: [
+      { word: "効果", reading: "こうか", meaning: "효과" }
+    ] },
+  { level: "N3", kanji: "持続的", reading: "じぞくてき", korean: "지조쿠테키", meaning: "지속적",
+    example: "持続的な成長を目指します。", exampleReading: "じぞくてきなせいちょうをめざします。", exampleKorean: "지조쿠테키나 세-쵸-오 메자시마스", exampleMeaning: "지속적인 성장을 목표로 합니다.",
+    breakdown: [
+      { word: "成長", reading: "せいちょう", meaning: "성장" }
+    ] },
+  { level: "N3", kanji: "保つ", reading: "たもつ", korean: "타모츠", meaning: "유지하다",
+    example: "健康を保つことが大切です。", exampleReading: "けんこうをたもつことがたいせつです。", exampleKorean: "켄코-오 타모츠 코토가 타이세츠데스", exampleMeaning: "건강을 유지하는 것이 중요합니다.",
+    breakdown: [
+      { word: "健康", reading: "けんこう", meaning: "건강" }
+    ] },
+  { level: "N3", kanji: "保守", reading: "ほしゅ", korean: "호슈", meaning: "보수(적)",
+    example: "彼は保守的な考え方です。", exampleReading: "かれはほしゅてきなかんがえかたです。", exampleKorean: "카레와 호슈테키나 캉가에카타데스", exampleMeaning: "그는 보수적인 사고방식입니다.",
+    breakdown: [
+      { word: "考え方", reading: "かんがえかた", meaning: "사고방식" }
+    ] },
+  { level: "N3", kanji: "一新", reading: "いっしん", korean: "잇신", meaning: "일신, 새롭게 함",
+    example: "イメージを一新しました。", exampleReading: "イメージをいっしんしました。", exampleKorean: "이메-지오 잇신 시마시타", exampleMeaning: "이미지를 새롭게 했습니다.",
+    breakdown: [
+      { word: "イメージ", reading: "イメージ", meaning: "이미지" }
+    ] },
+  { level: "N3", kanji: "更新", reading: "こうしん", korean: "코-신", meaning: "갱신",
+    example: "記録を更新しました。", exampleReading: "きろくをこうしんしました。", exampleKorean: "키로쿠오 코-신 시마시타", exampleMeaning: "기록을 갱신했습니다.",
+    breakdown: [
+      { word: "記録", reading: "きろく", meaning: "기록" }
+    ] },
+  { level: "N3", kanji: "刷新", reading: "さっしん", korean: "삿신", meaning: "쇄신",
+    example: "制度を刷新しました。", exampleReading: "せいどをさっしんしました。", exampleKorean: "세-도오 삿신 시마시타", exampleMeaning: "제도를 쇄신했습니다.",
+    breakdown: [
+      { word: "制度", reading: "せいど", meaning: "제도" }
+    ] },
+  { level: "N3", kanji: "復旧", reading: "ふっきゅう", korean: "훅큐-", meaning: "복구",
+    example: "停電が復旧しました。", exampleReading: "ていでんがふっきゅうしました。", exampleKorean: "테-덴가 훅큐- 시마시타", exampleMeaning: "정전이 복구되었습니다.",
+    breakdown: [
+      { word: "停電", reading: "ていでん", meaning: "정전" }
+    ] },
+  { level: "N3", kanji: "復興", reading: "ふっこう", korean: "훅코-", meaning: "부흥",
+    example: "町の復興が進んでいます。", exampleReading: "まちのふっこうがすすんでいます。", exampleKorean: "마치노 훅코-가 스슨데 이마스", exampleMeaning: "마을의 부흥이 진행되고 있습니다.",
+    breakdown: [
+      { word: "町", reading: "まち", meaning: "마을" }
+    ] },
+  { level: "N3", kanji: "再建", reading: "さいけん", korean: "사이켄", meaning: "재건",
+    example: "会社を再建しました。", exampleReading: "かいしゃをさいけんしました。", exampleKorean: "카이샤오 사이켄 시마시타", exampleMeaning: "회사를 재건했습니다.",
+    breakdown: [
+      { word: "会社", reading: "かいしゃ", meaning: "회사" }
+    ] },
+  { level: "N3", kanji: "再生", reading: "さいせい", korean: "사이세-", meaning: "재생",
+    example: "動画を再生してください。", exampleReading: "どうがをさいせいしてください。", exampleKorean: "도-가오 사이세- 시테 쿠다사이", exampleMeaning: "동영상을 재생해 주세요.",
+    breakdown: [
+      { word: "動画", reading: "どうが", meaning: "동영상" }
+    ] },
+  { level: "N3", kanji: "再発", reading: "さいはつ", korean: "사이하츠", meaning: "재발",
+    example: "病気が再発しました。", exampleReading: "びょうきがさいはつしました。", exampleKorean: "뵤-키가 사이하츠 시마시타", exampleMeaning: "병이 재발했습니다.",
+    breakdown: [
+      { word: "病気", reading: "びょうき", meaning: "병" }
+    ] },
+  { level: "N3", kanji: "転換", reading: "てんかん", korean: "텐칸", meaning: "전환",
+    example: "方針を転換しました。", exampleReading: "ほうしんをてんかんしました。", exampleKorean: "호-싱오 텐칸 시마시타", exampleMeaning: "방침을 전환했습니다.",
+    breakdown: [
+      { word: "方針", reading: "ほうしん", meaning: "방침" }
+    ] },
+  { level: "N3", kanji: "変質", reading: "へんしつ", korean: "헨시츠", meaning: "변질",
+    example: "食品が変質しています。", exampleReading: "しょくひんがへんしつしています。", exampleKorean: "쇼쿠힝가 헨시츠 시테 이마스", exampleMeaning: "식품이 변질되고 있습니다.",
+    breakdown: [
+      { word: "食品", reading: "しょくひん", meaning: "식품" }
+    ] },
+  { level: "N3", kanji: "変容", reading: "へんよう", korean: "헨요-", meaning: "변용",
+    example: "街の風景が変容しました。", exampleReading: "まちのふうけいがへんようしました。", exampleKorean: "마치노 후-케-가 헨요- 시마시타", exampleMeaning: "거리의 풍경이 변모했습니다.",
+    breakdown: [
+      { word: "風景", reading: "ふうけい", meaning: "풍경" }
+    ] },
+  { level: "N3", kanji: "変貌", reading: "へんぼう", korean: "헨보-", meaning: "변모",
+    example: "町の姿が変貌しました。", exampleReading: "まちのすがたがへんぼうしました。", exampleKorean: "마치노 스가타가 헨보- 시마시타", exampleMeaning: "마을의 모습이 변모했습니다.",
+    breakdown: [
+      { word: "姿", reading: "すがた", meaning: "모습" }
+    ] },
+  { level: "N3", kanji: "変遷", reading: "へんせん", korean: "헨센", meaning: "변천",
+    example: "言葉は時代とともに変遷します。", exampleReading: "ことばはじだいとともにへんせんします。", exampleKorean: "코토바와 지다이토 토모니 헨센시마스", exampleMeaning: "말은 시대와 함께 변천합니다.",
+    breakdown: [
+      { word: "時代とともに", reading: "じだいとともに", meaning: "시대와 함께" }
+    ] },
+  { level: "N3", kanji: "推移", reading: "すいい", korean: "스이이", meaning: "추이",
+    example: "状況の推移を見守ります。", exampleReading: "じょうきょうのすいいをみまもります。", exampleKorean: "죠-쿄-노 스이이오 미마모리마스", exampleMeaning: "상황의 추이를 지켜봅니다.",
+    breakdown: [
+      { word: "状況", reading: "じょうきょう", meaning: "상황" }
+    ] },
+  { level: "N3", kanji: "由来", reading: "ゆらい", korean: "유라이", meaning: "유래",
+    example: "この地名の由来を調べました。", exampleReading: "このちめいのゆらいをしらべました。", exampleKorean: "코노 치메-노 유라이오 시라베마시타", exampleMeaning: "이 지명의 유래를 조사했습니다.",
+    breakdown: [
+      { word: "地名", reading: "ちめい", meaning: "지명" }
+    ] },
+  { level: "N3", kanji: "起源", reading: "きげん", korean: "키겐", meaning: "기원",
+    example: "文明の起源を研究しています。", exampleReading: "ぶんめいのきげんをけんきゅうしています。", exampleKorean: "붐메-노 키겡오 켕큐- 시테 이마스", exampleMeaning: "문명의 기원을 연구하고 있습니다.",
+    breakdown: [
+      { word: "文明", reading: "ぶんめい", meaning: "문명" }
+    ] },
+  { level: "N3", kanji: "発祥", reading: "はっしょう", korean: "핫쇼-", meaning: "발상(지)",
+    example: "このお菓子は京都が発祥です。", exampleReading: "このおかしはきょうとがはっしょうです。", exampleKorean: "코노 오카시와 쿄-토가 핫쇼-데스", exampleMeaning: "이 과자는 교토가 발상지입니다.",
+    breakdown: [
+      { word: "お菓子", reading: "おかし", meaning: "과자" }
+    ] },
+  { level: "N3", kanji: "誇り", reading: "ほこり", korean: "호코리", meaning: "자부심",
+    example: "仕事に誇りを持っています。", exampleReading: "しごとにほこりをもっています。", exampleKorean: "시고토니 호코리오 못테 이마스", exampleMeaning: "일에 자부심을 가지고 있습니다.",
+    breakdown: [
+      { word: "仕事", reading: "しごと", meaning: "일" }
+    ] },
+  { level: "N3", kanji: "誇張", reading: "こちょう", korean: "코쵸-", meaning: "과장",
+    example: "誇張して話しました。", exampleReading: "こちょうしてはなしました。", exampleKorean: "코쵸-시테 하나시마시타", exampleMeaning: "과장해서 말했습니다.",
+    breakdown: [
+      { word: "話しました", reading: "はなしました", meaning: "말했습니다" }
+    ] },
+  { level: "N3", kanji: "謙遜", reading: "けんそん", korean: "켄손", meaning: "겸손",
+    example: "彼はいつも謙遜しています。", exampleReading: "かれはいつもけんそんしています。", exampleKorean: "카레와 이츠모 켄손시테 이마스", exampleMeaning: "그는 항상 겸손합니다.",
+    breakdown: [
+      { word: "いつも", reading: "いつも", meaning: "항상" }
+    ] },
+  { level: "N3", kanji: "自慢", reading: "じまん", korean: "지만", meaning: "자랑",
+    example: "子供を自慢しました。", exampleReading: "こどもをじまんしました。", exampleKorean: "코도모오 지만 시마시타", exampleMeaning: "아이를 자랑했습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N3", kanji: "反発", reading: "はんぱつ", korean: "한파츠", meaning: "반발",
+    example: "強い反発を招きました。", exampleReading: "つよいはんぱつをまねきました。", exampleKorean: "츠요이 한파츠오 마네키마시타", exampleMeaning: "강한 반발을 불러일으켰습니다.",
+    breakdown: [
+      { word: "招きました", reading: "まねきました", meaning: "불러일으켰습니다" }
+    ] },
+  { level: "N3", kanji: "抵抗", reading: "ていこう", korean: "테-코-", meaning: "저항",
+    example: "変化に抵抗を感じます。", exampleReading: "へんかにていこうをかんじます。", exampleKorean: "헹카니 테-코-오 칸지마스", exampleMeaning: "변화에 저항을 느낍니다.",
+    breakdown: [
+      { word: "変化", reading: "へんか", meaning: "변화" }
+    ] },
+  { level: "N3", kanji: "妨害", reading: "ぼうがい", korean: "보-가이", meaning: "방해",
+    example: "電波を妨害しています。", exampleReading: "でんぱをぼうがいしています。", exampleKorean: "덴파오 보-가이 시테 이마스", exampleMeaning: "전파를 방해하고 있습니다.",
+    breakdown: [
+      { word: "電波", reading: "でんぱ", meaning: "전파" }
+    ] },
+  { level: "N3", kanji: "干渉", reading: "かんしょう", korean: "칸쇼-", meaning: "간섭",
+    example: "他人の生活に干渉しないでください。", exampleReading: "たにんのせいかつにかんしょうしないでください。", exampleKorean: "타닌노 세-카츠니 칸쇼-시나이데 쿠다사이", exampleMeaning: "타인의 생활에 간섭하지 마세요.",
+    breakdown: [
+      { word: "他人", reading: "たにん", meaning: "타인" }
+    ] },
+  { level: "N3", kanji: "束縛", reading: "そくばく", korean: "소쿠바쿠", meaning: "속박",
+    example: "自由を束縛されたくないです。", exampleReading: "じゆうをそくばくされたくないです。", exampleKorean: "지유-오 소쿠바쿠사레타쿠나이데스", exampleMeaning: "자유를 속박당하고 싶지 않습니다.",
+    breakdown: [
+      { word: "自由", reading: "じゆう", meaning: "자유" }
+    ] },
+  { level: "N3", kanji: "拘る", reading: "こだわる", korean: "코다와루", meaning: "집착하다, 신경쓰다",
+    example: "細かいことに拘りすぎます。", exampleReading: "こまかいことにこだわりすぎます。", exampleKorean: "코마카이 코토니 코다와리스기마스", exampleMeaning: "사소한 것에 너무 집착합니다.",
+    breakdown: [
+      { word: "細かいこと", reading: "こまかいこと", meaning: "사소한 것" }
+    ] },
+  { level: "N3", kanji: "決心", reading: "けっしん", korean: "켓신", meaning: "결심",
+    example: "留学する決心をしました。", exampleReading: "りゅうがくするけっしんをしました。", exampleKorean: "류-가쿠스루 켓싱오 시마시타", exampleMeaning: "유학하기로 결심했습니다.",
+    breakdown: [
+      { word: "留学する", reading: "りゅうがくする", meaning: "유학하다" }
+    ] },
+  { level: "N3", kanji: "意志", reading: "いし", korean: "이시", meaning: "의지",
+    example: "強い意志を持っています。", exampleReading: "つよいいしをもっています。", exampleKorean: "츠요이 이시오 못테 이마스", exampleMeaning: "강한 의지를 가지고 있습니다.",
+    breakdown: [
+      { word: "強い", reading: "つよい", meaning: "강한" }
+    ] },
+  { level: "N3", kanji: "根性", reading: "こんじょう", korean: "콘죠-", meaning: "근성",
+    example: "彼には根性があります。", exampleReading: "かれにはこんじょうがあります。", exampleKorean: "카레니와 콘죠-가 아리마스", exampleMeaning: "그에게는 근성이 있습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N3", kanji: "忍耐", reading: "にんたい", korean: "닌타이", meaning: "인내",
+    example: "忍耐が必要な仕事です。", exampleReading: "にんたいがひつようなしごとです。", exampleKorean: "닌타이가 히츠요-나 시고토데스", exampleMeaning: "인내가 필요한 일입니다.",
+    breakdown: [
+      { word: "必要な", reading: "ひつような", meaning: "필요한" }
+    ] },
+  { level: "N3", kanji: "粘り強い", reading: "ねばりづよい", korean: "네바리즈요이", meaning: "끈기있다",
+    example: "粘り強く努力しました。", exampleReading: "ねばりづよくどりょくしました。", exampleKorean: "네바리즈요쿠 도료쿠 시마시타", exampleMeaning: "끈기있게 노력했습니다.",
+    breakdown: [
+      { word: "努力しました", reading: "どりょくしました", meaning: "노력했습니다" }
+    ] },
+  { level: "N3", kanji: "冷淡", reading: "れいたん", korean: "레-탄", meaning: "냉담",
+    example: "彼の態度は冷淡でした。", exampleReading: "かれのたいどはれいたんでした。", exampleKorean: "카레노 타이도와 레-탄데시타", exampleMeaning: "그의 태도는 냉담했습니다.",
+    breakdown: [
+      { word: "態度", reading: "たいど", meaning: "태도" }
+    ] },
+  { level: "N3", kanji: "無関心", reading: "むかんしん", korean: "무칸신", meaning: "무관심",
+    example: "政治に無関心な人が多いです。", exampleReading: "せいじにむかんしんなひとがおおいです。", exampleKorean: "세-지니 무칸신나 히토가 오-이데스", exampleMeaning: "정치에 무관심한 사람이 많습니다.",
+    breakdown: [
+      { word: "政治", reading: "せいじ", meaning: "정치" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
