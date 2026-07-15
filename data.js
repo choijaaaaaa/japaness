@@ -7553,6 +7553,206 @@ const VOCAB = [
     breakdown: [
       { word: "経済", reading: "けいざい", meaning: "경제" }
     ] },
+  { level: "N3", kanji: "文脈", reading: "ぶんみゃく", korean: "붕먀쿠", meaning: "문맥",
+    example: "文脈から意味を推測しました。", exampleReading: "ぶんみゃくからいみをすいそくしました。", exampleKorean: "붕먀쿠카라 이미오 스이소쿠 시마시타", exampleMeaning: "문맥에서 의미를 추측했습니다.",
+    breakdown: [
+      { word: "意味", reading: "いみ", meaning: "의미" }
+    ] },
+  { level: "N3", kanji: "脈絡", reading: "みゃくらく", korean: "먀쿠라쿠", meaning: "맥락",
+    example: "話に脈絡がありません。", exampleReading: "はなしにみゃくらくがありません。", exampleKorean: "하나시니 먀쿠라쿠가 아리마셍", exampleMeaning: "이야기에 맥락이 없습니다.",
+    breakdown: [
+      { word: "話", reading: "はなし", meaning: "이야기" }
+    ] },
+  { level: "N3", kanji: "趣旨", reading: "しゅし", korean: "슈시", meaning: "취지",
+    example: "会議の趣旨を説明しました。", exampleReading: "かいぎのしゅしをせつめいしました。", exampleKorean: "카이기노 슈시오 세츠메- 시마시타", exampleMeaning: "회의의 취지를 설명했습니다.",
+    breakdown: [
+      { word: "会議", reading: "かいぎ", meaning: "회의" }
+    ] },
+  { level: "N3", kanji: "主旨", reading: "しゅし", korean: "슈시", meaning: "주지, 요지",
+    example: "発表の主旨をまとめました。", exampleReading: "はっぴょうのしゅしをまとめました。", exampleKorean: "핫표-노 슈시오 마토메마시타", exampleMeaning: "발표의 요지를 정리했습니다.",
+    breakdown: [
+      { word: "発表", reading: "はっぴょう", meaning: "발표" }
+    ] },
+  { level: "N3", kanji: "見出し", reading: "みだし", korean: "미다시", meaning: "표제, 헤드라인",
+    example: "新聞の見出しを読みました。", exampleReading: "しんぶんのみだしをよみました。", exampleKorean: "심분노 미다시오 요미마시타", exampleMeaning: "신문의 표제를 읽었습니다.",
+    breakdown: [
+      { word: "新聞", reading: "しんぶん", meaning: "신문" }
+    ] },
+  { level: "N3", kanji: "要旨", reading: "ようし", korean: "요-시", meaning: "요지",
+    example: "論文の要旨を書きました。", exampleReading: "ろんぶんのようしをかきました。", exampleKorean: "론분노 요-시오 카키마시타", exampleMeaning: "논문의 요지를 썼습니다.",
+    breakdown: [
+      { word: "論文", reading: "ろんぶん", meaning: "논문" }
+    ] },
+  { level: "N3", kanji: "抜粋", reading: "ばっすい", korean: "밧스이", meaning: "발췌",
+    example: "本の一部を抜粋しました。", exampleReading: "ほんのいちぶをばっすいしました。", exampleKorean: "혼노 이치부오 밧스이 시마시타", exampleMeaning: "책의 일부를 발췌했습니다.",
+    breakdown: [
+      { word: "一部", reading: "いちぶ", meaning: "일부" }
+    ] },
+  { level: "N3", kanji: "引用", reading: "いんよう", korean: "인요-", meaning: "인용",
+    example: "論文からの引用です。", exampleReading: "ろんぶんからのいんようです。", exampleKorean: "론분카라노 인요-데스", exampleMeaning: "논문에서의 인용입니다.",
+    breakdown: [
+      { word: "論文", reading: "ろんぶん", meaning: "논문" }
+    ] },
+  { level: "N3", kanji: "出典", reading: "しゅってん", korean: "슛텐", meaning: "출전, 출처",
+    example: "出典を明記してください。", exampleReading: "しゅってんをめいきしてください。", exampleKorean: "슛텐오 메-키 시테 쿠다사이", exampleMeaning: "출처를 명기해 주세요.",
+    breakdown: [
+      { word: "明記して", reading: "めいきして", meaning: "명기해서" }
+    ] },
+  { level: "N3", kanji: "根底", reading: "こんてい", korean: "콘테-", meaning: "근저, 근본",
+    example: "問題の根底にあるものを探ります。", exampleReading: "もんだいのこんていにあるものをさぐります。", exampleKorean: "몬다이노 콘테-니 아루 모노오 사구리마스", exampleMeaning: "문제의 근본에 있는 것을 탐구합니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N3", kanji: "土台", reading: "どだい", korean: "도다이", meaning: "토대",
+    example: "家の土台を作りました。", exampleReading: "いえのどだいをつくりました。", exampleKorean: "이에노 도다이오 츠쿠리마시타", exampleMeaning: "집의 토대를 만들었습니다.",
+    breakdown: [
+      { word: "家", reading: "いえ", meaning: "집" }
+    ] },
+  { level: "N3", kanji: "礎", reading: "いしずえ", korean: "이시즈에", meaning: "초석, 기초",
+    example: "国の礎を築きました。", exampleReading: "くにのいしずえをきずきました。", exampleKorean: "쿠니노 이시즈에오 키즈키마시타", exampleMeaning: "나라의 초석을 쌓았습니다.",
+    breakdown: [
+      { word: "築きました", reading: "きずきました", meaning: "쌓았습니다" }
+    ] },
+  { level: "N3", kanji: "土壌", reading: "どじょう", korean: "도죠-", meaning: "토양",
+    example: "この土壌は農業に適しています。", exampleReading: "このどじょうはのうぎょうにてきしています。", exampleKorean: "코노 도죠-와 노-교-니 테키시테 이마스", exampleMeaning: "이 토양은 농업에 적합합니다.",
+    breakdown: [
+      { word: "農業", reading: "のうぎょう", meaning: "농업" }
+    ] },
+  { level: "N3", kanji: "培地", reading: "ばいち", korean: "바이치", meaning: "배지(생물학)",
+    example: "細菌を培地で育てました。", exampleReading: "さいきんをばいちでそだてました。", exampleKorean: "사이킹오 바이치데 소다테마시타", exampleMeaning: "세균을 배지에서 배양했습니다.",
+    breakdown: [
+      { word: "細菌", reading: "さいきん", meaning: "세균" }
+    ] },
+  { level: "N3", kanji: "萌芽", reading: "ほうが", korean: "호-가", meaning: "맹아, 싹틈",
+    example: "新しい文化の萌芽が見られます。", exampleReading: "あたらしいぶんかのほうががみられます。", exampleKorean: "아타라시- 붕카노 호-가가 미라레마스", exampleMeaning: "새로운 문화의 싹틈이 보입니다.",
+    breakdown: [
+      { word: "文化", reading: "ぶんか", meaning: "문화" }
+    ] },
+  { level: "N3", kanji: "兆す", reading: "きざす", korean: "키자스", meaning: "조짐이 보이다",
+    example: "春の気配が兆してきました。", exampleReading: "はるのけはいがきざしてきました。", exampleKorean: "하루노 케하이가 키자시테 키마시타", exampleMeaning: "봄의 기운이 나타나기 시작했습니다.",
+    breakdown: [
+      { word: "気配", reading: "けはい", meaning: "기운, 기색" }
+    ] },
+  { level: "N3", kanji: "芽生える", reading: "めばえる", korean: "메바에루", meaning: "싹트다",
+    example: "二人の間に愛が芽生えました。", exampleReading: "ふたりのあいだにあいがめばえました。", exampleKorean: "후타리노 아이다니 아이가 메바에마시타", exampleMeaning: "두 사람 사이에 사랑이 싹텄습니다.",
+    breakdown: [
+      { word: "愛", reading: "あい", meaning: "사랑" }
+    ] },
+  { level: "N3", kanji: "醸す", reading: "かもす", korean: "카모스", meaning: "자아내다, 빚다",
+    example: "不安な雰囲気を醸しています。", exampleReading: "ふあんなふんいきをかもしています。", exampleKorean: "후안나 훙이키오 카모시테 이마스", exampleMeaning: "불안한 분위기를 자아내고 있습니다.",
+    breakdown: [
+      { word: "雰囲気", reading: "ふんいき", meaning: "분위기" }
+    ] },
+  { level: "N3", kanji: "染み込む", reading: "しみこむ", korean: "시미코무", meaning: "스며들다",
+    example: "雨水が土に染み込みました。", exampleReading: "あめみずがつちにしみこみました。", exampleKorean: "아메미즈가 츠치니 시미코미마시타", exampleMeaning: "빗물이 흙에 스며들었습니다.",
+    breakdown: [
+      { word: "雨水", reading: "あめみず", meaning: "빗물" }
+    ] },
+  { level: "N3", kanji: "浸透", reading: "しんとう", korean: "신토-", meaning: "침투",
+    example: "新しい考え方が浸透しています。", exampleReading: "あたらしいかんがえかたがしんとうしています。", exampleKorean: "아타라시- 캉가에카타가 신토- 시테 이마스", exampleMeaning: "새로운 사고방식이 침투하고 있습니다.",
+    breakdown: [
+      { word: "考え方", reading: "かんがえかた", meaning: "사고방식" }
+    ] },
+  { level: "N3", kanji: "染まる", reading: "そまる", korean: "소마루", meaning: "물들다",
+    example: "空が赤く染まりました。", exampleReading: "そらがあかくそまりました。", exampleKorean: "소라가 아카쿠 소마리마시타", exampleMeaning: "하늘이 붉게 물들었습니다.",
+    breakdown: [
+      { word: "空", reading: "そら", meaning: "하늘" }
+    ] },
+  { level: "N3", kanji: "漂う", reading: "ただよう", korean: "타다요우", meaning: "떠돌다, 감돌다",
+    example: "甘い香りが漂っています。", exampleReading: "あまいかおりがただよっています。", exampleKorean: "아마이 카오리가 타다욧테 이마스", exampleMeaning: "달콤한 향기가 감돌고 있습니다.",
+    breakdown: [
+      { word: "香り", reading: "かおり", meaning: "향기" }
+    ] },
+  { level: "N3", kanji: "漂わせる", reading: "ただよわせる", korean: "타다요와세루", meaning: "감돌게 하다",
+    example: "緊張感を漂わせています。", exampleReading: "きんちょうかんをただよわせています。", exampleKorean: "킨쵸-캉오 타다요와세테 이마스", exampleMeaning: "긴장감을 감돌게 하고 있습니다.",
+    breakdown: [
+      { word: "緊張感", reading: "きんちょうかん", meaning: "긴장감" }
+    ] },
+  { level: "N3", kanji: "滲む", reading: "にじむ", korean: "니지무", meaning: "번지다",
+    example: "涙で文字が滲みました。", exampleReading: "なみだでもじがにじみました。", exampleKorean: "나미다데 모지가 니지미마시타", exampleMeaning: "눈물로 글자가 번졌습니다.",
+    breakdown: [
+      { word: "涙", reading: "なみだ", meaning: "눈물" }
+    ] },
+  { level: "N3", kanji: "溶け込む", reading: "とけこむ", korean: "토케코무", meaning: "녹아들다, 어우러지다",
+    example: "新しい環境に溶け込みました。", exampleReading: "あたらしいかんきょうにとけこみました。", exampleKorean: "아타라시- 캉쿄-니 토케코미마시타", exampleMeaning: "새로운 환경에 녹아들었습니다.",
+    breakdown: [
+      { word: "環境", reading: "かんきょう", meaning: "환경" }
+    ] },
+  { level: "N3", kanji: "馴染ませる", reading: "なじませる", korean: "나지마세루", meaning: "익숙해지게 하다",
+    example: "色を馴染ませました。", exampleReading: "いろをなじませました。", exampleKorean: "이로오 나지마세마시타", exampleMeaning: "색을 자연스럽게 어우러지게 했습니다.",
+    breakdown: [
+      { word: "色", reading: "いろ", meaning: "색" }
+    ] },
+  { level: "N3", kanji: "刻む", reading: "きざむ", korean: "키자무", meaning: "새기다, 잘게 썰다",
+    example: "野菜を細かく刻みました。", exampleReading: "やさいをこまかくきざみました。", exampleKorean: "야사이오 코마카쿠 키자미마시타", exampleMeaning: "채소를 잘게 썰었습니다.",
+    breakdown: [
+      { word: "野菜", reading: "やさい", meaning: "채소" }
+    ] },
+  { level: "N3", kanji: "刻み込む", reading: "きざみこむ", korean: "키자미코무", meaning: "각인시키다",
+    example: "記憶に刻み込まれました。", exampleReading: "きおくにきざみこまれました。", exampleKorean: "키오쿠니 키자미코마레마시타", exampleMeaning: "기억에 각인되었습니다.",
+    breakdown: [
+      { word: "記憶", reading: "きおく", meaning: "기억" }
+    ] },
+  { level: "N3", kanji: "刻々と", reading: "こくこくと", korean: "코쿠코쿠토", meaning: "시시각각",
+    example: "状況が刻々と変化しています。", exampleReading: "じょうきょうがこくこくとへんかしています。", exampleKorean: "죠-쿄-가 코쿠코쿠토 헹카 시테 이마스", exampleMeaning: "상황이 시시각각 변화하고 있습니다.",
+    breakdown: [
+      { word: "状況", reading: "じょうきょう", meaning: "상황" }
+    ] },
+  { level: "N3", kanji: "刻一刻", reading: "こくいっこく", korean: "코쿠익코쿠", meaning: "시시각각",
+    example: "刻一刻と時間が過ぎていきます。", exampleReading: "こくいっこくとじかんがすぎていきます。", exampleKorean: "코쿠익코쿠토 지캉가 스기테 이키마스", exampleMeaning: "시시각각 시간이 지나갑니다.",
+    breakdown: [
+      { word: "時間", reading: "じかん", meaning: "시간" }
+    ] },
+  { level: "N3", kanji: "秒刻み", reading: "びょうきざみ", korean: "보-키자미", meaning: "초 단위",
+    example: "秒刻みのスケジュールです。", exampleReading: "びょうきざみのスケジュールです。", exampleKorean: "보-키자미노 스케쥬-루데스", exampleMeaning: "초 단위의 스케줄입니다.",
+    breakdown: [
+      { word: "スケジュール", reading: "スケジュール", meaning: "스케줄" }
+    ] },
+  { level: "N3", kanji: "端緒", reading: "たんしょ", korean: "탄쇼", meaning: "단서, 실마리",
+    example: "事件解決の端緒をつかみました。", exampleReading: "じけんかいけつのたんしょをつかみました。", exampleKorean: "지켄카이케츠노 탄쇼오 츠카미마시타", exampleMeaning: "사건 해결의 실마리를 잡았습니다.",
+    breakdown: [
+      { word: "事件解決", reading: "じけんかいけつ", meaning: "사건 해결" }
+    ] },
+  { level: "N3", kanji: "手がかり", reading: "てがかり", korean: "테가카리", meaning: "단서",
+    example: "犯人の手がかりを見つけました。", exampleReading: "はんにんのてがかりをみつけました。", exampleKorean: "한닌노 테가카리오 미츠케마시타", exampleMeaning: "범인의 단서를 찾았습니다.",
+    breakdown: [
+      { word: "犯人", reading: "はんにん", meaning: "범인" }
+    ] },
+  { level: "N3", kanji: "糸口", reading: "いとぐち", korean: "이토구치", meaning: "실마리",
+    example: "解決の糸口が見えてきました。", exampleReading: "かいけつのいとぐちがみえてきました。", exampleKorean: "카이케츠노 이토구치가 미에테 키마시타", exampleMeaning: "해결의 실마리가 보이기 시작했습니다.",
+    breakdown: [
+      { word: "解決", reading: "かいけつ", meaning: "해결" }
+    ] },
+  { level: "N3", kanji: "突破口", reading: "とっぱこう", korean: "톳파코-", meaning: "돌파구",
+    example: "突破口を見つけました。", exampleReading: "とっぱこうをみつけました。", exampleKorean: "톳파코-오 미츠케마시타", exampleMeaning: "돌파구를 찾았습니다.",
+    breakdown: [
+      { word: "見つけました", reading: "みつけました", meaning: "찾았습니다" }
+    ] },
+  { level: "N3", kanji: "突破", reading: "とっぱ", korean: "톳파", meaning: "돌파",
+    example: "記録を突破しました。", exampleReading: "きろくをとっぱしました。", exampleKorean: "키로쿠오 톳파 시마시타", exampleMeaning: "기록을 돌파했습니다.",
+    breakdown: [
+      { word: "記録", reading: "きろく", meaning: "기록" }
+    ] },
+  { level: "N3", kanji: "打破", reading: "だは", korean: "다하", meaning: "타파",
+    example: "悪習を打破しました。", exampleReading: "あくしゅうをだはしました。", exampleKorean: "아쿠슈-오 다하 시마시타", exampleMeaning: "악습을 타파했습니다.",
+    breakdown: [
+      { word: "悪習", reading: "あくしゅう", meaning: "악습" }
+    ] },
+  { level: "N3", kanji: "打倒", reading: "だとう", korean: "다토-", meaning: "타도",
+    example: "強敵を打倒しました。", exampleReading: "きょうてきをだとうしました。", exampleKorean: "쿄-테키오 다토- 시마시타", exampleMeaning: "강적을 타도했습니다.",
+    breakdown: [
+      { word: "強敵", reading: "きょうてき", meaning: "강적" }
+    ] },
+  { level: "N3", kanji: "摘発", reading: "てきはつ", korean: "테키하츠", meaning: "적발",
+    example: "不正が摘発されました。", exampleReading: "ふせいがてきはつされました。", exampleKorean: "후세-가 테키하츠 사레마시타", exampleMeaning: "부정이 적발되었습니다.",
+    breakdown: [
+      { word: "不正", reading: "ふせい", meaning: "부정" }
+    ] },
+  { level: "N3", kanji: "露呈", reading: "ろてい", korean: "로테-", meaning: "노정, 드러남",
+    example: "問題点が露呈しました。", exampleReading: "もんだいてんがろていしました。", exampleKorean: "몬다이텡가 로테- 시마시타", exampleMeaning: "문제점이 드러났습니다.",
+    breakdown: [
+      { word: "問題点", reading: "もんだいてん", meaning: "문제점" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
