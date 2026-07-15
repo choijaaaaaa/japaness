@@ -9653,6 +9653,206 @@ const VOCAB = [
     breakdown: [
       { word: "好み", reading: "このみ", meaning: "취향" }
     ] },
+  { level: "N3", kanji: "環境保護", reading: "かんきょうほご", korean: "캉쿄-호고", meaning: "환경보호",
+    example: "環境保護に取り組んでいます。", exampleReading: "かんきょうほごにとりくんでいます。", exampleKorean: "캉쿄-호고니 토리쿤데 이마스", exampleMeaning: "환경보호에 힘쓰고 있습니다.",
+    breakdown: [
+      { word: "取り組んで", reading: "とりくんで", meaning: "힘써서" }
+    ] },
+  { level: "N3", kanji: "再生可能エネルギー", reading: "さいせいかのうエネルギー", korean: "사이세-카노- 에네루기-", meaning: "재생가능에너지",
+    example: "再生可能エネルギーを導入しました。", exampleReading: "さいせいかのうエネルギーをどうにゅうしました。", exampleKorean: "사이세-카노- 에네루기-오 도-뉴- 시마시타", exampleMeaning: "재생가능에너지를 도입했습니다.",
+    breakdown: [
+      { word: "導入", reading: "どうにゅう", meaning: "도입" }
+    ] },
+  { level: "N3", kanji: "太陽光発電", reading: "たいようこうはつでん", korean: "타이요-코-핫덴", meaning: "태양광발전",
+    example: "太陽光発電を設置しました。", exampleReading: "たいようこうはつでんをせっちしました。", exampleKorean: "타이요-코-핫덴오 셋치 시마시타", exampleMeaning: "태양광발전을 설치했습니다.",
+    breakdown: [
+      { word: "設置", reading: "せっち", meaning: "설치" }
+    ] },
+  { level: "N3", kanji: "風力発電", reading: "ふうりょくはつでん", korean: "후-료쿠핫덴", meaning: "풍력발전",
+    example: "風力発電の施設があります。", exampleReading: "ふうりょくはつでんのしせつがあります。", exampleKorean: "후-료쿠핫덴노 시세츠가 아리마스", exampleMeaning: "풍력발전 시설이 있습니다.",
+    breakdown: [
+      { word: "施設", reading: "しせつ", meaning: "시설" }
+    ] },
+  { level: "N3", kanji: "原子力発電", reading: "げんしりょくはつでん", korean: "겐시료쿠핫덴", meaning: "원자력발전",
+    example: "原子力発電の是非が議論されています。", exampleReading: "げんしりょくはつでんのぜひがぎろんされています。", exampleKorean: "겐시료쿠핫덴노 제히가 기론사레테 이마스", exampleMeaning: "원자력발전의 시비가 논의되고 있습니다.",
+    breakdown: [
+      { word: "議論", reading: "ぎろん", meaning: "논의" }
+    ] },
+  { level: "N3", kanji: "化石燃料", reading: "かせきねんりょう", korean: "카세키넨료-", meaning: "화석연료",
+    example: "化石燃料への依存を減らしています。", exampleReading: "かせきねんりょうへのいぞんをへらしています。", exampleKorean: "카세키넨료-에노 이존오 헤라시테 이마스", exampleMeaning: "화석연료 의존을 줄이고 있습니다.",
+    breakdown: [
+      { word: "依存", reading: "いぞん", meaning: "의존" }
+    ] },
+  { level: "N3", kanji: "脱炭素", reading: "だつたんそ", korean: "다츠탄소", meaning: "탈탄소",
+    example: "脱炭素社会を目指しています。", exampleReading: "だつたんそしゃかいをめざしています。", exampleKorean: "다츠탄소 샤카이오 메자시테 이마스", exampleMeaning: "탈탄소 사회를 지향하고 있습니다.",
+    breakdown: [
+      { word: "社会", reading: "しゃかい", meaning: "사회" }
+    ] },
+  { level: "N3", kanji: "二酸化炭素", reading: "にさんかたんそ", korean: "니산카탄소", meaning: "이산화탄소",
+    example: "二酸化炭素の排出を削減しました。", exampleReading: "にさんかたんそのはいしゅつをさくげんしました。", exampleKorean: "니산카탄소노 하이슈츠오 사쿠겐 시마시타", exampleMeaning: "이산화탄소 배출을 줄였습니다.",
+    breakdown: [
+      { word: "排出", reading: "はいしゅつ", meaning: "배출" }
+    ] },
+  { level: "N3", kanji: "排出量", reading: "はいしゅつりょう", korean: "하이슈츠료-", meaning: "배출량",
+    example: "排出量を測定しました。", exampleReading: "はいしゅつりょうをそくていしました。", exampleKorean: "하이슈츠료-오 소쿠테- 시마시타", exampleMeaning: "배출량을 측정했습니다.",
+    breakdown: [
+      { word: "測定", reading: "そくてい", meaning: "측정" }
+    ] },
+  { level: "N3", kanji: "循環型社会", reading: "じゅんかんがたしゃかい", korean: "쥰칸가타샤카이", meaning: "순환형사회",
+    example: "循環型社会を実現したいです。", exampleReading: "じゅんかんがたしゃかいをじつげんしたいです。", exampleKorean: "쥰칸가타샤카이오 지츠겐시타이데스", exampleMeaning: "순환형사회를 실현하고 싶습니다.",
+    breakdown: [
+      { word: "実現", reading: "じつげん", meaning: "실현" }
+    ] },
+  { level: "N3", kanji: "リサイクル", reading: "リサイクル", korean: "리사이쿠루", meaning: "재활용",
+    example: "ペットボトルをリサイクルしました。", exampleReading: "ペットボトルをリサイクルしました。", exampleKorean: "펫토보토루오 리사이쿠루 시마시타", exampleMeaning: "페트병을 재활용했습니다.",
+    breakdown: [
+      { word: "ペットボトル", reading: "ペットボトル", meaning: "페트병" }
+    ] },
+  { level: "N3", kanji: "ゴミ分別", reading: "ゴミぶんべつ", korean: "고미분베츠", meaning: "쓰레기 분리수거",
+    example: "ゴミ分別のルールを守っています。", exampleReading: "ゴミぶんべつのルールをまもっています。", exampleKorean: "고미분베츠노 루-루오 마못테 이마스", exampleMeaning: "쓰레기 분리수거 규칙을 지키고 있습니다.",
+    breakdown: [
+      { word: "ルール", reading: "ルール", meaning: "규칙" }
+    ] },
+  { level: "N3", kanji: "省エネ", reading: "しょうエネ", korean: "쇼-에네", meaning: "에너지 절약",
+    example: "省エネを心がけています。", exampleReading: "しょうエネをこころがけています。", exampleKorean: "쇼-에네오 코코로가케테 이마스", exampleMeaning: "에너지 절약을 유념하고 있습니다.",
+    breakdown: [
+      { word: "心がけて", reading: "こころがけて", meaning: "유념해서" }
+    ] },
+  { level: "N3", kanji: "節水", reading: "せっすい", korean: "셋스이", meaning: "절수",
+    example: "節水を心がけています。", exampleReading: "せっすいをこころがけています。", exampleKorean: "셋스이오 코코로가케테 이마스", exampleMeaning: "절수를 유념하고 있습니다.",
+    breakdown: [
+      { word: "心がけて", reading: "こころがけて", meaning: "유념해서" }
+    ] },
+  { level: "N3", kanji: "エコバッグ", reading: "エコバッグ", korean: "에코박구", meaning: "에코백",
+    example: "エコバッグを持って買い物します。", exampleReading: "エコバッグをもってかいものします。", exampleKorean: "에코박구오 못테 카이모노 시마스", exampleMeaning: "에코백을 가지고 쇼핑합니다.",
+    breakdown: [
+      { word: "買い物", reading: "かいもの", meaning: "쇼핑" }
+    ] },
+  { level: "N3", kanji: "使い捨て", reading: "つかいすて", korean: "츠카이스테", meaning: "일회용",
+    example: "使い捨ての容器は減らしたいです。", exampleReading: "つかいすてのようきはへらしたいです。", exampleKorean: "츠카이스테노 요-키와 헤라시타이데스", exampleMeaning: "일회용 용기는 줄이고 싶습니다.",
+    breakdown: [
+      { word: "容器", reading: "ようき", meaning: "용기" }
+    ] },
+  { level: "N3", kanji: "プラスチック製品", reading: "プラスチックせいひん", korean: "푸라스칙쿠세-힌", meaning: "플라스틱 제품",
+    example: "プラスチック製品の使用を減らしています。", exampleReading: "プラスチックせいひんのしようをへらしています。", exampleKorean: "푸라스칙쿠세-힌노 시요-오 헤라시테 이마스", exampleMeaning: "플라스틱 제품 사용을 줄이고 있습니다.",
+    breakdown: [
+      { word: "使用", reading: "しよう", meaning: "사용" }
+    ] },
+  { level: "N3", kanji: "海洋汚染", reading: "かいようおせん", korean: "카이요-오센", meaning: "해양오염",
+    example: "海洋汚染が深刻です。", exampleReading: "かいようおせんがしんこくです。", exampleKorean: "카이요-오센가 신코쿠데스", exampleMeaning: "해양오염이 심각합니다.",
+    breakdown: [
+      { word: "深刻", reading: "しんこく", meaning: "심각" }
+    ] },
+  { level: "N3", kanji: "生態系", reading: "せいたいけい", korean: "세-타이케-", meaning: "생태계",
+    example: "生態系を守る必要があります。", exampleReading: "せいたいけいをまもるひつようがあります。", exampleKorean: "세-타이케-오 마모루 히츠요-가 아리마스", exampleMeaning: "생태계를 지킬 필요가 있습니다.",
+    breakdown: [
+      { word: "守る", reading: "まもる", meaning: "지키다" }
+    ] },
+  { level: "N3", kanji: "絶滅危惧種", reading: "ぜつめつきぐしゅ", korean: "제츠메츠키구슈", meaning: "멸종위기종",
+    example: "絶滅危惧種を保護しています。", exampleReading: "ぜつめつきぐしゅをほごしています。", exampleKorean: "제츠메츠키구슈오 호고 시테 이마스", exampleMeaning: "멸종위기종을 보호하고 있습니다.",
+    breakdown: [
+      { word: "保護", reading: "ほご", meaning: "보호" }
+    ] },
+  { level: "N3", kanji: "生物多様性", reading: "せいぶつたようせい", korean: "세-부츠타요-세-", meaning: "생물다양성",
+    example: "生物多様性の保全が重要です。", exampleReading: "せいぶつたようせいのほぜんがじゅうようです。", exampleKorean: "세-부츠타요-세-노 호젠가 쥬-요-데스", exampleMeaning: "생물다양성 보전이 중요합니다.",
+    breakdown: [
+      { word: "保全", reading: "ほぜん", meaning: "보전" }
+    ] },
+  { level: "N3", kanji: "遺伝子", reading: "いでんし", korean: "이덴시", meaning: "유전자",
+    example: "遺伝子を研究しています。", exampleReading: "いでんしをけんきゅうしています。", exampleKorean: "이덴시오 켕큐- 시테 이마스", exampleMeaning: "유전자를 연구하고 있습니다.",
+    breakdown: [
+      { word: "研究", reading: "けんきゅう", meaning: "연구" }
+    ] },
+  { level: "N3", kanji: "遺伝", reading: "いでん", korean: "이덴", meaning: "유전",
+    example: "色は遺伝によるものです。", exampleReading: "いろはいでんによるものです。", exampleKorean: "이로와 이덴니 요루 모노데스", exampleMeaning: "색은 유전에 의한 것입니다.",
+    breakdown: [
+      { word: "色", reading: "いろ", meaning: "색" }
+    ] },
+  { level: "N3", kanji: "進化論", reading: "しんかろん", korean: "신카론", meaning: "진화론",
+    example: "進化論を学びました。", exampleReading: "しんかろんをまなびました。", exampleKorean: "신카론오 마나비마시타", exampleMeaning: "진화론을 배웠습니다.",
+    breakdown: [
+      { word: "学びました", reading: "まなびました", meaning: "배웠습니다" }
+    ] },
+  { level: "N3", kanji: "細胞", reading: "さいぼう", korean: "사이보-", meaning: "세포",
+    example: "細胞を観察しました。", exampleReading: "さいぼうをかんさつしました。", exampleKorean: "사이보-오 칸사츠 시마시타", exampleMeaning: "세포를 관찰했습니다.",
+    breakdown: [
+      { word: "観察", reading: "かんさつ", meaning: "관찰" }
+    ] },
+  { level: "N3", kanji: "微生物", reading: "びせいぶつ", korean: "비세-부츠", meaning: "미생물",
+    example: "微生物を培養しました。", exampleReading: "びせいぶつをばいようしました。", exampleKorean: "비세-부츠오 바이요- 시마시타", exampleMeaning: "미생물을 배양했습니다.",
+    breakdown: [
+      { word: "培養", reading: "ばいよう", meaning: "배양" }
+    ] },
+  { level: "N3", kanji: "免疫力", reading: "めんえきりょく", korean: "멘에키료쿠", meaning: "면역력",
+    example: "免疫力を高めましょう。", exampleReading: "めんえきりょくをたかめましょう。", exampleKorean: "멘에키료쿠오 타카메마쇼-", exampleMeaning: "면역력을 높입시다.",
+    breakdown: [
+      { word: "高めましょう", reading: "たかめましょう", meaning: "높입시다" }
+    ] },
+  { level: "N3", kanji: "ワクチン", reading: "ワクチン", korean: "와쿠친", meaning: "백신",
+    example: "ワクチンを接種しました。", exampleReading: "ワクチンをせっしゅしました。", exampleKorean: "와쿠친오 셋슈 시마시타", exampleMeaning: "백신을 접종했습니다.",
+    breakdown: [
+      { word: "接種", reading: "せっしゅ", meaning: "접종" }
+    ] },
+  { level: "N3", kanji: "抗体", reading: "こうたい", korean: "코-타이", meaning: "항체",
+    example: "抗体ができました。", exampleReading: "こうたいができました。", exampleKorean: "코-타이가 데키마시타", exampleMeaning: "항체가 생겼습니다.",
+    breakdown: [
+      { word: "できました", reading: "できました", meaning: "생겼습니다" }
+    ] },
+  { level: "N3", kanji: "感染症", reading: "かんせんしょう", korean: "칸센쇼-", meaning: "감염병",
+    example: "感染症が流行しています。", exampleReading: "かんせんしょうがりゅうこうしています。", exampleKorean: "칸센쇼-가 류-코- 시테 이마스", exampleMeaning: "감염병이 유행하고 있습니다.",
+    breakdown: [
+      { word: "流行", reading: "りゅうこう", meaning: "유행" }
+    ] },
+  { level: "N3", kanji: "潜伏期間", reading: "せんぷくきかん", korean: "센푸쿠키칸", meaning: "잠복기",
+    example: "潜伏期間は約二週間です。", exampleReading: "せんぷくきかんはやくにしゅうかんです。", exampleKorean: "센푸쿠키칸와 야쿠 니슈-칸데스", exampleMeaning: "잠복기는 약 2주간입니다.",
+    breakdown: [
+      { word: "約二週間", reading: "やくにしゅうかん", meaning: "약 2주간" }
+    ] },
+  { level: "N3", kanji: "パンデミック", reading: "パンデミック", korean: "판데믹쿠", meaning: "팬데믹",
+    example: "世界的なパンデミックが起こりました。", exampleReading: "せかいてきなパンデミックがおこりました。", exampleKorean: "세카이테키나 판데믹쿠가 오코리마시타", exampleMeaning: "세계적인 팬데믹이 발생했습니다.",
+    breakdown: [
+      { word: "世界的な", reading: "せかいてきな", meaning: "세계적인" }
+    ] },
+  { level: "N3", kanji: "隔離", reading: "かくり", korean: "카쿠리", meaning: "격리",
+    example: "感染者を隔離しました。", exampleReading: "かんせんしゃをかくりしました。", exampleKorean: "칸센샤오 카쿠리 시마시타", exampleMeaning: "감염자를 격리했습니다.",
+    breakdown: [
+      { word: "感染者", reading: "かんせんしゃ", meaning: "감염자" }
+    ] },
+  { level: "N3", kanji: "集団免疫", reading: "しゅうだんめんえき", korean: "슈-단멘에키", meaning: "집단면역",
+    example: "集団免疫を獲得しました。", exampleReading: "しゅうだんめんえきをかくとくしました。", exampleKorean: "슈-단멘에키오 카쿠토쿠 시마시타", exampleMeaning: "집단면역을 획득했습니다.",
+    breakdown: [
+      { word: "獲得", reading: "かくとく", meaning: "획득" }
+    ] },
+  { level: "N3", kanji: "変異株", reading: "へんいかぶ", korean: "헨이카부", meaning: "변이주",
+    example: "新しい変異株が見つかりました。", exampleReading: "あたらしいへんいかぶがみつかりました。", exampleKorean: "아타라시- 헨이카부가 미츠카리마시타", exampleMeaning: "새로운 변이주가 발견되었습니다.",
+    breakdown: [
+      { word: "見つかりました", reading: "みつかりました", meaning: "발견되었습니다" }
+    ] },
+  { level: "N3", kanji: "治験", reading: "ちけん", korean: "치켄", meaning: "임상시험",
+    example: "新薬の治験を行いました。", exampleReading: "しんやくのちけんをおこないました。", exampleKorean: "신야쿠노 치켕오 오코나이마시타", exampleMeaning: "신약의 임상시험을 실시했습니다.",
+    breakdown: [
+      { word: "新薬", reading: "しんやく", meaning: "신약" }
+    ] },
+  { level: "N3", kanji: "バイオテクノロジー", reading: "バイオテクノロジー", korean: "바이오테쿠노로지-", meaning: "바이오테크놀로지",
+    example: "バイオテクノロジーを研究しています。", exampleReading: "バイオテクノロジーをけんきゅうしています。", exampleKorean: "바이오테쿠노로지-오 켕큐- 시테 이마스", exampleMeaning: "바이오테크놀로지를 연구하고 있습니다.",
+    breakdown: [
+      { word: "研究", reading: "けんきゅう", meaning: "연구" }
+    ] },
+  { level: "N3", kanji: "クローン", reading: "クローン", korean: "쿠론", meaning: "클론",
+    example: "クローン技術が発展しました。", exampleReading: "クローンぎじゅつがはってんしました。", exampleKorean: "쿠론 기쥬츠가 핫텐 시마시타", exampleMeaning: "클론 기술이 발전했습니다.",
+    breakdown: [
+      { word: "技術", reading: "ぎじゅつ", meaning: "기술" }
+    ] },
+  { level: "N3", kanji: "実験動物", reading: "じっけんどうぶつ", korean: "직켄도-부츠", meaning: "실험동물",
+    example: "実験動物を使わない研究を進めています。", exampleReading: "じっけんどうぶつをつかわないけんきゅうをすすめています。", exampleKorean: "직켄도-부츠오 츠카와나이 켕큐-오 스스메테 이마스", exampleMeaning: "실험동물을 사용하지 않는 연구를 진행하고 있습니다.",
+    breakdown: [
+      { word: "研究", reading: "けんきゅう", meaning: "연구" }
+    ] },
+  { level: "N3", kanji: "臨界点", reading: "りんかいてん", korean: "린카이텐", meaning: "임계점",
+    example: "臨界点に達しました。", exampleReading: "りんかいてんにたっしました。", exampleKorean: "린카이텐니 탓시마시타", exampleMeaning: "임계점에 도달했습니다.",
+    breakdown: [
+      { word: "達しました", reading: "たっしました", meaning: "도달했습니다" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
