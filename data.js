@@ -2788,6 +2788,251 @@ const VOCAB = [
     breakdown: [
       { word: "洗いました", reading: "あらいました", meaning: "씻었습니다" }
     ] },
+  { level: "N5", kanji: "犬小屋", reading: "いぬごや", korean: "이누고야", meaning: "개집",
+    example: "庭に犬小屋を作りました。", exampleReading: "にわにいぬごやをつくりました。", exampleKorean: "니와니 이누고야오 츠쿠리마시타", exampleMeaning: "마당에 개집을 만들었습니다.",
+    breakdown: [
+      { word: "庭", reading: "にわ", meaning: "마당" }
+    ] },
+  { level: "N5", kanji: "鳥かご", reading: "とりかご", korean: "토리카고", meaning: "새장",
+    example: "鳥かごに小鳥がいます。", exampleReading: "とりかごにことりがいます。", exampleKorean: "토리카고니 코토리가 이마스", exampleMeaning: "새장에 작은 새가 있습니다.",
+    breakdown: [
+      { word: "小鳥", reading: "ことり", meaning: "작은 새" }
+    ] },
+  { level: "N5", kanji: "水槽", reading: "すいそう", korean: "스이소-", meaning: "수조, 어항",
+    example: "水槽で魚を飼っています。", exampleReading: "すいそうでさかなをかっています。", exampleKorean: "스이소-데 사카나오 캇테 이마스", exampleMeaning: "수조에서 물고기를 기르고 있습니다.",
+    breakdown: [
+      { word: "魚", reading: "さかな", meaning: "물고기" }
+    ] },
+  { level: "N5", kanji: "餌", reading: "えさ", korean: "에사", meaning: "먹이, 사료",
+    example: "毎朝犬に餌をあげます。", exampleReading: "まいあさいぬにえさをあげます。", exampleKorean: "마이아사 이누니 에사오 아게마스", exampleMeaning: "매일 아침 개에게 먹이를 줍니다.",
+    breakdown: [
+      { word: "毎朝", reading: "まいあさ", meaning: "매일 아침" }
+    ] },
+  { level: "N5", kanji: "散歩", reading: "さんぽ", korean: "산포", meaning: "산책",
+    example: "毎日犬と散歩します。", exampleReading: "まいにちいぬとさんぽします。", exampleKorean: "마이니치 이누토 산포시마스", exampleMeaning: "매일 개와 산책합니다.",
+    breakdown: [
+      { word: "毎日", reading: "まいにち", meaning: "매일" }
+    ] },
+  { level: "N5", kanji: "しつけ", reading: "しつけ", korean: "시츠케", meaning: "가정교육, 훈육",
+    example: "子犬にしつけをしています。", exampleReading: "こいぬにしつけをしています。", exampleKorean: "코이누니 시츠케오 시테 이마스", exampleMeaning: "강아지를 훈육하고 있습니다.",
+    breakdown: [
+      { word: "子犬", reading: "こいぬ", meaning: "강아지" }
+    ] },
+  { level: "N5", kanji: "動物病院", reading: "どうぶつびょういん", korean: "도-부츠뵤-인", meaning: "동물병원",
+    example: "猫を動物病院に連れて行きました。", exampleReading: "ねこをどうぶつびょういんにつれていきました。", exampleKorean: "네코오 도-부츠뵤-인니 츠레테 이키마시타", exampleMeaning: "고양이를 동물병원에 데려갔습니다.",
+    breakdown: [
+      { word: "猫", reading: "ねこ", meaning: "고양이" }
+    ] },
+  { level: "N5", kanji: "獣医", reading: "じゅうい", korean: "쥬-이", meaning: "수의사",
+    example: "獣医に相談しました。", exampleReading: "じゅういにそうだんしました。", exampleKorean: "쥬-이니 소-단 시마시타", exampleMeaning: "수의사에게 상담했습니다.",
+    breakdown: [
+      { word: "相談", reading: "そうだん", meaning: "상담" }
+    ] },
+  { level: "N5", kanji: "ペットショップ", reading: "ペットショップ", korean: "펫토숍푸", meaning: "펫샵",
+    example: "ペットショップで猫を見ました。", exampleReading: "ペットショップでねこをみました。", exampleKorean: "펫토숍푸데 네코오 미마시타", exampleMeaning: "펫샵에서 고양이를 봤습니다.",
+    breakdown: [
+      { word: "猫", reading: "ねこ", meaning: "고양이" }
+    ] },
+  { level: "N5", kanji: "首輪", reading: "くびわ", korean: "쿠비와", meaning: "목줄, 목걸이(동물용)",
+    example: "犬に首輪をつけました。", exampleReading: "いぬにくびわをつけました。", exampleKorean: "이누니 쿠비와오 츠케마시타", exampleMeaning: "개에게 목줄을 채웠습니다.",
+    breakdown: [
+      { word: "犬", reading: "いぬ", meaning: "개" }
+    ] },
+  { level: "N5", kanji: "リード", reading: "リード", korean: "리-도", meaning: "리드줄",
+    example: "犬にリードをつけて歩きます。", exampleReading: "いぬにリードをつけてあるきます。", exampleKorean: "이누니 리-도오 츠케테 아루키마스", exampleMeaning: "개에게 리드줄을 매고 걷습니다.",
+    breakdown: [
+      { word: "歩きます", reading: "あるきます", meaning: "걷습니다" }
+    ] },
+  { level: "N5", kanji: "爪切り", reading: "つめきり", korean: "츠메키리", meaning: "손톱깎이",
+    example: "猫の爪切りをしました。", exampleReading: "ねこのつめきりをしました。", exampleKorean: "네코노 츠메키리오 시마시타", exampleMeaning: "고양이 발톱을 깎았습니다.",
+    breakdown: [
+      { word: "猫", reading: "ねこ", meaning: "고양이" }
+    ] },
+  { level: "N5", kanji: "毛", reading: "け", korean: "케", meaning: "털",
+    example: "猫の毛が抜けています。", exampleReading: "ねこのけがぬけています。", exampleKorean: "네코노 케가 누케테 이마스", exampleMeaning: "고양이 털이 빠지고 있습니다.",
+    breakdown: [
+      { word: "抜けて", reading: "ぬけて", meaning: "빠져서" }
+    ] },
+  { level: "N5", kanji: "尻尾", reading: "しっぽ", korean: "십포", meaning: "꼬리",
+    example: "犬が尻尾を振っています。", exampleReading: "いぬがしっぽをふっています。", exampleKorean: "이누가 십포오 훗테 이마스", exampleMeaning: "개가 꼬리를 흔들고 있습니다.",
+    breakdown: [
+      { word: "振って", reading: "ふって", meaning: "흔들어서" }
+    ] },
+  { level: "N5", kanji: "鳴く", reading: "なく", korean: "나쿠", meaning: "(동물이) 울다",
+    example: "猫が鳴いています。", exampleReading: "ねこがないています。", exampleKorean: "네코가 나이테 이마스", exampleMeaning: "고양이가 울고 있습니다.",
+    breakdown: [
+      { word: "猫", reading: "ねこ", meaning: "고양이" }
+    ] },
+  { level: "N5", kanji: "吠える", reading: "ほえる", korean: "호에루", meaning: "짖다",
+    example: "犬が大きな声で吠えました。", exampleReading: "いぬがおおきなこえでほえました。", exampleKorean: "이누가 오-키나 코에데 호에마시타", exampleMeaning: "개가 큰 소리로 짖었습니다.",
+    breakdown: [
+      { word: "大きな声", reading: "おおきなこえ", meaning: "큰 소리" }
+    ] },
+  { level: "N5", kanji: "噛む", reading: "かむ", korean: "카무", meaning: "물다, 씹다",
+    example: "犬に手を噛まれました。", exampleReading: "いぬにてをかまれました。", exampleKorean: "이누니 테오 카마레마시타", exampleMeaning: "개에게 손을 물렸습니다.",
+    breakdown: [
+      { word: "手", reading: "て", meaning: "손" }
+    ] },
+  { level: "N5", kanji: "逃げ出す", reading: "にげだす", korean: "니게다스", meaning: "도망치다",
+    example: "猫が家から逃げ出しました。", exampleReading: "ねこがいえからにげだしました。", exampleKorean: "네코가 이에카라 니게다시마시타", exampleMeaning: "고양이가 집에서 도망쳤습니다.",
+    breakdown: [
+      { word: "家から", reading: "いえから", meaning: "집에서" }
+    ] },
+  { level: "N5", kanji: "迷子", reading: "まいご", korean: "마이고", meaning: "미아, 길 잃은 아이",
+    example: "子供が迷子になりました。", exampleReading: "こどもがまいごになりました。", exampleKorean: "코도모가 마이고니 나리마시타", exampleMeaning: "아이가 미아가 되었습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N5", kanji: "保健所", reading: "ほけんじょ", korean: "호켄죠", meaning: "보건소",
+    example: "保健所に保護されました。", exampleReading: "ほけんじょにほごされました。", exampleKorean: "호켄죠니 호고사레마시타", exampleMeaning: "보건소에 보호되었습니다.",
+    breakdown: [
+      { word: "保護", reading: "ほご", meaning: "보호" }
+    ] },
+  { level: "N5", kanji: "里親", reading: "さとおや", korean: "사토오야", meaning: "위탁 부모, 임시 보호자",
+    example: "猫の里親になりました。", exampleReading: "ねこのさとおやになりました。", exampleKorean: "네코노 사토오야니 나리마시타", exampleMeaning: "고양이의 임시 보호자가 되었습니다.",
+    breakdown: [
+      { word: "猫", reading: "ねこ", meaning: "고양이" }
+    ] },
+  { level: "N5", kanji: "子猫", reading: "こねこ", korean: "코네코", meaning: "새끼 고양이",
+    example: "子猫を拾いました。", exampleReading: "こねこをひろいました。", exampleKorean: "코네코오 히로이마시타", exampleMeaning: "새끼 고양이를 주웠습니다.",
+    breakdown: [
+      { word: "拾いました", reading: "ひろいました", meaning: "주웠습니다" }
+    ] },
+  { level: "N5", kanji: "子犬", reading: "こいぬ", korean: "코이누", meaning: "강아지",
+    example: "子犬が生まれました。", exampleReading: "こいぬがうまれました。", exampleKorean: "코이누가 우마레마시타", exampleMeaning: "강아지가 태어났습니다.",
+    breakdown: [
+      { word: "生まれました", reading: "うまれました", meaning: "태어났습니다" }
+    ] },
+  { level: "N5", kanji: "野良猫", reading: "のらねこ", korean: "노라네코", meaning: "길고양이",
+    example: "野良猫に餌をあげました。", exampleReading: "のらねこにえさをあげました。", exampleKorean: "노라네코니 에사오 아게마시타", exampleMeaning: "길고양이에게 먹이를 줬습니다.",
+    breakdown: [
+      { word: "餌", reading: "えさ", meaning: "먹이" }
+    ] },
+  { level: "N5", kanji: "野良犬", reading: "のらいぬ", korean: "노라이누", meaning: "들개",
+    example: "野良犬を見かけました。", exampleReading: "のらいぬをみかけました。", exampleKorean: "노라이누오 미카케마시타", exampleMeaning: "들개를 봤습니다.",
+    breakdown: [
+      { word: "見かけました", reading: "みかけました", meaning: "봤습니다" }
+    ] },
+  { level: "N5", kanji: "昆虫採集", reading: "こんちゅうさいしゅう", korean: "콘츄-사이슈-", meaning: "곤충 채집",
+    example: "夏休みに昆虫採集をしました。", exampleReading: "なつやすみにこんちゅうさいしゅうをしました。", exampleKorean: "나츠야스미니 콘츄-사이슈-오 시마시타", exampleMeaning: "여름방학에 곤충 채집을 했습니다.",
+    breakdown: [
+      { word: "夏休み", reading: "なつやすみ", meaning: "여름방학" }
+    ] },
+  { level: "N5", kanji: "蝶", reading: "ちょう", korean: "쵸-", meaning: "나비",
+    example: "庭に蝶が飛んでいます。", exampleReading: "にわにちょうがとんでいます。", exampleKorean: "니와니 쵸-가 톤데 이마스", exampleMeaning: "마당에 나비가 날고 있습니다.",
+    breakdown: [
+      { word: "庭", reading: "にわ", meaning: "마당" }
+    ] },
+  { level: "N5", kanji: "蜂", reading: "はち", korean: "하치", meaning: "벌",
+    example: "蜂に刺されました。", exampleReading: "はちにさされました。", exampleKorean: "하치니 사사레마시타", exampleMeaning: "벌에 쏘였습니다.",
+    breakdown: [
+      { word: "刺されました", reading: "さされました", meaning: "쏘였습니다" }
+    ] },
+  { level: "N5", kanji: "蟻", reading: "あり", korean: "아리", meaning: "개미",
+    example: "蟻の行列を見ました。", exampleReading: "ありのぎょうれつをみました。", exampleKorean: "아리노 교-레츠오 미마시타", exampleMeaning: "개미 행렬을 봤습니다.",
+    breakdown: [
+      { word: "行列", reading: "ぎょうれつ", meaning: "행렬" }
+    ] },
+  { level: "N5", kanji: "水泳", reading: "すいえい", korean: "스이에-", meaning: "수영",
+    example: "毎週水泳を習っています。", exampleReading: "まいしゅうすいえいをならっています。", exampleKorean: "마이슈- 스이에-오 나랏테 이마스", exampleMeaning: "매주 수영을 배우고 있습니다.",
+    breakdown: [
+      { word: "習って", reading: "ならって", meaning: "배워서" }
+    ] },
+  { level: "N5", kanji: "マラソン", reading: "マラソン", korean: "마라손", meaning: "마라톤",
+    example: "マラソン大会に出ました。", exampleReading: "マラソンたいかいにでました。", exampleKorean: "마라손 타이카이니 데마시타", exampleMeaning: "마라톤 대회에 나갔습니다.",
+    breakdown: [
+      { word: "大会", reading: "たいかい", meaning: "대회" }
+    ] },
+  { level: "N5", kanji: "ジョギング", reading: "ジョギング", korean: "죠깅구", meaning: "조깅",
+    example: "朝ジョギングをします。", exampleReading: "あさジョギングをします。", exampleKorean: "아사 죠깅구오 시마스", exampleMeaning: "아침에 조깅을 합니다.",
+    breakdown: [
+      { word: "朝", reading: "あさ", meaning: "아침" }
+    ] },
+  { level: "N5", kanji: "ヨガ", reading: "ヨガ", korean: "요가", meaning: "요가",
+    example: "週に二回ヨガをしています。", exampleReading: "しゅうににかいヨガをしています。", exampleKorean: "슈-니 니카이 요가오 시테 이마스", exampleMeaning: "일주일에 두 번 요가를 하고 있습니다.",
+    breakdown: [
+      { word: "週に二回", reading: "しゅうににかい", meaning: "일주일에 두 번" }
+    ] },
+  { level: "N5", kanji: "筋トレ", reading: "きんトレ", korean: "킨토레", meaning: "근력운동",
+    example: "毎日筋トレをしています。", exampleReading: "まいにちきんトレをしています。", exampleKorean: "마이니치 킨토레오 시테 이마스", exampleMeaning: "매일 근력운동을 하고 있습니다.",
+    breakdown: [
+      { word: "毎日", reading: "まいにち", meaning: "매일" }
+    ] },
+  { level: "N5", kanji: "ジム", reading: "ジム", korean: "지무", meaning: "헬스장",
+    example: "ジムに通っています。", exampleReading: "ジムにかよっています。", exampleKorean: "지무니 카욧테 이마스", exampleMeaning: "헬스장에 다니고 있습니다.",
+    breakdown: [
+      { word: "通って", reading: "かよって", meaning: "다녀서" }
+    ] },
+  { level: "N5", kanji: "体操", reading: "たいそう", korean: "타이소-", meaning: "체조",
+    example: "朝、体操をします。", exampleReading: "あさ、たいそうをします。", exampleKorean: "아사, 타이소-오 시마스", exampleMeaning: "아침에 체조를 합니다.",
+    breakdown: [
+      { word: "朝", reading: "あさ", meaning: "아침" }
+    ] },
+  { level: "N5", kanji: "陸上", reading: "りくじょう", korean: "리쿠죠-", meaning: "육상",
+    example: "陸上部に入っています。", exampleReading: "りくじょうぶにはいっています。", exampleKorean: "리쿠죠-부니 하잇테 이마스", exampleMeaning: "육상부에 들어가 있습니다.",
+    breakdown: [
+      { word: "入って", reading: "はいって", meaning: "들어가서" }
+    ] },
+  { level: "N5", kanji: "柔道", reading: "じゅうどう", korean: "쥬-도-", meaning: "유도",
+    example: "柔道を習っています。", exampleReading: "じゅうどうをならっています。", exampleKorean: "쥬-도-오 나랏테 이마스", exampleMeaning: "유도를 배우고 있습니다.",
+    breakdown: [
+      { word: "習って", reading: "ならって", meaning: "배워서" }
+    ] },
+  { level: "N5", kanji: "剣道", reading: "けんどう", korean: "켄도-", meaning: "검도",
+    example: "剣道の試合に出ました。", exampleReading: "けんどうのしあいにでました。", exampleKorean: "켄도-노 시아이니 데마시타", exampleMeaning: "검도 시합에 나갔습니다.",
+    breakdown: [
+      { word: "試合", reading: "しあい", meaning: "시합" }
+    ] },
+  { level: "N5", kanji: "空手", reading: "からて", korean: "카라테", meaning: "가라테",
+    example: "空手を習っています。", exampleReading: "からてをならっています。", exampleKorean: "카라테오 나랏테 이마스", exampleMeaning: "가라테를 배우고 있습니다.",
+    breakdown: [
+      { word: "習って", reading: "ならって", meaning: "배워서" }
+    ] },
+  { level: "N5", kanji: "相撲", reading: "すもう", korean: "스모-", meaning: "스모",
+    example: "相撲を見に行きました。", exampleReading: "すもうをみにいきました。", exampleKorean: "스모-오 미니 이키마시타", exampleMeaning: "스모를 보러 갔습니다.",
+    breakdown: [
+      { word: "見に行きました", reading: "みにいきました", meaning: "보러 갔습니다" }
+    ] },
+  { level: "N5", kanji: "登山", reading: "とざん", korean: "토잔", meaning: "등산",
+    example: "週末に登山をします。", exampleReading: "しゅうまつにとざんをします。", exampleKorean: "슈-마츠니 토잔오 시마스", exampleMeaning: "주말에 등산을 합니다.",
+    breakdown: [
+      { word: "週末", reading: "しゅうまつ", meaning: "주말" }
+    ] },
+  { level: "N5", kanji: "ハイキング", reading: "ハイキング", korean: "하이킹구", meaning: "하이킹",
+    example: "山でハイキングをしました。", exampleReading: "やまでハイキングをしました。", exampleKorean: "야마데 하이킹구오 시마시타", exampleMeaning: "산에서 하이킹을 했습니다.",
+    breakdown: [
+      { word: "山", reading: "やま", meaning: "산" }
+    ] },
+  { level: "N5", kanji: "キャンプ", reading: "キャンプ", korean: "캼푸", meaning: "캠핑",
+    example: "家族でキャンプに行きました。", exampleReading: "かぞくでキャンプにいきました。", exampleKorean: "카조쿠데 캼푸니 이키마시타", exampleMeaning: "가족끼리 캠핑을 갔습니다.",
+    breakdown: [
+      { word: "家族で", reading: "かぞくで", meaning: "가족끼리" }
+    ] },
+  { level: "N5", kanji: "釣り", reading: "つり", korean: "츠리", meaning: "낚시",
+    example: "海で釣りをしました。", exampleReading: "うみでつりをしました。", exampleKorean: "우미데 츠리오 시마시타", exampleMeaning: "바다에서 낚시를 했습니다.",
+    breakdown: [
+      { word: "海", reading: "うみ", meaning: "바다" }
+    ] },
+  { level: "N5", kanji: "サーフィン", reading: "サーフィン", korean: "사-휜", meaning: "서핑",
+    example: "夏にサーフィンをします。", exampleReading: "なつにサーフィンをします。", exampleKorean: "나츠니 사-휜오 시마스", exampleMeaning: "여름에 서핑을 합니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
+  { level: "N5", kanji: "スノーボード", reading: "スノーボード", korean: "스노-보-도", meaning: "스노보드",
+    example: "冬にスノーボードをします。", exampleReading: "ふゆにスノーボードをします。", exampleKorean: "후유니 스노-보-도오 시마스", exampleMeaning: "겨울에 스노보드를 탑니다.",
+    breakdown: [
+      { word: "冬", reading: "ふゆ", meaning: "겨울" }
+    ] },
+  { level: "N5", kanji: "アイススケート", reading: "アイススケート", korean: "아이스스케-토", meaning: "아이스스케이트",
+    example: "アイススケートを習いました。", exampleReading: "アイススケートをならいました。", exampleKorean: "아이스스케-토오 나라이마시타", exampleMeaning: "아이스스케이트를 배웠습니다.",
+    breakdown: [
+      { word: "習いました", reading: "ならいました", meaning: "배웠습니다" }
+    ] },
+  { level: "N5", kanji: "ボウリング", reading: "ボウリング", korean: "보-린구", meaning: "볼링",
+    example: "友達とボウリングをしました。", exampleReading: "ともだちとボウリングをしました。", exampleKorean: "토모다치토 보-린구오 시마시타", exampleMeaning: "친구와 볼링을 쳤습니다.",
+    breakdown: [
+      { word: "友達と", reading: "ともだちと", meaning: "친구와" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
