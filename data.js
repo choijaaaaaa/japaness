@@ -12911,4 +12911,154 @@ const VOCAB = [
     breakdown: [
       { word: "不安", reading: "ふあん", meaning: "불안" }
     ] },
+  { level: "N1", kanji: "縷々", reading: "るる", korean: "루루", meaning: "누누이, 자세히",
+    example: "事情を縷々説明しました。", exampleReading: "じじょうをるるせつめいしました。", exampleKorean: "지죠-오 루루 세츠메- 시마시타", exampleMeaning: "사정을 누누이 설명했습니다.",
+    breakdown: [
+      { word: "事情", reading: "じじょう", meaning: "사정" }
+    ] },
+  { level: "N1", kanji: "切々", reading: "せつせつ", korean: "세츠세츠", meaning: "절절히",
+    example: "切々と訴えました。", exampleReading: "せつせつとうったえました。", exampleKorean: "세츠세츠토 웃타에마시타", exampleMeaning: "절절히 호소했습니다.",
+    breakdown: [
+      { word: "訴えました", reading: "うったえました", meaning: "호소했습니다" }
+    ] },
+  { level: "N1", kanji: "滔々", reading: "とうとう", korean: "토-토-", meaning: "도도히, 거침없이",
+    example: "滔々と語りました。", exampleReading: "とうとうとかたりました。", exampleKorean: "토-토-토 카타리마시타", exampleMeaning: "도도하게 이야기했습니다.",
+    breakdown: [
+      { word: "語りました", reading: "かたりました", meaning: "이야기했습니다" }
+    ] },
+  { level: "N1", kanji: "淡々", reading: "たんたん", korean: "탄탄", meaning: "담담히",
+    example: "淡々と仕事をこなしました。", exampleReading: "たんたんとしごとをこなしました。", exampleKorean: "탄탄토 시고토오 코나시마시타", exampleMeaning: "담담하게 일을 처리했습니다.",
+    breakdown: [
+      { word: "仕事", reading: "しごと", meaning: "일" }
+    ] },
+  { level: "N1", kanji: "綿々", reading: "めんめん", korean: "멘멘", meaning: "면면히, 끊임없이",
+    example: "伝統が綿々と受け継がれています。", exampleReading: "でんとうがめんめんとうけつがれています。", exampleKorean: "덴토-가 멘멘토 우케츠가레테 이마스", exampleMeaning: "전통이 면면히 계승되고 있습니다.",
+    breakdown: [
+      { word: "伝統", reading: "でんとう", meaning: "전통" }
+    ] },
+  { level: "N1", kanji: "悠々", reading: "ゆうゆう", korean: "유-유-", meaning: "유유히, 여유롭게",
+    example: "悠々と歩いています。", exampleReading: "ゆうゆうとあるいています。", exampleKorean: "유-유-토 아루이테 이마스", exampleMeaning: "유유히 걷고 있습니다.",
+    breakdown: [
+      { word: "歩いて", reading: "あるいて", meaning: "걸어서" }
+    ] },
+  { level: "N1", kanji: "漫然", reading: "まんぜん", korean: "만젠", meaning: "막연히, 무심코",
+    example: "漫然と過ごしていました。", exampleReading: "まんぜんとすごしていました。", exampleKorean: "만젠토 스고시테 이마시타", exampleMeaning: "막연히 지내고 있었습니다.",
+    breakdown: [
+      { word: "過ごして", reading: "すごして", meaning: "지내서" }
+    ] },
+  { level: "N1", kanji: "漠然", reading: "ばくぜん", korean: "바쿠젠", meaning: "막연함",
+    example: "漠然とした不安を感じます。", exampleReading: "ばくぜんとしたふあんをかんじます。", exampleKorean: "바쿠젠토시타 후앙오 칸지마스", exampleMeaning: "막연한 불안을 느낍니다.",
+    breakdown: [
+      { word: "不安", reading: "ふあん", meaning: "불안" }
+    ] },
+  { level: "N1", kanji: "杳として", reading: "ようとして", korean: "요-토시테", meaning: "묘연히, 알 수 없이",
+    example: "行方は杳として知れません。", exampleReading: "ゆくえはようとしてしれません。", exampleKorean: "유쿠에와 요-토시테 시레마셍", exampleMeaning: "행방은 묘연히 알 수 없습니다.",
+    breakdown: [
+      { word: "行方", reading: "ゆくえ", meaning: "행방" }
+    ] },
+  { level: "N1", kanji: "杜絶", reading: "とぜつ", korean: "토제츠", meaning: "두절, 단절",
+    example: "連絡が杜絶しました。", exampleReading: "れんらくがとぜつしました。", exampleKorean: "렌라쿠가 토제츠 시마시타", exampleMeaning: "연락이 두절되었습니다.",
+    breakdown: [
+      { word: "連絡", reading: "れんらく", meaning: "연락" }
+    ] },
+  { level: "N1", kanji: "途絶える", reading: "とだえる", korean: "토다에루", meaning: "끊기다, 두절되다",
+    example: "消息が途絶えました。", exampleReading: "しょうそくがとだえました。", exampleKorean: "쇼-소쿠가 토다에마시타", exampleMeaning: "소식이 끊겼습니다.",
+    breakdown: [
+      { word: "消息", reading: "しょうそく", meaning: "소식" }
+    ] },
+  { level: "N1", kanji: "断つ", reading: "たつ", korean: "타츠", meaning: "끊다",
+    example: "連絡を断ちました。", exampleReading: "れんらくをたちました。", exampleKorean: "렌라쿠오 타치마시타", exampleMeaning: "연락을 끊었습니다.",
+    breakdown: [
+      { word: "連絡", reading: "れんらく", meaning: "연락" }
+    ] },
+  { level: "N1", kanji: "絶つ", reading: "たつ", korean: "타츠", meaning: "끊다, 단절하다",
+    example: "悪縁を絶ちました。", exampleReading: "あくえんをたちました。", exampleKorean: "아쿠엔오 타치마시타", exampleMeaning: "악연을 끊었습니다.",
+    breakdown: [
+      { word: "悪縁", reading: "あくえん", meaning: "악연" }
+    ] },
+  { level: "N1", kanji: "絶える", reading: "たえる", korean: "타에루", meaning: "끊어지다",
+    example: "笑いが絶えない家庭です。", exampleReading: "わらいがたえないかていです。", exampleKorean: "와라이가 타에나이 카테-데스", exampleMeaning: "웃음이 끊이지 않는 가정입니다.",
+    breakdown: [
+      { word: "家庭", reading: "かてい", meaning: "가정" }
+    ] },
+  { level: "N1", kanji: "途切れる", reading: "とぎれる", korean: "토기레루", meaning: "끊어지다, 중단되다",
+    example: "会話が途切れました。", exampleReading: "かいわがとぎれました。", exampleKorean: "카이와가 토기레마시타", exampleMeaning: "대화가 끊겼습니다.",
+    breakdown: [
+      { word: "会話", reading: "かいわ", meaning: "대화" }
+    ] },
+  { level: "N1", kanji: "跡絶える", reading: "とだえる", korean: "토다에루", meaning: "끊어지다, 발길이 끊기다",
+    example: "客足が跡絶えました。", exampleReading: "きゃくあしがとだえました。", exampleKorean: "캬쿠아시가 토다에마시타", exampleMeaning: "손님의 발길이 끊겼습니다.",
+    breakdown: [
+      { word: "客足", reading: "きゃくあし", meaning: "손님의 발길" }
+    ] },
+  { level: "N1", kanji: "断ち切る", reading: "たちきる", korean: "타치키루", meaning: "끊어내다",
+    example: "悪習慣を断ち切りました。", exampleReading: "あくしゅうかんをたちきりました。", exampleKorean: "아쿠슈-캉오 타치키리마시타", exampleMeaning: "나쁜 습관을 끊어냈습니다.",
+    breakdown: [
+      { word: "悪習慣", reading: "あくしゅうかん", meaning: "나쁜 습관" }
+    ] },
+  { level: "N1", kanji: "切り離す", reading: "きりはなす", korean: "키리하나스", meaning: "분리하다",
+    example: "感情を切り離して考えました。", exampleReading: "かんじょうをきりはなしてかんがえました。", exampleKorean: "칸죠-오 키리하나시테 캉가에마시타", exampleMeaning: "감정을 분리해서 생각했습니다.",
+    breakdown: [
+      { word: "感情", reading: "かんじょう", meaning: "감정" }
+    ] },
+  { level: "N1", kanji: "切り捨てる", reading: "きりすてる", korean: "키리스테루", meaning: "잘라버리다, 버리다",
+    example: "少数意見を切り捨てました。", exampleReading: "しょうすういけんをきりすてました。", exampleKorean: "쇼-스- 이켕오 키리스테마시타", exampleMeaning: "소수 의견을 잘라버렸습니다.",
+    breakdown: [
+      { word: "少数意見", reading: "しょうすういけん", meaning: "소수 의견" }
+    ] },
+  { level: "N1", kanji: "切り拓く", reading: "きりひらく", korean: "키리히라쿠", meaning: "개척하다",
+    example: "新しい道を切り拓きました。", exampleReading: "あたらしいみちをきりひらきました。", exampleKorean: "아타라시- 미치오 키리히라키마시타", exampleMeaning: "새로운 길을 개척했습니다.",
+    breakdown: [
+      { word: "道", reading: "みち", meaning: "길" }
+    ] },
+  { level: "N1", kanji: "切り開く", reading: "きりひらく", korean: "키리히라쿠", meaning: "개척하다, 열다",
+    example: "未来を切り開きました。", exampleReading: "みらいをきりひらきました。", exampleKorean: "미라이오 키리히라키마시타", exampleMeaning: "미래를 개척했습니다.",
+    breakdown: [
+      { word: "未来", reading: "みらい", meaning: "미래" }
+    ] },
+  { level: "N1", kanji: "踏み切る", reading: "ふみきる", korean: "후미키루", meaning: "결단을 내리다",
+    example: "独立を踏み切りました。", exampleReading: "どくりつをふみきりました。", exampleKorean: "도쿠리츠오 후미키리마시타", exampleMeaning: "독립을 결단했습니다.",
+    breakdown: [
+      { word: "独立", reading: "どくりつ", meaning: "독립" }
+    ] },
+  { level: "N1", kanji: "踏み出す", reading: "ふみだす", korean: "후미다스", meaning: "내딛다",
+    example: "新しい一歩を踏み出しました。", exampleReading: "あたらしいいっぽをふみだしました。", exampleKorean: "아타라시- 잇포오 후미다시마시타", exampleMeaning: "새로운 한 걸음을 내딛었습니다.",
+    breakdown: [
+      { word: "一歩", reading: "いっぽ", meaning: "한 걸음" }
+    ] },
+  { level: "N1", kanji: "踏み込む", reading: "ふみこむ", korean: "후미코무", meaning: "깊이 들어가다, 파고들다",
+    example: "問題の核心に踏み込みました。", exampleReading: "もんだいのかくしんにふみこみました。", exampleKorean: "몬다이노 카쿠신니 후미코미마시타", exampleMeaning: "문제의 핵심에 파고들었습니다.",
+    breakdown: [
+      { word: "核心", reading: "かくしん", meaning: "핵심" }
+    ] },
+  { level: "N1", kanji: "拠り所", reading: "よりどころ", korean: "요리도코로", meaning: "근거처, 의지할 곳",
+    example: "心の拠り所を見つけました。", exampleReading: "こころのよりどころをみつけました。", exampleKorean: "코코로노 요리도코로오 미츠케마시타", exampleMeaning: "마음의 의지처를 찾았습니다.",
+    breakdown: [
+      { word: "心", reading: "こころ", meaning: "마음" }
+    ] },
+  { level: "N1", kanji: "踏襲", reading: "とうしゅう", korean: "토-슈-", meaning: "답습",
+    example: "前例を踏襲しました。", exampleReading: "ぜんれいをとうしゅうしました。", exampleKorean: "젠레-오 토-슈- 시마시타", exampleMeaning: "전례를 답습했습니다.",
+    breakdown: [
+      { word: "前例", reading: "ぜんれい", meaning: "전례" }
+    ] },
+  { level: "N1", kanji: "継承", reading: "けいしょう", korean: "케-쇼-", meaning: "계승",
+    example: "伝統を継承しています。", exampleReading: "でんとうをけいしょうしています。", exampleKorean: "덴토-오 케-쇼- 시테 이마스", exampleMeaning: "전통을 계승하고 있습니다.",
+    breakdown: [
+      { word: "伝統", reading: "でんとう", meaning: "전통" }
+    ] },
+  { level: "N1", kanji: "引き継ぎ", reading: "ひきつぎ", korean: "히키츠기", meaning: "인계",
+    example: "業務の引き継ぎをしました。", exampleReading: "ぎょうむのひきつぎをしました。", exampleKorean: "교-무노 히키츠기오 시마시타", exampleMeaning: "업무 인계를 했습니다.",
+    breakdown: [
+      { word: "業務", reading: "ぎょうむ", meaning: "업무" }
+    ] },
+  { level: "N1", kanji: "継ぎ足す", reading: "つぎたす", korean: "츠기타스", meaning: "이어 붙이다, 보태다",
+    example: "資金を継ぎ足しました。", exampleReading: "しきんをつぎたしました。", exampleKorean: "시킹오 츠기타시마시타", exampleMeaning: "자금을 보탰습니다.",
+    breakdown: [
+      { word: "資金", reading: "しきん", meaning: "자금" }
+    ] },
+  { level: "N1", kanji: "受け継ぐ", reading: "うけつぐ", korean: "우케츠구", meaning: "이어받다, 계승하다",
+    example: "家業を受け継ぎました。", exampleReading: "かぎょうをうけつぎました。", exampleKorean: "카교-오 우케츠기마시타", exampleMeaning: "가업을 이어받았습니다.",
+    breakdown: [
+      { word: "家業", reading: "かぎょう", meaning: "가업" }
+    ] },
 ];
