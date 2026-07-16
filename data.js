@@ -8293,6 +8293,256 @@ const VOCAB = [
     breakdown: [
       { word: "受付", reading: "うけつけ", meaning: "접수" }
     ] },
+  { level: "N4", kanji: "筋トレメニュー", reading: "きんトレメニュー", korean: "킨토레메뉴-", meaning: "근력운동 메뉴",
+    example: "筋トレメニューを決めました。", exampleReading: "きんトレメニューをきめました。", exampleKorean: "킨토레메뉴-오 키메마시타", exampleMeaning: "근력운동 메뉴를 정했습니다.",
+    breakdown: [
+      { word: "決めました", reading: "きめました", meaning: "정했습니다" }
+    ] },
+  { level: "N4", kanji: "有酸素運動", reading: "ゆうさんそうんどう", korean: "유-산소운도-", meaning: "유산소운동",
+    example: "有酸素運動を続けています。", exampleReading: "ゆうさんそうんどうをつづけています。", exampleKorean: "유-산소운도-오 츠즈케테 이마스", exampleMeaning: "유산소운동을 계속하고 있습니다.",
+    breakdown: [
+      { word: "続けて", reading: "つづけて", meaning: "계속해서" }
+    ] },
+  { level: "N4", kanji: "無酸素運動", reading: "むさんそうんどう", korean: "무산소운도-", meaning: "무산소운동",
+    example: "無酸素運動も取り入れています。", exampleReading: "むさんそうんどうもとりいれています。", exampleKorean: "무산소운도-모 토리이레테 이마스", exampleMeaning: "무산소운동도 도입하고 있습니다.",
+    breakdown: [
+      { word: "取り入れて", reading: "とりいれて", meaning: "도입해서" }
+    ] },
+  { level: "N4", kanji: "ストレッチ", reading: "ストレッチ", korean: "스토렛치", meaning: "스트레칭",
+    example: "運動前にストレッチをします。", exampleReading: "うんどうまえにストレッチをします。", exampleKorean: "운도-마에니 스토렛치오 시마스", exampleMeaning: "운동 전에 스트레칭을 합니다.",
+    breakdown: [
+      { word: "運動前", reading: "うんどうまえ", meaning: "운동 전" }
+    ] },
+  { level: "N4", kanji: "準備運動", reading: "じゅんびうんどう", korean: "쥰비운도-", meaning: "준비운동",
+    example: "準備運動をしてから走ります。", exampleReading: "じゅんびうんどうをしてからはしります。", exampleKorean: "쥰비운도-오 시테카라 하시리마스", exampleMeaning: "준비운동을 하고 나서 뜁니다.",
+    breakdown: [
+      { word: "走ります", reading: "はしります", meaning: "뜁니다" }
+    ] },
+  { level: "N4", kanji: "整理運動", reading: "せいりうんどう", korean: "세-리운도-", meaning: "정리운동",
+    example: "運動後は整理運動をします。", exampleReading: "うんどうごはせいりうんどうをします。", exampleKorean: "운도-고와 세-리운도-오 시마스", exampleMeaning: "운동 후에는 정리운동을 합니다.",
+    breakdown: [
+      { word: "運動後", reading: "うんどうご", meaning: "운동 후" }
+    ] },
+  { level: "N4", kanji: "体幹", reading: "たいかん", korean: "타이칸", meaning: "체간(코어)",
+    example: "体幹を鍛えています。", exampleReading: "たいかんをきたえています。", exampleKorean: "타이칸오 키타에테 이마스", exampleMeaning: "체간을 단련하고 있습니다.",
+    breakdown: [
+      { word: "鍛えて", reading: "きたえて", meaning: "단련해서" }
+    ] },
+  { level: "N4", kanji: "腹筋", reading: "ふっきん", korean: "훅킨", meaning: "복근",
+    example: "毎日腹筋をしています。", exampleReading: "まいにちふっきんをしています。", exampleKorean: "마이니치 훅킨오 시테 이마스", exampleMeaning: "매일 복근운동을 하고 있습니다.",
+    breakdown: [
+      { word: "毎日", reading: "まいにち", meaning: "매일" }
+    ] },
+  { level: "N4", kanji: "背筋", reading: "はいきん", korean: "하이킨", meaning: "등근육",
+    example: "背筋を鍛えました。", exampleReading: "はいきんをきたえました。", exampleKorean: "하이킨오 키타에마시타", exampleMeaning: "등근육을 단련했습니다.",
+    breakdown: [
+      { word: "鍛えました", reading: "きたえました", meaning: "단련했습니다" }
+    ] },
+  { level: "N4", kanji: "腕立て伏せ", reading: "うでたてふせ", korean: "우데타테후세", meaning: "팔굽혀펴기",
+    example: "毎日腕立て伏せをしています。", exampleReading: "まいにちうでたてふせをしています。", exampleKorean: "마이니치 우데타테후세오 시테 이마스", exampleMeaning: "매일 팔굽혀펴기를 하고 있습니다.",
+    breakdown: [
+      { word: "毎日", reading: "まいにち", meaning: "매일" }
+    ] },
+  { level: "N4", kanji: "腹筋運動", reading: "ふっきんうんどう", korean: "훅킨운도-", meaning: "복근운동",
+    example: "腹筋運動を三十回しました。", exampleReading: "ふっきんうんどうをさんじゅっかいしました。", exampleKorean: "훅킨운도-오 산쥭카이 시마시타", exampleMeaning: "복근운동을 30번 했습니다.",
+    breakdown: [
+      { word: "三十回", reading: "さんじゅっかい", meaning: "30번" }
+    ] },
+  { level: "N4", kanji: "スクワット", reading: "スクワット", korean: "스쿠왓토", meaning: "스쿼트",
+    example: "毎日スクワットをしています。", exampleReading: "まいにちスクワットをしています。", exampleKorean: "마이니치 스쿠왓토오 시테 이마스", exampleMeaning: "매일 스쿼트를 하고 있습니다.",
+    breakdown: [
+      { word: "毎日", reading: "まいにち", meaning: "매일" }
+    ] },
+  { level: "N4", kanji: "ジョギングコース", reading: "ジョギングコース", korean: "죠깅구코-스", meaning: "조깅코스",
+    example: "近くにジョギングコースがあります。", exampleReading: "ちかくにジョギングコースがあります。", exampleKorean: "치카쿠니 죠깅구코-스가 아리마스", exampleMeaning: "근처에 조깅코스가 있습니다.",
+    breakdown: [
+      { word: "近く", reading: "ちかく", meaning: "근처" }
+    ] },
+  { level: "N4", kanji: "ランニング", reading: "ランニング", korean: "란닝구", meaning: "러닝",
+    example: "朝ランニングをします。", exampleReading: "あさランニングをします。", exampleKorean: "아사 란닝구오 시마스", exampleMeaning: "아침에 러닝을 합니다.",
+    breakdown: [
+      { word: "朝", reading: "あさ", meaning: "아침" }
+    ] },
+  { level: "N4", kanji: "ウォーキング", reading: "ウォーキング", korean: "워-킹구", meaning: "워킹",
+    example: "健康のためにウォーキングをしています。", exampleReading: "けんこうのためにウォーキングをしています。", exampleKorean: "켄코-노 타메니 워-킹구오 시테 이마스", exampleMeaning: "건강을 위해 워킹을 하고 있습니다.",
+    breakdown: [
+      { word: "健康", reading: "けんこう", meaning: "건강" }
+    ] },
+  { level: "N4", kanji: "水泳教室", reading: "すいえいきょうしつ", korean: "스이에-쿄-시츠", meaning: "수영교실",
+    example: "子供を水泳教室に通わせています。", exampleReading: "こどもをすいえいきょうしつにかよわせています。", exampleKorean: "코도모오 스이에-쿄-시츠니 카요와세테 이마스", exampleMeaning: "아이를 수영교실에 보내고 있습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N4", kanji: "スイミングスクール", reading: "スイミングスクール", korean: "스이밍구스쿠-루", meaning: "수영스쿨",
+    example: "スイミングスクールに通っています。", exampleReading: "スイミングスクールにかよっています。", exampleKorean: "스이밍구스쿠-루니 카욧테 이마스", exampleMeaning: "수영스쿨에 다니고 있습니다.",
+    breakdown: [
+      { word: "通って", reading: "かよって", meaning: "다녀서" }
+    ] },
+  { level: "N4", kanji: "パーソナルトレーナー", reading: "パーソナルトレーナー", korean: "파-소나루토레-나-", meaning: "퍼스널 트레이너",
+    example: "パーソナルトレーナーをつけました。", exampleReading: "パーソナルトレーナーをつけました。", exampleKorean: "파-소나루토레-나-오 츠케마시타", exampleMeaning: "퍼스널 트레이너를 붙였습니다.",
+    breakdown: [
+      { word: "つけました", reading: "つけました", meaning: "붙였습니다" }
+    ] },
+  { level: "N4", kanji: "フィットネスジム", reading: "フィットネスジム", korean: "휫토네스지무", meaning: "피트니스짐",
+    example: "フィットネスジムに通っています。", exampleReading: "フィットネスジムにかよっています。", exampleKorean: "휫토네스지무니 카욧테 이마스", exampleMeaning: "피트니스짐에 다니고 있습니다.",
+    breakdown: [
+      { word: "通って", reading: "かよって", meaning: "다녀서" }
+    ] },
+  { level: "N4", kanji: "体力測定", reading: "たいりょくそくてい", korean: "타이료쿠소쿠테-", meaning: "체력측정",
+    example: "学校で体力測定をしました。", exampleReading: "がっこうでたいりょくそくていをしました。", exampleKorean: "각코-데 타이료쿠소쿠테- 시마시타", exampleMeaning: "학교에서 체력측정을 했습니다.",
+    breakdown: [
+      { word: "学校", reading: "がっこう", meaning: "학교" }
+    ] },
+  { level: "N4", kanji: "基礎代謝", reading: "きそたいしゃ", korean: "키소타이샤", meaning: "기초대사",
+    example: "基礎代謝が下がっています。", exampleReading: "きそたいしゃがさがっています。", exampleKorean: "키소타이샤가 사갓테 이마스", exampleMeaning: "기초대사가 떨어지고 있습니다.",
+    breakdown: [
+      { word: "下がって", reading: "さがって", meaning: "떨어져서" }
+    ] },
+  { level: "N4", kanji: "体脂肪率", reading: "たいしぼうりつ", korean: "타이시보-리츠", meaning: "체지방률",
+    example: "体脂肪率を測りました。", exampleReading: "たいしぼうりつをはかりました。", exampleKorean: "타이시보-리츠오 하카리마시타", exampleMeaning: "체지방률을 측정했습니다.",
+    breakdown: [
+      { word: "測りました", reading: "はかりました", meaning: "측정했습니다" }
+    ] },
+  { level: "N4", kanji: "筋肉量", reading: "きんにくりょう", korean: "킨니쿠료-", meaning: "근육량",
+    example: "筋肉量が増えました。", exampleReading: "きんにくりょうがふえました。", exampleKorean: "킨니쿠료-가 후에마시타", exampleMeaning: "근육량이 늘었습니다.",
+    breakdown: [
+      { word: "増えました", reading: "ふえました", meaning: "늘었습니다" }
+    ] },
+  { level: "N4", kanji: "心拍数", reading: "しんぱくすう", korean: "심파쿠스-", meaning: "심박수",
+    example: "運動中の心拍数を測定しました。", exampleReading: "うんどうちゅうのしんぱくすうをそくていしました。", exampleKorean: "운도-츄-노 심파쿠스-오 소쿠테- 시마시타", exampleMeaning: "운동 중 심박수를 측정했습니다.",
+    breakdown: [
+      { word: "運動中", reading: "うんどうちゅう", meaning: "운동 중" }
+    ] },
+  { level: "N4", kanji: "血圧計", reading: "けつあつけい", korean: "케츠아츠케-", meaning: "혈압계",
+    example: "血圧計で測りました。", exampleReading: "けつあつけいではかりました。", exampleKorean: "케츠아츠케-데 하카리마시타", exampleMeaning: "혈압계로 쟀습니다.",
+    breakdown: [
+      { word: "測りました", reading: "はかりました", meaning: "쟀습니다" }
+    ] },
+  { level: "N4", kanji: "ウォーターサーバー", reading: "ウォーターサーバー", korean: "워-타-사-바-", meaning: "정수기(냉온수기)",
+    example: "オフィスにウォーターサーバーがあります。", exampleReading: "オフィスにウォーターサーバーがあります。", exampleKorean: "오휘스니 워-타-사-바-가 아리마스", exampleMeaning: "사무실에 정수기가 있습니다.",
+    breakdown: [
+      { word: "オフィス", reading: "オフィス", meaning: "사무실" }
+    ] },
+  { level: "N4", kanji: "プロテイン", reading: "プロテイン", korean: "푸로테인", meaning: "프로틴",
+    example: "運動後にプロテインを飲みます。", exampleReading: "うんどうごにプロテインをのみます。", exampleKorean: "운도-고니 푸로테인오 노미마스", exampleMeaning: "운동 후에 프로틴을 마십니다.",
+    breakdown: [
+      { word: "運動後", reading: "うんどうご", meaning: "운동 후" }
+    ] },
+  { level: "N4", kanji: "サプリメント", reading: "サプリメント", korean: "사푸리멘토", meaning: "서플리먼트",
+    example: "サプリメントを飲んでいます。", exampleReading: "サプリメントをのんでいます。", exampleKorean: "사푸리멘토오 논데 이마스", exampleMeaning: "서플리먼트를 먹고 있습니다.",
+    breakdown: [
+      { word: "飲んで", reading: "のんで", meaning: "먹어서" }
+    ] },
+  { level: "N4", kanji: "栄養バランス", reading: "えいようバランス", korean: "에-요-바란스", meaning: "영양균형",
+    example: "栄養バランスを考えて食事します。", exampleReading: "えいようバランスをかんがえてしょくじします。", exampleKorean: "에-요-바란스오 캉가에테 쇼쿠지 시마스", exampleMeaning: "영양균형을 생각해서 식사합니다.",
+    breakdown: [
+      { word: "食事", reading: "しょくじ", meaning: "식사" }
+    ] },
+  { level: "N4", kanji: "カロリー制限", reading: "カロリーせいげん", korean: "카로리-세-겐", meaning: "칼로리 제한",
+    example: "カロリー制限をしています。", exampleReading: "カロリーせいげんをしています。", exampleKorean: "카로리-세-겡오 시테 이마스", exampleMeaning: "칼로리 제한을 하고 있습니다.",
+    breakdown: [
+      { word: "しています", reading: "しています", meaning: "하고 있습니다" }
+    ] },
+  { level: "N4", kanji: "糖質制限", reading: "とうしつせいげん", korean: "토-시츠세-겐", meaning: "당질제한",
+    example: "糖質制限ダイエットをしています。", exampleReading: "とうしつせいげんダイエットをしています。", exampleKorean: "토-시츠세-겐 다이엣토오 시테 이마스", exampleMeaning: "당질제한 다이어트를 하고 있습니다.",
+    breakdown: [
+      { word: "ダイエット", reading: "ダイエット", meaning: "다이어트" }
+    ] },
+  { level: "N4", kanji: "断食", reading: "だんじき", korean: "단지키", meaning: "단식",
+    example: "一日断食しました。", exampleReading: "いちにちだんじきしました。", exampleKorean: "이치니치 단지키 시마시타", exampleMeaning: "하루 단식했습니다.",
+    breakdown: [
+      { word: "一日", reading: "いちにち", meaning: "하루" }
+    ] },
+  { level: "N4", kanji: "ファスティング", reading: "ファスティング", korean: "화스팅구", meaning: "파스팅(단식)",
+    example: "ファスティングに挑戦しました。", exampleReading: "ファスティングにちょうせんしました。", exampleKorean: "화스팅구니 쵸-센 시마시타", exampleMeaning: "파스팅에 도전했습니다.",
+    breakdown: [
+      { word: "挑戦", reading: "ちょうせん", meaning: "도전" }
+    ] },
+  { level: "N4", kanji: "筋肉痛", reading: "きんにくつう", korean: "킨니쿠츠-", meaning: "근육통",
+    example: "運動して筋肉痛になりました。", exampleReading: "うんどうしてきんにくつうになりました。", exampleKorean: "운도-시테 킨니쿠츠-니 나리마시타", exampleMeaning: "운동해서 근육통이 생겼습니다.",
+    breakdown: [
+      { word: "運動して", reading: "うんどうして", meaning: "운동해서" }
+    ] },
+  { level: "N4", kanji: "肉離れ", reading: "にくばなれ", korean: "니쿠바나레", meaning: "근육 파열",
+    example: "走っていて肉離れを起こしました。", exampleReading: "はしっていてにくばなれをおこしました。", exampleKorean: "하싯테 이테 니쿠바나레오 오코시마시타", exampleMeaning: "달리다가 근육 파열이 일어났습니다.",
+    breakdown: [
+      { word: "走っていて", reading: "はしっていて", meaning: "달리다가" }
+    ] },
+  { level: "N4", kanji: "捻挫", reading: "ねんざ", korean: "넨자", meaning: "염좌",
+    example: "足首を捻挫しました。", exampleReading: "あしくびをねんざしました。", exampleKorean: "아시쿠비오 넨자 시마시타", exampleMeaning: "발목을 삐었습니다.",
+    breakdown: [
+      { word: "足首", reading: "あしくび", meaning: "발목" }
+    ] },
+  { level: "N4", kanji: "骨折", reading: "こっせつ", korean: "콧세츠", meaning: "골절",
+    example: "腕を骨折しました。", exampleReading: "うでをこっせつしました。", exampleKorean: "우데오 콧세츠 시마시타", exampleMeaning: "팔이 골절되었습니다.",
+    breakdown: [
+      { word: "腕", reading: "うで", meaning: "팔" }
+    ] },
+  { level: "N4", kanji: "応急処置", reading: "おうきゅうしょち", korean: "오-큐-쇼치", meaning: "응급처치",
+    example: "応急処置をしました。", exampleReading: "おうきゅうしょちをしました。", exampleKorean: "오-큐-쇼치오 시마시타", exampleMeaning: "응급처치를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "湿布", reading: "しっぷ", korean: "십푸", meaning: "파스",
+    example: "肩に湿布を貼りました。", exampleReading: "かたにしっぷをはりました。", exampleKorean: "카타니 십푸오 하리마시타", exampleMeaning: "어깨에 파스를 붙였습니다.",
+    breakdown: [
+      { word: "肩", reading: "かた", meaning: "어깨" }
+    ] },
+  { level: "N4", kanji: "包帯", reading: "ほうたい", korean: "호-타이", meaning: "붕대",
+    example: "傷に包帯を巻きました。", exampleReading: "きずにほうたいをまきました。", exampleKorean: "키즈니 호-타이오 마키마시타", exampleMeaning: "상처에 붕대를 감았습니다.",
+    breakdown: [
+      { word: "傷", reading: "きず", meaning: "상처" }
+    ] },
+  { level: "N4", kanji: "松葉杖", reading: "まつばづえ", korean: "마츠바즈에", meaning: "목발",
+    example: "松葉杖をついて歩いています。", exampleReading: "まつばづえをついてあるいています。", exampleKorean: "마츠바즈에오 츠이테 아루이테 이마스", exampleMeaning: "목발을 짚고 걷고 있습니다.",
+    breakdown: [
+      { word: "歩いて", reading: "あるいて", meaning: "걷고" }
+    ] },
+  { level: "N4", kanji: "車椅子", reading: "くるまいす", korean: "쿠루마이스", meaning: "휠체어",
+    example: "車椅子で移動しています。", exampleReading: "くるまいすでいどうしています。", exampleKorean: "쿠루마이스데 이도- 시테 이마스", exampleMeaning: "휠체어로 이동하고 있습니다.",
+    breakdown: [
+      { word: "移動", reading: "いどう", meaning: "이동" }
+    ] },
+  { level: "N4", kanji: "理学療法士", reading: "りがくりょうほうし", korean: "리가쿠료-호-시", meaning: "물리치료사",
+    example: "理学療法士に相談しました。", exampleReading: "りがくりょうほうしにそうだんしました。", exampleKorean: "리가쿠료-호-시니 소-단 시마시타", exampleMeaning: "물리치료사에게 상담했습니다.",
+    breakdown: [
+      { word: "相談", reading: "そうだん", meaning: "상담" }
+    ] },
+  { level: "N4", kanji: "トレーナー", reading: "トレーナー", korean: "토레-나-", meaning: "트레이너",
+    example: "トレーナーに教わっています。", exampleReading: "トレーナーにおそわっています。", exampleKorean: "토레-나-니 오소왓테 이마스", exampleMeaning: "트레이너에게 배우고 있습니다.",
+    breakdown: [
+      { word: "教わって", reading: "おそわって", meaning: "배워서" }
+    ] },
+  { level: "N4", kanji: "コーチ", reading: "コーチ", korean: "코-치", meaning: "코치",
+    example: "サッカーのコーチをしています。", exampleReading: "サッカーのコーチをしています。", exampleKorean: "삭카-노 코-치오 시테 이마스", exampleMeaning: "축구 코치를 하고 있습니다.",
+    breakdown: [
+      { word: "サッカー", reading: "サッカー", meaning: "축구" }
+    ] },
+  { level: "N4", kanji: "インストラクター", reading: "インストラクター", korean: "인스토라쿠타-", meaning: "인스트럭터",
+    example: "ヨガのインストラクターです。", exampleReading: "ヨガのインストラクターです。", exampleKorean: "요가노 인스토라쿠타-데스", exampleMeaning: "요가 인스트럭터입니다.",
+    breakdown: [
+      { word: "ヨガ", reading: "ヨガ", meaning: "요가" }
+    ] },
+  { level: "N4", kanji: "熱中症", reading: "ねっちゅうしょう", korean: "넷츄-쇼-", meaning: "열사병",
+    example: "熱中症に気をつけてください。", exampleReading: "ねっちゅうしょうにきをつけてください。", exampleKorean: "넷츄-쇼-니 키오 츠케테 쿠다사이", exampleMeaning: "열사병을 조심해 주세요.",
+    breakdown: [
+      { word: "気をつけて", reading: "きをつけて", meaning: "조심해서" }
+    ] },
+  { level: "N4", kanji: "脱水症状", reading: "だっすいしょうじょう", korean: "닷스이쇼-죠-", meaning: "탈수증상",
+    example: "脱水症状が出ました。", exampleReading: "だっすいしょうじょうがでました。", exampleKorean: "닷스이쇼-죠-가 데마시타", exampleMeaning: "탈수증상이 나타났습니다.",
+    breakdown: [
+      { word: "出ました", reading: "でました", meaning: "나타났습니다" }
+    ] },
+  { level: "N4", kanji: "日焼け", reading: "ひやけ", korean: "히야케", meaning: "햇볕에 탐",
+    example: "海で日焼けしました。", exampleReading: "うみでひやけしました。", exampleKorean: "우미데 히야케 시마시타", exampleMeaning: "바다에서 햇볕에 탔습니다.",
+    breakdown: [
+      { word: "海", reading: "うみ", meaning: "바다" }
+    ] },
+  { level: "N4", kanji: "日焼け止め", reading: "ひやけどめ", korean: "히야케도메", meaning: "자외선차단제",
+    example: "日焼け止めを塗りました。", exampleReading: "ひやけどめをぬりました。", exampleKorean: "히야케도메오 누리마시타", exampleMeaning: "자외선차단제를 발랐습니다.",
+    breakdown: [
+      { word: "塗りました", reading: "ぬりました", meaning: "발랐습니다" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
