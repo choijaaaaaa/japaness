@@ -18337,6 +18337,156 @@ const VOCAB = [
     breakdown: [
       { word: "返済", reading: "へんさい", meaning: "상환" }
     ] },
+  { level: "N2", kanji: "創業者", reading: "そうぎょうしゃ", korean: "소-교-샤", meaning: "창업자",
+    example: "創業者の理念を受け継いでいます。", exampleReading: "そうぎょうしゃのりねんをうけついでいます。", exampleKorean: "소-교-샤노 리넨오 우케츠이데 이마스", exampleMeaning: "창업자의 이념을 이어받고 있습니다.",
+    breakdown: [
+      { word: "理念", reading: "りねん", meaning: "이념" }
+    ] },
+  { level: "N2", kanji: "後継者", reading: "こうけいしゃ", korean: "코-케-샤", meaning: "후계자",
+    example: "後継者を育成しています。", exampleReading: "こうけいしゃをいくせいしています。", exampleKorean: "코-케-샤오 이쿠세- 시테 이마스", exampleMeaning: "후계자를 육성하고 있습니다.",
+    breakdown: [
+      { word: "育成", reading: "いくせい", meaning: "육성" }
+    ] },
+  { level: "N2", kanji: "事業承継", reading: "じぎょうしょうけい", korean: "지교-쇼-케-", meaning: "사업승계",
+    example: "事業承継の準備をしています。", exampleReading: "じぎょうしょうけいのじゅんびをしています。", exampleKorean: "지교-쇼-케-노 쥰비오 시테 이마스", exampleMeaning: "사업승계 준비를 하고 있습니다.",
+    breakdown: [
+      { word: "準備", reading: "じゅんび", meaning: "준비" }
+    ] },
+  { level: "N2", kanji: "世襲", reading: "せしゅう", korean: "세슈-", meaning: "세습",
+    example: "世襲で経営者になりました。", exampleReading: "せしゅうでけいえいしゃになりました。", exampleKorean: "세슈-데 케-에-샤니 나리마시타", exampleMeaning: "세습으로 경영자가 되었습니다.",
+    breakdown: [
+      { word: "経営者", reading: "けいえいしゃ", meaning: "경영자" }
+    ] },
+  { level: "N2", kanji: "番頭", reading: "ばんとう", korean: "반토-", meaning: "지배인(전통상점)",
+    example: "番頭が店を任されています。", exampleReading: "ばんとうがみせをまかされています。", exampleKorean: "반토-가 미세오 마카사레테 이마스", exampleMeaning: "지배인이 가게를 맡고 있습니다.",
+    breakdown: [
+      { word: "店", reading: "みせ", meaning: "가게" }
+    ] },
+  { level: "N2", kanji: "老舗", reading: "しにせ", korean: "시니세", meaning: "노포(전통 있는 가게)",
+    example: "老舗の和菓子屋です。", exampleReading: "しにせのわがしやです。", exampleKorean: "시니세노 와가시야데스", exampleMeaning: "노포 화과자점입니다.",
+    breakdown: [
+      { word: "和菓子屋", reading: "わがしや", meaning: "화과자점" }
+    ] },
+  { level: "N2", kanji: "屋号", reading: "やごう", korean: "야고-", meaning: "상호(전통상점명)",
+    example: "店の屋号を継ぎました。", exampleReading: "みせのやごうをつぎました。", exampleKorean: "미세노 야고-오 츠기마시타", exampleMeaning: "가게의 상호를 이어받았습니다.",
+    breakdown: [
+      { word: "継ぎました", reading: "つぎました", meaning: "이어받았습니다" }
+    ] },
+  { level: "N2", kanji: "暖簾", reading: "のれん", korean: "노렌", meaning: "포렴(가게 간판)",
+    example: "暖簾を掲げました。", exampleReading: "のれんをかかげました。", exampleKorean: "노렌오 카카게마시타", exampleMeaning: "포렴을 내걸었습니다.",
+    breakdown: [
+      { word: "掲げました", reading: "かかげました", meaning: "내걸었습니다" }
+    ] },
+  { level: "N2", kanji: "暖簾分け", reading: "のれんわけ", korean: "노렌와케", meaning: "분점(포렴 나누기)",
+    example: "暖簾分けを許されました。", exampleReading: "のれんわけをゆるされました。", exampleKorean: "노렌와케오 유루사레마시타", exampleMeaning: "분점을 허락받았습니다.",
+    breakdown: [
+      { word: "許されました", reading: "ゆるされました", meaning: "허락받았습니다" }
+    ] },
+  { level: "N2", kanji: "家訓", reading: "かくん", korean: "카쿤", meaning: "가훈",
+    example: "家訓を守っています。", exampleReading: "かくんをまもっています。", exampleKorean: "카쿤오 마못테 이마스", exampleMeaning: "가훈을 지키고 있습니다.",
+    breakdown: [
+      { word: "守って", reading: "まもって", meaning: "지켜서" }
+    ] },
+  { level: "N2", kanji: "社訓", reading: "しゃくん", korean: "샤쿤", meaning: "사훈",
+    example: "社訓を毎朝唱和します。", exampleReading: "しゃくんをまいあさしょうわします。", exampleKorean: "샤쿤오 마이아사 쇼-와 시마스", exampleMeaning: "사훈을 매일 아침 낭독합니다.",
+    breakdown: [
+      { word: "毎朝", reading: "まいあさ", meaning: "매일 아침" }
+    ] },
+  { level: "N2", kanji: "経営理念", reading: "けいえいりねん", korean: "케-에-리넨", meaning: "경영이념",
+    example: "経営理念を明確にしました。", exampleReading: "けいえいりねんをめいかくにしました。", exampleKorean: "케-에-리넨오 메-카쿠니 시마시타", exampleMeaning: "경영이념을 명확히 했습니다.",
+    breakdown: [
+      { word: "明確に", reading: "めいかくに", meaning: "명확히" }
+    ] },
+  { level: "N2", kanji: "企業文化", reading: "きぎょうぶんか", korean: "키교-분카", meaning: "기업문화",
+    example: "企業文化を大切にしています。", exampleReading: "きぎょうぶんかをたいせつにしています。", exampleKorean: "키교-분카오 타이세츠니 시테 이마스", exampleMeaning: "기업문화를 소중히 하고 있습니다.",
+    breakdown: [
+      { word: "大切に", reading: "たいせつに", meaning: "소중히" }
+    ] },
+  { level: "N2", kanji: "企業風土", reading: "きぎょうふうど", korean: "키교-후-도", meaning: "기업풍토",
+    example: "開放的な企業風土です。", exampleReading: "かいほうてきなきぎょうふうどです。", exampleKorean: "카이호-테키나 키교-후-도데스", exampleMeaning: "개방적인 기업풍토입니다.",
+    breakdown: [
+      { word: "開放的な", reading: "かいほうてきな", meaning: "개방적인" }
+    ] },
+  { level: "N2", kanji: "社風", reading: "しゃふう", korean: "샤후-", meaning: "사풍",
+    example: "自由な社風が魅力です。", exampleReading: "じゆうなしゃふうがみりょくです。", exampleKorean: "지유-나 샤후-가 미료쿠데스", exampleMeaning: "자유로운 사풍이 매력입니다.",
+    breakdown: [
+      { word: "自由な", reading: "じゆうな", meaning: "자유로운" }
+    ] },
+  { level: "N2", kanji: "風通しの良い", reading: "かぜとおしのよい", korean: "카제토-시노요이", meaning: "소통이 원활한",
+    example: "風通しの良い職場です。", exampleReading: "かぜとおしのよいしょくばです。", exampleKorean: "카제토-시노 요이 쇼쿠바데스", exampleMeaning: "소통이 원활한 직장입니다.",
+    breakdown: [
+      { word: "職場", reading: "しょくば", meaning: "직장" }
+    ] },
+  { level: "N2", kanji: "年功序列", reading: "ねんこうじょれつ", korean: "넨코-죠레츠", meaning: "연공서열",
+    example: "年功序列の制度です。", exampleReading: "ねんこうじょれつのせいどです。", exampleKorean: "넨코-죠레츠노 세-도데스", exampleMeaning: "연공서열 제도입니다.",
+    breakdown: [
+      { word: "制度", reading: "せいど", meaning: "제도" }
+    ] },
+  { level: "N2", kanji: "終身雇用", reading: "しゅうしんこよう", korean: "슈-신코요-", meaning: "종신고용",
+    example: "終身雇用が崩れています。", exampleReading: "しゅうしんこようがくずれています。", exampleKorean: "슈-신코요-가 쿠즈레테 이마스", exampleMeaning: "종신고용이 무너지고 있습니다.",
+    breakdown: [
+      { word: "崩れて", reading: "くずれて", meaning: "무너져서" }
+    ] },
+  { level: "N2", kanji: "成果主義", reading: "せいかしゅぎ", korean: "세-카슈기", meaning: "성과주의",
+    example: "成果主義を導入しました。", exampleReading: "せいかしゅぎをどうにゅうしました。", exampleKorean: "세-카슈기오 도-뉴- 시마시타", exampleMeaning: "성과주의를 도입했습니다.",
+    breakdown: [
+      { word: "導入", reading: "どうにゅう", meaning: "도입" }
+    ] },
+  { level: "N2", kanji: "実力主義", reading: "じつりょくしゅぎ", korean: "지츠료쿠슈기", meaning: "실력주의",
+    example: "実力主義の会社です。", exampleReading: "じつりょくしゅぎのかいしゃです。", exampleKorean: "지츠료쿠슈기노 카이샤데스", exampleMeaning: "실력주의 회사입니다.",
+    breakdown: [
+      { word: "会社", reading: "かいしゃ", meaning: "회사" }
+    ] },
+  { level: "N2", kanji: "朝礼", reading: "ちょうれい", korean: "쵸-레-", meaning: "조례(아침 조회)",
+    example: "毎朝朝礼があります。", exampleReading: "まいあさちょうれいがあります。", exampleKorean: "마이아사 쵸-레-가 아리마스", exampleMeaning: "매일 아침 조례가 있습니다.",
+    breakdown: [
+      { word: "毎朝", reading: "まいあさ", meaning: "매일 아침" }
+    ] },
+  { level: "N2", kanji: "終礼", reading: "しゅうれい", korean: "슈-레-", meaning: "종례",
+    example: "終礼で報告しました。", exampleReading: "しゅうれいでほうこくしました。", exampleKorean: "슈-레-데 호-코쿠 시마시타", exampleMeaning: "종례에서 보고했습니다.",
+    breakdown: [
+      { word: "報告", reading: "ほうこく", meaning: "보고" }
+    ] },
+  { level: "N2", kanji: "社訓唱和", reading: "しゃくんしょうわ", korean: "샤쿤쇼-와", meaning: "사훈 낭독",
+    example: "朝礼で社訓唱和をします。", exampleReading: "ちょうれいでしゃくんしょうわをします。", exampleKorean: "쵸-레-데 샤쿤쇼-와오 시마스", exampleMeaning: "조례에서 사훈을 낭독합니다.",
+    breakdown: [
+      { word: "朝礼", reading: "ちょうれい", meaning: "조례" }
+    ] },
+  { level: "N2", kanji: "ホウレンソウ", reading: "ホウレンソウ", korean: "호-렌소-", meaning: "보고연락상담(직장용어)",
+    example: "ホウレンソウを徹底しています。", exampleReading: "ホウレンソウをてっていしています。", exampleKorean: "호-렌소-오 텟테- 시테 이마스", exampleMeaning: "보고연락상담을 철저히 하고 있습니다.",
+    breakdown: [
+      { word: "徹底", reading: "てってい", meaning: "철저" }
+    ] },
+  { level: "N2", kanji: "報連相", reading: "ほうれんそう", korean: "호-렌소-", meaning: "보고연락상담",
+    example: "報連相が大事です。", exampleReading: "ほうれんそうがだいじです。", exampleKorean: "호-렌소-가 다이지데스", exampleMeaning: "보고연락상담이 중요합니다.",
+    breakdown: [
+      { word: "大事", reading: "だいじ", meaning: "중요" }
+    ] },
+  { level: "N2", kanji: "根回し文化", reading: "ねまわしぶんか", korean: "네마와시분카", meaning: "사전조율 문화",
+    example: "根回し文化に慣れました。", exampleReading: "ねまわしぶんかになれました。", exampleKorean: "네마와시분카니 나레마시타", exampleMeaning: "사전조율 문화에 익숙해졌습니다.",
+    breakdown: [
+      { word: "慣れました", reading: "なれました", meaning: "익숙해졌습니다" }
+    ] },
+  { level: "N2", kanji: "稟議書", reading: "りんぎしょ", korean: "린기쇼", meaning: "품의서",
+    example: "稟議書を提出しました。", exampleReading: "りんぎしょをていしゅつしました。", exampleKorean: "린기쇼오 테-슈츠 시마시타", exampleMeaning: "품의서를 제출했습니다.",
+    breakdown: [
+      { word: "提出", reading: "ていしゅつ", meaning: "제출" }
+    ] },
+  { level: "N2", kanji: "決裁権", reading: "けっさいけん", korean: "켓사이켄", meaning: "결재권",
+    example: "部長に決裁権があります。", exampleReading: "ぶちょうにけっさいけんがあります。", exampleKorean: "부쵸-니 켓사이켕가 아리마스", exampleMeaning: "부장에게 결재권이 있습니다.",
+    breakdown: [
+      { word: "部長", reading: "ぶちょう", meaning: "부장" }
+    ] },
+  { level: "N2", kanji: "組織図", reading: "そしきず", korean: "소시키즈", meaning: "조직도",
+    example: "組織図を確認しました。", exampleReading: "そしきずをかくにんしました。", exampleKorean: "소시키즈오 카쿠닌 시마시타", exampleMeaning: "조직도를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N2", kanji: "部門横断", reading: "ぶもんおうだん", korean: "부몬오-단", meaning: "부문횡단",
+    example: "部門横断のプロジェクトです。", exampleReading: "ぶもんおうだんのプロジェクトです。", exampleKorean: "부몬오-단노 프로제쿠토데스", exampleMeaning: "부문횡단 프로젝트입니다.",
+    breakdown: [
+      { word: "プロジェクト", reading: "プロジェクト", meaning: "프로젝트" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
