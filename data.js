@@ -16128,6 +16128,206 @@ const VOCAB = [
     breakdown: [
       { word: "話", reading: "はなし", meaning: "이야기" }
     ] },
+  { level: "N3", kanji: "文明開化", reading: "ぶんめいかいか", korean: "붐메-카이카", meaning: "문명개화",
+    example: "文明開化の時代を学びました。", exampleReading: "ぶんめいかいかのじだいをまなびました。", exampleKorean: "붐메-카이카노 지다이오 마나비마시타", exampleMeaning: "문명개화의 시대를 배웠습니다.",
+    breakdown: [
+      { word: "時代", reading: "じだい", meaning: "시대" }
+    ] },
+  { level: "N3", kanji: "近代化", reading: "きんだいか", korean: "킨다이카", meaning: "근대화",
+    example: "国の近代化が進みました。", exampleReading: "くにのきんだいかがすすみました。", exampleKorean: "쿠니노 킨다이카가 스스미마시타", exampleMeaning: "나라의 근대화가 진행되었습니다.",
+    breakdown: [
+      { word: "国", reading: "くに", meaning: "나라" }
+    ] },
+  { level: "N3", kanji: "産業革命", reading: "さんぎょうかくめい", korean: "산교-카쿠메-", meaning: "산업혁명",
+    example: "産業革命について学びました。", exampleReading: "さんぎょうかくめいについてまなびました。", exampleKorean: "산교-카쿠메-니 츠이테 마나비마시타", exampleMeaning: "산업혁명에 대해 배웠습니다.",
+    breakdown: [
+      { word: "学びました", reading: "まなびました", meaning: "배웠습니다" }
+    ] },
+  { level: "N3", kanji: "工業化", reading: "こうぎょうか", korean: "코-교-카", meaning: "공업화",
+    example: "急速に工業化が進みました。", exampleReading: "きゅうそくにこうぎょうかがすすみました。", exampleKorean: "큐-소쿠니 코-교-카가 스스미마시타", exampleMeaning: "급속히 공업화가 진행되었습니다.",
+    breakdown: [
+      { word: "急速に", reading: "きゅうそくに", meaning: "급속히" }
+    ] },
+  { level: "N3", kanji: "都市計画", reading: "としけいかく", korean: "토시케-카쿠", meaning: "도시계획",
+    example: "都市計画を策定しました。", exampleReading: "としけいかくをさくていしました。", exampleKorean: "토시케-카쿠오 사쿠테- 시마시타", exampleMeaning: "도시계획을 책정했습니다.",
+    breakdown: [
+      { word: "策定", reading: "さくてい", meaning: "책정" }
+    ] },
+  { level: "N3", kanji: "都市開発", reading: "としかいはつ", korean: "토시카이하츠", meaning: "도시개발",
+    example: "都市開発が進んでいます。", exampleReading: "としかいはつがすすんでいます。", exampleKorean: "토시카이하츠가 스슨데 이마스", exampleMeaning: "도시개발이 진행되고 있습니다.",
+    breakdown: [
+      { word: "進んで", reading: "すすんで", meaning: "진행되어" }
+    ] },
+  { level: "N3", kanji: "再開発地区", reading: "さいかいはつちく", korean: "사이카이하츠치쿠", meaning: "재개발지구",
+    example: "再開発地区に指定されました。", exampleReading: "さいかいはつちくにしていされました。", exampleKorean: "사이카이하츠치쿠니 시테-사레마시타", exampleMeaning: "재개발지구로 지정되었습니다.",
+    breakdown: [
+      { word: "指定", reading: "してい", meaning: "지정" }
+    ] },
+  { level: "N3", kanji: "町おこし", reading: "まちおこし", korean: "마치오코시", meaning: "마을 활성화",
+    example: "町おこしイベントを開催しました。", exampleReading: "まちおこしイベントをかいさいしました。", exampleKorean: "마치오코시 이벤토오 카이사이 시마시타", exampleMeaning: "마을 활성화 이벤트를 개최했습니다.",
+    breakdown: [
+      { word: "イベント", reading: "イベント", meaning: "이벤트" }
+    ] },
+  { level: "N3", kanji: "地域おこし", reading: "ちいきおこし", korean: "치이키오코시", meaning: "지역 활성화",
+    example: "地域おこし協力隊に参加しました。", exampleReading: "ちいきおこしきょうりょくたいにさんかしました。", exampleKorean: "치이키오코시 쿄-료쿠타이니 상카 시마시타", exampleMeaning: "지역 활성화 협력대에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N3", kanji: "観光振興", reading: "かんこうしんこう", korean: "캉코-신코-", meaning: "관광진흥",
+    example: "観光振興に取り組んでいます。", exampleReading: "かんこうしんこうにとりくんでいます。", exampleKorean: "캉코-신코-니 토리쿤데 이마스", exampleMeaning: "관광진흥에 힘쓰고 있습니다.",
+    breakdown: [
+      { word: "取り組んで", reading: "とりくんで", meaning: "힘써서" }
+    ] },
+  { level: "N3", kanji: "地域振興", reading: "ちいきしんこう", korean: "치이키신코-", meaning: "지역진흥",
+    example: "地域振興のためのイベントです。", exampleReading: "ちいきしんこうのためのイベントです。", exampleKorean: "치이키신코-노 타메노 이벤토데스", exampleMeaning: "지역진흥을 위한 이벤트입니다.",
+    breakdown: [
+      { word: "イベント", reading: "イベント", meaning: "이벤트" }
+    ] },
+  { level: "N3", kanji: "過疎対策", reading: "かそたいさく", korean: "카소타이사쿠", meaning: "과소대책",
+    example: "過疎対策を検討しています。", exampleReading: "かそたいさくをけんとうしています。", exampleKorean: "카소타이사쿠오 켄토- 시테 이마스", exampleMeaning: "과소대책을 검토하고 있습니다.",
+    breakdown: [
+      { word: "検討", reading: "けんとう", meaning: "검토" }
+    ] },
+  { level: "N3", kanji: "人口減少対策", reading: "じんこうげんしょうたいさく", korean: "진코-겐쇼-타이사쿠", meaning: "인구감소대책",
+    example: "人口減少対策を進めています。", exampleReading: "じんこうげんしょうたいさくをすすめています。", exampleKorean: "진코-겐쇼-타이사쿠오 스스메테 이마스", exampleMeaning: "인구감소대책을 추진하고 있습니다.",
+    breakdown: [
+      { word: "進めて", reading: "すすめて", meaning: "추진해서" }
+    ] },
+  { level: "N3", kanji: "移住促進", reading: "いじゅうそくしん", korean: "이쥬-소쿠신", meaning: "이주촉진",
+    example: "移住促進キャンペーンを実施しました。", exampleReading: "いじゅうそくしんキャンペーンをじっししました。", exampleKorean: "이쥬-소쿠신 캼페-은오 짓시 시마시타", exampleMeaning: "이주촉진 캠페인을 실시했습니다.",
+    breakdown: [
+      { word: "実施", reading: "じっし", meaning: "실시" }
+    ] },
+  { level: "N3", kanji: "関係人口", reading: "かんけいじんこう", korean: "칸케-진코-", meaning: "관계인구",
+    example: "関係人口を増やしています。", exampleReading: "かんけいじんこうをふやしています。", exampleKorean: "칸케-진코-오 후야시테 이마스", exampleMeaning: "관계인구를 늘리고 있습니다.",
+    breakdown: [
+      { word: "増やして", reading: "ふやして", meaning: "늘려서" }
+    ] },
+  { level: "N3", kanji: "ふるさと納税", reading: "ふるさとのうぜい", korean: "후루사토노-제-", meaning: "고향세",
+    example: "ふるさと納税を利用しました。", exampleReading: "ふるさとのうぜいをりようしました。", exampleKorean: "후루사토노-제-오 리요- 시마시타", exampleMeaning: "고향세를 이용했습니다.",
+    breakdown: [
+      { word: "利用", reading: "りよう", meaning: "이용" }
+    ] },
+  { level: "N3", kanji: "地方創生", reading: "ちほうそうせい", korean: "치호-소-세-", meaning: "지방창생",
+    example: "地方創生の政策です。", exampleReading: "ちほうそうせいのせいさくです。", exampleKorean: "치호-소-세-노 세-사쿠데스", exampleMeaning: "지방창생 정책입니다.",
+    breakdown: [
+      { word: "政策", reading: "せいさく", meaning: "정책" }
+    ] },
+  { level: "N3", kanji: "一極集中", reading: "いっきょくしゅうちゅう", korean: "익쿄쿠슈-츄-", meaning: "일극집중",
+    example: "東京への一極集中が問題です。", exampleReading: "とうきょうへのいっきょくしゅうちゅうがもんだいです。", exampleKorean: "토-쿄-에노 익쿄쿠슈-츄-가 몬다이데스", exampleMeaning: "도쿄로의 일극집중이 문제입니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N3", kanji: "分散型社会", reading: "ぶんさんがたしゃかい", korean: "분산가타샤카이", meaning: "분산형사회",
+    example: "分散型社会を目指しています。", exampleReading: "ぶんさんがたしゃかいをめざしています。", exampleKorean: "분산가타샤카이오 메자시테 이마스", exampleMeaning: "분산형사회를 지향하고 있습니다.",
+    breakdown: [
+      { word: "目指して", reading: "めざして", meaning: "지향해서" }
+    ] },
+  { level: "N3", kanji: "コンパクトシティ", reading: "コンパクトシティ", korean: "콤파쿠토시티", meaning: "콤팩트시티",
+    example: "コンパクトシティを構想しています。", exampleReading: "コンパクトシティをこうそうしています。", exampleKorean: "콤파쿠토시티오 코-소- 시테 이마스", exampleMeaning: "콤팩트시티를 구상하고 있습니다.",
+    breakdown: [
+      { word: "構想", reading: "こうそう", meaning: "구상" }
+    ] },
+  { level: "N3", kanji: "公共交通機関", reading: "こうきょうこうつうきかん", korean: "코-쿄-코-츠-키칸", meaning: "대중교통",
+    example: "公共交通機関を利用します。", exampleReading: "こうきょうこうつうきかんをりようします。", exampleKorean: "코-쿄-코-츠-키칸오 리요- 시마스", exampleMeaning: "대중교통을 이용합니다.",
+    breakdown: [
+      { word: "利用", reading: "りよう", meaning: "이용" }
+    ] },
+  { level: "N3", kanji: "コミュニティバス", reading: "コミュニティバス", korean: "코뮤니티바스", meaning: "커뮤니티버스",
+    example: "コミュニティバスが運行しています。", exampleReading: "コミュニティバスがうんこうしています。", exampleKorean: "코뮤니티바스가 운코- 시테 이마스", exampleMeaning: "커뮤니티버스가 운행하고 있습니다.",
+    breakdown: [
+      { word: "運行", reading: "うんこう", meaning: "운행" }
+    ] },
+  { level: "N3", kanji: "デマンド交通", reading: "デマンドこうつう", korean: "데만도코-츠-", meaning: "수요응답형 교통",
+    example: "デマンド交通を導入しました。", exampleReading: "デマンドこうつうをどうにゅうしました。", exampleKorean: "데만도코-츠-오 도-뉴- 시마시타", exampleMeaning: "수요응답형 교통을 도입했습니다.",
+    breakdown: [
+      { word: "導入", reading: "どうにゅう", meaning: "도입" }
+    ] },
+  { level: "N3", kanji: "過疎地医療", reading: "かそちいりょう", korean: "카소치이료-", meaning: "과소지역 의료",
+    example: "過疎地医療の課題です。", exampleReading: "かそちいりょうのかだいです。", exampleKorean: "카소치이료-노 카다이데스", exampleMeaning: "과소지역 의료의 과제입니다.",
+    breakdown: [
+      { word: "課題", reading: "かだい", meaning: "과제" }
+    ] },
+  { level: "N3", kanji: "医療過疎", reading: "いりょうかそ", korean: "이료-카소", meaning: "의료과소",
+    example: "医療過疎が深刻です。", exampleReading: "いりょうかそがしんこくです。", exampleKorean: "이료-카소가 신코쿠데스", exampleMeaning: "의료과소가 심각합니다.",
+    breakdown: [
+      { word: "深刻", reading: "しんこく", meaning: "심각" }
+    ] },
+  { level: "N3", kanji: "買い物難民", reading: "かいものなんみん", korean: "카이모노난민", meaning: "쇼핑 난민",
+    example: "買い物難民が問題になっています。", exampleReading: "かいものなんみんがもんだいになっています。", exampleKorean: "카이모노난민가 몬다이니 낫테 이마스", exampleMeaning: "쇼핑 난민이 문제가 되고 있습니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N3", kanji: "フードデザート", reading: "フードデザート", korean: "후-도데자-토", meaning: "식품사막(식료품 접근 어려움)",
+    example: "フードデザート問題を調査しました。", exampleReading: "フードデザートもんだいをちょうさしました。", exampleKorean: "후-도데자-토몬다이오 쵸-사 시마시타", exampleMeaning: "식품사막 문제를 조사했습니다.",
+    breakdown: [
+      { word: "調査", reading: "ちょうさ", meaning: "조사" }
+    ] },
+  { level: "N3", kanji: "移動販売", reading: "いどうはんばい", korean: "이도-함바이", meaning: "이동판매",
+    example: "移動販売車が来ました。", exampleReading: "いどうはんばいしゃがきました。", exampleKorean: "이도-함바이샤가 키마시타", exampleMeaning: "이동판매차가 왔습니다.",
+    breakdown: [
+      { word: "来ました", reading: "きました", meaning: "왔습니다" }
+    ] },
+  { level: "N3", kanji: "宅配サービス拡充", reading: "たくはいサービスかくじゅう", korean: "타쿠하이사-비스카쿠쥬-", meaning: "택배서비스 확충",
+    example: "宅配サービス拡充が求められています。", exampleReading: "たくはいサービスかくじゅうがもとめられています。", exampleKorean: "타쿠하이사-비스카쿠쥬-가 모토메라레테 이마스", exampleMeaning: "택배서비스 확충이 요구되고 있습니다.",
+    breakdown: [
+      { word: "求められて", reading: "もとめられて", meaning: "요구되어" }
+    ] },
+  { level: "N3", kanji: "見守りサービス", reading: "みまもりサービス", korean: "미마모리사-비스", meaning: "돌봄서비스",
+    example: "高齢者向けの見守りサービスです。", exampleReading: "こうれいしゃむけのみまもりサービスです。", exampleKorean: "코-레-샤무케노 미마모리사-비스데스", exampleMeaning: "고령자를 위한 돌봄서비스입니다.",
+    breakdown: [
+      { word: "高齢者", reading: "こうれいしゃ", meaning: "고령자" }
+    ] },
+  { level: "N3", kanji: "高齢者支援", reading: "こうれいしゃしえん", korean: "코-레-샤시엔", meaning: "고령자지원",
+    example: "高齢者支援を強化しています。", exampleReading: "こうれいしゃしえんをきょうかしています。", exampleKorean: "코-레-샤시엔오 쿄-카 시테 이마스", exampleMeaning: "고령자지원을 강화하고 있습니다.",
+    breakdown: [
+      { word: "強化", reading: "きょうか", meaning: "강화" }
+    ] },
+  { level: "N3", kanji: "地域包括ケア", reading: "ちいきほうかつケア", korean: "치이키호-카츠케아", meaning: "지역포괄케어",
+    example: "地域包括ケアシステムを構築しています。", exampleReading: "ちいきほうかつケアシステムをこうちくしています。", exampleKorean: "치이키호-카츠케아 시스테무오 코-치쿠 시테 이마스", exampleMeaning: "지역포괄케어 시스템을 구축하고 있습니다.",
+    breakdown: [
+      { word: "構築", reading: "こうちく", meaning: "구축" }
+    ] },
+  { level: "N3", kanji: "多世代交流", reading: "たせだいこうりゅう", korean: "타세다이코-류-", meaning: "다세대교류",
+    example: "多世代交流イベントを開きました。", exampleReading: "たせだいこうりゅうイベントをひらきました。", exampleKorean: "타세다이코-류- 이벤토오 히라키마시타", exampleMeaning: "다세대교류 이벤트를 열었습니다.",
+    breakdown: [
+      { word: "イベント", reading: "イベント", meaning: "이벤트" }
+    ] },
+  { level: "N3", kanji: "空き店舗活用", reading: "あきてんぽかつよう", korean: "아키텐포카츠요-", meaning: "빈 점포 활용",
+    example: "空き店舗活用が進んでいます。", exampleReading: "あきてんぽかつようがすすんでいます。", exampleKorean: "아키텐포카츠요-가 스슨데 이마스", exampleMeaning: "빈 점포 활용이 진행되고 있습니다.",
+    breakdown: [
+      { word: "進んで", reading: "すすんで", meaning: "진행되어" }
+    ] },
+  { level: "N3", kanji: "商店街活性化", reading: "しょうてんがいかっせいか", korean: "쇼-텐가이 캇세-카", meaning: "상점가 활성화",
+    example: "商店街活性化に取り組んでいます。", exampleReading: "しょうてんがいかっせいかにとりくんでいます。", exampleKorean: "쇼-텐가이 캇세-카니 토리쿤데 이마스", exampleMeaning: "상점가 활성화에 힘쓰고 있습니다.",
+    breakdown: [
+      { word: "取り組んで", reading: "とりくんで", meaning: "힘써서" }
+    ] },
+  { level: "N3", kanji: "シャッター通り", reading: "シャッターどおり", korean: "샷타-도-리", meaning: "셔터거리(폐업 상점가)",
+    example: "シャッター通りになってしまいました。", exampleReading: "シャッターどおりになってしまいました。", exampleKorean: "샷타-도-리니 낫테 시마이마시타", exampleMeaning: "셔터거리가 되어버렸습니다.",
+    breakdown: [
+      { word: "なって", reading: "なって", meaning: "되어서" }
+    ] },
+  { level: "N3", kanji: "地域資源活用", reading: "ちいきしげんかつよう", korean: "치이키시겐카츠요-", meaning: "지역자원활용",
+    example: "地域資源活用を検討しています。", exampleReading: "ちいきしげんかつようをけんとうしています。", exampleKorean: "치이키시겐카츠요-오 켄토- 시테 이마스", exampleMeaning: "지역자원활용을 검토하고 있습니다.",
+    breakdown: [
+      { word: "検討", reading: "けんとう", meaning: "검토" }
+    ] },
+  { level: "N3", kanji: "特産品開発", reading: "とくさんひんかいはつ", korean: "토쿠산힌카이하츠", meaning: "특산품 개발",
+    example: "特産品開発に力を入れています。", exampleReading: "とくさんひんかいはつにちからをいれています。", exampleKorean: "토쿠산힌카이하츠니 치카라오 이레테 이마스", exampleMeaning: "특산품 개발에 힘을 쏟고 있습니다.",
+    breakdown: [
+      { word: "力を入れて", reading: "ちからをいれて", meaning: "힘을 쏟아서" }
+    ] },
+  { level: "N3", kanji: "ブランド化戦略", reading: "ブランドかせんりゃく", korean: "부란도카센랴쿠", meaning: "브랜드화 전략",
+    example: "ブランド化戦略を立てました。", exampleReading: "ブランドかせんりゃくをたてました。", exampleKorean: "부란도카센랴쿠오 타테마시타", exampleMeaning: "브랜드화 전략을 세웠습니다.",
+    breakdown: [
+      { word: "立てました", reading: "たてました", meaning: "세웠습니다" }
+    ] },
+  { level: "N3", kanji: "六次産業化", reading: "ろくじさんぎょうか", korean: "로쿠지산교-카", meaning: "6차산업화",
+    example: "六次産業化を推進しています。", exampleReading: "ろくじさんぎょうかをすいしんしています。", exampleKorean: "로쿠지산교-카오 스이신 시테 이마스", exampleMeaning: "6차산업화를 추진하고 있습니다.",
+    breakdown: [
+      { word: "推進", reading: "すいしん", meaning: "추진" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
