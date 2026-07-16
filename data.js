@@ -19791,4 +19791,154 @@ const VOCAB = [
     breakdown: [
       { word: "それ以上", reading: "それいじょう", meaning: "그 이상" }
     ] },
+  { level: "N1", kanji: "気骨", reading: "きこつ", korean: "키코츠", meaning: "기골(강한 신념)",
+    example: "気骨のある人物です。", exampleReading: "きこつのあるじんぶつです。", exampleKorean: "키코츠노 아루 짐부츠데스", exampleMeaning: "기골 있는 인물입니다.",
+    breakdown: [
+      { word: "人物", reading: "じんぶつ", meaning: "인물" }
+    ] },
+  { level: "N1", kanji: "矜持", reading: "きょうじ", korean: "쿄-지", meaning: "긍지",
+    example: "職人としての矜持を持っています。", exampleReading: "しょくにんとしてのきょうじをもっています。", exampleKorean: "쇼쿠닌토시테노 쿄-지오 못테 이마스", exampleMeaning: "장인으로서의 긍지를 가지고 있습니다.",
+    breakdown: [
+      { word: "職人", reading: "しょくにん", meaning: "장인" }
+    ] },
+  { level: "N1", kanji: "矜恃", reading: "きょうじ", korean: "쿄-지", meaning: "긍지(矜持와 동일)",
+    example: "プロとしての矜恃があります。", exampleReading: "プロとしてのきょうじがあります。", exampleKorean: "프로토시테노 쿄-지가 아리마스", exampleMeaning: "프로로서의 긍지가 있습니다.",
+    breakdown: [
+      { word: "プロ", reading: "プロ", meaning: "프로" }
+    ] },
+  { level: "N1", kanji: "自負", reading: "じふ", korean: "지후", meaning: "자부",
+    example: "彼はこの分野で自負があります。", exampleReading: "かれはこのぶんやでじふがあります。", exampleKorean: "카레와 코노 붕야데 지후가 아리마스", exampleMeaning: "그는 이 분야에서 자부심이 있습니다.",
+    breakdown: [
+      { word: "分野", reading: "ぶんや", meaning: "분야" }
+    ] },
+  { level: "N1", kanji: "自尊心", reading: "じそんしん", korean: "지손신", meaning: "자존심",
+    example: "自尊心が傷つきました。", exampleReading: "じそんしんがきずつきました。", exampleKorean: "지손신가 키즈츠키마시타", exampleMeaning: "자존심이 상했습니다.",
+    breakdown: [
+      { word: "傷つきました", reading: "きずつきました", meaning: "상했습니다" }
+    ] },
+  { level: "N1", kanji: "誇り高い", reading: "ほこりたかい", korean: "호코리타카이", meaning: "자부심이 강한",
+    example: "誇り高い民族です。", exampleReading: "ほこりたかいみんぞくです。", exampleKorean: "호코리타카이 민조쿠데스", exampleMeaning: "자부심이 강한 민족입니다.",
+    breakdown: [
+      { word: "民族", reading: "みんぞく", meaning: "민족" }
+    ] },
+  { level: "N1", kanji: "高潔", reading: "こうけつ", korean: "코-케츠", meaning: "고결함",
+    example: "高潔な人格の持ち主です。", exampleReading: "こうけつなじんかくのもちぬしです。", exampleKorean: "코-케츠나 진카쿠노 모치누시데스", exampleMeaning: "고결한 인격의 소유자입니다.",
+    breakdown: [
+      { word: "人格", reading: "じんかく", meaning: "인격" }
+    ] },
+  { level: "N1", kanji: "清廉", reading: "せいれん", korean: "세-렌", meaning: "청렴",
+    example: "清廉な政治家です。", exampleReading: "せいれんなせいじかです。", exampleKorean: "세-렌나 세-지카데스", exampleMeaning: "청렴한 정치가입니다.",
+    breakdown: [
+      { word: "政治家", reading: "せいじか", meaning: "정치가" }
+    ] },
+  { level: "N1", kanji: "清廉潔白", reading: "せいれんけっぱく", korean: "세-렌켓파쿠", meaning: "청렴결백",
+    example: "清廉潔白な人物です。", exampleReading: "せいれんけっぱくなじんぶつです。", exampleKorean: "세-렌켓파쿠나 짐부츠데스", exampleMeaning: "청렴결백한 인물입니다.",
+    breakdown: [
+      { word: "人物", reading: "じんぶつ", meaning: "인물" }
+    ] },
+  { level: "N1", kanji: "廉恥", reading: "れんち", korean: "렌치", meaning: "염치",
+    example: "廉恥心を持ってください。", exampleReading: "れんちしんをもってください。", exampleKorean: "렌치신오 못테 쿠다사이", exampleMeaning: "염치를 가져 주세요.",
+    breakdown: [
+      { word: "心", reading: "しん", meaning: "마음" }
+    ] },
+  { level: "N1", kanji: "恥を知る", reading: "はじをしる", korean: "하지오시루", meaning: "염치를 알다",
+    example: "恥を知る人であってほしいです。", exampleReading: "はじをしるひとであってほしいです。", exampleKorean: "하지오 시루 히토데 앗테 호시-데스", exampleMeaning: "염치를 아는 사람이었으면 좋겠습니다.",
+    breakdown: [
+      { word: "人", reading: "ひと", meaning: "사람" }
+    ] },
+  { level: "N1", kanji: "恥じらい", reading: "はじらい", korean: "하지라이", meaning: "수줍음",
+    example: "恥じらいを見せました。", exampleReading: "はじらいをみせました。", exampleKorean: "하지라이오 미세마시타", exampleMeaning: "수줪음을 보였습니다.",
+    breakdown: [
+      { word: "見せました", reading: "みせました", meaning: "보였습니다" }
+    ] },
+  { level: "N1", kanji: "恥じらう", reading: "はじらう", korean: "하지라우", meaning: "수줍어하다",
+    example: "少女は恥じらっていました。", exampleReading: "しょうじょははじらっていました。", exampleKorean: "쇼-죠와 하지랏테 이마시타", exampleMeaning: "소녀는 수줍어하고 있었습니다.",
+    breakdown: [
+      { word: "少女", reading: "しょうじょ", meaning: "소녀" }
+    ] },
+  { level: "N1", kanji: "慎ましい", reading: "つつましい", korean: "츠츠마시-", meaning: "검소하고 조심스럽다",
+    example: "慎ましい生活を送っています。", exampleReading: "つつましいせいかつをおくっています。", exampleKorean: "츠츠마시- 세-카츠오 오쿳테 이마스", exampleMeaning: "검소한 생활을 하고 있습니다.",
+    breakdown: [
+      { word: "生活", reading: "せいかつ", meaning: "생활" }
+    ] },
+  { level: "N1", kanji: "奥床しい", reading: "おくゆかしい", korean: "오쿠유카시-", meaning: "그윽하고 우아한",
+    example: "奥床しい振る舞いです。", exampleReading: "おくゆかしいふるまいです。", exampleKorean: "오쿠유카시- 후루마이데스", exampleMeaning: "그윽한 몸가짐입니다.",
+    breakdown: [
+      { word: "振る舞い", reading: "ふるまい", meaning: "몸가짐" }
+    ] },
+  { level: "N1", kanji: "品性", reading: "ひんせい", korean: "힌세-", meaning: "품성",
+    example: "品性を疑われました。", exampleReading: "ひんせいをうたがわれました。", exampleKorean: "힌세-오 우타가와레마시타", exampleMeaning: "품성을 의심받았습니다.",
+    breakdown: [
+      { word: "疑われました", reading: "うたがわれました", meaning: "의심받았습니다" }
+    ] },
+  { level: "N1", kanji: "品行方正", reading: "ひんこうほうせい", korean: "힌코-호-세-", meaning: "품행방정",
+    example: "品行方正な学生です。", exampleReading: "ひんこうほうせいながくせいです。", exampleKorean: "힌코-호-세-나 가쿠세-데스", exampleMeaning: "품행이 방정한 학생입니다.",
+    breakdown: [
+      { word: "学生", reading: "がくせい", meaning: "학생" }
+    ] },
+  { level: "N1", kanji: "身持ち", reading: "みもち", korean: "미모치", meaning: "몸가짐, 품행",
+    example: "身持ちが堅い人です。", exampleReading: "みもちがかたいひとです。", exampleKorean: "미모치가 카타이 히토데스", exampleMeaning: "몸가짐이 단정한 사람입니다.",
+    breakdown: [
+      { word: "堅い", reading: "かたい", meaning: "단정한" }
+    ] },
+  { level: "N1", kanji: "身を慎む", reading: "みをつつしむ", korean: "미오츠츠시무", meaning: "자신을 삼가다",
+    example: "公の場では身を慎みます。", exampleReading: "おおやけのばではみをつつしみます。", exampleKorean: "오-야케노 바데와 미오 츠츠시미마스", exampleMeaning: "공적인 자리에서는 자신을 삼갑니다.",
+    breakdown: [
+      { word: "公の場", reading: "おおやけのば", meaning: "공적인 자리" }
+    ] },
+  { level: "N1", kanji: "身の丈", reading: "みのたけ", korean: "미노타케", meaning: "분수, 자기 능력",
+    example: "身の丈に合った生活をしています。", exampleReading: "みのたけにあったせいかつをしています。", exampleKorean: "미노타케니 앗타 세-카츠오 시테 이마스", exampleMeaning: "분수에 맞는 생활을 하고 있습니다.",
+    breakdown: [
+      { word: "生活", reading: "せいかつ", meaning: "생활" }
+    ] },
+  { level: "N1", kanji: "節度", reading: "せつど", korean: "세츠도", meaning: "절도(적정한 정도)",
+    example: "節度を持って行動しました。", exampleReading: "せつどをもってこうどうしました。", exampleKorean: "세츠도오 못테 코-도- 시마시타", exampleMeaning: "절도를 지켜 행동했습니다.",
+    breakdown: [
+      { word: "行動", reading: "こうどう", meaning: "행동" }
+    ] },
+  { level: "N1", kanji: "節操", reading: "せっそう", korean: "셋소-", meaning: "절조(지조)",
+    example: "節操を守りました。", exampleReading: "せっそうをまもりました。", exampleKorean: "셋소-오 마모리마시타", exampleMeaning: "절조를 지켰습니다.",
+    breakdown: [
+      { word: "守りました", reading: "まもりました", meaning: "지켰습니다" }
+    ] },
+  { level: "N1", kanji: "操", reading: "みさお", korean: "미사오", meaning: "지조",
+    example: "操を貫きました。", exampleReading: "みさおをつらぬきました。", exampleKorean: "미사오오 츠라누키마시타", exampleMeaning: "지조를 관철했습니다.",
+    breakdown: [
+      { word: "貫きました", reading: "つらぬきました", meaning: "관철했습니다" }
+    ] },
+  { level: "N1", kanji: "不動心", reading: "ふどうしん", korean: "후도-신", meaning: "부동심",
+    example: "不動心を保っています。", exampleReading: "ふどうしんをたもっています。", exampleKorean: "후도-신오 타못테 이마스", exampleMeaning: "부동심을 유지하고 있습니다.",
+    breakdown: [
+      { word: "保って", reading: "たもって", meaning: "유지해서" }
+    ] },
+  { level: "N1", kanji: "泰然自若", reading: "たいぜんじじゃく", korean: "타이젠지쟈쿠", meaning: "태연자약",
+    example: "泰然自若として対応しました。", exampleReading: "たいぜんじじゃくとしてたいおうしました。", exampleKorean: "타이젠지쟈쿠토시테 타이오- 시마시타", exampleMeaning: "태연자약하게 대응했습니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N1", kanji: "悠々自適", reading: "ゆうゆうじてき", korean: "유-유-지테키", meaning: "유유자적",
+    example: "定年後は悠々自適に暮らしています。", exampleReading: "ていねんごはゆうゆうじてきにくらしています。", exampleKorean: "테-넨고와 유-유-지테키니 쿠라시테 이마스", exampleMeaning: "정년 후에는 유유자적하게 살고 있습니다.",
+    breakdown: [
+      { word: "定年後", reading: "ていねんご", meaning: "정년 후" }
+    ] },
+  { level: "N1", kanji: "心頭滅却", reading: "しんとうめっきゃく", korean: "신토-멕캬쿠", meaning: "심두멸각(마음을 비움)",
+    example: "心頭滅却すれば火もまた涼しです。", exampleReading: "しんとうめっきゃくすればひもまたすずしです。", exampleKorean: "신토-멕캬쿠스레바 히모 마타 스즈시데스", exampleMeaning: "마음을 비우면 불도 시원해집니다.",
+    breakdown: [
+      { word: "火", reading: "ひ", meaning: "불" }
+    ] },
+  { level: "N1", kanji: "恬淡", reading: "てんたん", korean: "텐탄", meaning: "염담(욕심없이 담백함)",
+    example: "恬淡とした性格です。", exampleReading: "てんたんとしたせいかくです。", exampleKorean: "텐탄토시타 세-카쿠데스", exampleMeaning: "욕심 없는 담백한 성격입니다.",
+    breakdown: [
+      { word: "性格", reading: "せいかく", meaning: "성격" }
+    ] },
+  { level: "N1", kanji: "無欲", reading: "むよく", korean: "무요쿠", meaning: "무욕",
+    example: "無欲な人柄が魅力です。", exampleReading: "むよくなひとがらがみりょくです。", exampleKorean: "무요쿠나 히토가라가 미료쿠데스", exampleMeaning: "무욕한 인품이 매력입니다.",
+    breakdown: [
+      { word: "人柄", reading: "ひとがら", meaning: "인품" }
+    ] },
+  { level: "N1", kanji: "淡泊", reading: "たんぱく", korean: "탄파쿠", meaning: "담백함(성격)",
+    example: "彼は淡泊な性格です。", exampleReading: "かれはたんぱくなせいかくです。", exampleKorean: "카레와 탄파쿠나 세-카쿠데스", exampleMeaning: "그는 담백한 성격입니다.",
+    breakdown: [
+      { word: "性格", reading: "せいかく", meaning: "성격" }
+    ] },
 ];
