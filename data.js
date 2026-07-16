@@ -15242,6 +15242,156 @@ const VOCAB = [
     breakdown: [
       { word: "企業", reading: "きぎょう", meaning: "기업" }
     ] },
+  { level: "N2", kanji: "特命", reading: "とくめい", korean: "토쿠메-", meaning: "특명",
+    example: "特命を受けて調査しました。", exampleReading: "とくめいをうけてちょうさしました。", exampleKorean: "토쿠메-오 우케테 쵸-사 시마시타", exampleMeaning: "특명을 받아 조사했습니다.",
+    breakdown: [
+      { word: "調査", reading: "ちょうさ", meaning: "조사" }
+    ] },
+  { level: "N2", kanji: "極秘", reading: "ごくひ", korean: "고쿠히", meaning: "극비",
+    example: "極秘の情報です。", exampleReading: "ごくひのじょうほうです。", exampleKorean: "고쿠히노 죠-호-데스", exampleMeaning: "극비 정보입니다.",
+    breakdown: [
+      { word: "情報", reading: "じょうほう", meaning: "정보" }
+    ] },
+  { level: "N2", kanji: "機密情報", reading: "きみつじょうほう", korean: "키미츠죠-호-", meaning: "기밀정보",
+    example: "機密情報が漏れました。", exampleReading: "きみつじょうほうがもれました。", exampleKorean: "키미츠죠-호-가 모레마시타", exampleMeaning: "기밀정보가 유출되었습니다.",
+    breakdown: [
+      { word: "漏れました", reading: "もれました", meaning: "유출되었습니다" }
+    ] },
+  { level: "N2", kanji: "守秘義務", reading: "しゅひぎむ", korean: "슈히기무", meaning: "비밀유지의무",
+    example: "守秘義務があります。", exampleReading: "しゅひぎむがあります。", exampleKorean: "슈히기무가 아리마스", exampleMeaning: "비밀유지의무가 있습니다.",
+    breakdown: [
+      { word: "あります", reading: "あります", meaning: "있습니다" }
+    ] },
+  { level: "N2", kanji: "情報漏洩", reading: "じょうほうろうえい", korean: "죠-호-로-에-", meaning: "정보유출",
+    example: "情報漏洩が発覚しました。", exampleReading: "じょうほうろうえいがはっかくしました。", exampleKorean: "죠-호-로-에-가 학카쿠 시마시타", exampleMeaning: "정보유출이 발각되었습니다.",
+    breakdown: [
+      { word: "発覚", reading: "はっかく", meaning: "발각" }
+    ] },
+  { level: "N2", kanji: "情報統制", reading: "じょうほうとうせい", korean: "죠-호-토-세-", meaning: "정보통제",
+    example: "情報統制が行われています。", exampleReading: "じょうほうとうせいがおこなわれています。", exampleKorean: "죠-호-토-세-가 오코나와레테 이마스", exampleMeaning: "정보통제가 이루어지고 있습니다.",
+    breakdown: [
+      { word: "行われて", reading: "おこなわれて", meaning: "이루어져서" }
+    ] },
+  { level: "N2", kanji: "検閲", reading: "けんえつ", korean: "켄에츠", meaning: "검열",
+    example: "報道が検閲されています。", exampleReading: "ほうどうがけんえつされています。", exampleKorean: "호-도-가 켄에츠사레테 이마스", exampleMeaning: "보도가 검열되고 있습니다.",
+    breakdown: [
+      { word: "報道", reading: "ほうどう", meaning: "보도" }
+    ] },
+  { level: "N2", kanji: "言論統制", reading: "げんろんとうせい", korean: "겐론토-세-", meaning: "언론통제",
+    example: "言論統制に反対します。", exampleReading: "げんろんとうせいにはんたいします。", exampleKorean: "겐론토-세-니 한타이 시마스", exampleMeaning: "언론통제에 반대합니다.",
+    breakdown: [
+      { word: "反対", reading: "はんたい", meaning: "반대" }
+    ] },
+  { level: "N2", kanji: "言論の自由", reading: "げんろんのじゆう", korean: "겐론노지유-", meaning: "언론의 자유",
+    example: "言論の自由を守ります。", exampleReading: "げんろんのじゆうをまもります。", exampleKorean: "겐론노 지유-오 마모리마스", exampleMeaning: "언론의 자유를 지킵니다.",
+    breakdown: [
+      { word: "守ります", reading: "まもります", meaning: "지킵니다" }
+    ] },
+  { level: "N2", kanji: "報道規制", reading: "ほうどうきせい", korean: "호-도-키세-", meaning: "보도규제",
+    example: "報道規制がかかりました。", exampleReading: "ほうどうきせいがかかりました。", exampleKorean: "호-도-키세-가 카카리마시타", exampleMeaning: "보도규제가 걸렸습니다.",
+    breakdown: [
+      { word: "かかりました", reading: "かかりました", meaning: "걸렸습니다" }
+    ] },
+  { level: "N2", kanji: "報道の自由", reading: "ほうどうのじゆう", korean: "호-도-노지유-", meaning: "보도의 자유",
+    example: "報道の自由が保障されています。", exampleReading: "ほうどうのじゆうがほしょうされています。", exampleKorean: "호-도-노 지유-가 호쇼-사레테 이마스", exampleMeaning: "보도의 자유가 보장되어 있습니다.",
+    breakdown: [
+      { word: "保障", reading: "ほしょう", meaning: "보장" }
+    ] },
+  { level: "N2", kanji: "取材", reading: "しゅざい", korean: "슈자이", meaning: "취재",
+    example: "事件を取材しました。", exampleReading: "じけんをしゅざいしました。", exampleKorean: "지켕오 슈자이 시마시타", exampleMeaning: "사건을 취재했습니다.",
+    breakdown: [
+      { word: "事件", reading: "じけん", meaning: "사건" }
+    ] },
+  { level: "N2", kanji: "取材源", reading: "しゅざいげん", korean: "슈자이겐", meaning: "취재원",
+    example: "取材源を明かしません。", exampleReading: "しゅざいげんをあかしません。", exampleKorean: "슈자이겡오 아카시마셍", exampleMeaning: "취재원을 밝히지 않습니다.",
+    breakdown: [
+      { word: "明かしません", reading: "あかしません", meaning: "밝히지 않습니다" }
+    ] },
+  { level: "N2", kanji: "スクープ", reading: "スクープ", korean: "스쿠-푸", meaning: "특종",
+    example: "大きなスクープを取りました。", exampleReading: "おおきなスクープをとりました。", exampleKorean: "오-키나 스쿠-푸오 토리마시타", exampleMeaning: "큰 특종을 잡았습니다.",
+    breakdown: [
+      { word: "大きな", reading: "おおきな", meaning: "큰" }
+    ] },
+  { level: "N2", kanji: "特ダネ", reading: "とくダネ", korean: "토쿠다네", meaning: "특종",
+    example: "特ダネを報道しました。", exampleReading: "とくダネをほうどうしました。", exampleKorean: "토쿠다네오 호-도- 시마시타", exampleMeaning: "특종을 보도했습니다.",
+    breakdown: [
+      { word: "報道", reading: "ほうどう", meaning: "보도" }
+    ] },
+  { level: "N2", kanji: "裏取り", reading: "うらとり", korean: "우라토리", meaning: "사실 확인, 뒷조사",
+    example: "情報の裏取りをしました。", exampleReading: "じょうほうのうらとりをしました。", exampleKorean: "죠-호-노 우라토리오 시마시타", exampleMeaning: "정보의 사실 확인을 했습니다.",
+    breakdown: [
+      { word: "情報", reading: "じょうほう", meaning: "정보" }
+    ] },
+  { level: "N2", kanji: "情報源", reading: "じょうほうげん", korean: "죠-호-겐", meaning: "정보원",
+    example: "情報源を確認しました。", exampleReading: "じょうほうげんをかくにんしました。", exampleKorean: "죠-호-겡오 카쿠닌 시마시타", exampleMeaning: "정보원을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N2", kanji: "匿名希望", reading: "とくめいきぼう", korean: "토쿠메-키보-", meaning: "익명 희망",
+    example: "匿名希望で答えました。", exampleReading: "とくめいきぼうでこたえました。", exampleKorean: "토쿠메-키보-데 코타에마시타", exampleMeaning: "익명을 희망하며 답했습니다.",
+    breakdown: [
+      { word: "答えました", reading: "こたえました", meaning: "답했습니다" }
+    ] },
+  { level: "N2", kanji: "実名報道", reading: "じつめいほうどう", korean: "지츠메-호-도-", meaning: "실명보도",
+    example: "実名報道が原則です。", exampleReading: "じつめいほうどうがげんそくです。", exampleKorean: "지츠메-호-도-가 겐소쿠데스", exampleMeaning: "실명보도가 원칙입니다.",
+    breakdown: [
+      { word: "原則", reading: "げんそく", meaning: "원칙" }
+    ] },
+  { level: "N2", kanji: "偏向報道", reading: "へんこうほうどう", korean: "헨코-호-도-", meaning: "편향보도",
+    example: "偏向報道だと批判されました。", exampleReading: "へんこうほうどうだとひはんされました。", exampleKorean: "헨코-호-도-다토 히한사레마시타", exampleMeaning: "편향보도라고 비판받았습니다.",
+    breakdown: [
+      { word: "批判", reading: "ひはん", meaning: "비판" }
+    ] },
+  { level: "N2", kanji: "世論操作", reading: "よろんそうさ", korean: "요론소-사", meaning: "여론조작",
+    example: "世論操作の疑いがあります。", exampleReading: "よろんそうさのうたがいがあります。", exampleKorean: "요론소-사노 우타가이가 아리마스", exampleMeaning: "여론조작 의혹이 있습니다.",
+    breakdown: [
+      { word: "疑い", reading: "うたがい", meaning: "의혹" }
+    ] },
+  { level: "N2", kanji: "情報操作", reading: "じょうほうそうさ", korean: "죠-호-소-사", meaning: "정보조작",
+    example: "情報操作を行っていました。", exampleReading: "じょうほうそうさをおこなっていました。", exampleKorean: "죠-호-소-사오 오코낫테 이마시타", exampleMeaning: "정보조작을 하고 있었습니다.",
+    breakdown: [
+      { word: "行って", reading: "おこなって", meaning: "해서" }
+    ] },
+  { level: "N2", kanji: "印象操作", reading: "いんしょうそうさ", korean: "인쇼-소-사", meaning: "인상조작",
+    example: "印象操作だと反論しました。", exampleReading: "いんしょうそうさだとはんろんしました。", exampleKorean: "인쇼-소-사다토 한론 시마시타", exampleMeaning: "인상조작이라고 반론했습니다.",
+    breakdown: [
+      { word: "反論", reading: "はんろん", meaning: "반론" }
+    ] },
+  { level: "N2", kanji: "風説", reading: "ふうせつ", korean: "후-세츠", meaning: "풍설, 소문",
+    example: "根拠のない風説です。", exampleReading: "こんきょのないふうせつです。", exampleKorean: "콘쿄노 나이 후-세츠데스", exampleMeaning: "근거 없는 소문입니다.",
+    breakdown: [
+      { word: "根拠", reading: "こんきょ", meaning: "근거" }
+    ] },
+  { level: "N2", kanji: "デマ", reading: "デマ", korean: "데마", meaning: "유언비어",
+    example: "デマを流しました。", exampleReading: "デマをながしました。", exampleKorean: "데마오 나가시마시타", exampleMeaning: "유언비어를 퍼뜨렸습니다.",
+    breakdown: [
+      { word: "流しました", reading: "ながしました", meaning: "퍼뜨렸습니다" }
+    ] },
+  { level: "N2", kanji: "フェイクニュース", reading: "フェイクニュース", korean: "훼이쿠뉴-스", meaning: "가짜뉴스",
+    example: "フェイクニュースが拡散しました。", exampleReading: "フェイクニュースがかくさんしました。", exampleKorean: "훼이쿠뉴-스가 카쿠산 시마시타", exampleMeaning: "가짜뉴스가 확산되었습니다.",
+    breakdown: [
+      { word: "拡散", reading: "かくさん", meaning: "확산" }
+    ] },
+  { level: "N2", kanji: "情報リテラシー", reading: "じょうほうリテラシー", korean: "죠-호-리테라시-", meaning: "정보 리터러시",
+    example: "情報リテラシーが求められます。", exampleReading: "じょうほうリテラシーがもとめられます。", exampleKorean: "죠-호-리테라시-가 모토메라레마스", exampleMeaning: "정보 리터러시가 요구됩니다.",
+    breakdown: [
+      { word: "求められます", reading: "もとめられます", meaning: "요구됩니다" }
+    ] },
+  { level: "N2", kanji: "メディアリテラシー", reading: "メディアリテラシー", korean: "메디아리테라시-", meaning: "미디어 리터러시",
+    example: "メディアリテラシー教育が必要です。", exampleReading: "メディアリテラシーきょういくがひつようです。", exampleKorean: "메디아리테라시- 쿄-이쿠가 히츠요-데스", exampleMeaning: "미디어 리터러시 교육이 필요합니다.",
+    breakdown: [
+      { word: "教育", reading: "きょういく", meaning: "교육" }
+    ] },
+  { level: "N2", kanji: "情報格差", reading: "じょうほうかくさ", korean: "죠-호-카쿠사", meaning: "정보격차",
+    example: "情報格差が問題になっています。", exampleReading: "じょうほうかくさがもんだいになっています。", exampleKorean: "죠-호-카쿠사가 몬다이니 낫테 이마스", exampleMeaning: "정보격차가 문제가 되고 있습니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N2", kanji: "情報公開", reading: "じょうほうこうかい", korean: "죠-호-코-카이", meaning: "정보공개",
+    example: "情報公開を求めました。", exampleReading: "じょうほうこうかいをもとめました。", exampleKorean: "죠-호-코-카이오 모토메마시타", exampleMeaning: "정보공개를 요구했습니다.",
+    breakdown: [
+      { word: "求めました", reading: "もとめました", meaning: "요구했습니다" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
