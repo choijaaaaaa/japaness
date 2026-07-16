@@ -12428,6 +12428,211 @@ const VOCAB = [
     breakdown: [
       { word: "決断", reading: "けつだん", meaning: "결단" }
     ] },
+  { level: "N3", kanji: "一辺倒", reading: "いっぺんとう", korean: "입펜토-", meaning: "일변도",
+    example: "欧米一辺倒の考え方です。", exampleReading: "おうべいいっぺんとうのかんがえかたです。", exampleKorean: "오-베- 입펜토-노 캉가에카타데스", exampleMeaning: "서구 일변도의 사고방식입니다.",
+    breakdown: [
+      { word: "考え方", reading: "かんがえかた", meaning: "사고방식" }
+    ] },
+  { level: "N3", kanji: "一過性", reading: "いっかせい", korean: "익카세-", meaning: "일과성",
+    example: "一過性の現象です。", exampleReading: "いっかせいのげんしょうです。", exampleKorean: "익카세-노 겐쇼-데스", exampleMeaning: "일과성 현상입니다.",
+    breakdown: [
+      { word: "現象", reading: "げんしょう", meaning: "현상" }
+    ] },
+  { level: "N3", kanji: "恒久的", reading: "こうきゅうてき", korean: "코-큐-테키", meaning: "항구적",
+    example: "恒久的な平和を願います。", exampleReading: "こうきゅうてきなへいわをねがいます。", exampleKorean: "코-큐-테키나 헤이와오 네가이마스", exampleMeaning: "항구적인 평화를 바랍니다.",
+    breakdown: [
+      { word: "平和", reading: "へいわ", meaning: "평화" }
+    ] },
+  { level: "N3", kanji: "暫定的", reading: "ざんていてき", korean: "잔테-테키", meaning: "잠정적",
+    example: "暫定的な措置を取りました。", exampleReading: "ざんていてきなそちをとりました。", exampleKorean: "잔테-테키나 소치오 토리마시타", exampleMeaning: "잠정적인 조치를 취했습니다.",
+    breakdown: [
+      { word: "措置", reading: "そち", meaning: "조치" }
+    ] },
+  { level: "N3", kanji: "過渡期", reading: "かとき", korean: "카토키", meaning: "과도기",
+    example: "社会が過渡期にあります。", exampleReading: "しゃかいがかときにあります。", exampleKorean: "샤카이가 카토키니 아리마스", exampleMeaning: "사회가 과도기에 있습니다.",
+    breakdown: [
+      { word: "社会", reading: "しゃかい", meaning: "사회" }
+    ] },
+  { level: "N3", kanji: "転換期", reading: "てんかんき", korean: "텐칸키", meaning: "전환기",
+    example: "人生の転換期を迎えました。", exampleReading: "じんせいのてんかんきをむかえました。", exampleKorean: "진세-노 텐칸키오 무카에마시타", exampleMeaning: "인생의 전환기를 맞았습니다.",
+    breakdown: [
+      { word: "人生", reading: "じんせい", meaning: "인생" }
+    ] },
+  { level: "N3", kanji: "変わり目", reading: "かわりめ", korean: "카와리메", meaning: "전환점, 환절기",
+    example: "季節の変わり目に体調を崩しやすいです。", exampleReading: "きせつのかわりめにたいちょうをくずしやすいです。", exampleKorean: "키세츠노 카와리메니 타이쵸-오 쿠즈시야스이데스", exampleMeaning: "환절기에는 컨디션이 나빠지기 쉽습니다.",
+    breakdown: [
+      { word: "季節", reading: "きせつ", meaning: "계절" }
+    ] },
+  { level: "N3", kanji: "局面打開", reading: "きょくめんだかい", korean: "쿄쿠멘다카이", meaning: "국면 타개",
+    example: "局面打開を図りました。", exampleReading: "きょくめんだかいをはかりました。", exampleKorean: "쿄쿠멘다카이오 하카리마시타", exampleMeaning: "국면 타개를 도모했습니다.",
+    breakdown: [
+      { word: "図りました", reading: "はかりました", meaning: "도모했습니다" }
+    ] },
+  { level: "N3", kanji: "袋の鼠", reading: "ふくろのねずみ", korean: "후쿠로노네즈미", meaning: "독안에 든 쥐",
+    example: "もう袋の鼠です。", exampleReading: "もうふくろのねずみです。", exampleKorean: "모- 후쿠로노 네즈미데스", exampleMeaning: "이제 독안에 든 쥐입니다.",
+    breakdown: [
+      { word: "もう", reading: "もう", meaning: "이제" }
+    ] },
+  { level: "N3", kanji: "背に腹は代えられない", reading: "せにはらはかえられない", korean: "세니 하라와 카에라레나이", meaning: "배보다 배꼽이 클 수 없다(속담)",
+    example: "背に腹は代えられないと決断しました。", exampleReading: "せにはらはかえられないとけつだんしました。", exampleKorean: "세니 하라와 카에라레나이토 케츠단 시마시타", exampleMeaning: "어쩔 수 없다고 결단했습니다.",
+    breakdown: [
+      { word: "決断", reading: "けつだん", meaning: "결단" }
+    ] },
+  { level: "N3", kanji: "窮鼠猫を噛む", reading: "きゅうそねこをかむ", korean: "큐-소 네코오 카무", meaning: "궁지에 몰린 쥐가 고양이를 문다(속담)",
+    example: "窮鼠猫を噛むということわざがあります。", exampleReading: "きゅうそねこをかむということわざがあります。", exampleKorean: "큐-소 네코오 카무토이우 코토와자가 아리마스", exampleMeaning: "궁지에 몰린 쥐가 고양이를 문다는 속담이 있습니다.",
+    breakdown: [
+      { word: "ことわざ", reading: "ことわざ", meaning: "속담" }
+    ] },
+  { level: "N3", kanji: "起爆剤", reading: "きばくざい", korean: "키바쿠자이", meaning: "기폭제",
+    example: "改革の起爆剤になりました。", exampleReading: "かいかくのきばくざいになりました。", exampleKorean: "카이카쿠노 키바쿠자이니 나리마시타", exampleMeaning: "개혁의 기폭제가 되었습니다.",
+    breakdown: [
+      { word: "改革", reading: "かいかく", meaning: "개혁" }
+    ] },
+  { level: "N3", kanji: "火種", reading: "ひだね", korean: "히다네", meaning: "화근, 불씨",
+    example: "対立の火種になりました。", exampleReading: "たいりつのひだねになりました。", exampleKorean: "타이리츠노 히다네니 나리마시타", exampleMeaning: "대립의 화근이 되었습니다.",
+    breakdown: [
+      { word: "対立", reading: "たいりつ", meaning: "대립" }
+    ] },
+  { level: "N3", kanji: "火の粉", reading: "ひのこ", korean: "히노코", meaning: "불똥",
+    example: "こちらに火の粉が飛んできました。", exampleReading: "こちらにひのこがとんできました。", exampleKorean: "코치라니 히노코가 톤데 키마시타", exampleMeaning: "이쪽으로 불똥이 튀었습니다.",
+    breakdown: [
+      { word: "こちら", reading: "こちら", meaning: "이쪽" }
+    ] },
+  { level: "N3", kanji: "飛び火", reading: "とびひ", korean: "토비히", meaning: "불똥이 튐, 파급",
+    example: "問題が飛び火しました。", exampleReading: "もんだいがとびひしました。", exampleKorean: "몬다이가 토비히 시마시타", exampleMeaning: "문제가 파급되었습니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N3", kanji: "余波", reading: "よは", korean: "요하", meaning: "여파",
+    example: "不況の余波を受けました。", exampleReading: "ふきょうのよはをうけました。", exampleKorean: "후쿄-노 요하오 우케마시타", exampleMeaning: "불황의 여파를 받았습니다.",
+    breakdown: [
+      { word: "不況", reading: "ふきょう", meaning: "불황" }
+    ] },
+  { level: "N3", kanji: "煽り", reading: "あおり", korean: "아오리", meaning: "여파, 영향",
+    example: "円安の煽りを受けました。", exampleReading: "えんやすのあおりをうけました。", exampleKorean: "엔야스노 아오리오 우케마시타", exampleMeaning: "엔저의 영향을 받았습니다.",
+    breakdown: [
+      { word: "円安", reading: "えんやす", meaning: "엔저" }
+    ] },
+  { level: "N3", kanji: "煽りを食う", reading: "あおりをくう", korean: "아오리오쿠우", meaning: "여파를 입다",
+    example: "不況の煽りを食いました。", exampleReading: "ふきょうのあおりをくいました。", exampleKorean: "후쿄-노 아오리오 쿠이마시타", exampleMeaning: "불황의 여파를 입었습니다.",
+    breakdown: [
+      { word: "不況", reading: "ふきょう", meaning: "불황" }
+    ] },
+  { level: "N3", kanji: "しわ寄せ", reading: "しわよせ", korean: "시와요세", meaning: "부담이 전가됨",
+    example: "現場にしわ寄せが来ました。", exampleReading: "げんばにしわよせがきました。", exampleKorean: "겐바니 시와요세가 키마시타", exampleMeaning: "현장에 부담이 전가되었습니다.",
+    breakdown: [
+      { word: "現場", reading: "げんば", meaning: "현장" }
+    ] },
+  { level: "N3", kanji: "ツケが回る", reading: "ツケがまわる", korean: "츠케가마와루", meaning: "대가를 치르게 되다",
+    example: "いずれツケが回ってきます。", exampleReading: "いずれツケがまわってきます。", exampleKorean: "이즈레 츠케가 마왓테 키마스", exampleMeaning: "언젠가 대가를 치르게 됩니다.",
+    breakdown: [
+      { word: "いずれ", reading: "いずれ", meaning: "언젠가" }
+    ] },
+  { level: "N3", kanji: "どんでん返し", reading: "どんでんがえし", korean: "돈덴가에시", meaning: "반전(예상외 결말)",
+    example: "最後にどんでん返しがありました。", exampleReading: "さいごにどんでんがえしがありました。", exampleKorean: "사이고니 돈덴가에시가 아리마시타", exampleMeaning: "마지막에 반전이 있었습니다.",
+    breakdown: [
+      { word: "最後", reading: "さいご", meaning: "마지막" }
+    ] },
+  { level: "N3", kanji: "波乱万丈", reading: "はらんばんじょう", korean: "하란반죠-", meaning: "파란만장",
+    example: "波乱万丈な人生でした。", exampleReading: "はらんばんじょうなじんせいでした。", exampleKorean: "하란반죠-나 진세-데시타", exampleMeaning: "파란만장한 인생이었습니다.",
+    breakdown: [
+      { word: "人生", reading: "じんせい", meaning: "인생" }
+    ] },
+  { level: "N3", kanji: "紆余曲折", reading: "うよきょくせつ", korean: "우요쿄쿠세츠", meaning: "우여곡절",
+    example: "紆余曲折を経て完成しました。", exampleReading: "うよきょくせつをへてかんせいしました。", exampleKorean: "우요쿄쿠세츠오 헤테 칸세- 시마시타", exampleMeaning: "우여곡절을 거쳐 완성했습니다.",
+    breakdown: [
+      { word: "完成", reading: "かんせい", meaning: "완성" }
+    ] },
+  { level: "N3", kanji: "想定外", reading: "そうていがい", korean: "소-테-가이", meaning: "예상외",
+    example: "想定外の事態が起こりました。", exampleReading: "そうていがいのじたいがおこりました。", exampleKorean: "소-테-가이노 지타이가 오코리마시타", exampleMeaning: "예상외의 사태가 일어났습니다.",
+    breakdown: [
+      { word: "事態", reading: "じたい", meaning: "사태" }
+    ] },
+  { level: "N3", kanji: "想定内", reading: "そうていない", korean: "소-테-나이", meaning: "예상 범위 내",
+    example: "これは想定内の結果です。", exampleReading: "これはそうていないのけっかです。", exampleKorean: "코레와 소-테-나이노 켁카데스", exampleMeaning: "이것은 예상 범위 내의 결과입니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N3", kanji: "織り込み済み", reading: "おりこみずみ", korean: "오리코미즈미", meaning: "이미 반영됨(예상됨)",
+    example: "リスクは織り込み済みです。", exampleReading: "リスクはおりこみずみです。", exampleKorean: "리스쿠와 오리코미즈미데스", exampleMeaning: "리스크는 이미 반영되어 있습니다.",
+    breakdown: [
+      { word: "リスク", reading: "リスク", meaning: "리스크" }
+    ] },
+  { level: "N3", kanji: "織り込む", reading: "おりこむ", korean: "오리코무", meaning: "반영하다, 짜넣다",
+    example: "計画にリスクを織り込みました。", exampleReading: "けいかくにリスクをおりこみました。", exampleKorean: "케-카쿠니 리스쿠오 오리코미마시타", exampleMeaning: "계획에 리스크를 반영했습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N3", kanji: "見込み違い", reading: "みこみちがい", korean: "미코미치가이", meaning: "예측이 빗나감",
+    example: "結果は見込み違いでした。", exampleReading: "けっかはみこみちがいでした。", exampleKorean: "켁카와 미코미치가이데시타", exampleMeaning: "결과는 예측이 빗나갔습니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N3", kanji: "皮算用", reading: "かわざんよう", korean: "카와잔요-", meaning: "김칫국 마시기(속담식 표현)",
+    example: "まだ皮算用は早いです。", exampleReading: "まだかわざんようははやいです。", exampleKorean: "마다 카와잔요-와 하야이데스", exampleMeaning: "아직 김칫국 마시기는 이릅니다.",
+    breakdown: [
+      { word: "まだ", reading: "まだ", meaning: "아직" }
+    ] },
+  { level: "N3", kanji: "絵に描いた餅", reading: "えにかいたもち", korean: "에니 카이타 모치", meaning: "그림의 떡",
+    example: "計画は絵に描いた餅に終わりました。", exampleReading: "けいかくはえにかいたもちにおわりました。", exampleKorean: "케-카쿠와 에니 카이타 모치니 오와리마시타", exampleMeaning: "계획은 그림의 떡으로 끝났습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N3", kanji: "机上の空論", reading: "きじょうのくうろん", korean: "키죠-노 쿠-론", meaning: "탁상공론",
+    example: "それは机上の空論に過ぎません。", exampleReading: "それはきじょうのくうろんにすぎません。", exampleKorean: "소레와 키죠-노 쿠-론니 스기마셍", exampleMeaning: "그것은 탁상공론에 불과합니다.",
+    breakdown: [
+      { word: "それは", reading: "それは", meaning: "그것은" }
+    ] },
+  { level: "N3", kanji: "水泡に帰す", reading: "すいほうにきす", korean: "스이호-니 키스", meaning: "물거품이 되다",
+    example: "計画は水泡に帰しました。", exampleReading: "けいかくはすいほうにきしました。", exampleKorean: "케-카쿠와 스이호-니 키시마시타", exampleMeaning: "계획은 물거품이 되었습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N3", kanji: "空振りに終わる", reading: "からぶりにおわる", korean: "카라부리니 오와루", meaning: "헛방으로 끝나다",
+    example: "努力は空振りに終わりました。", exampleReading: "どりょくはからぶりにおわりました。", exampleKorean: "도료쿠와 카라부리니 오와리마시타", exampleMeaning: "노력은 헛수고로 끝났습니다.",
+    breakdown: [
+      { word: "努力", reading: "どりょく", meaning: "노력" }
+    ] },
+  { level: "N3", kanji: "蓋を開ける", reading: "ふたをあける", korean: "후타오아케루", meaning: "뚜껑을 열다(막상 해보다)",
+    example: "蓋を開けてみないと分かりません。", exampleReading: "ふたをあけてみないとわかりません。", exampleKorean: "후타오 아케테 미나이토 와카리마셍", exampleMeaning: "막상 해보지 않으면 모릅니다.",
+    breakdown: [
+      { word: "分かりません", reading: "わかりません", meaning: "모릅니다" }
+    ] },
+  { level: "N3", kanji: "予想を裏切る", reading: "よそうをうらぎる", korean: "요소-오우라기루", meaning: "예상을 뒤엎다",
+    example: "結果は予想を裏切りました。", exampleReading: "けっかはよそうをうらぎりました。", exampleKorean: "켁카와 요소-오 우라기리마시타", exampleMeaning: "결과는 예상을 뒤엎었습니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N3", kanji: "予想通り", reading: "よそうどおり", korean: "요소-도-리", meaning: "예상대로",
+    example: "予想通りの結果でした。", exampleReading: "よそうどおりのけっかでした。", exampleKorean: "요소-도-리노 켁카데시타", exampleMeaning: "예상대로의 결과였습니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N3", kanji: "想像以上", reading: "そうぞういじょう", korean: "소-조-이죠-", meaning: "상상 이상",
+    example: "想像以上の反響がありました。", exampleReading: "そうぞういじょうのはんきょうがありました。", exampleKorean: "소-조-이죠-노 한쿄-가 아리마시타", exampleMeaning: "상상 이상의 반향이 있었습니다.",
+    breakdown: [
+      { word: "反響", reading: "はんきょう", meaning: "반향" }
+    ] },
+  { level: "N3", kanji: "意外性", reading: "いがいせい", korean: "이가이세-", meaning: "의외성",
+    example: "意外性のある展開でした。", exampleReading: "いがいせいのあるてんかいでした。", exampleKorean: "이가이세-노 아루 텐카이데시타", exampleMeaning: "의외성 있는 전개였습니다.",
+    breakdown: [
+      { word: "展開", reading: "てんかい", meaning: "전개" }
+    ] },
+  { level: "N3", kanji: "番狂わせ", reading: "ばんくるわせ", korean: "반쿠루와세", meaning: "이변(예상 밖 결과)",
+    example: "大会で番狂わせが起こりました。", exampleReading: "たいかいでばんくるわせがおこりました。", exampleKorean: "타이카이데 반쿠루와세가 오코리마시타", exampleMeaning: "대회에서 이변이 일어났습니다.",
+    breakdown: [
+      { word: "大会", reading: "たいかい", meaning: "대회" }
+    ] },
+  { level: "N3", kanji: "逆転劇", reading: "ぎゃくてんげき", korean: "갹텐게키", meaning: "역전극",
+    example: "感動の逆転劇でした。", exampleReading: "かんどうのぎゃくてんげきでした。", exampleKorean: "칸도-노 갹텐게키데시타", exampleMeaning: "감동적인 역전극이었습니다.",
+    breakdown: [
+      { word: "感動", reading: "かんどう", meaning: "감동" }
+    ] },
+  { level: "N3", kanji: "泥仕合", reading: "どろじあい", korean: "도로지아이", meaning: "진흙탕 싸움",
+    example: "泥仕合になってしまいました。", exampleReading: "どろじあいになってしまいました。", exampleKorean: "도로지아이니 낫테 시마이마시타", exampleMeaning: "진흙탕 싸움이 되어버렸습니다.",
+    breakdown: [
+      { word: "なって", reading: "なって", meaning: "되어서" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
