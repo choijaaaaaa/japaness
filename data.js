@@ -14916,4 +14916,154 @@ const VOCAB = [
     breakdown: [
       { word: "損", reading: "ぞん", meaning: "손해" }
     ] },
+  { level: "N1", kanji: "薄氷を踏む", reading: "はくひょうをふむ", korean: "하쿠효-오후무", meaning: "살얼음을 밟다(위태로운 상황)",
+    example: "薄氷を踏む思いで交渉しました。", exampleReading: "はくひょうをふむおもいでこうしょうしました。", exampleKorean: "하쿠효-오 후무 오모이데 코-쇼- 시마시타", exampleMeaning: "살얼음을 밟는 심정으로 교섭했습니다.",
+    breakdown: [
+      { word: "交渉", reading: "こうしょう", meaning: "교섭" }
+    ] },
+  { level: "N1", kanji: "綱渡り", reading: "つなわたり", korean: "츠나와타리", meaning: "줄타기(위태로운 상황)",
+    example: "資金繰りは綱渡りの状態です。", exampleReading: "しきんぐりはつなわたりのじょうたいです。", exampleKorean: "시킹구리와 츠나와타리노 죠-타이데스", exampleMeaning: "자금 융통은 위태로운 상태입니다.",
+    breakdown: [
+      { word: "資金繰り", reading: "しきんぐり", meaning: "자금 융통" }
+    ] },
+  { level: "N1", kanji: "背水の陣", reading: "はいすいのじん", korean: "하이스이노진", meaning: "배수의 진",
+    example: "背水の陣で臨みました。", exampleReading: "はいすいのじんでのぞみました。", exampleKorean: "하이스이노진데 노조미마시타", exampleMeaning: "배수의 진으로 임했습니다.",
+    breakdown: [
+      { word: "臨みました", reading: "のぞみました", meaning: "임했습니다" }
+    ] },
+  { level: "N1", kanji: "起死回生", reading: "きしかいせい", korean: "키시카이세-", meaning: "기사회생",
+    example: "起死回生の一打を放ちました。", exampleReading: "きしかいせいのいちだをはなちました。", exampleKorean: "키시카이세-노 이치다오 하나치마시타", exampleMeaning: "기사회생의 한 방을 날렸습니다.",
+    breakdown: [
+      { word: "一打", reading: "いちだ", meaning: "한 방" }
+    ] },
+  { level: "N1", kanji: "一発逆転", reading: "いっぱつぎゃくてん", korean: "잇파츠갹텐", meaning: "일발역전",
+    example: "一発逆転を狙いました。", exampleReading: "いっぱつぎゃくてんをねらいました。", exampleKorean: "잇파츠갹텡오 네라이마시타", exampleMeaning: "일발역전을 노렸습니다.",
+    breakdown: [
+      { word: "狙いました", reading: "ねらいました", meaning: "노렸습니다" }
+    ] },
+  { level: "N1", kanji: "捲土重来", reading: "けんどちょうらい", korean: "켄도쵸-라이", meaning: "권토중래",
+    example: "捲土重来を期しています。", exampleReading: "けんどちょうらいをきしています。", exampleKorean: "켄도쵸-라이오 키시테 이마스", exampleMeaning: "권토중래를 기약하고 있습니다.",
+    breakdown: [
+      { word: "期して", reading: "きして", meaning: "기약해서" }
+    ] },
+  { level: "N1", kanji: "雪辱", reading: "せつじょく", korean: "세츠죠쿠", meaning: "설욕",
+    example: "前回の敗戦の雪辱を果たしました。", exampleReading: "ぜんかいのはいせんのせつじょくをはたしました。", exampleKorean: "젠카이노 하이센노 세츠죠쿠오 하타시마시타", exampleMeaning: "지난번 패전의 설욕을 이루었습니다.",
+    breakdown: [
+      { word: "敗戦", reading: "はいせん", meaning: "패전" }
+    ] },
+  { level: "N1", kanji: "汚名返上", reading: "おめいへんじょう", korean: "오메-헨죠-", meaning: "오명을 씻음",
+    example: "汚名返上のチャンスです。", exampleReading: "おめいへんじょうのチャンスです。", exampleKorean: "오메-헨죠-노 챤스데스", exampleMeaning: "오명을 씻을 기회입니다.",
+    breakdown: [
+      { word: "チャンス", reading: "チャンス", meaning: "기회" }
+    ] },
+  { level: "N1", kanji: "名誉挽回", reading: "めいよばんかい", korean: "메-요반카이", meaning: "명예 회복",
+    example: "名誉挽回を果たしました。", exampleReading: "めいよばんかいをはたしました。", exampleKorean: "메-요반카이오 하타시마시타", exampleMeaning: "명예 회복을 이루었습니다.",
+    breakdown: [
+      { word: "果たしました", reading: "はたしました", meaning: "이루었습니다" }
+    ] },
+  { level: "N1", kanji: "失地回復", reading: "しっちかいふく", korean: "싯치카이후쿠", meaning: "실지 회복",
+    example: "失地回復を目指します。", exampleReading: "しっちかいふくをめざします。", exampleKorean: "싯치카이후쿠오 메자시마스", exampleMeaning: "실지 회복을 목표로 합니다.",
+    breakdown: [
+      { word: "目指します", reading: "めざします", meaning: "목표로 합니다" }
+    ] },
+  { level: "N1", kanji: "巻き返し", reading: "まきかえし", korean: "마키카에시", meaning: "만회",
+    example: "終盤で巻き返しに成功しました。", exampleReading: "しゅうばんでまきかえしにせいこうしました。", exampleKorean: "슈-반데 마키카에시니 세-코- 시마시타", exampleMeaning: "막판에 만회에 성공했습니다.",
+    breakdown: [
+      { word: "終盤", reading: "しゅうばん", meaning: "막판" }
+    ] },
+  { level: "N1", kanji: "追い上げる", reading: "おいあげる", korean: "오이아게루", meaning: "맹추격하다",
+    example: "相手チームを追い上げました。", exampleReading: "あいてチームをおいあげました。", exampleKorean: "아이테 치-무오 오이아게마시타", exampleMeaning: "상대팀을 맹추격했습니다.",
+    breakdown: [
+      { word: "相手チーム", reading: "あいてチーム", meaning: "상대팀" }
+    ] },
+  { level: "N1", kanji: "食らいつく", reading: "くらいつく", korean: "쿠라이츠쿠", meaning: "달려들다, 물고늘어지다",
+    example: "最後まで食らいつきました。", exampleReading: "さいごまでくらいつきました。", exampleKorean: "사이고마데 쿠라이츠키마시타", exampleMeaning: "끝까지 물고늘어졌습니다.",
+    breakdown: [
+      { word: "最後まで", reading: "さいごまで", meaning: "끝까지" }
+    ] },
+  { level: "N1", kanji: "食い下がる", reading: "くいさがる", korean: "쿠이사가루", meaning: "끈질기게 물고늘어지다",
+    example: "諦めずに食い下がりました。", exampleReading: "あきらめずにくいさがりました。", exampleKorean: "아키라메즈니 쿠이사가리마시타", exampleMeaning: "포기하지 않고 끈질기게 매달렸습니다.",
+    breakdown: [
+      { word: "諦めず", reading: "あきらめず", meaning: "포기하지 않고" }
+    ] },
+  { level: "N1", kanji: "粘る", reading: "ねばる", korean: "네바루", meaning: "끈질기게 버티다",
+    example: "最後まで粘りました。", exampleReading: "さいごまでねばりました。", exampleKorean: "사이고마데 네바리마시타", exampleMeaning: "끝까지 버텼습니다.",
+    breakdown: [
+      { word: "最後まで", reading: "さいごまで", meaning: "끝까지" }
+    ] },
+  { level: "N1", kanji: "踏ん張る", reading: "ふんばる", korean: "훈바루", meaning: "버티다, 힘을 주다",
+    example: "ここが踏ん張りどころです。", exampleReading: "ここがふんばりどころです。", exampleKorean: "코코가 훔바리도코로데스", exampleMeaning: "여기가 버텨야 할 때입니다.",
+    breakdown: [
+      { word: "ここが", reading: "ここが", meaning: "여기가" }
+    ] },
+  { level: "N1", kanji: "歯を食いしばる", reading: "はをくいしばる", korean: "하오쿠이시바루", meaning: "이를 악물다",
+    example: "歯を食いしばって耐えました。", exampleReading: "はをくいしばってたえました。", exampleKorean: "하오 쿠이시밧테 타에마시타", exampleMeaning: "이를 악물고 견뎠습니다.",
+    breakdown: [
+      { word: "耐えました", reading: "たえました", meaning: "견뎠습니다" }
+    ] },
+  { level: "N1", kanji: "奮い立つ", reading: "ふるいたつ", korean: "후루이타츠", meaning: "분기하다, 힘을 내다",
+    example: "仲間の言葉に奮い立ちました。", exampleReading: "なかまのことばにふるいたちました。", exampleKorean: "나카마노 코토바니 후루이타치마시타", exampleMeaning: "동료의 말에 힘이 났습니다.",
+    breakdown: [
+      { word: "仲間", reading: "なかま", meaning: "동료" }
+    ] },
+  { level: "N1", kanji: "発奮", reading: "はっぷん", korean: "핫푼", meaning: "분발함",
+    example: "負けたことに発奮しました。", exampleReading: "まけたことにはっぷんしました。", exampleKorean: "마케타 코토니 핫푼 시마시타", exampleMeaning: "진 것에 분발했습니다.",
+    breakdown: [
+      { word: "負けた", reading: "まけた", meaning: "진" }
+    ] },
+  { level: "N1", kanji: "一念発起", reading: "いちねんほっき", korean: "이치넨혹키", meaning: "일념발기(결심)",
+    example: "一念発起してダイエットを始めました。", exampleReading: "いちねんほっきしてダイエットをはじめました。", exampleKorean: "이치넨혹키 시테 다이엣토오 하지메마시타", exampleMeaning: "마음을 굳게 먹고 다이어트를 시작했습니다.",
+    breakdown: [
+      { word: "ダイエット", reading: "ダイエット", meaning: "다이어트" }
+    ] },
+  { level: "N1", kanji: "背伸び", reading: "せのび", korean: "세노비", meaning: "발돋움, 무리함",
+    example: "背伸びせず自分らしくいます。", exampleReading: "せのびせずじぶんらしくいます。", exampleKorean: "세노비세즈 지분라시쿠 이마스", exampleMeaning: "무리하지 않고 나답게 지냅니다.",
+    breakdown: [
+      { word: "自分らしく", reading: "じぶんらしく", meaning: "나답게" }
+    ] },
+  { level: "N1", kanji: "力尽きる", reading: "ちからつきる", korean: "치카라츠키루", meaning: "힘이 다하다",
+    example: "最後には力尽きました。", exampleReading: "さいごにはちからつきました。", exampleKorean: "사이고니와 치카라츠키마시타", exampleMeaning: "마지막에는 힘이 다했습니다.",
+    breakdown: [
+      { word: "最後には", reading: "さいごには", meaning: "마지막에는" }
+    ] },
+  { level: "N1", kanji: "力を尽くす", reading: "ちからをつくす", korean: "치카라오츠쿠스", meaning: "힘을 다하다",
+    example: "目標達成に力を尽くしました。", exampleReading: "もくひょうたっせいにちからをつくしました。", exampleKorean: "모쿠효-탓세-니 치카라오 츠쿠시마시타", exampleMeaning: "목표 달성에 힘을 다했습니다.",
+    breakdown: [
+      { word: "目標達成", reading: "もくひょうたっせい", meaning: "목표 달성" }
+    ] },
+  { level: "N1", kanji: "全うする", reading: "まっとうする", korean: "맛토-스루", meaning: "완수하다",
+    example: "任務を全うしました。", exampleReading: "にんむをまっとうしました。", exampleKorean: "닌무오 맛토- 시마시타", exampleMeaning: "임무를 완수했습니다.",
+    breakdown: [
+      { word: "任務", reading: "にんむ", meaning: "임무" }
+    ] },
+  { level: "N1", kanji: "貫く", reading: "つらぬく", korean: "츠라누쿠", meaning: "관철하다",
+    example: "自分の信念を貫きました。", exampleReading: "じぶんのしんねんをつらぬきました。", exampleKorean: "지분노 신넨오 츠라누키마시타", exampleMeaning: "자신의 신념을 관철했습니다.",
+    breakdown: [
+      { word: "信念", reading: "しんねん", meaning: "신념" }
+    ] },
+  { level: "N1", kanji: "有終の美", reading: "ゆうしゅうのび", korean: "유-슈-노비", meaning: "유종의 미",
+    example: "有終の美を飾りました。", exampleReading: "ゆうしゅうのびをかざりました。", exampleKorean: "유-슈-노비오 카자리마시타", exampleMeaning: "유종의 미를 거두었습니다.",
+    breakdown: [
+      { word: "飾りました", reading: "かざりました", meaning: "거두었습니다" }
+    ] },
+  { level: "N1", kanji: "花を咲かせる", reading: "はなをさかせる", korean: "하나오사카세루", meaning: "꽃을 피우다(비유)",
+    example: "長年の努力が花を咲かせました。", exampleReading: "ながねんのどりょくがはなをさかせました。", exampleKorean: "나가넨노 도료쿠가 하나오 사카세마시타", exampleMeaning: "오랜 노력이 꽃을 피웠습니다.",
+    breakdown: [
+      { word: "長年", reading: "ながねん", meaning: "오랜" }
+    ] },
+  { level: "N1", kanji: "実を結ぶ", reading: "みをむすぶ", korean: "미오무스부", meaning: "결실을 맺다",
+    example: "努力がついに実を結びました。", exampleReading: "どりょくがついにみをむすびました。", exampleKorean: "도료쿠가 츠이니 미오 무스비마시타", exampleMeaning: "노력이 마침내 결실을 맺었습니다.",
+    breakdown: [
+      { word: "ついに", reading: "ついに", meaning: "마침내" }
+    ] },
+  { level: "N1", kanji: "報われる", reading: "むくわれる", korean: "무쿠와레루", meaning: "보답받다",
+    example: "努力が報われました。", exampleReading: "どりょくがむくわれました。", exampleKorean: "도료쿠가 무쿠와레마시타", exampleMeaning: "노력이 보답받았습니다.",
+    breakdown: [
+      { word: "努力", reading: "どりょく", meaning: "노력" }
+    ] },
+  { level: "N1", kanji: "持ちこたえる", reading: "もちこたえる", korean: "모치코타에루", meaning: "버텨내다",
+    example: "最後まで持ちこたえました。", exampleReading: "さいごまでもちこたえました。", exampleKorean: "사이고마데 모치코타에마시타", exampleMeaning: "끝까지 버텨냈습니다.",
+    breakdown: [
+      { word: "最後まで", reading: "さいごまで", meaning: "끝까지" }
+    ] },
 ];
