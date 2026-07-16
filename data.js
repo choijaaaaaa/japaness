@@ -19837,6 +19837,156 @@ const VOCAB = [
     breakdown: [
       { word: "激化", reading: "げきか", meaning: "격화" }
     ] },
+  { level: "N2", kanji: "臨床試験", reading: "りんしょうしけん", korean: "린쇼-시켄", meaning: "임상시험",
+    example: "新薬の臨床試験を実施しました。", exampleReading: "しんやくのりんしょうしけんをじっししました。", exampleKorean: "신야쿠노 린쇼-시켕오 짓시 시마시타", exampleMeaning: "신약의 임상시험을 실시했습니다.",
+    breakdown: [
+      { word: "新薬", reading: "しんやく", meaning: "신약" }
+    ] },
+  { level: "N2", kanji: "治験参加者", reading: "ちけんさんかしゃ", korean: "치켄산카샤", meaning: "임상시험 참가자",
+    example: "治験参加者を募集しています。", exampleReading: "ちけんさんかしゃをぼしゅうしています。", exampleKorean: "치켄산카샤오 보슈- 시테 이마스", exampleMeaning: "임상시험 참가자를 모집하고 있습니다.",
+    breakdown: [
+      { word: "募集", reading: "ぼしゅう", meaning: "모집" }
+    ] },
+  { level: "N2", kanji: "薬事承認", reading: "やくじしょうにん", korean: "야쿠지쇼-닌", meaning: "약사승인",
+    example: "薬事承認を取得しました。", exampleReading: "やくじしょうにんをしゅとくしました。", exampleKorean: "야쿠지쇼-닌오 슈토쿠 시마시타", exampleMeaning: "약사승인을 취득했습니다.",
+    breakdown: [
+      { word: "取得", reading: "しゅとく", meaning: "취득" }
+    ] },
+  { level: "N2", kanji: "厚生労働省", reading: "こうせいろうどうしょう", korean: "코-세-로-도-쇼-", meaning: "후생노동성",
+    example: "厚生労働省が発表しました。", exampleReading: "こうせいろうどうしょうがはっぴょうしました。", exampleKorean: "코-세-로-도-쇼-가 핫표- 시마시타", exampleMeaning: "후생노동성이 발표했습니다.",
+    breakdown: [
+      { word: "発表", reading: "はっぴょう", meaning: "발표" }
+    ] },
+  { level: "N2", kanji: "医薬品開発", reading: "いやくひんかいはつ", korean: "이야쿠힌카이하츠", meaning: "의약품 개발",
+    example: "医薬品開発に取り組んでいます。", exampleReading: "いやくひんかいはつにとりくんでいます。", exampleKorean: "이야쿠힌카이하츠니 토리쿤데 이마스", exampleMeaning: "의약품 개발에 힘쓰고 있습니다.",
+    breakdown: [
+      { word: "取り組んで", reading: "とりくんで", meaning: "힘써서" }
+    ] },
+  { level: "N2", kanji: "副反応", reading: "ふくはんのう", korean: "후쿠한노-", meaning: "부반응",
+    example: "副反応が報告されました。", exampleReading: "ふくはんのうがほうこくされました。", exampleKorean: "후쿠한노-가 호-코쿠사레마시타", exampleMeaning: "부반응이 보고되었습니다.",
+    breakdown: [
+      { word: "報告", reading: "ほうこく", meaning: "보고" }
+    ] },
+  { level: "N2", kanji: "有効性評価", reading: "ゆうこうせいひょうか", korean: "유-코-세-효-카", meaning: "유효성 평가",
+    example: "有効性評価が行われました。", exampleReading: "ゆうこうせいひょうかがおこなわれました。", exampleKorean: "유-코-세-효-카가 오코나와레마시타", exampleMeaning: "유효성 평가가 이루어졌습니다.",
+    breakdown: [
+      { word: "行われました", reading: "おこなわれました", meaning: "이루어졌습니다" }
+    ] },
+  { level: "N2", kanji: "安全性評価", reading: "あんぜんせいひょうか", korean: "안젠세-효-카", meaning: "안전성 평가",
+    example: "安全性評価をクリアしました。", exampleReading: "あんぜんせいひょうかをクリアしました。", exampleKorean: "안젠세-효-카오 쿠리아 시마시타", exampleMeaning: "안전성 평가를 통과했습니다.",
+    breakdown: [
+      { word: "クリア", reading: "クリア", meaning: "통과" }
+    ] },
+  { level: "N2", kanji: "治験薬", reading: "ちけんやく", korean: "치켄야쿠", meaning: "임상시험약",
+    example: "治験薬を投与しました。", exampleReading: "ちけんやくをとうよしました。", exampleKorean: "치켄야쿠오 토-요 시마시타", exampleMeaning: "임상시험약을 투여했습니다.",
+    breakdown: [
+      { word: "投与", reading: "とうよ", meaning: "투여" }
+    ] },
+  { level: "N2", kanji: "プラセボ", reading: "プラセボ", korean: "푸라세보", meaning: "위약(플라시보)",
+    example: "プラセボ効果が確認されました。", exampleReading: "プラセボこうかがかくにんされました。", exampleKorean: "푸라세보 코-카가 카쿠닌사레마시타", exampleMeaning: "위약 효과가 확인되었습니다.",
+    breakdown: [
+      { word: "効果", reading: "こうか", meaning: "효과" }
+    ] },
+  { level: "N2", kanji: "二重盲検", reading: "にじゅうもうけん", korean: "니쥬-모-켄", meaning: "이중맹검",
+    example: "二重盲検試験を行いました。", exampleReading: "にじゅうもうけんしけんをおこないました。", exampleKorean: "니쥬-모-켄시켕오 오코나이마시타", exampleMeaning: "이중맹검시험을 실시했습니다.",
+    breakdown: [
+      { word: "試験", reading: "しけん", meaning: "시험" }
+    ] },
+  { level: "N2", kanji: "無作為抽出", reading: "むさくいちゅうしゅつ", korean: "무사쿠이츄-슈츠", meaning: "무작위추출",
+    example: "無作為抽出で被験者を選びました。", exampleReading: "むさくいちゅうしゅつでひけんしゃをえらびました。", exampleKorean: "무사쿠이츄-슈츠데 히켄샤오 에라비마시타", exampleMeaning: "무작위추출로 피험자를 선정했습니다.",
+    breakdown: [
+      { word: "被験者", reading: "ひけんしゃ", meaning: "피험자" }
+    ] },
+  { level: "N2", kanji: "統計的有意差", reading: "とうけいてきゆういさ", korean: "토-케-테키유-이사", meaning: "통계적 유의차",
+    example: "統計的有意差が認められました。", exampleReading: "とうけいてきゆういさがみとめられました。", exampleKorean: "토-케-테키유-이사가 미토메라레마시타", exampleMeaning: "통계적 유의차가 인정되었습니다.",
+    breakdown: [
+      { word: "認められました", reading: "みとめられました", meaning: "인정되었습니다" }
+    ] },
+  { level: "N2", kanji: "症例数", reading: "しょうれいすう", korean: "쇼-레-스-", meaning: "증례수",
+    example: "症例数が不足しています。", exampleReading: "しょうれいすうがふそくしています。", exampleKorean: "쇼-레-스-가 후소쿠 시테 이마스", exampleMeaning: "증례수가 부족합니다.",
+    breakdown: [
+      { word: "不足", reading: "ふそく", meaning: "부족" }
+    ] },
+  { level: "N2", kanji: "追跡調査", reading: "ついせきちょうさ", korean: "츠이세키쵸-사", meaning: "추적조사",
+    example: "追跡調査を実施しました。", exampleReading: "ついせきちょうさをじっししました。", exampleKorean: "츠이세키쵸-사오 짓시 시마시타", exampleMeaning: "추적조사를 실시했습니다.",
+    breakdown: [
+      { word: "実施", reading: "じっし", meaning: "실시" }
+    ] },
+  { level: "N2", kanji: "長期観察", reading: "ちょうきかんさつ", korean: "쵸-키칸사츠", meaning: "장기관찰",
+    example: "長期観察が必要です。", exampleReading: "ちょうきかんさつがひつようです。", exampleKorean: "쵸-키칸사츠가 히츠요-데스", exampleMeaning: "장기관찰이 필요합니다.",
+    breakdown: [
+      { word: "必要", reading: "ひつよう", meaning: "필요" }
+    ] },
+  { level: "N2", kanji: "有害事象", reading: "ゆうがいじしょう", korean: "유-가이지쇼-", meaning: "유해사건",
+    example: "有害事象が報告されました。", exampleReading: "ゆうがいじしょうがほうこくされました。", exampleKorean: "유-가이지쇼-가 호-코쿠사레마시타", exampleMeaning: "유해사건이 보고되었습니다.",
+    breakdown: [
+      { word: "報告", reading: "ほうこく", meaning: "보고" }
+    ] },
+  { level: "N2", kanji: "因果関係評価", reading: "いんがかんけいひょうか", korean: "인가칸케-효-카", meaning: "인과관계평가",
+    example: "因果関係評価を行いました。", exampleReading: "いんがかんけいひょうかをおこないました。", exampleKorean: "인가칸케-효-카오 오코나이마시타", exampleMeaning: "인과관계평가를 실시했습니다.",
+    breakdown: [
+      { word: "行いました", reading: "おこないました", meaning: "실시했습니다" }
+    ] },
+  { level: "N2", kanji: "適応外使用", reading: "てきおうがいしよう", korean: "테키오-가이시요-", meaning: "적응외사용",
+    example: "適応外使用が問題視されました。", exampleReading: "てきおうがいしようがもんだいしされました。", exampleKorean: "테키오-가이시요-가 몬다이시사레마시타", exampleMeaning: "적응외사용이 문제시되었습니다.",
+    breakdown: [
+      { word: "問題視", reading: "もんだいし", meaning: "문제시" }
+    ] },
+  { level: "N2", kanji: "ジェネリック医薬品", reading: "ジェネリックいやくひん", korean: "제네릭쿠이야쿠힌", meaning: "제네릭의약품",
+    example: "ジェネリック医薬品を処方されました。", exampleReading: "ジェネリックいやくひんをしょほうされました。", exampleKorean: "제네릭쿠이야쿠힌오 쇼호-사레마시타", exampleMeaning: "제네릭의약품을 처방받았습니다.",
+    breakdown: [
+      { word: "処方", reading: "しょほう", meaning: "처방" }
+    ] },
+  { level: "N2", kanji: "先発医薬品", reading: "せんぱついやくひん", korean: "센파츠이야쿠힌", meaning: "오리지널의약품",
+    example: "先発医薬品は高価です。", exampleReading: "せんぱついやくひんはこうかです。", exampleKorean: "센파츠이야쿠힌와 코-카데스", exampleMeaning: "오리지널의약품은 고가입니다.",
+    breakdown: [
+      { word: "高価", reading: "こうか", meaning: "고가" }
+    ] },
+  { level: "N2", kanji: "薬価", reading: "やっか", korean: "약카", meaning: "약가",
+    example: "薬価が引き下げられました。", exampleReading: "やっかがひきさげられました。", exampleKorean: "약카가 히키사게라레마시타", exampleMeaning: "약가가 인하되었습니다.",
+    breakdown: [
+      { word: "引き下げられました", reading: "ひきさげられました", meaning: "인하되었습니다" }
+    ] },
+  { level: "N2", kanji: "保険適用", reading: "ほけんてきよう", korean: "호켄테키요-", meaning: "보험적용",
+    example: "保険適用が拡大されました。", exampleReading: "ほけんてきようがかくだいされました。", exampleKorean: "호켄테키요-가 카쿠다이사레마시타", exampleMeaning: "보험적용이 확대되었습니다.",
+    breakdown: [
+      { word: "拡大", reading: "かくだい", meaning: "확대" }
+    ] },
+  { level: "N2", kanji: "自由診療", reading: "じゆうしんりょう", korean: "지유-신료-", meaning: "자유진료",
+    example: "自由診療で受診しました。", exampleReading: "じゆうしんりょうでじゅしんしました。", exampleKorean: "지유-신료-데 쥬신 시마시타", exampleMeaning: "자유진료로 진료받았습니다.",
+    breakdown: [
+      { word: "受診", reading: "じゅしん", meaning: "진료받음" }
+    ] },
+  { level: "N2", kanji: "混合診療", reading: "こんごうしんりょう", korean: "콘고-신료-", meaning: "혼합진료",
+    example: "混合診療は制限されています。", exampleReading: "こんごうしんりょうはせいげんされています。", exampleKorean: "콘고-신료-와 세-겐사레테 이마스", exampleMeaning: "혼합진료는 제한되어 있습니다.",
+    breakdown: [
+      { word: "制限", reading: "せいげん", meaning: "제한" }
+    ] },
+  { level: "N2", kanji: "セカンドオピニオン外来", reading: "セカンドオピニオンがいらい", korean: "세칸도오피니온가이라이", meaning: "세컨드 오피니언 외래",
+    example: "セカンドオピニオン外来を受診しました。", exampleReading: "セカンドオピニオンがいらいをじゅしんしました。", exampleKorean: "세칸도오피니온가이라이오 쥬신 시마시타", exampleMeaning: "세컨드 오피니언 외래를 진료받았습니다.",
+    breakdown: [
+      { word: "受診", reading: "じゅしん", meaning: "진료받음" }
+    ] },
+  { level: "N2", kanji: "専門医紹介", reading: "せんもんいしょうかい", korean: "센몬이쇼-카이", meaning: "전문의 소개",
+    example: "専門医紹介を受けました。", exampleReading: "せんもんいしょうかいをうけました。", exampleKorean: "센몬이쇼-카이오 우케마시타", exampleMeaning: "전문의 소개를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N2", kanji: "紹介状発行", reading: "しょうかいじょうはっこう", korean: "쇼-카이죠-학코-", meaning: "소개장 발행",
+    example: "紹介状発行をお願いしました。", exampleReading: "しょうかいじょうはっこうをおねがいしました。", exampleKorean: "쇼-카이죠-학코-오 오네가이 시마시타", exampleMeaning: "소개장 발행을 부탁했습니다.",
+    breakdown: [
+      { word: "お願い", reading: "おねがい", meaning: "부탁" }
+    ] },
+  { level: "N2", kanji: "逆紹介", reading: "ぎゃくしょうかい", korean: "갹쇼-카이", meaning: "역소개(전문의→일반의)",
+    example: "逆紹介で近所の病院に戻りました。", exampleReading: "ぎゃくしょうかいできんじょのびょういんにもどりました。", exampleKorean: "갹쇼-카이데 킨죠노 뵤-인니 모도리마시타", exampleMeaning: "역소개로 근처 병원으로 돌아갔습니다.",
+    breakdown: [
+      { word: "病院", reading: "びょういん", meaning: "병원" }
+    ] },
+  { level: "N2", kanji: "地域医療連携", reading: "ちいきいりょうれんけい", korean: "치이키이료-렌케-", meaning: "지역의료연계",
+    example: "地域医療連携が進んでいます。", exampleReading: "ちいきいりょうれんけいがすすんでいます。", exampleKorean: "치이키이료-렌케-가 스슨데 이마스", exampleMeaning: "지역의료연계가 진행되고 있습니다.",
+    breakdown: [
+      { word: "進んで", reading: "すすんで", meaning: "진행되어" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
