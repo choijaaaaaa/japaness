@@ -4983,6 +4983,206 @@ const VOCAB = [
     breakdown: [
       { word: "提出", reading: "ていしゅつ", meaning: "제출" }
     ] },
+  { level: "N5", kanji: "お誕生日会", reading: "おたんじょうびかい", korean: "오탄죠-비카이", meaning: "생일파티",
+    example: "子供のお誕生日会をしました。", exampleReading: "こどものおたんじょうびかいをしました。", exampleKorean: "코도모노 오탄죠-비카이오 시마시타", exampleMeaning: "아이의 생일파티를 열었습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N5", kanji: "クリスマスツリー", reading: "クリスマスツリー", korean: "쿠리스마스츠리-", meaning: "크리스마스트리",
+    example: "クリスマスツリーを飾りました。", exampleReading: "クリスマスツリーをかざりました。", exampleKorean: "쿠리스마스츠리-오 카자리마시타", exampleMeaning: "크리스마스트리를 장식했습니다.",
+    breakdown: [
+      { word: "飾りました", reading: "かざりました", meaning: "장식했습니다" }
+    ] },
+  { level: "N5", kanji: "サンタクロース", reading: "サンタクロース", korean: "산타쿠로-스", meaning: "산타클로스",
+    example: "子供はサンタクロースを信じています。", exampleReading: "こどもはサンタクロースをしんじています。", exampleKorean: "코도모와 산타쿠로-스오 신지테 이마스", exampleMeaning: "아이는 산타클로스를 믿고 있습니다.",
+    breakdown: [
+      { word: "信じて", reading: "しんじて", meaning: "믿어서" }
+    ] },
+  { level: "N5", kanji: "プレゼント交換", reading: "プレゼントこうかん", korean: "푸레젠토코-칸", meaning: "선물교환",
+    example: "パーティーでプレゼント交換をしました。", exampleReading: "パーティーでプレゼントこうかんをしました。", exampleKorean: "파-티-데 푸레젠토코-캉오 시마시타", exampleMeaning: "파티에서 선물교환을 했습니다.",
+    breakdown: [
+      { word: "パーティー", reading: "パーティー", meaning: "파티" }
+    ] },
+  { level: "N5", kanji: "花火大会", reading: "はなびたいかい", korean: "하나비타이카이", meaning: "불꽃축제",
+    example: "夏に花火大会があります。", exampleReading: "なつにはなびたいかいがあります。", exampleKorean: "나츠니 하나비타이카이가 아리마스", exampleMeaning: "여름에 불꽃축제가 있습니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
+  { level: "N5", kanji: "夏祭り", reading: "なつまつり", korean: "나츠마츠리", meaning: "여름축제",
+    example: "町の夏祭りに行きました。", exampleReading: "まちのなつまつりにいきました。", exampleKorean: "마치노 나츠마츠리니 이키마시타", exampleMeaning: "동네 여름축제에 갔습니다.",
+    breakdown: [
+      { word: "町", reading: "まち", meaning: "동네" }
+    ] },
+  { level: "N5", kanji: "盆踊り", reading: "ぼんおどり", korean: "본오도리", meaning: "봉오도리(전통춤)",
+    example: "盆踊りを踊りました。", exampleReading: "ぼんおどりをおどりました。", exampleKorean: "본오도리오 오도리마시타", exampleMeaning: "봉오도리를 췄습니다.",
+    breakdown: [
+      { word: "踊りました", reading: "おどりました", meaning: "췄습니다" }
+    ] },
+  { level: "N5", kanji: "浴衣姿", reading: "ゆかたすがた", korean: "유카타스가타", meaning: "유카타 차림",
+    example: "浴衣姿で祭りに行きました。", exampleReading: "ゆかたすがたでまつりにいきました。", exampleKorean: "유카타스가타데 마츠리니 이키마시타", exampleMeaning: "유카타 차림으로 축제에 갔습니다.",
+    breakdown: [
+      { word: "祭り", reading: "まつり", meaning: "축제" }
+    ] },
+  { level: "N5", kanji: "屋台巡り", reading: "やたいめぐり", korean: "야타이메구리", meaning: "포장마차 순회",
+    example: "屋台巡りを楽しみました。", exampleReading: "やたいめぐりをたのしみました。", exampleKorean: "야타이메구리오 타노시미마시타", exampleMeaning: "포장마차 순회를 즐겼습니다.",
+    breakdown: [
+      { word: "楽しみました", reading: "たのしみました", meaning: "즐겼습니다" }
+    ] },
+  { level: "N5", kanji: "金魚すくい", reading: "きんぎょすくい", korean: "킨교스쿠이", meaning: "금붕어 건지기",
+    example: "金魚すくいをしました。", exampleReading: "きんぎょすくいをしました。", exampleKorean: "킨교스쿠이오 시마시타", exampleMeaning: "금붕어 건지기를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N5", kanji: "射的", reading: "しゃてき", korean: "샤테키", meaning: "사격놀이",
+    example: "射的で景品を取りました。", exampleReading: "しゃてきでけいひんをとりました。", exampleKorean: "샤테키데 케-힌오 토리마시타", exampleMeaning: "사격놀이로 경품을 땄습니다.",
+    breakdown: [
+      { word: "景品", reading: "けいひん", meaning: "경품" }
+    ] },
+  { level: "N5", kanji: "輪投げ", reading: "わなげ", korean: "와나게", meaning: "고리던지기",
+    example: "輪投げで遊びました。", exampleReading: "わなげであそびました。", exampleKorean: "와나게데 아소비마시타", exampleMeaning: "고리던지기를 하며 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
+  { level: "N5", kanji: "綿あめ", reading: "わたあめ", korean: "와타아메", meaning: "솜사탕",
+    example: "祭りで綿あめを買いました。", exampleReading: "まつりでわたあめをかいました。", exampleKorean: "마츠리데 와타아메오 카이마시타", exampleMeaning: "축제에서 솜사탕을 샀습니다.",
+    breakdown: [
+      { word: "祭り", reading: "まつり", meaning: "축제" }
+    ] },
+  { level: "N5", kanji: "かき氷", reading: "かきごおり", korean: "카키고-리", meaning: "빙수",
+    example: "夏はかき氷が食べたくなります。", exampleReading: "なつはかきごおりがたべたくなります。", exampleKorean: "나츠와 카키고-리가 타베타쿠 나리마스", exampleMeaning: "여름에는 빙수가 먹고 싶어집니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
+  { level: "N5", kanji: "スイカ割り", reading: "スイカわり", korean: "스이카와리", meaning: "수박 깨기 놀이",
+    example: "海でスイカ割りをしました。", exampleReading: "うみでスイカわりをしました。", exampleKorean: "우미데 스이카와리오 시마시타", exampleMeaning: "바다에서 수박 깨기 놀이를 했습니다.",
+    breakdown: [
+      { word: "海", reading: "うみ", meaning: "바다" }
+    ] },
+  { level: "N5", kanji: "花火セット", reading: "はなびセット", korean: "하나비셋토", meaning: "불꽃놀이 세트",
+    example: "花火セットを買いました。", exampleReading: "はなびセットをかいました。", exampleKorean: "하나비셋토오 카이마시타", exampleMeaning: "불꽃놀이 세트를 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N5", kanji: "線香花火", reading: "せんこうはなび", korean: "센코-하나비", meaning: "선향불꽃",
+    example: "線香花火を楽しみました。", exampleReading: "せんこうはなびをたのしみました。", exampleKorean: "센코-하나비오 타노시미마시타", exampleMeaning: "선향불꽃을 즐겼습니다.",
+    breakdown: [
+      { word: "楽しみました", reading: "たのしみました", meaning: "즐겼습니다" }
+    ] },
+  { level: "N5", kanji: "打ち上げ花火", reading: "うちあげはなび", korean: "우치아게하나비", meaning: "불꽃놀이(쏘아올리는)",
+    example: "打ち上げ花火が上がりました。", exampleReading: "うちあげはなびがあがりました。", exampleKorean: "우치아게하나비가 아가리마시타", exampleMeaning: "불꽃놀이가 쏘아올려졌습니다.",
+    breakdown: [
+      { word: "上がりました", reading: "あがりました", meaning: "쏘아올려졌습니다" }
+    ] },
+  { level: "N5", kanji: "手持ち花火", reading: "てもちはなび", korean: "테모치하나비", meaning: "손에 드는 불꽃",
+    example: "子供と手持ち花火をしました。", exampleReading: "こどもとてもちはなびをしました。", exampleKorean: "코도모토 테모치하나비오 시마시타", exampleMeaning: "아이와 손에 드는 불꽃놀이를 했습니다.",
+    breakdown: [
+      { word: "子供と", reading: "こどもと", meaning: "아이와" }
+    ] },
+  { level: "N5", kanji: "ロケット花火", reading: "ロケットはなび", korean: "로켓토하나비", meaning: "로켓불꽃",
+    example: "ロケット花火が飛びました。", exampleReading: "ロケットはなびがとびました。", exampleKorean: "로켓토하나비가 토비마시타", exampleMeaning: "로켓불꽃이 날아갔습니다.",
+    breakdown: [
+      { word: "飛びました", reading: "とびました", meaning: "날아갔습니다" }
+    ] },
+  { level: "N5", kanji: "雛人形", reading: "ひなにんぎょう", korean: "히나닌교-", meaning: "히나인형",
+    example: "三月に雛人形を飾ります。", exampleReading: "さんがつにひなにんぎょうをかざります。", exampleKorean: "산가츠니 히나닌교-오 카자리마스", exampleMeaning: "3월에 히나인형을 장식합니다.",
+    breakdown: [
+      { word: "三月", reading: "さんがつ", meaning: "3월" }
+    ] },
+  { level: "N5", kanji: "五月人形", reading: "ごがつにんぎょう", korean: "고가츠닌교-", meaning: "오월인형",
+    example: "五月人形を飾りました。", exampleReading: "ごがつにんぎょうをかざりました。", exampleKorean: "고가츠닌교-오 카자리마시타", exampleMeaning: "오월인형을 장식했습니다.",
+    breakdown: [
+      { word: "飾りました", reading: "かざりました", meaning: "장식했습니다" }
+    ] },
+  { level: "N5", kanji: "こいのぼり", reading: "こいのぼり", korean: "코이노보리", meaning: "잉어깃발",
+    example: "五月にこいのぼりを揚げます。", exampleReading: "ごがつにこいのぼりをあげます。", exampleKorean: "고가츠니 코이노보리오 아게마스", exampleMeaning: "5월에 잉어깃발을 답니다.",
+    breakdown: [
+      { word: "五月", reading: "ごがつ", meaning: "5월" }
+    ] },
+  { level: "N5", kanji: "七夕飾り", reading: "たなばたかざり", korean: "타나바타카자리", meaning: "칠석장식",
+    example: "七夕飾りを作りました。", exampleReading: "たなばたかざりをつくりました。", exampleKorean: "타나바타카자리오 츠쿠리마시타", exampleMeaning: "칠석장식을 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N5", kanji: "短冊", reading: "たんざく", korean: "탄자쿠", meaning: "단자쿠(소원 종이)",
+    example: "短冊に願い事を書きました。", exampleReading: "たんざくにねがいごとをかきました。", exampleKorean: "탄자쿠니 네가이고토오 카키마시타", exampleMeaning: "단자쿠에 소원을 적었습니다.",
+    breakdown: [
+      { word: "願い事", reading: "ねがいごと", meaning: "소원" }
+    ] },
+  { level: "N5", kanji: "節分", reading: "せつぶん", korean: "세츠분", meaning: "세츠분(입춘 전날)",
+    example: "節分に豆をまきます。", exampleReading: "せつぶんにまめをまきます。", exampleKorean: "세츠분니 마메오 마키마스", exampleMeaning: "세츠분에 콩을 뿌립니다.",
+    breakdown: [
+      { word: "豆", reading: "まめ", meaning: "콩" }
+    ] },
+  { level: "N5", kanji: "豆まき", reading: "まめまき", korean: "마메마키", meaning: "콩 뿌리기",
+    example: "家族で豆まきをしました。", exampleReading: "かぞくでまめまきをしました。", exampleKorean: "카조쿠데 마메마키오 시마시타", exampleMeaning: "가족끼리 콩 뿌리기를 했습니다.",
+    breakdown: [
+      { word: "家族で", reading: "かぞくで", meaning: "가족끼리" }
+    ] },
+  { level: "N5", kanji: "恵方巻き", reading: "えほうまき", korean: "에호-마키", meaning: "에호마키(김밥)",
+    example: "恵方巻きを食べました。", exampleReading: "えほうまきをたべました。", exampleKorean: "에호-마키오 타베마시타", exampleMeaning: "에호마키를 먹었습니다.",
+    breakdown: [
+      { word: "食べました", reading: "たべました", meaning: "먹었습니다" }
+    ] },
+  { level: "N5", kanji: "ひな祭り", reading: "ひなまつり", korean: "히나마츠리", meaning: "히나마츠리(여자아이 축제)",
+    example: "三月三日はひな祭りです。", exampleReading: "さんがつみっかはひなまつりです。", exampleKorean: "산가츠믹카와 히나마츠리데스", exampleMeaning: "3월 3일은 히나마츠리입니다.",
+    breakdown: [
+      { word: "三月三日", reading: "さんがつみっか", meaning: "3월 3일" }
+    ] },
+  { level: "N5", kanji: "子供の日", reading: "こどものひ", korean: "코도모노히", meaning: "어린이날",
+    example: "五月五日は子供の日です。", exampleReading: "ごがついつかはこどものひです。", exampleKorean: "고가츠 이츠카와 코도모노히데스", exampleMeaning: "5월 5일은 어린이날입니다.",
+    breakdown: [
+      { word: "五月五日", reading: "ごがついつか", meaning: "5월 5일" }
+    ] },
+  { level: "N5", kanji: "敬老の日", reading: "けいろうのひ", korean: "케-로-노히", meaning: "경로의 날",
+    example: "敬老の日に祖父母を訪ねました。", exampleReading: "けいろうのひにそふぼをたずねました。", exampleKorean: "케-로-노히니 소후보오 타즈네마시타", exampleMeaning: "경로의 날에 조부모님을 찾아뵈었습니다.",
+    breakdown: [
+      { word: "祖父母", reading: "そふぼ", meaning: "조부모" }
+    ] },
+  { level: "N5", kanji: "母の日", reading: "ははのひ", korean: "하하노히", meaning: "어머니날",
+    example: "母の日にカーネーションを贈りました。", exampleReading: "ははのひにカーネーションをおくりました。", exampleKorean: "하하노히니 카-네-숀오 오쿠리마시타", exampleMeaning: "어머니날에 카네이션을 선물했습니다.",
+    breakdown: [
+      { word: "カーネーション", reading: "カーネーション", meaning: "카네이션" }
+    ] },
+  { level: "N5", kanji: "父の日", reading: "ちちのひ", korean: "치치노히", meaning: "아버지날",
+    example: "父の日にネクタイを贈りました。", exampleReading: "ちちのひにネクタイをおくりました。", exampleKorean: "치치노히니 네쿠타이오 오쿠리마시타", exampleMeaning: "아버지날에 넥타이를 선물했습니다.",
+    breakdown: [
+      { word: "ネクタイ", reading: "ネクタイ", meaning: "넥타이" }
+    ] },
+  { level: "N5", kanji: "成人式", reading: "せいじんしき", korean: "세-진시키", meaning: "성인식",
+    example: "成人式に振袖を着ました。", exampleReading: "せいじんしきにふりそでをきました。", exampleKorean: "세-진시키니 후리소데오 키마시타", exampleMeaning: "성인식에 후리소데를 입었습니다.",
+    breakdown: [
+      { word: "振袖", reading: "ふりそで", meaning: "후리소데" }
+    ] },
+  { level: "N5", kanji: "七五三", reading: "しちごさん", korean: "시치고산", meaning: "시치고산(어린이 축제)",
+    example: "七五三のお祝いをしました。", exampleReading: "しちごさんのおいわいをしました。", exampleKorean: "시치고산노 오이와이오 시마시타", exampleMeaning: "시치고산 축하를 했습니다.",
+    breakdown: [
+      { word: "お祝い", reading: "おいわい", meaning: "축하" }
+    ] },
+  { level: "N5", kanji: "お宮参り", reading: "おみやまいり", korean: "오미야마이리", meaning: "오미야마이리(신사참배)",
+    example: "お宮参りに行きました。", exampleReading: "おみやまいりにいきました。", exampleKorean: "오미야마이리니 이키마시타", exampleMeaning: "오미야마이리를 갔습니다.",
+    breakdown: [
+      { word: "行きました", reading: "いきました", meaning: "갔습니다" }
+    ] },
+  { level: "N5", kanji: "命名式", reading: "めいめいしき", korean: "메-메-시키", meaning: "작명식",
+    example: "赤ちゃんの命名式をしました。", exampleReading: "あかちゃんのめいめいしきをしました。", exampleKorean: "아카챤노 메-메-시키오 시마시타", exampleMeaning: "아기의 작명식을 했습니다.",
+    breakdown: [
+      { word: "赤ちゃん", reading: "あかちゃん", meaning: "아기" }
+    ] },
+  { level: "N5", kanji: "お食い初め", reading: "おくいぞめ", korean: "오쿠이조메", meaning: "오쿠이조메(첫 이유식 의식)",
+    example: "赤ちゃんのお食い初めをしました。", exampleReading: "あかちゃんのおくいぞめをしました。", exampleKorean: "아카챤노 오쿠이조메오 시마시타", exampleMeaning: "아기의 첫 이유식 의식을 치렀습니다.",
+    breakdown: [
+      { word: "赤ちゃん", reading: "あかちゃん", meaning: "아기" }
+    ] },
+  { level: "N5", kanji: "初誕生日", reading: "はつたんじょうび", korean: "하츠탄죠-비", meaning: "첫 생일",
+    example: "娘の初誕生日を祝いました。", exampleReading: "むすめのはつたんじょうびをいわいました。", exampleKorean: "무스메노 하츠탄죠-비오 이와이마시타", exampleMeaning: "딸의 첫 생일을 축하했습니다.",
+    breakdown: [
+      { word: "娘", reading: "むすめ", meaning: "딸" }
+    ] },
+  { level: "N5", kanji: "還暦祝い", reading: "かんれきいわい", korean: "칸레키이와이", meaning: "환갑잔치",
+    example: "祖父の還暦祝いをしました。", exampleReading: "そふのかんれきいわいをしました。", exampleKorean: "소후노 칸레키이와이오 시마시타", exampleMeaning: "할아버지의 환갑잔치를 열었습니다.",
+    breakdown: [
+      { word: "祖父", reading: "そふ", meaning: "할아버지" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
