@@ -10518,6 +10518,206 @@ const VOCAB = [
     breakdown: [
       { word: "住んで", reading: "すんで", meaning: "살아서" }
     ] },
+  { level: "N4", kanji: "防犯カメラ", reading: "ぼうはんカメラ", korean: "보-한카메라", meaning: "방범카메라",
+    example: "防犯カメラを設置しました。", exampleReading: "ぼうはんカメラをせっちしました。", exampleKorean: "보-한카메라오 셋치 시마시타", exampleMeaning: "방범카메라를 설치했습니다.",
+    breakdown: [
+      { word: "設置", reading: "せっち", meaning: "설치" }
+    ] },
+  { level: "N4", kanji: "監視カメラ", reading: "かんしカメラ", korean: "칸시카메라", meaning: "감시카메라",
+    example: "監視カメラの映像を確認しました。", exampleReading: "かんしカメラのえいぞうをかくにんしました。", exampleKorean: "칸시카메라노 에-조-오 카쿠닌 시마시타", exampleMeaning: "감시카메라 영상을 확인했습니다.",
+    breakdown: [
+      { word: "映像", reading: "えいぞう", meaning: "영상" }
+    ] },
+  { level: "N4", kanji: "セキュリティー会社", reading: "セキュリティーがいしゃ", korean: "세큐리티-가이샤", meaning: "보안회사",
+    example: "セキュリティー会社と契約しました。", exampleReading: "セキュリティーがいしゃとけいやくしました。", exampleKorean: "세큐리티-가이샤토 케-야쿠 시마시타", exampleMeaning: "보안회사와 계약했습니다.",
+    breakdown: [
+      { word: "契約", reading: "けいやく", meaning: "계약" }
+    ] },
+  { level: "N4", kanji: "警備員", reading: "けいびいん", korean: "케-비인", meaning: "경비원",
+    example: "警備員が巡回しています。", exampleReading: "けいびいんがじゅんかいしています。", exampleKorean: "케-비인가 쥰카이 시테 이마스", exampleMeaning: "경비원이 순찰하고 있습니다.",
+    breakdown: [
+      { word: "巡回", reading: "じゅんかい", meaning: "순찰" }
+    ] },
+  { level: "N4", kanji: "非常ベル", reading: "ひじょうベル", korean: "히죠-베루", meaning: "비상벨",
+    example: "非常ベルが鳴りました。", exampleReading: "ひじょうベルがなりました。", exampleKorean: "히죠-베루가 나리마시타", exampleMeaning: "비상벨이 울렸습니다.",
+    breakdown: [
+      { word: "鳴りました", reading: "なりました", meaning: "울렸습니다" }
+    ] },
+  { level: "N4", kanji: "緊急通報", reading: "きんきゅうつうほう", korean: "킨큐-츠-호-", meaning: "긴급통보",
+    example: "緊急通報を受けました。", exampleReading: "きんきゅうつうほうをうけました。", exampleKorean: "킨큐-츠-호-오 우케마시타", exampleMeaning: "긴급통보를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "パトカー", reading: "パトカー", korean: "파토카-", meaning: "순찰차",
+    example: "パトカーが来ました。", exampleReading: "パトカーがきました。", exampleKorean: "파토카-가 키마시타", exampleMeaning: "순찰차가 왔습니다.",
+    breakdown: [
+      { word: "来ました", reading: "きました", meaning: "왔습니다" }
+    ] },
+  { level: "N4", kanji: "消防車", reading: "しょうぼうしゃ", korean: "쇼-보-샤", meaning: "소방차",
+    example: "消防車が到着しました。", exampleReading: "しょうぼうしゃがとうちゃくしました。", exampleKorean: "쇼-보-샤가 토-챠쿠 시마시타", exampleMeaning: "소방차가 도착했습니다.",
+    breakdown: [
+      { word: "到着", reading: "とうちゃく", meaning: "도착" }
+    ] },
+  { level: "N4", kanji: "救急車", reading: "きゅうきゅうしゃ", korean: "큐-큐-샤", meaning: "구급차",
+    example: "救急車を呼びました。", exampleReading: "きゅうきゅうしゃをよびました。", exampleKorean: "큐-큐-샤오 요비마시타", exampleMeaning: "구급차를 불렀습니다.",
+    breakdown: [
+      { word: "呼びました", reading: "よびました", meaning: "불렀습니다" }
+    ] },
+  { level: "N4", kanji: "事故現場", reading: "じこげんば", korean: "지코겐바", meaning: "사고현장",
+    example: "事故現場を確認しました。", exampleReading: "じこげんばをかくにんしました。", exampleKorean: "지코겐바오 카쿠닌 시마시타", exampleMeaning: "사고현장을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "目撃情報", reading: "もくげきじょうほう", korean: "모쿠게키죠-호-", meaning: "목격정보",
+    example: "目撃情報を提供しました。", exampleReading: "もくげきじょうほうをていきょうしました。", exampleKorean: "모쿠게키죠-호-오 테-쿄- 시마시타", exampleMeaning: "목격정보를 제공했습니다.",
+    breakdown: [
+      { word: "提供", reading: "ていきょう", meaning: "제공" }
+    ] },
+  { level: "N4", kanji: "捜索願", reading: "そうさくねがい", korean: "소-사쿠네가이", meaning: "수색원(실종신고)",
+    example: "捜索願を出しました。", exampleReading: "そうさくねがいをだしました。", exampleKorean: "소-사쿠네가이오 다시마시타", exampleMeaning: "수색원을 냈습니다.",
+    breakdown: [
+      { word: "出しました", reading: "だしました", meaning: "냈습니다" }
+    ] },
+  { level: "N4", kanji: "家出", reading: "いえで", korean: "이에데", meaning: "가출",
+    example: "子供が家出しました。", exampleReading: "こどもがいえでしました。", exampleKorean: "코도모가 이에데 시마시타", exampleMeaning: "아이가 가출했습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N4", kanji: "失踪", reading: "しっそう", korean: "싯소-", meaning: "실종",
+    example: "彼は突然失踪しました。", exampleReading: "かれはとつぜんしっそうしました。", exampleKorean: "카레와 토츠젠 싯소- 시마시타", exampleMeaning: "그는 갑자기 실종되었습니다.",
+    breakdown: [
+      { word: "突然", reading: "とつぜん", meaning: "갑자기" }
+    ] },
+  { level: "N4", kanji: "行方不明", reading: "ゆくえふめい", korean: "유쿠에후메-", meaning: "행방불명",
+    example: "犬が行方不明になりました。", exampleReading: "いぬがゆくえふめいになりました。", exampleKorean: "이누가 유쿠에후메-니 나리마시타", exampleMeaning: "개가 행방불명되었습니다.",
+    breakdown: [
+      { word: "犬", reading: "いぬ", meaning: "개" }
+    ] },
+  { level: "N4", kanji: "捜索隊", reading: "そうさくたい", korean: "소-사쿠타이", meaning: "수색대",
+    example: "捜索隊が組織されました。", exampleReading: "そうさくたいがそしきされました。", exampleKorean: "소-사쿠타이가 소시키사레마시타", exampleMeaning: "수색대가 조직되었습니다.",
+    breakdown: [
+      { word: "組織", reading: "そしき", meaning: "조직" }
+    ] },
+  { level: "N4", kanji: "遺失物", reading: "いしつぶつ", korean: "이시츠부츠", meaning: "분실물",
+    example: "遺失物として届けられました。", exampleReading: "いしつぶつとしてとどけられました。", exampleKorean: "이시츠부츠토시테 토도케라레마시타", exampleMeaning: "분실물로 신고되었습니다.",
+    breakdown: [
+      { word: "届けられました", reading: "とどけられました", meaning: "신고되었습니다" }
+    ] },
+  { level: "N4", kanji: "拾得物", reading: "しゅうとくぶつ", korean: "슈-토쿠부츠", meaning: "습득물",
+    example: "拾得物を交番に届けました。", exampleReading: "しゅうとくぶつをこうばんにとどけました。", exampleKorean: "슈-토쿠부츠오 코-반니 토도케마시타", exampleMeaning: "습득물을 파출소에 신고했습니다.",
+    breakdown: [
+      { word: "交番", reading: "こうばん", meaning: "파출소" }
+    ] },
+  { level: "N4", kanji: "忘れ物", reading: "わすれもの", korean: "와스레모노", meaning: "분실물",
+    example: "電車に忘れ物をしました。", exampleReading: "でんしゃにわすれものをしました。", exampleKorean: "덴샤니 와스레모노오 시마시타", exampleMeaning: "전차에 물건을 두고 내렸습니다.",
+    breakdown: [
+      { word: "電車", reading: "でんしゃ", meaning: "전차" }
+    ] },
+  { level: "N4", kanji: "落とし物", reading: "おとしもの", korean: "오토시모노", meaning: "떨어뜨린 물건",
+    example: "落とし物をしてしまいました。", exampleReading: "おとしものをしてしまいました。", exampleKorean: "오토시모노오 시테 시마이마시타", exampleMeaning: "물건을 잃어버렸습니다.",
+    breakdown: [
+      { word: "してしまいました", reading: "してしまいました", meaning: "해버렸습니다" }
+    ] },
+  { level: "N4", kanji: "空き巣", reading: "あきす", korean: "아키스", meaning: "빈집털이",
+    example: "空き巣に入られました。", exampleReading: "あきすにはいられました。", exampleKorean: "아키스니 하이라레마시타", exampleMeaning: "빈집털이를 당했습니다.",
+    breakdown: [
+      { word: "入られました", reading: "はいられました", meaning: "침입당했습니다" }
+    ] },
+  { level: "N4", kanji: "不審者", reading: "ふしんしゃ", korean: "후신샤", meaning: "수상한 사람",
+    example: "不審者を見かけました。", exampleReading: "ふしんしゃをみかけました。", exampleKorean: "후신샤오 미카케마시타", exampleMeaning: "수상한 사람을 봤습니다.",
+    breakdown: [
+      { word: "見かけました", reading: "みかけました", meaning: "봤습니다" }
+    ] },
+  { level: "N4", kanji: "不審物", reading: "ふしんぶつ", korean: "후신부츠", meaning: "수상한 물건",
+    example: "不審物が見つかりました。", exampleReading: "ふしんぶつがみつかりました。", exampleKorean: "후신부츠가 미츠카리마시타", exampleMeaning: "수상한 물건이 발견되었습니다.",
+    breakdown: [
+      { word: "見つかりました", reading: "みつかりました", meaning: "발견되었습니다" }
+    ] },
+  { level: "N4", kanji: "痴漢", reading: "ちかん", korean: "치칸", meaning: "치한",
+    example: "電車で痴漢に遭いました。", exampleReading: "でんしゃでちかんにあいました。", exampleKorean: "덴샤데 치칸니 아이마시타", exampleMeaning: "전차에서 치한을 당했습니다.",
+    breakdown: [
+      { word: "電車", reading: "でんしゃ", meaning: "전차" }
+    ] },
+  { level: "N4", kanji: "ひったくり", reading: "ひったくり", korean: "힛타쿠리", meaning: "날치기",
+    example: "ひったくりに遭いました。", exampleReading: "ひったくりにあいました。", exampleKorean: "힛타쿠리니 아이마시타", exampleMeaning: "날치기를 당했습니다.",
+    breakdown: [
+      { word: "遭いました", reading: "あいました", meaning: "당했습니다" }
+    ] },
+  { level: "N4", kanji: "置き引き", reading: "おきびき", korean: "오키비키", meaning: "놓아둔 물건 훔치기",
+    example: "置き引きに注意してください。", exampleReading: "おきびきにちゅういしてください。", exampleKorean: "오키비키니 츄-이 시테 쿠다사이", exampleMeaning: "놓아둔 물건 훔치기에 주의해 주세요.",
+    breakdown: [
+      { word: "注意", reading: "ちゅうい", meaning: "주의" }
+    ] },
+  { level: "N4", kanji: "スリ", reading: "スリ", korean: "스리", meaning: "소매치기",
+    example: "スリに財布を盗まれました。", exampleReading: "スリにさいふをぬすまれました。", exampleKorean: "스리니 사이후오 누스마레마시타", exampleMeaning: "소매치기에게 지갑을 도둑맞았습니다.",
+    breakdown: [
+      { word: "財布", reading: "さいふ", meaning: "지갑" }
+    ] },
+  { level: "N4", kanji: "詐欺電話", reading: "さぎでんわ", korean: "사기덴와", meaning: "사기전화",
+    example: "詐欺電話がかかってきました。", exampleReading: "さぎでんわがかかってきました。", exampleKorean: "사기덴와가 카캇테 키마시타", exampleMeaning: "사기전화가 걸려왔습니다.",
+    breakdown: [
+      { word: "かかってきました", reading: "かかってきました", meaning: "걸려왔습니다" }
+    ] },
+  { level: "N4", kanji: "振り込め詐欺", reading: "ふりこめさぎ", korean: "후리코메사기", meaning: "보이스피싱(계좌이체 사기)",
+    example: "振り込め詐欺に注意しています。", exampleReading: "ふりこめさぎにちゅういしています。", exampleKorean: "후리코메사기니 츄-이 시테 이마스", exampleMeaning: "보이스피싱에 주의하고 있습니다.",
+    breakdown: [
+      { word: "注意", reading: "ちゅうい", meaning: "주의" }
+    ] },
+  { level: "N4", kanji: "特殊詐欺", reading: "とくしゅさぎ", korean: "토쿠슈사기", meaning: "특수사기",
+    example: "特殊詐欺の被害が増えています。", exampleReading: "とくしゅさぎのひがいがふえています。", exampleKorean: "토쿠슈사기노 히가이가 후에테 이마스", exampleMeaning: "특수사기 피해가 늘고 있습니다.",
+    breakdown: [
+      { word: "被害", reading: "ひがい", meaning: "피해" }
+    ] },
+  { level: "N4", kanji: "架空請求", reading: "かくうせいきゅう", korean: "카쿠-세-큐-", meaning: "가공청구(허위청구)",
+    example: "架空請求のメールが来ました。", exampleReading: "かくうせいきゅうのメールがきました。", exampleKorean: "카쿠-세-큐-노 메-루가 키마시타", exampleMeaning: "허위청구 메일이 왔습니다.",
+    breakdown: [
+      { word: "メール", reading: "メール", meaning: "메일" }
+    ] },
+  { level: "N4", kanji: "なりすまし", reading: "なりすまし", korean: "나리스마시", meaning: "사칭",
+    example: "なりすましのメールでした。", exampleReading: "なりすましのメールでした。", exampleKorean: "나리스마시노 메-루데시타", exampleMeaning: "사칭 메일이었습니다.",
+    breakdown: [
+      { word: "メール", reading: "メール", meaning: "메일" }
+    ] },
+  { level: "N4", kanji: "個人情報漏洩", reading: "こじんじょうほうろうえい", korean: "코진죠-호-로-에-", meaning: "개인정보유출",
+    example: "個人情報漏洩の被害に遭いました。", exampleReading: "こじんじょうほうろうえいのひがいにあいました。", exampleKorean: "코진죠-호-로-에-노 히가이니 아이마시타", exampleMeaning: "개인정보유출 피해를 입었습니다.",
+    breakdown: [
+      { word: "被害", reading: "ひがい", meaning: "피해" }
+    ] },
+  { level: "N4", kanji: "なりすまし詐欺", reading: "なりすましさぎ", korean: "나리스마시사기", meaning: "사칭사기",
+    example: "なりすまし詐欺に気をつけています。", exampleReading: "なりすましさぎにきをつけています。", exampleKorean: "나리스마시사기니 키오 츠케테 이마스", exampleMeaning: "사칭사기를 조심하고 있습니다.",
+    breakdown: [
+      { word: "気をつけて", reading: "きをつけて", meaning: "조심해서" }
+    ] },
+  { level: "N4", kanji: "偽サイト", reading: "にせサイト", korean: "니세사이토", meaning: "가짜 사이트",
+    example: "偽サイトにアクセスしてしまいました。", exampleReading: "にせサイトにアクセスしてしまいました。", exampleKorean: "니세사이토니 아쿠세스 시테 시마이마시타", exampleMeaning: "가짜 사이트에 접속해버렸습니다.",
+    breakdown: [
+      { word: "アクセス", reading: "アクセス", meaning: "접속" }
+    ] },
+  { level: "N4", kanji: "フィッシング詐欺", reading: "フィッシングさぎ", korean: "휫싱구사기", meaning: "피싱사기",
+    example: "フィッシング詐欺に注意してください。", exampleReading: "フィッシングさぎにちゅういしてください。", exampleKorean: "휫싱구사기니 츄-이 시테 쿠다사이", exampleMeaning: "피싱사기에 주의해 주세요.",
+    breakdown: [
+      { word: "注意", reading: "ちゅうい", meaning: "주의" }
+    ] },
+  { level: "N4", kanji: "迷惑電話", reading: "めいわくでんわ", korean: "메-와쿠덴와", meaning: "스팸전화",
+    example: "迷惑電話が多いです。", exampleReading: "めいわくでんわがおおいです。", exampleKorean: "메-와쿠덴와가 오-이데스", exampleMeaning: "스팸전화가 많습니다.",
+    breakdown: [
+      { word: "多い", reading: "おおい", meaning: "많다" }
+    ] },
+  { level: "N4", kanji: "悪質商法", reading: "あくしつしょうほう", korean: "아쿠시츠쇼-호-", meaning: "악덕상법",
+    example: "悪質商法の被害に遭いました。", exampleReading: "あくしつしょうほうのひがいにあいました。", exampleKorean: "아쿠시츠쇼-호-노 히가이니 아이마시타", exampleMeaning: "악덕상법 피해를 당했습니다.",
+    breakdown: [
+      { word: "被害", reading: "ひがい", meaning: "피해" }
+    ] },
+  { level: "N4", kanji: "クーリングオフ", reading: "クーリングオフ", korean: "쿠-린구오후", meaning: "청약철회",
+    example: "クーリングオフを利用しました。", exampleReading: "クーリングオフをりようしました。", exampleKorean: "쿠-린구오후오 리요- 시마시타", exampleMeaning: "청약철회를 이용했습니다.",
+    breakdown: [
+      { word: "利用", reading: "りよう", meaning: "이용" }
+    ] },
+  { level: "N4", kanji: "消費者センター", reading: "しょうひしゃセンター", korean: "쇼-히샤센타-", meaning: "소비자센터",
+    example: "消費者センターに相談しました。", exampleReading: "しょうひしゃセンターにそうだんしました。", exampleKorean: "쇼-히샤센타-니 소-단 시마시타", exampleMeaning: "소비자센터에 상담했습니다.",
+    breakdown: [
+      { word: "相談", reading: "そうだん", meaning: "상담" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
