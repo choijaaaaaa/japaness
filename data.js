@@ -14412,6 +14412,156 @@ const VOCAB = [
     breakdown: [
       { word: "技", reading: "わざ", meaning: "기술" }
     ] },
+  { level: "N2", kanji: "監査", reading: "かんさ", korean: "칸사", meaning: "감사(회계)",
+    example: "会計監査を受けました。", exampleReading: "かいけいかんさをうけました。", exampleKorean: "카이케-칸사오 우케마시타", exampleMeaning: "회계감사를 받았습니다.",
+    breakdown: [
+      { word: "会計", reading: "かいけい", meaning: "회계" }
+    ] },
+  { level: "N2", kanji: "内部監査", reading: "ないぶかんさ", korean: "나이부칸사", meaning: "내부감사",
+    example: "内部監査を実施しました。", exampleReading: "ないぶかんさをじっししました。", exampleKorean: "나이부칸사오 짓시 시마시타", exampleMeaning: "내부감사를 실시했습니다.",
+    breakdown: [
+      { word: "実施", reading: "じっし", meaning: "실시" }
+    ] },
+  { level: "N2", kanji: "外部監査", reading: "がいぶかんさ", korean: "가이부칸사", meaning: "외부감사",
+    example: "外部監査を受けています。", exampleReading: "がいぶかんさをうけています。", exampleKorean: "가이부칸사오 우케테 이마스", exampleMeaning: "외부감사를 받고 있습니다.",
+    breakdown: [
+      { word: "受けて", reading: "うけて", meaning: "받아서" }
+    ] },
+  { level: "N2", kanji: "会計監査", reading: "かいけいかんさ", korean: "카이케-칸사", meaning: "회계감사",
+    example: "会計監査人が来ました。", exampleReading: "かいけいかんさにんがきました。", exampleKorean: "카이케-칸사닝가 키마시타", exampleMeaning: "회계감사인이 왔습니다.",
+    breakdown: [
+      { word: "会計監査人", reading: "かいけいかんさにん", meaning: "회계감사인" }
+    ] },
+  { level: "N2", kanji: "監査法人", reading: "かんさほうじん", korean: "칸사호-진", meaning: "감사법인",
+    example: "監査法人に依頼しました。", exampleReading: "かんさほうじんにいらいしました。", exampleKorean: "칸사호-진니 이라이 시마시타", exampleMeaning: "감사법인에 의뢰했습니다.",
+    breakdown: [
+      { word: "依頼", reading: "いらい", meaning: "의뢰" }
+    ] },
+  { level: "N2", kanji: "決算", reading: "けっさん", korean: "켁산", meaning: "결산",
+    example: "年度末に決算を行います。", exampleReading: "ねんどまつにけっさんをおこないます。", exampleKorean: "넨도마츠니 켁상오 오코나이마스", exampleMeaning: "연도말에 결산을 실시합니다.",
+    breakdown: [
+      { word: "年度末", reading: "ねんどまつ", meaning: "연도말" }
+    ] },
+  { level: "N2", kanji: "決算書", reading: "けっさんしょ", korean: "켁산쇼", meaning: "결산서",
+    example: "決算書を作成しました。", exampleReading: "けっさんしょをさくせいしました。", exampleKorean: "켁산쇼오 사쿠세- 시마시타", exampleMeaning: "결산서를 작성했습니다.",
+    breakdown: [
+      { word: "作成", reading: "さくせい", meaning: "작성" }
+    ] },
+  { level: "N2", kanji: "財務諸表", reading: "ざいむしょひょう", korean: "자이무쇼효-", meaning: "재무제표",
+    example: "財務諸表を分析しました。", exampleReading: "ざいむしょひょうをぶんせきしました。", exampleKorean: "자이무쇼효-오 분세키 시마시타", exampleMeaning: "재무제표를 분석했습니다.",
+    breakdown: [
+      { word: "分析", reading: "ぶんせき", meaning: "분석" }
+    ] },
+  { level: "N2", kanji: "貸借対照表", reading: "たいしゃくたいしょうひょう", korean: "타이샤쿠타이쇼-효-", meaning: "대차대조표",
+    example: "貸借対照表を確認しました。", exampleReading: "たいしゃくたいしょうひょうをかくにんしました。", exampleKorean: "타이샤쿠타이쇼-효-오 카쿠닌 시마시타", exampleMeaning: "대차대조표를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N2", kanji: "損益計算書", reading: "そんえきけいさんしょ", korean: "손에키케-산쇼", meaning: "손익계산서",
+    example: "損益計算書を提出しました。", exampleReading: "そんえきけいさんしょをていしゅつしました。", exampleKorean: "손에키케-산쇼오 테-슈츠 시마시타", exampleMeaning: "손익계산서를 제출했습니다.",
+    breakdown: [
+      { word: "提出", reading: "ていしゅつ", meaning: "제출" }
+    ] },
+  { level: "N2", kanji: "キャッシュフロー", reading: "キャッシュフロー", korean: "캿슈후로-", meaning: "캐시플로우",
+    example: "キャッシュフローを管理しています。", exampleReading: "キャッシュフローをかんりしています。", exampleKorean: "캿슈후로-오 칸리 시테 이마스", exampleMeaning: "캐시플로우를 관리하고 있습니다.",
+    breakdown: [
+      { word: "管理", reading: "かんり", meaning: "관리" }
+    ] },
+  { level: "N2", kanji: "資本金", reading: "しほんきん", korean: "시혼킨", meaning: "자본금",
+    example: "資本金を増やしました。", exampleReading: "しほんきんをふやしました。", exampleKorean: "시혼킹오 후야시마시타", exampleMeaning: "자본금을 늘렸습니다.",
+    breakdown: [
+      { word: "増やしました", reading: "ふやしました", meaning: "늘렸습니다" }
+    ] },
+  { level: "N2", kanji: "株主総会", reading: "かぶぬしそうかい", korean: "카부누시소-카이", meaning: "주주총회",
+    example: "株主総会が開催されました。", exampleReading: "かぶぬしそうかいがかいさいされました。", exampleKorean: "카부누시소-카이가 카이사이 사레마시타", exampleMeaning: "주주총회가 개최되었습니다.",
+    breakdown: [
+      { word: "開催", reading: "かいさい", meaning: "개최" }
+    ] },
+  { level: "N2", kanji: "取締役会", reading: "とりしまりやくかい", korean: "토리시마리야쿠카이", meaning: "이사회",
+    example: "取締役会で決定しました。", exampleReading: "とりしまりやくかいでけっていしました。", exampleKorean: "토리시마리야쿠카이데 켓테- 시마시타", exampleMeaning: "이사회에서 결정했습니다.",
+    breakdown: [
+      { word: "決定", reading: "けってい", meaning: "결정" }
+    ] },
+  { level: "N2", kanji: "社外取締役", reading: "しゃがいとりしまりやく", korean: "샤가이토리시마리야쿠", meaning: "사외이사",
+    example: "社外取締役を招聘しました。", exampleReading: "しゃがいとりしまりやくをしょうへいしました。", exampleKorean: "샤가이토리시마리야쿠오 쇼-헤- 시마시타", exampleMeaning: "사외이사를 초빙했습니다.",
+    breakdown: [
+      { word: "招聘", reading: "しょうへい", meaning: "초빙" }
+    ] },
+  { level: "N2", kanji: "監査役", reading: "かんさやく", korean: "칸사야쿠", meaning: "감사역",
+    example: "監査役に就任しました。", exampleReading: "かんさやくにしゅうにんしました。", exampleKorean: "칸사야쿠니 슈-닌 시마시타", exampleMeaning: "감사역으로 취임했습니다.",
+    breakdown: [
+      { word: "就任", reading: "しゅうにん", meaning: "취임" }
+    ] },
+  { level: "N2", kanji: "コンプライアンス", reading: "コンプライアンス", korean: "콤푸라이안스", meaning: "컴플라이언스",
+    example: "コンプライアンスを重視しています。", exampleReading: "コンプライアンスをじゅうししています。", exampleKorean: "콤푸라이안스오 쥬-시 시테 이마스", exampleMeaning: "컴플라이언스를 중시하고 있습니다.",
+    breakdown: [
+      { word: "重視", reading: "じゅうし", meaning: "중시" }
+    ] },
+  { level: "N2", kanji: "ガバナンス", reading: "ガバナンス", korean: "가바난스", meaning: "거버넌스",
+    example: "企業ガバナンスを強化しました。", exampleReading: "きぎょうガバナンスをきょうかしました。", exampleKorean: "키교- 가바난스오 쿄-카 시마시타", exampleMeaning: "기업 거버넌스를 강화했습니다.",
+    breakdown: [
+      { word: "企業", reading: "きぎょう", meaning: "기업" }
+    ] },
+  { level: "N2", kanji: "内部統制", reading: "ないぶとうせい", korean: "나이부토-세-", meaning: "내부통제",
+    example: "内部統制を強化しました。", exampleReading: "ないぶとうせいをきょうかしました。", exampleKorean: "나이부토-세-오 쿄-카 시마시타", exampleMeaning: "내부통제를 강화했습니다.",
+    breakdown: [
+      { word: "強化", reading: "きょうか", meaning: "강화" }
+    ] },
+  { level: "N2", kanji: "リスクマネジメント", reading: "リスクマネジメント", korean: "리스쿠마네지멘토", meaning: "리스크 매니지먼트",
+    example: "リスクマネジメントが重要です。", exampleReading: "リスクマネジメントがじゅうようです。", exampleKorean: "리스쿠마네지멘토가 쥬-요-데스", exampleMeaning: "리스크 매니지먼트가 중요합니다.",
+    breakdown: [
+      { word: "重要", reading: "じゅうよう", meaning: "중요" }
+    ] },
+  { level: "N2", kanji: "粉飾決算", reading: "ふんしょくけっさん", korean: "훈쇼쿠켁산", meaning: "분식결산",
+    example: "粉飾決算が発覚しました。", exampleReading: "ふんしょくけっさんがはっかくしました。", exampleKorean: "훈쇼쿠켁상가 학카쿠 시마시타", exampleMeaning: "분식결산이 발각되었습니다.",
+    breakdown: [
+      { word: "発覚", reading: "はっかく", meaning: "발각" }
+    ] },
+  { level: "N2", kanji: "不正経理", reading: "ふせいけいり", korean: "후세-케-리", meaning: "부정경리",
+    example: "不正経理が発見されました。", exampleReading: "ふせいけいりがはっけんされました。", exampleKorean: "후세-케-리가 학켄사레마시타", exampleMeaning: "부정경리가 발견되었습니다.",
+    breakdown: [
+      { word: "発見", reading: "はっけん", meaning: "발견" }
+    ] },
+  { level: "N2", kanji: "横領", reading: "おうりょう", korean: "오-료-", meaning: "횡령",
+    example: "会社の金を横領しました。", exampleReading: "かいしゃのかねをおうりょうしました。", exampleKorean: "카이샤노 카네오 오-료- 시마시타", exampleMeaning: "회사 돈을 횡령했습니다.",
+    breakdown: [
+      { word: "会社", reading: "かいしゃ", meaning: "회사" }
+    ] },
+  { level: "N2", kanji: "背任", reading: "はいにん", korean: "하이닌", meaning: "배임",
+    example: "背任の疑いで捜査されています。", exampleReading: "はいにんのうたがいでそうさされています。", exampleKorean: "하이닌노 우타가이데 소-사 사레테 이마스", exampleMeaning: "배임 혐의로 수사받고 있습니다.",
+    breakdown: [
+      { word: "疑い", reading: "うたがい", meaning: "혐의" }
+    ] },
+  { level: "N2", kanji: "贈収賄", reading: "ぞうしゅうわい", korean: "조-슈-와이", meaning: "증수뢰(뇌물)",
+    example: "贈収賄事件が発覚しました。", exampleReading: "ぞうしゅうわいじけんがはっかくしました。", exampleKorean: "조-슈-와이 지켕가 학카쿠 시마시타", exampleMeaning: "뇌물 사건이 발각되었습니다.",
+    breakdown: [
+      { word: "事件", reading: "じけん", meaning: "사건" }
+    ] },
+  { level: "N2", kanji: "脱税", reading: "だつぜい", korean: "다츠제-", meaning: "탈세",
+    example: "脱税で摘発されました。", exampleReading: "だつぜいでてきはつされました。", exampleKorean: "다츠제-데 테키하츠사레마시타", exampleMeaning: "탈세로 적발되었습니다.",
+    breakdown: [
+      { word: "摘発", reading: "てきはつ", meaning: "적발" }
+    ] },
+  { level: "N2", kanji: "インサイダー取引", reading: "インサイダーとりひき", korean: "인사이다-토리히키", meaning: "내부자거래",
+    example: "インサイダー取引で逮捕されました。", exampleReading: "インサイダーとりひきでたいほされました。", exampleKorean: "인사이다-토리히키데 타이호사레마시타", exampleMeaning: "내부자거래로 체포되었습니다.",
+    breakdown: [
+      { word: "逮捕", reading: "たいほ", meaning: "체포" }
+    ] },
+  { level: "N2", kanji: "風評被害", reading: "ふうひょうひがい", korean: "후-효-히가이", meaning: "풍문 피해",
+    example: "風評被害を受けました。", exampleReading: "ふうひょうひがいをうけました。", exampleKorean: "후-효-히가이오 우케마시타", exampleMeaning: "풍문 피해를 입었습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "입었습니다" }
+    ] },
+  { level: "N2", kanji: "企業倫理", reading: "きぎょうりんり", korean: "키교-린리", meaning: "기업윤리",
+    example: "企業倫理を守っています。", exampleReading: "きぎょうりんりをまもっています。", exampleKorean: "키교-린리오 마못테 이마스", exampleMeaning: "기업윤리를 지키고 있습니다.",
+    breakdown: [
+      { word: "守って", reading: "まもって", meaning: "지켜서" }
+    ] },
+  { level: "N2", kanji: "説明責任", reading: "せつめいせきにん", korean: "세츠메-세키닌", meaning: "설명책임",
+    example: "企業には説明責任があります。", exampleReading: "きぎょうにはせつめいせきにんがあります。", exampleKorean: "키교-니와 세츠메-세키닌가 아리마스", exampleMeaning: "기업에는 설명책임이 있습니다.",
+    breakdown: [
+      { word: "企業", reading: "きぎょう", meaning: "기업" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
