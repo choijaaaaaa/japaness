@@ -10353,6 +10353,206 @@ const VOCAB = [
     breakdown: [
       { word: "達しました", reading: "たっしました", meaning: "도달했습니다" }
     ] },
+  { level: "N3", kanji: "問い直す", reading: "といなおす", korean: "토이나오스", meaning: "다시 묻다",
+    example: "自分の選択を問い直しました。", exampleReading: "じぶんのせんたくをといなおしました。", exampleKorean: "지분노 센타쿠오 토이나오시마시타", exampleMeaning: "자신의 선택을 다시 물었습니다.",
+    breakdown: [
+      { word: "選択", reading: "せんたく", meaning: "선택" }
+    ] },
+  { level: "N3", kanji: "見つめ直す", reading: "みつめなおす", korean: "미츠메나오스", meaning: "다시 들여다보다",
+    example: "自分自身を見つめ直しました。", exampleReading: "じぶんじしんをみつめなおしました。", exampleKorean: "지분지신오 미츠메나오시마시타", exampleMeaning: "자기 자신을 다시 들여다보았습니다.",
+    breakdown: [
+      { word: "自分自身", reading: "じぶんじしん", meaning: "자기 자신" }
+    ] },
+  { level: "N3", kanji: "考え直す", reading: "かんがえなおす", korean: "캉가에나오스", meaning: "다시 생각하다",
+    example: "計画を考え直しました。", exampleReading: "けいかくをかんがえなおしました。", exampleKorean: "케-카쿠오 캉가에나오시마시타", exampleMeaning: "계획을 다시 생각했습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N3", kanji: "立て直す", reading: "たてなおす", korean: "타테나오스", meaning: "재건하다, 다시 세우다",
+    example: "経営を立て直しました。", exampleReading: "けいえいをたてなおしました。", exampleKorean: "케-에-오 타테나오시마시타", exampleMeaning: "경영을 재건했습니다.",
+    breakdown: [
+      { word: "経営", reading: "けいえい", meaning: "경영" }
+    ] },
+  { level: "N3", kanji: "建て直す", reading: "たてなおす", korean: "타테나오스", meaning: "(건물을) 재건축하다",
+    example: "古い家を建て直しました。", exampleReading: "ふるいいえをたてなおしました。", exampleKorean: "후루이 이에오 타테나오시마시타", exampleMeaning: "오래된 집을 재건축했습니다.",
+    breakdown: [
+      { word: "古い家", reading: "ふるいいえ", meaning: "오래된 집" }
+    ] },
+  { level: "N3", kanji: "やり直し", reading: "やりなおし", korean: "야리나오시", meaning: "다시 하기",
+    example: "一からやり直しです。", exampleReading: "いちからやりなおしです。", exampleKorean: "이치카라 야리나오시데스", exampleMeaning: "처음부터 다시 시작입니다.",
+    breakdown: [
+      { word: "一から", reading: "いちから", meaning: "처음부터" }
+    ] },
+  { level: "N3", kanji: "出直す", reading: "でなおす", korean: "데나오스", meaning: "다시 시작하다",
+    example: "一から出直します。", exampleReading: "いちからでなおします。", exampleKorean: "이치카라 데나오시마스", exampleMeaning: "처음부터 다시 시작하겠습니다.",
+    breakdown: [
+      { word: "一から", reading: "いちから", meaning: "처음부터" }
+    ] },
+  { level: "N3", kanji: "原点回帰", reading: "げんてんかいき", korean: "겐텐카이키", meaning: "원점회귀",
+    example: "原点回帰して考えました。", exampleReading: "げんてんかいきしてかんがえました。", exampleKorean: "겐텐카이키시테 캉가에마시타", exampleMeaning: "원점으로 돌아가서 생각했습니다.",
+    breakdown: [
+      { word: "考えました", reading: "かんがえました", meaning: "생각했습니다" }
+    ] },
+  { level: "N3", kanji: "初心", reading: "しょしん", korean: "쇼신", meaning: "초심",
+    example: "初心を忘れずに頑張ります。", exampleReading: "しょしんをわすれずにがんばります。", exampleKorean: "쇼싱오 와스레즈니 감바리마스", exampleMeaning: "초심을 잊지 않고 열심히 하겠습니다.",
+    breakdown: [
+      { word: "頑張ります", reading: "がんばります", meaning: "열심히 하겠습니다" }
+    ] },
+  { level: "N3", kanji: "初志貫徹", reading: "しょしかんてつ", korean: "쇼시칸테츠", meaning: "초지관철",
+    example: "初志貫徹で頑張っています。", exampleReading: "しょしかんてつでがんばっています。", exampleKorean: "쇼시칸테츠데 감밧테 이마스", exampleMeaning: "초지일관으로 열심히 하고 있습니다.",
+    breakdown: [
+      { word: "頑張って", reading: "がんばって", meaning: "열심히 해서" }
+    ] },
+  { level: "N3", kanji: "一心不乱", reading: "いっしんふらん", korean: "잇신후란", meaning: "일심불란(전념)",
+    example: "一心不乱に勉強しました。", exampleReading: "いっしんふらんにべんきょうしました。", exampleKorean: "잇신후란니 벵쿄- 시마시타", exampleMeaning: "전념해서 공부했습니다.",
+    breakdown: [
+      { word: "勉強", reading: "べんきょう", meaning: "공부" }
+    ] },
+  { level: "N3", kanji: "専心", reading: "せんしん", korean: "센신", meaning: "전심",
+    example: "研究に専心しています。", exampleReading: "けんきゅうにせんしんしています。", exampleKorean: "켕큐-니 센신 시테 이마스", exampleMeaning: "연구에 전심을 다하고 있습니다.",
+    breakdown: [
+      { word: "研究", reading: "けんきゅう", meaning: "연구" }
+    ] },
+  { level: "N3", kanji: "没入", reading: "ぼつにゅう", korean: "보츠뉴-", meaning: "몰입",
+    example: "仕事に没入しています。", exampleReading: "しごとにぼつにゅうしています。", exampleKorean: "시고토니 보츠뉴- 시테 이마스", exampleMeaning: "일에 몰입하고 있습니다.",
+    breakdown: [
+      { word: "仕事", reading: "しごと", meaning: "일" }
+    ] },
+  { level: "N3", kanji: "傾注", reading: "けいちゅう", korean: "케-츄-", meaning: "경주(힘을 쏟음)",
+    example: "全力を傾注しました。", exampleReading: "ぜんりょくをけいちゅうしました。", exampleKorean: "젠료쿠오 케-츄- 시마시타", exampleMeaning: "전력을 쏟았습니다.",
+    breakdown: [
+      { word: "全力", reading: "ぜんりょく", meaning: "전력" }
+    ] },
+  { level: "N3", kanji: "注力", reading: "ちゅうりょく", korean: "츄-료쿠", meaning: "주력함",
+    example: "新事業に注力しています。", exampleReading: "しんじぎょうにちゅうりょくしています。", exampleKorean: "신지교-니 츄-료쿠 시테 이마스", exampleMeaning: "신규 사업에 주력하고 있습니다.",
+    breakdown: [
+      { word: "新事業", reading: "しんじぎょう", meaning: "신규 사업" }
+    ] },
+  { level: "N3", kanji: "邁進", reading: "まいしん", korean: "마이신", meaning: "매진",
+    example: "目標達成に邁進します。", exampleReading: "もくひょうたっせいにまいしんします。", exampleKorean: "모쿠효- 탓세-니 마이신 시마스", exampleMeaning: "목표 달성에 매진하겠습니다.",
+    breakdown: [
+      { word: "目標達成", reading: "もくひょうたっせい", meaning: "목표 달성" }
+    ] },
+  { level: "N3", kanji: "精進", reading: "しょうじん", korean: "쇼-진", meaning: "정진",
+    example: "技術向上に精進しています。", exampleReading: "ぎじゅつこうじょうにしょうじんしています。", exampleKorean: "기쥬츠 코-죠-니 쇼-진 시테 이마스", exampleMeaning: "기술 향상에 정진하고 있습니다.",
+    breakdown: [
+      { word: "技術向上", reading: "ぎじゅつこうじょう", meaning: "기술 향상" }
+    ] },
+  { level: "N3", kanji: "奮闘", reading: "ふんとう", korean: "훈토-", meaning: "분투",
+    example: "一人で奮闘しています。", exampleReading: "ひとりでふんとうしています。", exampleKorean: "히토리데 훈토- 시테 이마스", exampleMeaning: "혼자서 분투하고 있습니다.",
+    breakdown: [
+      { word: "一人で", reading: "ひとりで", meaning: "혼자서" }
+    ] },
+  { level: "N3", kanji: "尽力", reading: "じんりょく", korean: "진료쿠", meaning: "진력, 힘씀",
+    example: "プロジェクトの成功に尽力しました。", exampleReading: "プロジェクトのせいこうにじんりょくしました。", exampleKorean: "프로제쿠토노 세-코-니 진료쿠 시마시타", exampleMeaning: "프로젝트 성공에 힘썼습니다.",
+    breakdown: [
+      { word: "成功", reading: "せいこう", meaning: "성공" }
+    ] },
+  { level: "N3", kanji: "献身的", reading: "けんしんてき", korean: "켄신테키", meaning: "헌신적",
+    example: "彼女は献身的に働きました。", exampleReading: "かのじょはけんしんてきにはたらきました。", exampleKorean: "카노죠와 켄신테키니 하타라키마시타", exampleMeaning: "그녀는 헌신적으로 일했습니다.",
+    breakdown: [
+      { word: "働きました", reading: "はたらきました", meaning: "일했습니다" }
+    ] },
+  { level: "N3", kanji: "全力投球", reading: "ぜんりょくとうきゅう", korean: "젠료쿠토-큐-", meaning: "전력투구",
+    example: "仕事に全力投球しています。", exampleReading: "しごとにぜんりょくとうきゅうしています。", exampleKorean: "시고토니 젠료쿠토-큐- 시테 이마스", exampleMeaning: "일에 전력투구하고 있습니다.",
+    breakdown: [
+      { word: "仕事", reading: "しごと", meaning: "일" }
+    ] },
+  { level: "N3", kanji: "全身全霊", reading: "ぜんしんぜんれい", korean: "젠신젠레-", meaning: "전신전령(온몸과 마음)",
+    example: "全身全霊で取り組みました。", exampleReading: "ぜんしんぜんれいでとりくみました。", exampleKorean: "젠신젠레-데 토리쿠미마시타", exampleMeaning: "온몸과 마음을 다해 임했습니다.",
+    breakdown: [
+      { word: "取り組みました", reading: "とりくみました", meaning: "임했습니다" }
+    ] },
+  { level: "N3", kanji: "精力的", reading: "せいりょくてき", korean: "세-료쿠테키", meaning: "정력적",
+    example: "精力的に活動しています。", exampleReading: "せいりょくてきにかつどうしています。", exampleKorean: "세-료쿠테키니 카츠도- 시테 이마스", exampleMeaning: "정력적으로 활동하고 있습니다.",
+    breakdown: [
+      { word: "活動", reading: "かつどう", meaning: "활동" }
+    ] },
+  { level: "N3", kanji: "意欲的", reading: "いよくてき", korean: "이요쿠테키", meaning: "의욕적",
+    example: "意欲的に取り組んでいます。", exampleReading: "いよくてきにとりくんでいます。", exampleKorean: "이요쿠테키니 토리쿤데 이마스", exampleMeaning: "의욕적으로 임하고 있습니다.",
+    breakdown: [
+      { word: "取り組んで", reading: "とりくんで", meaning: "임해서" }
+    ] },
+  { level: "N3", kanji: "真剣", reading: "しんけん", korean: "신켄", meaning: "진지함",
+    example: "真剣に考えました。", exampleReading: "しんけんにかんがえました。", exampleKorean: "신켄니 캉가에마시타", exampleMeaning: "진지하게 생각했습니다.",
+    breakdown: [
+      { word: "考えました", reading: "かんがえました", meaning: "생각했습니다" }
+    ] },
+  { level: "N3", kanji: "真摯", reading: "しんし", korean: "신시", meaning: "진지함(격식)",
+    example: "真摯に受け止めました。", exampleReading: "しんしにうけとめました。", exampleKorean: "신시니 우케토메마시타", exampleMeaning: "진지하게 받아들였습니다.",
+    breakdown: [
+      { word: "受け止めました", reading: "うけとめました", meaning: "받아들였습니다" }
+    ] },
+  { level: "N3", kanji: "誠実", reading: "せいじつ", korean: "세-지츠", meaning: "성실",
+    example: "誠実に対応しました。", exampleReading: "せいじつにたいおうしました。", exampleKorean: "세-지츠니 타이오- 시마시타", exampleMeaning: "성실하게 대응했습니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N3", kanji: "誠意", reading: "せいい", korean: "세-이", meaning: "성의",
+    example: "誠意をもって謝罪しました。", exampleReading: "せいいをもってしゃざいしました。", exampleKorean: "세-이오 못테 샤자이 시마시타", exampleMeaning: "성의를 가지고 사죄했습니다.",
+    breakdown: [
+      { word: "謝罪", reading: "しゃざい", meaning: "사죄" }
+    ] },
+  { level: "N3", kanji: "実直", reading: "じっちょく", korean: "직쵸쿠", meaning: "우직함, 성실함",
+    example: "彼は実直な性格です。", exampleReading: "かれはじっちょくなせいかくです。", exampleKorean: "카레와 직쵸쿠나 세-카쿠데스", exampleMeaning: "그는 우직한 성격입니다.",
+    breakdown: [
+      { word: "性格", reading: "せいかく", meaning: "성격" }
+    ] },
+  { level: "N3", kanji: "律儀", reading: "りちぎ", korean: "리치기", meaning: "의리있음, 성실함",
+    example: "彼は律儀な人です。", exampleReading: "かれはりちぎなひとです。", exampleKorean: "카레와 리치기나 히토데스", exampleMeaning: "그는 의리있는 사람입니다.",
+    breakdown: [
+      { word: "人", reading: "ひと", meaning: "사람" }
+    ] },
+  { level: "N3", kanji: "勤勉", reading: "きんべん", korean: "킨벤", meaning: "근면",
+    example: "勤勉に働いています。", exampleReading: "きんべんにはたらいています。", exampleKorean: "킨벤니 하타라이테 이마스", exampleMeaning: "근면하게 일하고 있습니다.",
+    breakdown: [
+      { word: "働いて", reading: "はたらいて", meaning: "일해서" }
+    ] },
+  { level: "N3", kanji: "怠惰", reading: "たいだ", korean: "타이다", meaning: "나태",
+    example: "怠惰な生活を改めました。", exampleReading: "たいだなせいかつをあらためました。", exampleKorean: "타이다나 세-카츠오 아라타메마시타", exampleMeaning: "나태한 생활을 고쳤습니다.",
+    breakdown: [
+      { word: "生活", reading: "せいかつ", meaning: "생활" }
+    ] },
+  { level: "N3", kanji: "無精", reading: "ぶしょう", korean: "부쇼-", meaning: "게으름",
+    example: "無精ひげを剃りました。", exampleReading: "ぶしょうひげをそりました。", exampleKorean: "부쇼-히게오 소리마시타", exampleMeaning: "덥수룩한 수염을 깎았습니다.",
+    breakdown: [
+      { word: "ひげ", reading: "ひげ", meaning: "수염" }
+    ] },
+  { level: "N3", kanji: "ものぐさ", reading: "ものぐさ", korean: "모노구사", meaning: "게으름뱅이 기질",
+    example: "彼はものぐさな性格です。", exampleReading: "かれはものぐさなせいかくです。", exampleKorean: "카레와 모노구사나 세-카쿠데스", exampleMeaning: "그는 게으른 성격입니다.",
+    breakdown: [
+      { word: "性格", reading: "せいかく", meaning: "성격" }
+    ] },
+  { level: "N3", kanji: "大雑把", reading: "おおざっぱ", korean: "오-잡파", meaning: "대충, 대범함",
+    example: "大雑把に計算しました。", exampleReading: "おおざっぱにけいさんしました。", exampleKorean: "오-잡파니 케-산 시마시타", exampleMeaning: "대충 계산했습니다.",
+    breakdown: [
+      { word: "計算", reading: "けいさん", meaning: "계산" }
+    ] },
+  { level: "N3", kanji: "のんき", reading: "のんき", korean: "논키", meaning: "태평함",
+    example: "彼はのんきな性格です。", exampleReading: "かれはのんきなせいかくです。", exampleKorean: "카레와 논키나 세-카쿠데스", exampleMeaning: "그는 태평한 성격입니다.",
+    breakdown: [
+      { word: "性格", reading: "せいかく", meaning: "성격" }
+    ] },
+  { level: "N3", kanji: "せかせか", reading: "せかせか", korean: "세카세카", meaning: "부산함, 안절부절",
+    example: "せかせかと歩いています。", exampleReading: "せかせかとあるいています。", exampleKorean: "세카세카토 아루이테 이마스", exampleMeaning: "부산하게 걷고 있습니다.",
+    breakdown: [
+      { word: "歩いて", reading: "あるいて", meaning: "걸어서" }
+    ] },
+  { level: "N3", kanji: "のろま", reading: "のろま", korean: "노로마", meaning: "굼뜸",
+    example: "彼はのろまだと言われました。", exampleReading: "かれはのろまだといわれました。", exampleKorean: "카레와 노로마다토 이와레마시타", exampleMeaning: "그는 굼뜨다는 말을 들었습니다.",
+    breakdown: [
+      { word: "言われました", reading: "いわれました", meaning: "말을 들었습니다" }
+    ] },
+  { level: "N3", kanji: "ずぼら", reading: "ずぼら", korean: "즈보라", meaning: "칠칠치 못함",
+    example: "ずぼらな性格を直したいです。", exampleReading: "ずぼらなせいかくをなおしたいです。", exampleKorean: "즈보라나 세-카쿠오 나오시타이데스", exampleMeaning: "칠칠치 못한 성격을 고치고 싶습니다.",
+    breakdown: [
+      { word: "性格", reading: "せいかく", meaning: "성격" }
+    ] },
+  { level: "N3", kanji: "用心深い", reading: "ようじんぶかい", korean: "요-진부카이", meaning: "조심스러운, 신중한",
+    example: "彼は用心深い人です。", exampleReading: "かれはようじんぶかいひとです。", exampleKorean: "카레와 요-진부카이 히토데스", exampleMeaning: "그는 신중한 사람입니다.",
+    breakdown: [
+      { word: "人", reading: "ひと", meaning: "사람" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
