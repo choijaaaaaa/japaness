@@ -7293,6 +7293,256 @@ const VOCAB = [
     breakdown: [
       { word: "古い車", reading: "ふるいくるま", meaning: "오래된 차" }
     ] },
+  { level: "N4", kanji: "スーツ", reading: "スーツ", korean: "스-츠", meaning: "정장",
+    example: "面接にスーツを着ていきました。", exampleReading: "めんせつにスーツをきていきました。", exampleKorean: "멘세츠니 스-츠오 키테 이키마시타", exampleMeaning: "면접에 정장을 입고 갔습니다.",
+    breakdown: [
+      { word: "面接", reading: "めんせつ", meaning: "면접" }
+    ] },
+  { level: "N4", kanji: "ネクタイピン", reading: "ネクタイピン", korean: "네쿠타이핀", meaning: "넥타이핀",
+    example: "ネクタイピンをつけました。", exampleReading: "ネクタイピンをつけました。", exampleKorean: "네쿠타이핀오 츠케마시타", exampleMeaning: "넥타이핀을 착용했습니다.",
+    breakdown: [
+      { word: "つけました", reading: "つけました", meaning: "착용했습니다" }
+    ] },
+  { level: "N4", kanji: "カフスボタン", reading: "カフスボタン", korean: "카후스보탄", meaning: "커프스단추",
+    example: "カフスボタンをはめました。", exampleReading: "カフスボタンをはめました。", exampleKorean: "카후스보탄오 하메마시타", exampleMeaning: "커프스단추를 채웠습니다.",
+    breakdown: [
+      { word: "はめました", reading: "はめました", meaning: "채웠습니다" }
+    ] },
+  { level: "N4", kanji: "ワイシャツ", reading: "ワイシャツ", korean: "와이샤츠", meaning: "와이셔츠",
+    example: "毎朝ワイシャツにアイロンをかけます。", exampleReading: "まいあさワイシャツにアイロンをかけます。", exampleKorean: "마이아사 와이샤츠니 아이론오 카케마스", exampleMeaning: "매일 아침 와이셔츠를 다립니다.",
+    breakdown: [
+      { word: "毎朝", reading: "まいあさ", meaning: "매일 아침" }
+    ] },
+  { level: "N4", kanji: "ジーンズ", reading: "ジーンズ", korean: "지-은즈", meaning: "청바지",
+    example: "休日はジーンズをはきます。", exampleReading: "きゅうじつはジーンズをはきます。", exampleKorean: "큐-지츠와 지-은즈오 하키마스", exampleMeaning: "휴일에는 청바지를 입습니다.",
+    breakdown: [
+      { word: "休日", reading: "きゅうじつ", meaning: "휴일" }
+    ] },
+  { level: "N4", kanji: "パーカー", reading: "パーカー", korean: "파-카-", meaning: "후드티",
+    example: "パーカーを着て出かけました。", exampleReading: "パーカーをきてでかけました。", exampleKorean: "파-카-오 키테 데카케마시타", exampleMeaning: "후드티를 입고 외출했습니다.",
+    breakdown: [
+      { word: "出かけました", reading: "でかけました", meaning: "외출했습니다" }
+    ] },
+  { level: "N4", kanji: "ダウンジャケット", reading: "ダウンジャケット", korean: "다운쟈켓토", meaning: "다운재킷",
+    example: "冬はダウンジャケットを着ます。", exampleReading: "ふゆはダウンジャケットをきます。", exampleKorean: "후유와 다운쟈켓토오 키마스", exampleMeaning: "겨울에는 다운재킷을 입습니다.",
+    breakdown: [
+      { word: "冬", reading: "ふゆ", meaning: "겨울" }
+    ] },
+  { level: "N4", kanji: "レインコート", reading: "レインコート", korean: "레인코-토", meaning: "우비",
+    example: "雨の日はレインコートを着ます。", exampleReading: "あめのひはレインコートをきます。", exampleKorean: "아메노 히와 레인코-토오 키마스", exampleMeaning: "비 오는 날은 우비를 입습니다.",
+    breakdown: [
+      { word: "雨の日", reading: "あめのひ", meaning: "비 오는 날" }
+    ] },
+  { level: "N4", kanji: "長靴", reading: "ながぐつ", korean: "나가구츠", meaning: "장화",
+    example: "雨の日は長靴をはきます。", exampleReading: "あめのひはながぐつをはきます。", exampleKorean: "아메노 히와 나가구츠오 하키마스", exampleMeaning: "비 오는 날은 장화를 신습니다.",
+    breakdown: [
+      { word: "雨の日", reading: "あめのひ", meaning: "비 오는 날" }
+    ] },
+  { level: "N4", kanji: "スリッパ", reading: "スリッパ", korean: "스립파", meaning: "슬리퍼",
+    example: "家ではスリッパをはきます。", exampleReading: "いえではスリッパをはきます。", exampleKorean: "이에데와 스립파오 하키마스", exampleMeaning: "집에서는 슬리퍼를 신습니다.",
+    breakdown: [
+      { word: "家では", reading: "いえでは", meaning: "집에서는" }
+    ] },
+  { level: "N4", kanji: "手帳型ケース", reading: "てちょうがたケース", korean: "테쵸-가타 케-스", meaning: "다이어리형 케이스",
+    example: "スマホに手帳型ケースをつけました。", exampleReading: "スマホにてちょうがたケースをつけました。", exampleKorean: "스마호니 테쵸-가타 케-스오 츠케마시타", exampleMeaning: "스마트폰에 다이어리형 케이스를 씌웠습니다.",
+    breakdown: [
+      { word: "スマホ", reading: "スマホ", meaning: "스마트폰" }
+    ] },
+  { level: "N4", kanji: "スマホケース", reading: "スマホケース", korean: "스마호케-스", meaning: "스마트폰케이스",
+    example: "新しいスマホケースを買いました。", exampleReading: "あたらしいスマホケースをかいました。", exampleKorean: "아타라시- 스마호케-스오 카이마시타", exampleMeaning: "새 스마트폰케이스를 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N4", kanji: "イヤホン", reading: "イヤホン", korean: "이야혼", meaning: "이어폰",
+    example: "音楽をイヤホンで聞きます。", exampleReading: "おんがくをイヤホンできぎます。", exampleKorean: "옹가쿠오 이야혼데 키키마스", exampleMeaning: "음악을 이어폰으로 듣습니다.",
+    breakdown: [
+      { word: "音楽", reading: "おんがく", meaning: "음악" }
+    ] },
+  { level: "N4", kanji: "ヘッドホン", reading: "ヘッドホン", korean: "헷도혼", meaning: "헤드폰",
+    example: "ヘッドホンをつけて仕事します。", exampleReading: "ヘッドホンをつけてしごとします。", exampleKorean: "헷도혼오 츠케테 시고토 시마스", exampleMeaning: "헤드폰을 끼고 일을 합니다.",
+    breakdown: [
+      { word: "仕事", reading: "しごと", meaning: "일" }
+    ] },
+  { level: "N4", kanji: "充電ケーブル", reading: "じゅうでんケーブル", korean: "쥬-덴 케-부루", meaning: "충전 케이블",
+    example: "充電ケーブルを忘れました。", exampleReading: "じゅうでんケーブルをわすれました。", exampleKorean: "쥬-덴 케-부루오 와스레마시타", exampleMeaning: "충전 케이블을 잊고 왔습니다.",
+    breakdown: [
+      { word: "忘れました", reading: "わすれました", meaning: "잊었습니다" }
+    ] },
+  { level: "N4", kanji: "モバイルバッテリー", reading: "モバイルバッテリー", korean: "모바이루밧테리-", meaning: "보조배터리",
+    example: "モバイルバッテリーを持ち歩いています。", exampleReading: "モバイルバッテリーをもちあるいています。", exampleKorean: "모바이루밧테리-오 모치아루이테 이마스", exampleMeaning: "보조배터리를 들고 다닙니다.",
+    breakdown: [
+      { word: "持ち歩いて", reading: "もちあるいて", meaning: "들고 다녀서" }
+    ] },
+  { level: "N4", kanji: "デジタルカメラ", reading: "デジタルカメラ", korean: "데지타루카메라", meaning: "디지털카메라",
+    example: "旅行にデジタルカメラを持って行きました。", exampleReading: "りょこうにデジタルカメラをもっていきました。", exampleKorean: "료코-니 데지타루카메라오 못테 이키마시타", exampleMeaning: "여행에 디지털카메라를 가지고 갔습니다.",
+    breakdown: [
+      { word: "旅行", reading: "りょこう", meaning: "여행" }
+    ] },
+  { level: "N4", kanji: "三脚", reading: "さんきゃく", korean: "산캬쿠", meaning: "삼각대",
+    example: "三脚を立ててカメラを固定しました。", exampleReading: "さんきゃくをたててカメラをこていしました。", exampleKorean: "산캬쿠오 타테테 카메라오 코테- 시마시타", exampleMeaning: "삼각대를 세워서 카메라를 고정했습니다.",
+    breakdown: [
+      { word: "固定", reading: "こてい", meaning: "고정" }
+    ] },
+  { level: "N4", kanji: "望遠鏡", reading: "ぼうえんきょう", korean: "보-엔쿄-", meaning: "망원경",
+    example: "望遠鏡で星を見ました。", exampleReading: "ぼうえんきょうでほしをみました。", exampleKorean: "보-엔쿄-데 호시오 미마시타", exampleMeaning: "망원경으로 별을 봤습니다.",
+    breakdown: [
+      { word: "星", reading: "ほし", meaning: "별" }
+    ] },
+  { level: "N4", kanji: "双眼鏡", reading: "そうがんきょう", korean: "소-간쿄-", meaning: "쌍안경",
+    example: "双眼鏡で鳥を観察しました。", exampleReading: "そうがんきょうでとりをかんさつしました。", exampleKorean: "소-간쿄-데 토리오 칸사츠 시마시타", exampleMeaning: "쌍안경으로 새를 관찰했습니다.",
+    breakdown: [
+      { word: "観察", reading: "かんさつ", meaning: "관찰" }
+    ] },
+  { level: "N4", kanji: "プロジェクター", reading: "プロジェクター", korean: "푸로제쿠타-", meaning: "프로젝터",
+    example: "会議室のプロジェクターを使いました。", exampleReading: "かいぎしつのプロジェクターをつかいました。", exampleKorean: "카이기시츠노 푸로제쿠타-오 츠카이마시타", exampleMeaning: "회의실 프로젝터를 사용했습니다.",
+    breakdown: [
+      { word: "会議室", reading: "かいぎしつ", meaning: "회의실" }
+    ] },
+  { level: "N4", kanji: "スピーカー", reading: "スピーカー", korean: "스피-카-", meaning: "스피커",
+    example: "スピーカーで音楽を流しました。", exampleReading: "スピーカーでおんがくをながしました。", exampleKorean: "스피-카-데 옹가쿠오 나가시마시타", exampleMeaning: "스피커로 음악을 틀었습니다.",
+    breakdown: [
+      { word: "音楽", reading: "おんがく", meaning: "음악" }
+    ] },
+  { level: "N4", kanji: "マイク", reading: "マイク", korean: "마이쿠", meaning: "마이크",
+    example: "マイクの音が小さいです。", exampleReading: "マイクのおとがちいさいです。", exampleKorean: "마이쿠노 오토가 치-사이데스", exampleMeaning: "마이크 소리가 작습니다.",
+    breakdown: [
+      { word: "音", reading: "おと", meaning: "소리" }
+    ] },
+  { level: "N4", kanji: "ゲーム機", reading: "ゲームき", korean: "게-무키", meaning: "게임기",
+    example: "子供にゲーム機を買いました。", exampleReading: "こどもにゲームきをかいました。", exampleKorean: "코도모니 게-무키오 카이마시타", exampleMeaning: "아이에게 게임기를 사줬습니다.",
+    breakdown: [
+      { word: "子供に", reading: "こどもに", meaning: "아이에게" }
+    ] },
+  { level: "N4", kanji: "コントローラー", reading: "コントローラー", korean: "콘토로-라-", meaning: "컨트롤러",
+    example: "コントローラーが壊れました。", exampleReading: "コントローラーがこわれました。", exampleKorean: "콘토로-라-가 코와레마시타", exampleMeaning: "컨트롤러가 고장 났습니다.",
+    breakdown: [
+      { word: "壊れました", reading: "こわれました", meaning: "고장 났습니다" }
+    ] },
+  { level: "N4", kanji: "スマートウォッチ", reading: "スマートウォッチ", korean: "스마-토웟치", meaning: "스마트워치",
+    example: "スマートウォッチで健康管理をしています。", exampleReading: "スマートウォッチでけんこうかんりをしています。", exampleKorean: "스마-토웟치데 켄코-칸리오 시테 이마스", exampleMeaning: "스마트워치로 건강관리를 하고 있습니다.",
+    breakdown: [
+      { word: "健康管理", reading: "けんこうかんり", meaning: "건강관리" }
+    ] },
+  { level: "N4", kanji: "ワイヤレスイヤホン", reading: "ワイヤレスイヤホン", korean: "와이야레스 이야혼", meaning: "무선이어폰",
+    example: "ワイヤレスイヤホンを買いました。", exampleReading: "ワイヤレスイヤホンをかいました。", exampleKorean: "와이야레스 이야혼오 카이마시타", exampleMeaning: "무선이어폰을 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N4", kanji: "無線", reading: "むせん", korean: "무센", meaning: "무선",
+    example: "無線でつながっています。", exampleReading: "むせんでつながっています。", exampleKorean: "무센데 츠나갓테 이마스", exampleMeaning: "무선으로 연결되어 있습니다.",
+    breakdown: [
+      { word: "つながって", reading: "つながって", meaning: "연결되어" }
+    ] },
+  { level: "N4", kanji: "有線", reading: "ゆうせん", korean: "유-센", meaning: "유선",
+    example: "有線の方が安定します。", exampleReading: "ゆうせんのほうがあんていします。", exampleKorean: "유-센노 호-가 안테- 시마스", exampleMeaning: "유선이 더 안정적입니다.",
+    breakdown: [
+      { word: "安定", reading: "あんてい", meaning: "안정" }
+    ] },
+  { level: "N4", kanji: "液晶", reading: "えきしょう", korean: "에키쇼-", meaning: "액정",
+    example: "液晶が割れてしまいました。", exampleReading: "えきしょうがわれてしまいました。", exampleKorean: "에키쇼-가 와레테 시마이마시타", exampleMeaning: "액정이 깨져버렸습니다.",
+    breakdown: [
+      { word: "割れて", reading: "われて", meaning: "깨져서" }
+    ] },
+  { level: "N4", kanji: "画素", reading: "がそ", korean: "가소", meaning: "화소",
+    example: "画素が高いカメラです。", exampleReading: "がそがたかいカメラです。", exampleKorean: "가소가 타카이 카메라데스", exampleMeaning: "화소가 높은 카메라입니다.",
+    breakdown: [
+      { word: "高い", reading: "たかい", meaning: "높다" }
+    ] },
+  { level: "N4", kanji: "解像度", reading: "かいぞうど", korean: "카이조-도", meaning: "해상도",
+    example: "解像度を上げました。", exampleReading: "かいぞうどをあげました。", exampleKorean: "카이조-도오 아게마시타", exampleMeaning: "해상도를 높였습니다.",
+    breakdown: [
+      { word: "上げました", reading: "あげました", meaning: "높였습니다" }
+    ] },
+  { level: "N4", kanji: "ストレージ", reading: "ストレージ", korean: "스토레-지", meaning: "저장공간",
+    example: "ストレージが足りません。", exampleReading: "ストレージがたりません。", exampleKorean: "스토레-지가 타리마셍", exampleMeaning: "저장공간이 부족합니다.",
+    breakdown: [
+      { word: "足りません", reading: "たりません", meaning: "부족합니다" }
+    ] },
+  { level: "N4", kanji: "メモリー", reading: "メモリー", korean: "메모리-", meaning: "메모리",
+    example: "メモリーを増やしました。", exampleReading: "メモリーをふやしました。", exampleKorean: "메모리-오 후야시마시타", exampleMeaning: "메모리를 늘렸습니다.",
+    breakdown: [
+      { word: "増やしました", reading: "ふやしました", meaning: "늘렸습니다" }
+    ] },
+  { level: "N4", kanji: "クラウド", reading: "クラウド", korean: "쿠라우도", meaning: "클라우드",
+    example: "データをクラウドに保存しました。", exampleReading: "データをクラウドにほぞんしました。", exampleKorean: "데-타오 쿠라우도니 호존 시마시타", exampleMeaning: "데이터를 클라우드에 저장했습니다.",
+    breakdown: [
+      { word: "データ", reading: "データ", meaning: "데이터" }
+    ] },
+  { level: "N4", kanji: "サーバー", reading: "サーバー", korean: "사-바-", meaning: "서버",
+    example: "サーバーがダウンしました。", exampleReading: "サーバーがダウンしました。", exampleKorean: "사-바-가 다운 시마시타", exampleMeaning: "서버가 다운되었습니다.",
+    breakdown: [
+      { word: "ダウン", reading: "ダウン", meaning: "다운" }
+    ] },
+  { level: "N4", kanji: "ネットワーク", reading: "ネットワーク", korean: "넷토와-쿠", meaning: "네트워크",
+    example: "ネットワークに接続できません。", exampleReading: "ネットワークにせつぞくできません。", exampleKorean: "넷토와-쿠니 세츠조쿠 데키마셍", exampleMeaning: "네트워크에 접속할 수 없습니다.",
+    breakdown: [
+      { word: "接続", reading: "せつぞく", meaning: "접속" }
+    ] },
+  { level: "N4", kanji: "ルーター", reading: "ルーター", korean: "루-타-", meaning: "공유기",
+    example: "ルーターを再起動しました。", exampleReading: "ルーターをさいきどうしました。", exampleKorean: "루-타-오 사이키도- 시마시타", exampleMeaning: "공유기를 재시동했습니다.",
+    breakdown: [
+      { word: "再起動", reading: "さいきどう", meaning: "재시동" }
+    ] },
+  { level: "N4", kanji: "モデム", reading: "モデム", korean: "모뎀", meaning: "모뎀",
+    example: "モデムを交換しました。", exampleReading: "モデムをこうかんしました。", exampleKorean: "모뎀오 코-칸 시마시타", exampleMeaning: "모뎀을 교체했습니다.",
+    breakdown: [
+      { word: "交換", reading: "こうかん", meaning: "교체" }
+    ] },
+  { level: "N4", kanji: "ストリーミング", reading: "ストリーミング", korean: "스토리-밍구", meaning: "스트리밍",
+    example: "ストリーミングで映画を見ます。", exampleReading: "ストリーミングでえいがをみます。", exampleKorean: "스토리-밍구데 에-가오 미마스", exampleMeaning: "스트리밍으로 영화를 봅니다.",
+    breakdown: [
+      { word: "映画", reading: "えいが", meaning: "영화" }
+    ] },
+  { level: "N4", kanji: "生放送", reading: "なまほうそう", korean: "나마호-소-", meaning: "생방송",
+    example: "生放送に出演しました。", exampleReading: "なまほうそうにしゅつえんしました。", exampleKorean: "나마호-소-니 슈츠엔 시마시타", exampleMeaning: "생방송에 출연했습니다.",
+    breakdown: [
+      { word: "出演", reading: "しゅつえん", meaning: "출연" }
+    ] },
+  { level: "N4", kanji: "録画", reading: "ろくが", korean: "로쿠가", meaning: "녹화",
+    example: "ドラマを録画しました。", exampleReading: "ドラマをろくがしました。", exampleKorean: "도라마오 로쿠가 시마시타", exampleMeaning: "드라마를 녹화했습니다.",
+    breakdown: [
+      { word: "ドラマ", reading: "ドラマ", meaning: "드라마" }
+    ] },
+  { level: "N4", kanji: "録音", reading: "ろくおん", korean: "로쿠온", meaning: "녹음",
+    example: "会議を録音しました。", exampleReading: "かいぎをろくおんしました。", exampleKorean: "카이기오 로쿠온 시마시타", exampleMeaning: "회의를 녹음했습니다.",
+    breakdown: [
+      { word: "会議", reading: "かいぎ", meaning: "회의" }
+    ] },
+  { level: "N4", kanji: "編集", reading: "へんしゅう", korean: "헨슈-", meaning: "편집",
+    example: "動画を編集しました。", exampleReading: "どうがをへんしゅうしました。", exampleKorean: "도-가오 헨슈- 시마시타", exampleMeaning: "동영상을 편집했습니다.",
+    breakdown: [
+      { word: "動画", reading: "どうが", meaning: "동영상" }
+    ] },
+  { level: "N4", kanji: "撮影", reading: "さつえい", korean: "사츠에-", meaning: "촬영",
+    example: "映画の撮影をしました。", exampleReading: "えいがのさつえいをしました。", exampleKorean: "에-가노 사츠에- 시마시타", exampleMeaning: "영화 촬영을 했습니다.",
+    breakdown: [
+      { word: "映画", reading: "えいが", meaning: "영화" }
+    ] },
+  { level: "N4", kanji: "動画配信", reading: "どうがはいしん", korean: "도-가하이신", meaning: "동영상 스트리밍",
+    example: "動画配信サービスに加入しました。", exampleReading: "どうがはいしんサービスにかにゅうしました。", exampleKorean: "도-가하이신 사-비스니 카뉴- 시마시타", exampleMeaning: "동영상 스트리밍 서비스에 가입했습니다.",
+    breakdown: [
+      { word: "加入", reading: "かにゅう", meaning: "가입" }
+    ] },
+  { level: "N4", kanji: "インフルエンサー", reading: "インフルエンサー", korean: "인후루엔사-", meaning: "인플루언서",
+    example: "彼女はインフルエンサーです。", exampleReading: "かのじょはインフルエンサーです。", exampleKorean: "카노죠와 인후루엔사-데스", exampleMeaning: "그녀는 인플루언서입니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N4", kanji: "フォロワー", reading: "フォロワー", korean: "훠로와-", meaning: "팔로워",
+    example: "フォロワーが増えました。", exampleReading: "フォロワーがふえました。", exampleKorean: "훠로와-가 후에마시타", exampleMeaning: "팔로워가 늘었습니다.",
+    breakdown: [
+      { word: "増えました", reading: "ふえました", meaning: "늘었습니다" }
+    ] },
+  { level: "N4", kanji: "いいね", reading: "いいね", korean: "이이네", meaning: "좋아요",
+    example: "写真にいいねをしました。", exampleReading: "しゃしんにいいねをしました。", exampleKorean: "샤신니 이이네오 시마시타", exampleMeaning: "사진에 좋아요를 눌렀습니다.",
+    breakdown: [
+      { word: "写真", reading: "しゃしん", meaning: "사진" }
+    ] },
+  { level: "N4", kanji: "コメント欄", reading: "コメントらん", korean: "코멘토란", meaning: "댓글창",
+    example: "コメント欄に書き込みました。", exampleReading: "コメントらんにかきこみました。", exampleKorean: "코멘토란니 카키코미마시타", exampleMeaning: "댓글창에 글을 남겼습니다.",
+    breakdown: [
+      { word: "書き込みました", reading: "かきこみました", meaning: "글을 남겼습니다" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
