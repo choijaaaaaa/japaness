@@ -9268,6 +9268,256 @@ const VOCAB = [
     breakdown: [
       { word: "食べました", reading: "たべました", meaning: "먹었습니다" }
     ] },
+  { level: "N4", kanji: "防災訓練", reading: "ぼうさいくんれん", korean: "보-사이쿤렌", meaning: "방재훈련",
+    example: "会社で防災訓練がありました。", exampleReading: "かいしゃでぼうさいくんれんがありました。", exampleKorean: "카이샤데 보-사이쿤렌가 아리마시타", exampleMeaning: "회사에서 방재훈련이 있었습니다.",
+    breakdown: [
+      { word: "会社", reading: "かいしゃ", meaning: "회사" }
+    ] },
+  { level: "N4", kanji: "避難訓練", reading: "ひなんくんれん", korean: "히난쿤렌", meaning: "피난훈련",
+    example: "学校で避難訓練をしました。", exampleReading: "がっこうでひなんくんれんをしました。", exampleKorean: "각코-데 히난쿤렌오 시마시타", exampleMeaning: "학교에서 피난훈련을 했습니다.",
+    breakdown: [
+      { word: "学校", reading: "がっこう", meaning: "학교" }
+    ] },
+  { level: "N4", kanji: "避難場所", reading: "ひなんばしょ", korean: "히난바쇼", meaning: "피난 장소",
+    example: "近くの避難場所を確認しました。", exampleReading: "ちかくのひなんばしょをかくにんしました。", exampleKorean: "치카쿠노 히난바쇼오 카쿠닌 시마시타", exampleMeaning: "근처 피난 장소를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "避難経路", reading: "ひなんけいろ", korean: "히난케-로", meaning: "피난 경로",
+    example: "避難経路を確認してください。", exampleReading: "ひなんけいろをかくにんしてください。", exampleKorean: "히난케-로오 카쿠닌 시테 쿠다사이", exampleMeaning: "피난 경로를 확인해 주세요.",
+    breakdown: [
+      { word: "確認して", reading: "かくにんして", meaning: "확인해서" }
+    ] },
+  { level: "N4", kanji: "非常持ち出し袋", reading: "ひじょうもちだしぶくろ", korean: "히죠-모치다시부쿠로", meaning: "비상용 배낭",
+    example: "非常持ち出し袋を用意しました。", exampleReading: "ひじょうもちだしぶくろをよういしました。", exampleKorean: "히죠-모치다시부쿠로오 요-이 시마시타", exampleMeaning: "비상용 배낭을 준비했습니다.",
+    breakdown: [
+      { word: "用意", reading: "よい", meaning: "준비" }
+    ] },
+  { level: "N4", kanji: "防災グッズ", reading: "ぼうさいグッズ", korean: "보-사이굿즈", meaning: "방재용품",
+    example: "防災グッズを買いました。", exampleReading: "ぼうさいグッズをかいました。", exampleKorean: "보-사이굿즈오 카이마시타", exampleMeaning: "방재용품을 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N4", kanji: "懐中電灯", reading: "かいちゅうでんとう", korean: "카이츄-덴토-", meaning: "손전등",
+    example: "懐中電灯を用意しています。", exampleReading: "かいちゅうでんとうをよういしています。", exampleKorean: "카이츄-덴토-오 요-이 시테 이마스", exampleMeaning: "손전등을 준비해 두고 있습니다.",
+    breakdown: [
+      { word: "用意", reading: "よい", meaning: "준비" }
+    ] },
+  { level: "N4", kanji: "携帯ラジオ", reading: "けいたいラジオ", korean: "케-타이라지오", meaning: "휴대용 라디오",
+    example: "携帯ラジオを持っています。", exampleReading: "けいたいラジオをもっています。", exampleKorean: "케-타이라지오오 못테 이마스", exampleMeaning: "휴대용 라디오를 가지고 있습니다.",
+    breakdown: [
+      { word: "持って", reading: "もって", meaning: "가지고 있어서" }
+    ] },
+  { level: "N4", kanji: "非常食", reading: "ひじょうしょく", korean: "히죠-쇼쿠", meaning: "비상식량",
+    example: "非常食を備蓄しています。", exampleReading: "ひじょうしょくをびちくしています。", exampleKorean: "히죠-쇼쿠오 비치쿠 시테 이마스", exampleMeaning: "비상식량을 비축해 두고 있습니다.",
+    breakdown: [
+      { word: "備蓄", reading: "びちく", meaning: "비축" }
+    ] },
+  { level: "N4", kanji: "備蓄水", reading: "びちくすい", korean: "비치쿠스이", meaning: "비축용 물",
+    example: "備蓄水を確認しました。", exampleReading: "びちくすいをかくにんしました。", exampleKorean: "비치쿠스이오 카쿠닌 시마시타", exampleMeaning: "비축용 물을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "防災マップ", reading: "ぼうさいマップ", korean: "보-사이맙푸", meaning: "방재지도",
+    example: "防災マップを配布しました。", exampleReading: "ぼうさいマップをはいふしました。", exampleKorean: "보-사이맙푸오 하이후 시마시타", exampleMeaning: "방재지도를 배포했습니다.",
+    breakdown: [
+      { word: "配布", reading: "はいふ", meaning: "배포" }
+    ] },
+  { level: "N4", kanji: "地震速報", reading: "じしんそくほう", korean: "지신소쿠호-", meaning: "지진속보",
+    example: "地震速報が流れました。", exampleReading: "じしんそくほうがながれました。", exampleKorean: "지신소쿠호-가 나가레마시타", exampleMeaning: "지진속보가 흘러나왔습니다.",
+    breakdown: [
+      { word: "流れました", reading: "ながれました", meaning: "흘러나왔습니다" }
+    ] },
+  { level: "N4", kanji: "緊急地震速報", reading: "きんきゅうじしんそくほう", korean: "킨큐-지신소쿠호-", meaning: "긴급지진속보",
+    example: "緊急地震速報が鳴りました。", exampleReading: "きんきゅうじしんそくほうがなりました。", exampleKorean: "킨큐-지신소쿠호-가 나리마시타", exampleMeaning: "긴급지진속보가 울렸습니다.",
+    breakdown: [
+      { word: "鳴りました", reading: "なりました", meaning: "울렸습니다" }
+    ] },
+  { level: "N4", kanji: "津波警報", reading: "つなみけいほう", korean: "츠나미케-호-", meaning: "쓰나미 경보",
+    example: "津波警報が発令されました。", exampleReading: "つなみけいほうがはつれいされました。", exampleKorean: "츠나미케-호-가 하츠레-사레마시타", exampleMeaning: "쓰나미 경보가 발령되었습니다.",
+    breakdown: [
+      { word: "発令", reading: "はつれい", meaning: "발령" }
+    ] },
+  { level: "N4", kanji: "土砂崩れ", reading: "どしゃくずれ", korean: "도샤쿠즈레", meaning: "산사태",
+    example: "大雨で土砂崩れが起きました。", exampleReading: "おおあめでどしゃくずれがおきました。", exampleKorean: "오-아메데 도샤쿠즈레가 오키마시타", exampleMeaning: "폭우로 산사태가 일어났습니다.",
+    breakdown: [
+      { word: "大雨", reading: "おおあめ", meaning: "폭우" }
+    ] },
+  { level: "N4", kanji: "浸水", reading: "しんすい", korean: "신스이", meaning: "침수",
+    example: "家が浸水しました。", exampleReading: "いえがしんすいしました。", exampleKorean: "이에가 신스이 시마시타", exampleMeaning: "집이 침수되었습니다.",
+    breakdown: [
+      { word: "家", reading: "いえ", meaning: "집" }
+    ] },
+  { level: "N4", kanji: "冠水", reading: "かんすい", korean: "칸스이", meaning: "관수(도로 등이 물에 잠김)",
+    example: "道路が冠水しました。", exampleReading: "どうろがかんすいしました。", exampleKorean: "도-로가 칸스이 시마시타", exampleMeaning: "도로가 물에 잠겼습니다.",
+    breakdown: [
+      { word: "道路", reading: "どうろ", meaning: "도로" }
+    ] },
+  { level: "N4", kanji: "断水", reading: "だんすい", korean: "단스이", meaning: "단수",
+    example: "地震で断水しました。", exampleReading: "じしんでだんすいしました。", exampleKorean: "지신데 단스이 시마시타", exampleMeaning: "지진으로 단수되었습니다.",
+    breakdown: [
+      { word: "地震", reading: "じしん", meaning: "지진" }
+    ] },
+  { level: "N4", kanji: "ライフライン", reading: "ライフライン", korean: "라이후라인", meaning: "라이프라인(생명선)",
+    example: "ライフラインが復旧しました。", exampleReading: "ライフラインがふっきゅうしました。", exampleKorean: "라이후라인가 훅큐- 시마시타", exampleMeaning: "라이프라인이 복구되었습니다.",
+    breakdown: [
+      { word: "復旧", reading: "ふっきゅう", meaning: "복구" }
+    ] },
+  { level: "N4", kanji: "応急給水", reading: "おうきゅうきゅうすい", korean: "오-큐-큐-스이", meaning: "응급급수",
+    example: "応急給水を受けました。", exampleReading: "おうきゅうきゅうすいをうけました。", exampleKorean: "오-큐-큐-스이오 우케마시타", exampleMeaning: "응급급수를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "防災無線", reading: "ぼうさいむせん", korean: "보-사이무센", meaning: "방재무선",
+    example: "防災無線で放送されました。", exampleReading: "ぼうさいむせんでほうそうされました。", exampleKorean: "보-사이무센데 호-소-사레마시타", exampleMeaning: "방재무선으로 방송되었습니다.",
+    breakdown: [
+      { word: "放送", reading: "ほうそう", meaning: "방송" }
+    ] },
+  { level: "N4", kanji: "緊急速報", reading: "きんきゅうそくほう", korean: "킨큐-소쿠호-", meaning: "긴급속보",
+    example: "緊急速報が届きました。", exampleReading: "きんきゅうそくほうがとどきました。", exampleKorean: "킨큐-소쿠호-가 토도키마시타", exampleMeaning: "긴급속보가 도착했습니다.",
+    breakdown: [
+      { word: "届きました", reading: "とどきました", meaning: "도착했습니다" }
+    ] },
+  { level: "N4", kanji: "避難勧告", reading: "ひなんかんこく", korean: "히난칸코쿠", meaning: "피난권고",
+    example: "避難勧告が出されました。", exampleReading: "ひなんかんこくがだされました。", exampleKorean: "히난칸코쿠가 다사레마시타", exampleMeaning: "피난권고가 내려졌습니다.",
+    breakdown: [
+      { word: "出されました", reading: "だされました", meaning: "내려졌습니다" }
+    ] },
+  { level: "N4", kanji: "避難指示", reading: "ひなんしじ", korean: "히난시지", meaning: "피난지시",
+    example: "避難指示に従いました。", exampleReading: "ひなんしじにしたがいました。", exampleKorean: "히난시지니 시타가이마시타", exampleMeaning: "피난지시에 따랐습니다.",
+    breakdown: [
+      { word: "従いました", reading: "したがいました", meaning: "따랐습니다" }
+    ] },
+  { level: "N4", kanji: "安否確認", reading: "あんぴかくにん", korean: "암피카쿠닌", meaning: "안부확인",
+    example: "家族の安否確認をしました。", exampleReading: "かぞくのあんぴかくにんをしました。", exampleKorean: "카조쿠노 암피카쿠닌오 시마시타", exampleMeaning: "가족의 안부확인을 했습니다.",
+    breakdown: [
+      { word: "家族", reading: "かぞく", meaning: "가족" }
+    ] },
+  { level: "N4", kanji: "災害用伝言板", reading: "さいがいようでんごんばん", korean: "사이가이요-덴곤반", meaning: "재해용 메시지 게시판",
+    example: "災害用伝言板を利用しました。", exampleReading: "さいがいようでんごんばんをりようしました。", exampleKorean: "사이가이요-덴곤반오 리요- 시마시타", exampleMeaning: "재해용 메시지 게시판을 이용했습니다.",
+    breakdown: [
+      { word: "利用", reading: "りよう", meaning: "이용" }
+    ] },
+  { level: "N4", kanji: "帰宅困難者", reading: "きたくこんなんしゃ", korean: "키타쿠콘난샤", meaning: "귀가곤란자",
+    example: "帰宅困難者になりました。", exampleReading: "きたくこんなんしゃになりました。", exampleKorean: "키타쿠콘난샤니 나리마시타", exampleMeaning: "귀가곤란자가 되었습니다.",
+    breakdown: [
+      { word: "なりました", reading: "なりました", meaning: "되었습니다" }
+    ] },
+  { level: "N4", kanji: "帰宅難民", reading: "きたくなんみん", korean: "키타쿠난민", meaning: "귀가난민",
+    example: "帰宅難民が発生しました。", exampleReading: "きたくなんみんがはっせいしました。", exampleKorean: "키타쿠난민가 핫세- 시마시타", exampleMeaning: "귀가난민이 발생했습니다.",
+    breakdown: [
+      { word: "発生", reading: "はっせい", meaning: "발생" }
+    ] },
+  { level: "N4", kanji: "液状化", reading: "えきじょうか", korean: "에키죠-카", meaning: "액상화",
+    example: "地盤が液状化しました。", exampleReading: "じばんがえきじょうかしました。", exampleKorean: "지반가 에키죠-카 시마시타", exampleMeaning: "지반이 액상화되었습니다.",
+    breakdown: [
+      { word: "地盤", reading: "じばん", meaning: "지반" }
+    ] },
+  { level: "N4", kanji: "土石流", reading: "どせきりゅう", korean: "도세키류-", meaning: "토석류",
+    example: "土石流が発生しました。", exampleReading: "どせきりゅうがはっせいしました。", exampleKorean: "도세키류-가 핫세- 시마시타", exampleMeaning: "토석류가 발생했습니다.",
+    breakdown: [
+      { word: "発生", reading: "はっせい", meaning: "발생" }
+    ] },
+  { level: "N4", kanji: "火砕流", reading: "かさいりゅう", korean: "카사이류-", meaning: "화쇄류",
+    example: "火山の火砕流が起きました。", exampleReading: "かざんのかさいりゅうがおきました。", exampleKorean: "카잔노 카사이류-가 오키마시타", exampleMeaning: "화산의 화쇄류가 일어났습니다.",
+    breakdown: [
+      { word: "火山", reading: "かざん", meaning: "화산" }
+    ] },
+  { level: "N4", kanji: "余震", reading: "よしん", korean: "요신", meaning: "여진",
+    example: "余震に注意してください。", exampleReading: "よしんにちゅういしてください。", exampleKorean: "요신니 츄-이 시테 쿠다사이", exampleMeaning: "여진에 주의해 주세요.",
+    breakdown: [
+      { word: "注意", reading: "ちゅうい", meaning: "주의" }
+    ] },
+  { level: "N4", kanji: "震度", reading: "しんど", korean: "신도", meaning: "진도",
+    example: "震度五の地震でした。", exampleReading: "しんどごのじしんでした。", exampleKorean: "신도고노 지신데시타", exampleMeaning: "진도 5의 지진이었습니다.",
+    breakdown: [
+      { word: "地震", reading: "じしん", meaning: "지진" }
+    ] },
+  { level: "N4", kanji: "マグニチュード", reading: "マグニチュード", korean: "마구니츄-도", meaning: "매그니튜드(지진 규모)",
+    example: "マグニチュード七の地震でした。", exampleReading: "マグニチュードななのじしんでした。", exampleKorean: "마구니츄-도 나나노 지신데시타", exampleMeaning: "매그니튜드 7의 지진이었습니다.",
+    breakdown: [
+      { word: "地震", reading: "じしん", meaning: "지진" }
+    ] },
+  { level: "N4", kanji: "活断層", reading: "かつだんそう", korean: "카츠단소-", meaning: "활단층",
+    example: "この地域には活断層があります。", exampleReading: "このちいきにはかつだんそうがあります。", exampleKorean: "코노 치이키니와 카츠단소-가 아리마스", exampleMeaning: "이 지역에는 활단층이 있습니다.",
+    breakdown: [
+      { word: "地域", reading: "ちいき", meaning: "지역" }
+    ] },
+  { level: "N4", kanji: "防波堤", reading: "ぼうはてい", korean: "보-하테-", meaning: "방파제",
+    example: "防波堤で釣りをしました。", exampleReading: "ぼうはていでつりをしました。", exampleKorean: "보-하테-데 츠리오 시마시타", exampleMeaning: "방파제에서 낚시를 했습니다.",
+    breakdown: [
+      { word: "釣り", reading: "つり", meaning: "낚시" }
+    ] },
+  { level: "N4", kanji: "堤防", reading: "ていぼう", korean: "테-보-", meaning: "제방",
+    example: "堤防が決壊しました。", exampleReading: "ていぼうがけっかいしました。", exampleKorean: "테-보-가 켁카이 시마시타", exampleMeaning: "제방이 붕괴되었습니다.",
+    breakdown: [
+      { word: "決壊", reading: "けっかい", meaning: "붕괴" }
+    ] },
+  { level: "N4", kanji: "ハザードマップ", reading: "ハザードマップ", korean: "하자-도맙푸", meaning: "해저드맵(재해지도)",
+    example: "ハザードマップを確認しました。", exampleReading: "ハザードマップをかくにんしました。", exampleKorean: "하자-도맙푸오 카쿠닌 시마시타", exampleMeaning: "해저드맵을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "復興支援", reading: "ふっこうしえん", korean: "훅코-시엔", meaning: "부흥지원",
+    example: "被災地に復興支援を行いました。", exampleReading: "ひさいちにふっこうしえんをおこないました。", exampleKorean: "히사이치니 훅코-시엔오 오코나이마시타", exampleMeaning: "재해지역에 부흥지원을 실시했습니다.",
+    breakdown: [
+      { word: "被災地", reading: "ひさいち", meaning: "재해지역" }
+    ] },
+  { level: "N4", kanji: "災害ボランティア", reading: "さいがいボランティア", korean: "사이가이 보란티아", meaning: "재해 자원봉사",
+    example: "災害ボランティアに参加しました。", exampleReading: "さいがいボランティアにさんかしました。", exampleKorean: "사이가이 보란티아니 상카 시마시타", exampleMeaning: "재해 자원봉사에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N4", kanji: "仮設住宅", reading: "かせつじゅうたく", korean: "카세츠쥬-타쿠", meaning: "가설주택",
+    example: "仮設住宅に住んでいます。", exampleReading: "かせつじゅうたくにすんでいます。", exampleKorean: "카세츠쥬-타쿠니 슨데 이마스", exampleMeaning: "가설주택에 살고 있습니다.",
+    breakdown: [
+      { word: "住んで", reading: "すんで", meaning: "살아서" }
+    ] },
+  { level: "N4", kanji: "り災証明書", reading: "りさいしょうめいしょ", korean: "리사이쇼-메-쇼", meaning: "이재증명서",
+    example: "り災証明書を発行してもらいました。", exampleReading: "りさいしょうめいしょをはっこうしてもらいました。", exampleKorean: "리사이쇼-메-쇼오 학코-시테 모라이마시타", exampleMeaning: "이재증명서를 발급받았습니다.",
+    breakdown: [
+      { word: "発行", reading: "はっこう", meaning: "발행" }
+    ] },
+  { level: "N4", kanji: "義援金配分", reading: "ぎえんきんはいぶん", korean: "기엔킨하이분", meaning: "의연금 배분",
+    example: "義援金配分の方法を検討しています。", exampleReading: "ぎえんきんはいぶんのほうほうをけんとうしています。", exampleKorean: "기엔킨하이분노 호-호-오 켄토- 시테 이마스", exampleMeaning: "의연금 배분 방법을 검토하고 있습니다.",
+    breakdown: [
+      { word: "方法", reading: "ほうほう", meaning: "방법" }
+    ] },
+  { level: "N4", kanji: "防災グッズリスト", reading: "ぼうさいグッズリスト", korean: "보-사이 굿즈리스토", meaning: "방재용품 목록",
+    example: "防災グッズリストを作成しました。", exampleReading: "ぼうさいグッズリストをさくせいしました。", exampleKorean: "보-사이 굿즈리스토오 사쿠세- 시마시타", exampleMeaning: "방재용품 목록을 작성했습니다.",
+    breakdown: [
+      { word: "作成", reading: "さくせい", meaning: "작성" }
+    ] },
+  { level: "N4", kanji: "非常口誘導灯", reading: "ひじょうぐちゆうどうとう", korean: "히죠-구치유-도-토-", meaning: "비상구 유도등",
+    example: "非常口誘導灯を確認しました。", exampleReading: "ひじょうぐちゆうどうとうをかくにんしました。", exampleKorean: "히죠-구치유-도-토-오 카쿠닌 시마시타", exampleMeaning: "비상구 유도등을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "消火器", reading: "しょうかき", korean: "쇼-카키", meaning: "소화기",
+    example: "消火器の使い方を学びました。", exampleReading: "しょうかきのつかいかたをまなびました。", exampleKorean: "쇼-카키노 츠카이카타오 마나비마시타", exampleMeaning: "소화기 사용법을 배웠습니다.",
+    breakdown: [
+      { word: "使い方", reading: "つかいかた", meaning: "사용법" }
+    ] },
+  { level: "N4", kanji: "火災報知器", reading: "かさいほうちき", korean: "카사이호-치키", meaning: "화재경보기",
+    example: "火災報知器が鳴りました。", exampleReading: "かさいほうちきがなりました。", exampleKorean: "카사이호-치키가 나리마시타", exampleMeaning: "화재경보기가 울렸습니다.",
+    breakdown: [
+      { word: "鳴りました", reading: "なりました", meaning: "울렸습니다" }
+    ] },
+  { level: "N4", kanji: "スプリンクラー", reading: "スプリンクラー", korean: "스푸린쿠라-", meaning: "스프링클러",
+    example: "スプリンクラーが作動しました。", exampleReading: "スプリンクラーがさどうしました。", exampleKorean: "스푸린쿠라-가 사도- 시마시타", exampleMeaning: "스프링클러가 작동했습니다.",
+    breakdown: [
+      { word: "作動", reading: "さどう", meaning: "작동" }
+    ] },
+  { level: "N4", kanji: "避難梯子", reading: "ひなんばしご", korean: "히난바시고", meaning: "피난 사다리",
+    example: "避難梯子で降りました。", exampleReading: "ひなんばしごでおりました。", exampleKorean: "히난바시고데 오리마시타", exampleMeaning: "피난 사다리로 내려왔습니다.",
+    breakdown: [
+      { word: "降りました", reading: "おりました", meaning: "내려왔습니다" }
+    ] },
+  { level: "N4", kanji: "防犯ブザー", reading: "ぼうはんブザー", korean: "보-한부자-", meaning: "방범부저",
+    example: "子供に防犯ブザーを持たせています。", exampleReading: "こどもにぼうはんブザーをもたせています。", exampleKorean: "코도모니 보-한부자-오 모타세테 이마스", exampleMeaning: "아이에게 방범부저를 지니게 하고 있습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
