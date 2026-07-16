@@ -10918,6 +10918,206 @@ const VOCAB = [
     breakdown: [
       { word: "相談", reading: "そうだん", meaning: "상담" }
     ] },
+  { level: "N4", kanji: "料理教室", reading: "りょうりきょうしつ", korean: "료-리쿄-시츠", meaning: "요리교실",
+    example: "料理教室に通っています。", exampleReading: "りょうりきょうしつにかよっています。", exampleKorean: "료-리쿄-시츠니 카욧테 이마스", exampleMeaning: "요리교실에 다니고 있습니다.",
+    breakdown: [
+      { word: "通って", reading: "かよって", meaning: "다녀서" }
+    ] },
+  { level: "N4", kanji: "料理レシピ", reading: "りょうりレシピ", korean: "료-리레시피", meaning: "요리 레시피",
+    example: "料理レシピを検索しました。", exampleReading: "りょうりレシピをけんさくしました。", exampleKorean: "료-리레시피오 켄사쿠 시마시타", exampleMeaning: "요리 레시피를 검색했습니다.",
+    breakdown: [
+      { word: "検索", reading: "けんさく", meaning: "검색" }
+    ] },
+  { level: "N4", kanji: "下味", reading: "したあじ", korean: "시타아지", meaning: "밑간",
+    example: "肉に下味をつけました。", exampleReading: "にくにしたあじをつけました。", exampleKorean: "니쿠니 시타아지오 츠케마시타", exampleMeaning: "고기에 밑간을 했습니다.",
+    breakdown: [
+      { word: "肉", reading: "にく", meaning: "고기" }
+    ] },
+  { level: "N4", kanji: "隠し味", reading: "かくしあじ", korean: "카쿠시아지", meaning: "숨은 맛(비법 재료)",
+    example: "隠し味に醤油を入れます。", exampleReading: "かくしあじにしょうゆをいれます。", exampleKorean: "카쿠시아지니 쇼-유오 이레마스", exampleMeaning: "숨은 맛으로 간장을 넣습니다.",
+    breakdown: [
+      { word: "醤油", reading: "しょうゆ", meaning: "간장" }
+    ] },
+  { level: "N4", kanji: "味見", reading: "あじみ", korean: "아지미", meaning: "간보기",
+    example: "スープの味見をしました。", exampleReading: "スープのあじみをしました。", exampleKorean: "스-푸노 아지미오 시마시타", exampleMeaning: "수프의 간을 봤습니다.",
+    breakdown: [
+      { word: "スープ", reading: "スープ", meaning: "수프" }
+    ] },
+  { level: "N4", kanji: "盛り付け方", reading: "もりつけかた", korean: "모리츠케카타", meaning: "플레이팅 방법",
+    example: "盛り付け方を工夫しました。", exampleReading: "もりつけかたをくふうしました。", exampleKorean: "모리츠케카타오 쿠후- 시마시타", exampleMeaning: "플레이팅 방법을 궁리했습니다.",
+    breakdown: [
+      { word: "工夫", reading: "くふう", meaning: "궁리" }
+    ] },
+  { level: "N4", kanji: "食材宅配", reading: "しょくざいたくはい", korean: "쇼쿠자이타쿠하이", meaning: "식재료 배달",
+    example: "食材宅配を利用しています。", exampleReading: "しょくざいたくはいをりようしています。", exampleKorean: "쇼쿠자이타쿠하이오 리요- 시테 이마스", exampleMeaning: "식재료 배달을 이용하고 있습니다.",
+    breakdown: [
+      { word: "利用", reading: "りよう", meaning: "이용" }
+    ] },
+  { level: "N4", kanji: "ミールキット", reading: "ミールキット", korean: "미-루킷토", meaning: "밀키트",
+    example: "ミールキットで料理しました。", exampleReading: "ミールキットでりょうりしました。", exampleKorean: "미-루킷토데 료-리 시마시타", exampleMeaning: "밀키트로 요리했습니다.",
+    breakdown: [
+      { word: "料理", reading: "りょうり", meaning: "요리" }
+    ] },
+  { level: "N4", kanji: "作り置き", reading: "つくりおき", korean: "츠쿠리오키", meaning: "미리 만들어 둠",
+    example: "週末に作り置きをします。", exampleReading: "しゅうまつにつくりおきをします。", exampleKorean: "슈-마츠니 츠쿠리오키오 시마스", exampleMeaning: "주말에 미리 만들어 둡니다.",
+    breakdown: [
+      { word: "週末", reading: "しゅうまつ", meaning: "주말" }
+    ] },
+  { level: "N4", kanji: "冷凍保存", reading: "れいとうほぞん", korean: "레-토-호존", meaning: "냉동보관",
+    example: "肉を冷凍保存しました。", exampleReading: "にくをれいとうほぞんしました。", exampleKorean: "니쿠오 레-토-호존 시마시타", exampleMeaning: "고기를 냉동보관했습니다.",
+    breakdown: [
+      { word: "肉", reading: "にく", meaning: "고기" }
+    ] },
+  { level: "N4", kanji: "解凍", reading: "かいとう", korean: "카이토-", meaning: "해동",
+    example: "冷凍肉を解凍しました。", exampleReading: "れいとうにくをかいとうしました。", exampleKorean: "레-토-니쿠오 카이토- 시마시타", exampleMeaning: "냉동고기를 해동했습니다.",
+    breakdown: [
+      { word: "冷凍肉", reading: "れいとうにく", meaning: "냉동고기" }
+    ] },
+  { level: "N4", kanji: "電子レンジ調理", reading: "でんしレンジちょうり", korean: "덴시렌지쵸-리", meaning: "전자레인지 조리",
+    example: "電子レンジ調理は便利です。", exampleReading: "でんしレンジちょうりはべんりです。", exampleKorean: "덴시렌지쵸-리와 벤리데스", exampleMeaning: "전자레인지 조리는 편리합니다.",
+    breakdown: [
+      { word: "便利", reading: "べんり", meaning: "편리" }
+    ] },
+  { level: "N4", kanji: "オーブン料理", reading: "オーブンりょうり", korean: "오-분료-리", meaning: "오븐요리",
+    example: "オーブン料理を作りました。", exampleReading: "オーブンりょうりをつくりました。", exampleKorean: "오-분료-리오 츠쿠리마시타", exampleMeaning: "오븐요리를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N4", kanji: "スロークッカー", reading: "スロークッカー", korean: "스로-쿡카-", meaning: "슬로우쿠커",
+    example: "スロークッカーで煮込みました。", exampleReading: "スロークッカーでにこみました。", exampleKorean: "스로-쿡카-데 니코미마시타", exampleMeaning: "슬로우쿠커로 푹 끓였습니다.",
+    breakdown: [
+      { word: "煮込みました", reading: "にこみました", meaning: "푹 끓였습니다" }
+    ] },
+  { level: "N4", kanji: "圧力鍋", reading: "あつりょくなべ", korean: "아츠료쿠나베", meaning: "압력솥",
+    example: "圧力鍋で豆を煮ました。", exampleReading: "あつりょくなべでまめをにました。", exampleKorean: "아츠료쿠나베데 마메오 니마시타", exampleMeaning: "압력솥으로 콩을 삶았습니다.",
+    breakdown: [
+      { word: "豆", reading: "まめ", meaning: "콩" }
+    ] },
+  { level: "N4", kanji: "土鍋料理", reading: "どなべりょうり", korean: "도나베료-리", meaning: "질냄비요리",
+    example: "土鍋料理が恋しい季節です。", exampleReading: "どなべりょうりがこいしいきせつです。", exampleKorean: "도나베료-리가 코이시- 키세츠데스", exampleMeaning: "질냄비요리가 그리운 계절입니다.",
+    breakdown: [
+      { word: "季節", reading: "きせつ", meaning: "계절" }
+    ] },
+  { level: "N4", kanji: "鉄板焼き", reading: "てっぱんやき", korean: "텟판야키", meaning: "철판구이",
+    example: "鉄板焼きのレストランに行きました。", exampleReading: "てっぱんやきのレストランにいきました。", exampleKorean: "텟판야키노 레스토란니 이키마시타", exampleMeaning: "철판구이 레스토랑에 갔습니다.",
+    breakdown: [
+      { word: "レストラン", reading: "レストラン", meaning: "레스토랑" }
+    ] },
+  { level: "N4", kanji: "網焼き", reading: "あみやき", korean: "아미야키", meaning: "석쇠구이",
+    example: "肉を網焼きにしました。", exampleReading: "にくをあみやきにしました。", exampleKorean: "니쿠오 아미야키니 시마시타", exampleMeaning: "고기를 석쇠구이로 했습니다.",
+    breakdown: [
+      { word: "肉", reading: "にく", meaning: "고기" }
+    ] },
+  { level: "N4", kanji: "炭火焼き", reading: "すみびやき", korean: "스미비야키", meaning: "숯불구이",
+    example: "炭火焼きの魚が美味しかったです。", exampleReading: "すみびやきのさかながおいしかったです。", exampleKorean: "스미비야키노 사카나가 오이시캇타데스", exampleMeaning: "숯불구이 생선이 맛있었습니다.",
+    breakdown: [
+      { word: "魚", reading: "さかな", meaning: "생선" }
+    ] },
+  { level: "N4", kanji: "燻製", reading: "くんせい", korean: "쿤세-", meaning: "훈제",
+    example: "燻製を作ってみました。", exampleReading: "くんせいをつくってみました。", exampleKorean: "쿤세-오 츠쿳테 미마시타", exampleMeaning: "훈제를 만들어봤습니다.",
+    breakdown: [
+      { word: "作ってみました", reading: "つくってみました", meaning: "만들어봤습니다" }
+    ] },
+  { level: "N4", kanji: "包丁研ぎ", reading: "ほうちょうとぎ", korean: "호-쵸-토기", meaning: "칼갈이",
+    example: "包丁研ぎをしました。", exampleReading: "ほうちょうとぎをしました。", exampleKorean: "호-쵸-토기오 시마시타", exampleMeaning: "칼갈이를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "まな板消毒", reading: "まないたしょうどく", korean: "마나이타쇼-도쿠", meaning: "도마 소독",
+    example: "まな板消毒を定期的にしています。", exampleReading: "まないたしょうどくをていきてきにしています。", exampleKorean: "마나이타쇼-도쿠오 테-키테키니 시테 이마스", exampleMeaning: "도마 소독을 정기적으로 하고 있습니다.",
+    breakdown: [
+      { word: "定期的に", reading: "ていきてきに", meaning: "정기적으로" }
+    ] },
+  { level: "N4", kanji: "食品ロス", reading: "しょくひんロス", korean: "쇼쿠힌로스", meaning: "음식물 낭비",
+    example: "食品ロスを減らす取り組みです。", exampleReading: "しょくひんロスをへらすとりくみです。", exampleKorean: "쇼쿠힌로스오 헤라스 토리쿠미데스", exampleMeaning: "음식물 낭비를 줄이는 노력입니다.",
+    breakdown: [
+      { word: "取り組み", reading: "とりくみ", meaning: "노력" }
+    ] },
+  { level: "N4", kanji: "賞味期限切れ", reading: "しょうみきげんぎれ", korean: "쇼-미키겐기레", meaning: "유통기한 지남",
+    example: "賞味期限切れの食品を捨てました。", exampleReading: "しょうみきげんぎれのしょくひんをすてました。", exampleKorean: "쇼-미키겐기레노 쇼쿠힝오 스테마시타", exampleMeaning: "유통기한 지난 식품을 버렸습니다.",
+    breakdown: [
+      { word: "食品", reading: "しょくひん", meaning: "식품" }
+    ] },
+  { level: "N4", kanji: "食材の保存方法", reading: "しょくざいのほぞんほうほう", korean: "쇼쿠자이노 호존호-호-", meaning: "식재료 보관법",
+    example: "食材の保存方法を学びました。", exampleReading: "しょくざいのほぞんほうほうをまなびました。", exampleKorean: "쇼쿠자이노 호존호-호-오 마나비마시타", exampleMeaning: "식재료 보관법을 배웠습니다.",
+    breakdown: [
+      { word: "学びました", reading: "まなびました", meaning: "배웠습니다" }
+    ] },
+  { level: "N4", kanji: "冷凍食品", reading: "れいとうしょくひん", korean: "레-토-쇼쿠힌", meaning: "냉동식품",
+    example: "冷凍食品を買いだめしました。", exampleReading: "れいとうしょくひんをかいだめしました。", exampleKorean: "레-토-쇼쿠힝오 카이다메 시마시타", exampleMeaning: "냉동식품을 사재기했습니다.",
+    breakdown: [
+      { word: "買いだめ", reading: "かいだめ", meaning: "사재기" }
+    ] },
+  { level: "N4", kanji: "レトルト食品", reading: "レトルトしょくひん", korean: "레토루토쇼쿠힌", meaning: "레토르트 식품",
+    example: "レトルト食品を常備しています。", exampleReading: "レトルトしょくひんをじょうびしています。", exampleKorean: "레토루토쇼쿠힝오 죠-비 시테 이마스", exampleMeaning: "레토르트 식품을 상비하고 있습니다.",
+    breakdown: [
+      { word: "常備して", reading: "じょうびして", meaning: "상비해서" }
+    ] },
+  { level: "N4", kanji: "インスタント食品", reading: "インスタントしょくひん", korean: "인스탄토쇼쿠힌", meaning: "인스턴트 식품",
+    example: "インスタント食品ばかり食べています。", exampleReading: "インスタントしょくひんばかりたべています。", exampleKorean: "인스탄토쇼쿠힌바카리 타베테 이마스", exampleMeaning: "인스턴트 식품만 먹고 있습니다.",
+    breakdown: [
+      { word: "ばかり", reading: "ばかり", meaning: "만" }
+    ] },
+  { level: "N4", kanji: "時短レシピ", reading: "じたんレシピ", korean: "지탄레시피", meaning: "시간 단축 레시피",
+    example: "時短レシピを試しました。", exampleReading: "じたんレシピをためしました。", exampleKorean: "지탄레시피오 타메시마시타", exampleMeaning: "시간 단축 레시피를 시도했습니다.",
+    breakdown: [
+      { word: "試しました", reading: "ためしました", meaning: "시도했습니다" }
+    ] },
+  { level: "N4", kanji: "節約レシピ", reading: "せつやくレシピ", korean: "세츠야쿠레시피", meaning: "절약 레시피",
+    example: "節約レシピを調べました。", exampleReading: "せつやくレシピをしらべました。", exampleKorean: "세츠야쿠레시피오 시라베마시타", exampleMeaning: "절약 레시피를 조사했습니다.",
+    breakdown: [
+      { word: "調べました", reading: "しらべました", meaning: "조사했습니다" }
+    ] },
+  { level: "N4", kanji: "一人暮らしご飯", reading: "ひとりぐらしごはん", korean: "히토리구라시고한", meaning: "자취생 밥상",
+    example: "一人暮らしご飯を紹介します。", exampleReading: "ひとりぐらしごはんをしょうかいします。", exampleKorean: "히토리구라시고항오 쇼-카이 시마스", exampleMeaning: "자취생 밥상을 소개합니다.",
+    breakdown: [
+      { word: "紹介", reading: "しょうかい", meaning: "소개" }
+    ] },
+  { level: "N4", kanji: "お弁当作り", reading: "おべんとうづくり", korean: "오벤토-즈쿠리", meaning: "도시락 만들기",
+    example: "毎朝お弁当作りをしています。", exampleReading: "まいあさおべんとうづくりをしています。", exampleKorean: "마이아사 오벤토-즈쿠리오 시테 이마스", exampleMeaning: "매일 아침 도시락 만들기를 하고 있습니다.",
+    breakdown: [
+      { word: "毎朝", reading: "まいあさ", meaning: "매일 아침" }
+    ] },
+  { level: "N4", kanji: "作り置きおかず", reading: "つくりおきおかず", korean: "츠쿠리오키오카즈", meaning: "미리 만든 반찬",
+    example: "作り置きおかずを冷蔵庫に入れました。", exampleReading: "つくりおきおかずをれいぞうこにいれました。", exampleKorean: "츠쿠리오키오카즈오 레-조-코니 이레마시타", exampleMeaning: "미리 만든 반찬을 냉장고에 넣었습니다.",
+    breakdown: [
+      { word: "冷蔵庫", reading: "れいぞうこ", meaning: "냉장고" }
+    ] },
+  { level: "N4", kanji: "常備菜", reading: "じょうびさい", korean: "죠-비사이", meaning: "상비반찬",
+    example: "常備菜を作っておきます。", exampleReading: "じょうびさいをつくっておきます。", exampleKorean: "죠-비사이오 츠쿳테 오키마스", exampleMeaning: "상비반찬을 만들어 둡니다.",
+    breakdown: [
+      { word: "作って", reading: "つくって", meaning: "만들어서" }
+    ] },
+  { level: "N4", kanji: "副菜レシピ", reading: "ふくさいレシピ", korean: "후쿠사이레시피", meaning: "반찬 레시피",
+    example: "副菜レシピを探しています。", exampleReading: "ふくさいレシピをさがしています。", exampleKorean: "후쿠사이레시피오 사가시테 이마스", exampleMeaning: "반찬 레시피를 찾고 있습니다.",
+    breakdown: [
+      { word: "探して", reading: "さがして", meaning: "찾아서" }
+    ] },
+  { level: "N4", kanji: "旬の食材", reading: "しゅんのしょくざい", korean: "슌노쇼쿠자이", meaning: "제철 식재료",
+    example: "旬の食材を使いました。", exampleReading: "しゅんのしょくざいをつかいました。", exampleKorean: "슌노 쇼쿠자이오 츠카이마시타", exampleMeaning: "제철 식재료를 사용했습니다.",
+    breakdown: [
+      { word: "使いました", reading: "つかいました", meaning: "사용했습니다" }
+    ] },
+  { level: "N4", kanji: "季節野菜", reading: "きせつやさい", korean: "키세츠야사이", meaning: "제철 채소",
+    example: "季節野菜を取り入れています。", exampleReading: "きせつやさいをとりいれています。", exampleKorean: "키세츠야사이오 토리이레테 이마스", exampleMeaning: "제철 채소를 도입하고 있습니다.",
+    breakdown: [
+      { word: "取り入れて", reading: "とりいれて", meaning: "도입해서" }
+    ] },
+  { level: "N4", kanji: "産地直送", reading: "さんちちょくそう", korean: "산치쵸쿠소-", meaning: "산지직송",
+    example: "産地直送の野菜を買いました。", exampleReading: "さんちちょくそうのやさいをかいました。", exampleKorean: "산치쵸쿠소-노 야사이오 카이마시타", exampleMeaning: "산지직송 채소를 샀습니다.",
+    breakdown: [
+      { word: "野菜", reading: "やさい", meaning: "채소" }
+    ] },
+  { level: "N4", kanji: "無農薬野菜", reading: "むのうやくやさい", korean: "무노-야쿠야사이", meaning: "무농약 채소",
+    example: "無農薬野菜を育てています。", exampleReading: "むのうやくやさいをそだてています。", exampleKorean: "무노-야쿠야사이오 소다테테 이마스", exampleMeaning: "무농약 채소를 재배하고 있습니다.",
+    breakdown: [
+      { word: "育てて", reading: "そだてて", meaning: "재배해서" }
+    ] },
+  { level: "N4", kanji: "有機野菜", reading: "ゆうきやさい", korean: "유-키야사이", meaning: "유기농 채소",
+    example: "有機野菜を買っています。", exampleReading: "ゆうきやさいをかっています。", exampleKorean: "유-키야사이오 캇테 이마스", exampleMeaning: "유기농 채소를 사고 있습니다.",
+    breakdown: [
+      { word: "買って", reading: "かって", meaning: "사서" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
