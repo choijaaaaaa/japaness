@@ -13133,6 +13133,206 @@ const VOCAB = [
     breakdown: [
       { word: "なって", reading: "なって", meaning: "되어서" }
     ] },
+  { level: "N3", kanji: "人工授精", reading: "じんこうじゅせい", korean: "진코-쥬세-", meaning: "인공수정",
+    example: "人工授精を受けました。", exampleReading: "じんこうじゅせいをうけました。", exampleKorean: "진코-쥬세-오 우케마시타", exampleMeaning: "인공수정을 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N3", kanji: "体外受精", reading: "たいがいじゅせい", korean: "타이가이쥬세-", meaning: "체외수정",
+    example: "体外受精に挑戦しました。", exampleReading: "たいがいじゅせいにちょうせんしました。", exampleKorean: "타이가이쥬세-니 쵸-센 시마시타", exampleMeaning: "체외수정에 도전했습니다.",
+    breakdown: [
+      { word: "挑戦", reading: "ちょうせん", meaning: "도전" }
+    ] },
+  { level: "N3", kanji: "不妊治療", reading: "ふにんちりょう", korean: "후닌치료-", meaning: "불임치료",
+    example: "不妊治療を続けています。", exampleReading: "ふにんちりょうをつづけています。", exampleKorean: "후닌치료-오 츠즈케테 이마스", exampleMeaning: "불임치료를 계속하고 있습니다.",
+    breakdown: [
+      { word: "続けて", reading: "つづけて", meaning: "계속해서" }
+    ] },
+  { level: "N3", kanji: "出生率", reading: "しゅっしょうりつ", korean: "슛쇼-리츠", meaning: "출생률",
+    example: "出生率が低下しています。", exampleReading: "しゅっしょうりつがていかしています。", exampleKorean: "슛쇼-리츠가 테-카 시테 이마스", exampleMeaning: "출생률이 저하되고 있습니다.",
+    breakdown: [
+      { word: "低下", reading: "ていか", meaning: "저하" }
+    ] },
+  { level: "N3", kanji: "少子高齢化", reading: "しょうしこうれいか", korean: "쇼-시코-레-카", meaning: "저출산고령화",
+    example: "少子高齢化が進んでいます。", exampleReading: "しょうしこうれいかがすすんでいます。", exampleKorean: "쇼-시코-레-카가 스슨데 이마스", exampleMeaning: "저출산고령화가 진행되고 있습니다.",
+    breakdown: [
+      { word: "進んで", reading: "すすんで", meaning: "진행되어" }
+    ] },
+  { level: "N3", kanji: "育児休業", reading: "いくじきゅうぎょう", korean: "이쿠지큐-교-", meaning: "육아휴직",
+    example: "育児休業を取得しました。", exampleReading: "いくじきゅうぎょうをしゅとくしました。", exampleKorean: "이쿠지큐-교-오 슈토쿠 시마시타", exampleMeaning: "육아휴직을 취득했습니다.",
+    breakdown: [
+      { word: "取得", reading: "しゅとく", meaning: "취득" }
+    ] },
+  { level: "N3", kanji: "待機児童", reading: "たいきじどう", korean: "타이키지도-", meaning: "대기아동(어린이집 대기)",
+    example: "待機児童問題が深刻です。", exampleReading: "たいきじどうもんだいがしんこくです。", exampleKorean: "타이키지도- 몬다이가 신코쿠데스", exampleMeaning: "대기아동 문제가 심각합니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N3", kanji: "保育士不足", reading: "ほいくしぶそく", korean: "호이쿠시부소쿠", meaning: "보육사 부족",
+    example: "保育士不足が続いています。", exampleReading: "ほいくしぶそくがつづいています。", exampleKorean: "호이쿠시부소쿠가 츠즈이테 이마스", exampleMeaning: "보육사 부족이 계속되고 있습니다.",
+    breakdown: [
+      { word: "続いて", reading: "つづいて", meaning: "계속되어" }
+    ] },
+  { level: "N3", kanji: "ワークライフバランス", reading: "ワークライフバランス", korean: "와-쿠라이후바란스", meaning: "워크라이프밸런스",
+    example: "ワークライフバランスを重視しています。", exampleReading: "ワークライフバランスをじゅうししています。", exampleKorean: "와-쿠라이후바란스오 쥬-시 시테 이마스", exampleMeaning: "워크라이프밸런스를 중시하고 있습니다.",
+    breakdown: [
+      { word: "重視", reading: "じゅうし", meaning: "중시" }
+    ] },
+  { level: "N3", kanji: "男女共同参画", reading: "だんじょきょうどうさんかく", korean: "단죠쿄-도-산카쿠", meaning: "남녀공동참여",
+    example: "男女共同参画を推進しています。", exampleReading: "だんじょきょうどうさんかくをすいしんしています。", exampleKorean: "단죠쿄-도-산카쿠오 스이신 시테 이마스", exampleMeaning: "남녀공동참여를 추진하고 있습니다.",
+    breakdown: [
+      { word: "推進", reading: "すいしん", meaning: "추진" }
+    ] },
+  { level: "N3", kanji: "ジェンダー平等", reading: "ジェンダーびょうどう", korean: "젠다-뵤-도-", meaning: "젠더 평등",
+    example: "ジェンダー平等を目指しています。", exampleReading: "ジェンダーびょうどうをめざしています。", exampleKorean: "젠다-뵤-도-오 메자시테 이마스", exampleMeaning: "젠더 평등을 지향하고 있습니다.",
+    breakdown: [
+      { word: "目指して", reading: "めざして", meaning: "지향해서" }
+    ] },
+  { level: "N3", kanji: "性差別", reading: "せいさべつ", korean: "세-사베츠", meaning: "성차별",
+    example: "性差別を禁止する法律です。", exampleReading: "せいさべつをきんしするほうりつです。", exampleKorean: "세-사베츠오 킨시스루 호-리츠데스", exampleMeaning: "성차별을 금지하는 법률입니다.",
+    breakdown: [
+      { word: "法律", reading: "ほうりつ", meaning: "법률" }
+    ] },
+  { level: "N3", kanji: "セクハラ", reading: "セクハラ", korean: "세쿠하라", meaning: "성희롱",
+    example: "セクハラで訴えられました。", exampleReading: "セクハラでうったえられました。", exampleKorean: "세쿠하라데 웃타에라레마시타", exampleMeaning: "성희롱으로 고소당했습니다.",
+    breakdown: [
+      { word: "訴えられました", reading: "うったえられました", meaning: "고소당했습니다" }
+    ] },
+  { level: "N3", kanji: "パワハラ", reading: "パワハラ", korean: "파와하라", meaning: "직장 내 괴롭힘",
+    example: "パワハラを受けています。", exampleReading: "パワハラをうけています。", exampleKorean: "파와하라오 우케테 이마스", exampleMeaning: "직장 내 괴롭힘을 당하고 있습니다.",
+    breakdown: [
+      { word: "受けて", reading: "うけて", meaning: "당해서" }
+    ] },
+  { level: "N3", kanji: "モラハラ", reading: "モラハラ", korean: "모라하라", meaning: "정신적 학대",
+    example: "モラハラに苦しんでいます。", exampleReading: "モラハラにくるしんでいます。", exampleKorean: "모라하라니 쿠루신데 이마스", exampleMeaning: "정신적 학대로 괴로워하고 있습니다.",
+    breakdown: [
+      { word: "苦しんで", reading: "くるしんで", meaning: "괴로워해서" }
+    ] },
+  { level: "N3", kanji: "カスハラ", reading: "カスハラ", korean: "카스하라", meaning: "고객 갑질",
+    example: "カスハラ対策を強化しました。", exampleReading: "カスハラたいさくをきょうかしました。", exampleKorean: "카스하라 타이사쿠오 쿄-카 시마시타", exampleMeaning: "고객 갑질 대책을 강화했습니다.",
+    breakdown: [
+      { word: "対策", reading: "たいさく", meaning: "대책" }
+    ] },
+  { level: "N3", kanji: "いじめ問題", reading: "いじめもんだい", korean: "이지메몬다이", meaning: "왕따 문제",
+    example: "いじめ問題に取り組んでいます。", exampleReading: "いじめもんだいにとりくんでいます。", exampleKorean: "이지메몬다이니 토리쿤데 이마스", exampleMeaning: "왕따 문제에 대처하고 있습니다.",
+    breakdown: [
+      { word: "取り組んで", reading: "とりくんで", meaning: "대처해서" }
+    ] },
+  { level: "N3", kanji: "不登校", reading: "ふとうこう", korean: "후토-코-", meaning: "등교거부",
+    example: "子供が不登校になりました。", exampleReading: "こどもがふとうこうになりました。", exampleKorean: "코도모가 후토-코-니 나리마시타", exampleMeaning: "아이가 등교거부를 하게 되었습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N3", kanji: "引きこもり", reading: "ひきこもり", korean: "히키코모리", meaning: "은둔형 외톨이",
+    example: "引きこもりの支援をしています。", exampleReading: "ひきこもりのしえんをしています。", exampleKorean: "히키코모리노 시엔오 시테 이마스", exampleMeaning: "은둔형 외톨이 지원을 하고 있습니다.",
+    breakdown: [
+      { word: "支援", reading: "しえん", meaning: "지원" }
+    ] },
+  { level: "N3", kanji: "ニート", reading: "ニート", korean: "니-토", meaning: "니트족",
+    example: "ニートの若者が増えています。", exampleReading: "ニートのわかものがふえています。", exampleKorean: "니-토노 와카모노가 후에테 이마스", exampleMeaning: "니트족 젊은이가 늘고 있습니다.",
+    breakdown: [
+      { word: "若者", reading: "わかもの", meaning: "젊은이" }
+    ] },
+  { level: "N3", kanji: "孤独死", reading: "こどくし", korean: "코도쿠시", meaning: "고독사",
+    example: "孤独死が社会問題になっています。", exampleReading: "こどくしがしゃかいもんだいになっています。", exampleKorean: "코도쿠시가 샤카이몬다이니 낫테 이마스", exampleMeaning: "고독사가 사회문제가 되고 있습니다.",
+    breakdown: [
+      { word: "社会問題", reading: "しゃかいもんだい", meaning: "사회문제" }
+    ] },
+  { level: "N3", kanji: "無縁社会", reading: "むえんしゃかい", korean: "무엔샤카이", meaning: "무연사회(고립된 사회)",
+    example: "無縁社会という言葉があります。", exampleReading: "むえんしゃかいということばがあります。", exampleKorean: "무엔샤카이토이우 코토바가 아리마스", exampleMeaning: "무연사회라는 말이 있습니다.",
+    breakdown: [
+      { word: "言葉", reading: "ことば", meaning: "말" }
+    ] },
+  { level: "N3", kanji: "格差社会", reading: "かくさしゃかい", korean: "카쿠사샤카이", meaning: "격차사회",
+    example: "格差社会が問題になっています。", exampleReading: "かくさしゃかいがもんだいになっています。", exampleKorean: "카쿠사샤카이가 몬다이니 낫테 이마스", exampleMeaning: "격차사회가 문제가 되고 있습니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N3", kanji: "貧困層", reading: "ひんこんそう", korean: "힌콘소-", meaning: "빈곤층",
+    example: "貧困層への支援が必要です。", exampleReading: "ひんこんそうへのしえんがひつようです。", exampleKorean: "힌콘소-에노 시엔가 히츠요-데스", exampleMeaning: "빈곤층에 대한 지원이 필요합니다.",
+    breakdown: [
+      { word: "支援", reading: "しえん", meaning: "지원" }
+    ] },
+  { level: "N3", kanji: "ワーキングプア", reading: "ワーキングプア", korean: "와-킹구푸아", meaning: "워킹푸어",
+    example: "ワーキングプアが増えています。", exampleReading: "ワーキングプアがふえています。", exampleKorean: "와-킹구푸아가 후에테 이마스", exampleMeaning: "워킹푸어가 늘고 있습니다.",
+    breakdown: [
+      { word: "増えて", reading: "ふえて", meaning: "늘어서" }
+    ] },
+  { level: "N3", kanji: "非正規雇用", reading: "ひせいききよう", korean: "히세-키키요-", meaning: "비정규고용",
+    example: "非正規雇用の割合が高いです。", exampleReading: "ひせいききよのわりあいがたかいです。", exampleKorean: "히세-키키요노 와리아이가 타카이데스", exampleMeaning: "비정규고용의 비율이 높습니다.",
+    breakdown: [
+      { word: "割合", reading: "わりあい", meaning: "비율" }
+    ] },
+  { level: "N3", kanji: "ブラック企業", reading: "ブラックきぎょう", korean: "부락쿠키교-", meaning: "블랙기업",
+    example: "ブラック企業だと分かりました。", exampleReading: "ブラックきぎょうだとわかりました。", exampleKorean: "부락쿠키교-다토 와카리마시타", exampleMeaning: "블랙기업이라는 것을 알았습니다.",
+    breakdown: [
+      { word: "分かりました", reading: "わかりました", meaning: "알았습니다" }
+    ] },
+  { level: "N3", kanji: "過労死", reading: "かろうし", korean: "카로-시", meaning: "과로사",
+    example: "過労死が問題になっています。", exampleReading: "かろうしがもんだいになっています。", exampleKorean: "카로-시가 몬다이니 낫테 이마스", exampleMeaning: "과로사가 문제가 되고 있습니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N3", kanji: "サービス残業", reading: "サービスざんぎょう", korean: "사-비스잔교-", meaning: "무급 초과근무",
+    example: "サービス残業を強いられています。", exampleReading: "サービスざんぎょうをしいられています。", exampleKorean: "사-비스잔교-오 시이라레테 이마스", exampleMeaning: "무급 초과근무를 강요받고 있습니다.",
+    breakdown: [
+      { word: "強いられて", reading: "しいられて", meaning: "강요받아서" }
+    ] },
+  { level: "N3", kanji: "有給消化", reading: "ゆうきゅうしょうか", korean: "유-큐-쇼-카", meaning: "유급휴가 소진",
+    example: "有給消化を勧められました。", exampleReading: "ゆうきゅうしょうかをすすめられました。", exampleKorean: "유-큐-쇼-카오 스스메라레마시타", exampleMeaning: "유급휴가 소진을 권유받았습니다.",
+    breakdown: [
+      { word: "勧められました", reading: "すすめられました", meaning: "권유받았습니다" }
+    ] },
+  { level: "N3", kanji: "育児と仕事の両立", reading: "いくじとしごとのりょうりつ", korean: "이쿠지토 시고토노 료-리츠", meaning: "육아와 일의 양립",
+    example: "育児と仕事の両立に悩んでいます。", exampleReading: "いくじとしごとのりょうりつになやんでいます。", exampleKorean: "이쿠지토 시고토노 료-리츠니 나얀데 이마스", exampleMeaning: "육아와 일의 양립으로 고민하고 있습니다.",
+    breakdown: [
+      { word: "悩んで", reading: "なやんで", meaning: "고민해서" }
+    ] },
+  { level: "N3", kanji: "介護離職", reading: "かいごりしょく", korean: "카이고리쇼쿠", meaning: "간병 이직",
+    example: "介護離職を防ぐ制度です。", exampleReading: "かいごりしょくをふせぐせいどです。", exampleKorean: "카이고리쇼쿠오 후세구 세-도데스", exampleMeaning: "간병 이직을 막는 제도입니다.",
+    breakdown: [
+      { word: "制度", reading: "せいど", meaning: "제도" }
+    ] },
+  { level: "N3", kanji: "ヤングケアラー", reading: "ヤングケアラー", korean: "양구케아라-", meaning: "영케어러(어린 간병인)",
+    example: "ヤングケアラーへの支援が必要です。", exampleReading: "ヤングケアラーへのしえんがひつようです。", exampleKorean: "양구케아라-에노 시엔가 히츠요-데스", exampleMeaning: "영케어러에 대한 지원이 필요합니다.",
+    breakdown: [
+      { word: "支援", reading: "しえん", meaning: "지원" }
+    ] },
+  { level: "N3", kanji: "老老介護", reading: "ろうろうかいご", korean: "로-로-카이고", meaning: "노노간병(고령자가 고령자를 간병)",
+    example: "老老介護が増えています。", exampleReading: "ろうろうかいごがふえています。", exampleKorean: "로-로-카이고가 후에테 이마스", exampleMeaning: "노노간병이 늘고 있습니다.",
+    breakdown: [
+      { word: "増えて", reading: "ふえて", meaning: "늘어서" }
+    ] },
+  { level: "N3", kanji: "認認介護", reading: "にんにんかいご", korean: "닌닌카이고", meaning: "치매환자가 치매환자를 간병",
+    example: "認認介護は深刻な問題です。", exampleReading: "にんにんかいごはしんこくなもんだいです。", exampleKorean: "닌닌카이고와 신코쿠나 몬다이데스", exampleMeaning: "치매환자간 간병은 심각한 문제입니다.",
+    breakdown: [
+      { word: "問題", reading: "もんだい", meaning: "문제" }
+    ] },
+  { level: "N3", kanji: "終活", reading: "しゅうかつ", korean: "슈-카츠", meaning: "슈카츠(임종 준비)",
+    example: "終活を始めました。", exampleReading: "しゅうかつをはじめました。", exampleKorean: "슈-카츠오 하지메마시타", exampleMeaning: "슈카츠를 시작했습니다.",
+    breakdown: [
+      { word: "始めました", reading: "はじめました", meaning: "시작했습니다" }
+    ] },
+  { level: "N3", kanji: "生前整理", reading: "せいぜんせいり", korean: "세-젠세-리", meaning: "생전정리",
+    example: "生前整理をしています。", exampleReading: "せいぜんせいりをしています。", exampleKorean: "세-젠세-리오 시테 이마스", exampleMeaning: "생전정리를 하고 있습니다.",
+    breakdown: [
+      { word: "しています", reading: "しています", meaning: "하고 있습니다" }
+    ] },
+  { level: "N3", kanji: "孤立死", reading: "こりつし", korean: "코리츠시", meaning: "고립사",
+    example: "孤立死を防ぐ活動をしています。", exampleReading: "こりつしをふせぐかつどうをしています。", exampleKorean: "코리츠시오 후세구 카츠도-오 시테 이마스", exampleMeaning: "고립사를 막는 활동을 하고 있습니다.",
+    breakdown: [
+      { word: "活動", reading: "かつどう", meaning: "활동" }
+    ] },
+  { level: "N3", kanji: "空き家問題", reading: "あきやもんだい", korean: "아키야몬다이", meaning: "빈집 문제",
+    example: "空き家問題が深刻化しています。", exampleReading: "あきやもんだいがしんこくかしています。", exampleKorean: "아키야몬다이가 신코쿠카 시테 이마스", exampleMeaning: "빈집 문제가 심각해지고 있습니다.",
+    breakdown: [
+      { word: "深刻化", reading: "しんこくか", meaning: "심각화" }
+    ] },
+  { level: "N3", kanji: "限界集落", reading: "げんかいしゅうらく", korean: "겐카이슈-라쿠", meaning: "한계마을(고령화 마을)",
+    example: "限界集落が増えています。", exampleReading: "げんかいしゅうらくがふえています。", exampleKorean: "겐카이슈-라쿠가 후에테 이마스", exampleMeaning: "한계마을이 늘고 있습니다.",
+    breakdown: [
+      { word: "増えて", reading: "ふえて", meaning: "늘어서" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
