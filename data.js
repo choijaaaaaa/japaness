@@ -4033,6 +4033,256 @@ const VOCAB = [
     breakdown: [
       { word: "コース", reading: "コース", meaning: "코스" }
     ] },
+  { level: "N5", kanji: "文化祭準備", reading: "ぶんかさいじゅんび", korean: "붕카사이 쥰비", meaning: "문화제 준비",
+    example: "文化祭準備で忙しいです。", exampleReading: "ぶんかさいじゅんびでいそがしいです。", exampleKorean: "붕카사이 쥰비데 이소가시-데스", exampleMeaning: "문화제 준비로 바쁩니다.",
+    breakdown: [
+      { word: "忙しい", reading: "いそがしい", meaning: "바쁘다" }
+    ] },
+  { level: "N5", kanji: "クラス替え", reading: "クラスがえ", korean: "쿠라스가에", meaning: "반 편성 교체",
+    example: "四月にクラス替えがあります。", exampleReading: "しがつにクラスがえがあります。", exampleKorean: "시가츠니 쿠라스가에가 아리마스", exampleMeaning: "4월에 반 편성 교체가 있습니다.",
+    breakdown: [
+      { word: "四月", reading: "しがつ", meaning: "4월" }
+    ] },
+  { level: "N5", kanji: "席替え", reading: "せきがえ", korean: "세키가에", meaning: "자리 바꾸기",
+    example: "今日は席替えの日です。", exampleReading: "きょうはせきがえのひです。", exampleKorean: "쿄-와 세키가에노 히데스", exampleMeaning: "오늘은 자리 바꾸는 날입니다.",
+    breakdown: [
+      { word: "今日", reading: "きょう", meaning: "오늘" }
+    ] },
+  { level: "N5", kanji: "進級", reading: "しんきゅう", korean: "신큐-", meaning: "진급",
+    example: "無事に進級しました。", exampleReading: "ぶじにしんきゅうしました。", exampleKorean: "부지니 신큐- 시마시타", exampleMeaning: "무사히 진급했습니다.",
+    breakdown: [
+      { word: "無事に", reading: "ぶじに", meaning: "무사히" }
+    ] },
+  { level: "N5", kanji: "留年", reading: "りゅうねん", korean: "류-넨", meaning: "유급",
+    example: "留年してしまいました。", exampleReading: "りゅうねんしてしまいました。", exampleKorean: "류-넨시테 시마이마시타", exampleMeaning: "유급하고 말았습니다.",
+    breakdown: [
+      { word: "してしまいました", reading: "してしまいました", meaning: "해버렸습니다" }
+    ] },
+  { level: "N5", kanji: "浪人", reading: "ろうにん", korean: "로-닌", meaning: "재수",
+    example: "浪人して大学に入りました。", exampleReading: "ろうにんしてだいがくにはいりました。", exampleKorean: "로-닌시테 다이가쿠니 하이리마시타", exampleMeaning: "재수해서 대학에 들어갔습니다.",
+    breakdown: [
+      { word: "大学", reading: "だいがく", meaning: "대학" }
+    ] },
+  { level: "N5", kanji: "予備校", reading: "よびこう", korean: "요비코-", meaning: "입시학원",
+    example: "予備校に通っています。", exampleReading: "よびこうにかよっています。", exampleKorean: "요비코-니 카욧테 이마스", exampleMeaning: "입시학원에 다니고 있습니다.",
+    breakdown: [
+      { word: "通って", reading: "かよって", meaning: "다녀서" }
+    ] },
+  { level: "N5", kanji: "塾", reading: "じゅく", korean: "쥬쿠", meaning: "학원",
+    example: "毎日塾に行きます。", exampleReading: "まいにちじゅくにいきます。", exampleKorean: "마이니치 쥬쿠니 이키마스", exampleMeaning: "매일 학원에 갑니다.",
+    breakdown: [
+      { word: "毎日", reading: "まいにち", meaning: "매일" }
+    ] },
+  { level: "N5", kanji: "家庭教師", reading: "かていきょうし", korean: "카테-쿄-시", meaning: "가정교사",
+    example: "家庭教師をお願いしました。", exampleReading: "かていきょうしをおねがいしました。", exampleKorean: "카테-쿄-시오 오네가이 시마시타", exampleMeaning: "가정교사를 부탁했습니다.",
+    breakdown: [
+      { word: "お願い", reading: "おねがい", meaning: "부탁" }
+    ] },
+  { level: "N5", kanji: "個別指導", reading: "こべつしどう", korean: "코베츠시도-", meaning: "개별지도",
+    example: "個別指導を受けています。", exampleReading: "こべつしどうをうけています。", exampleKorean: "코베츠시도-오 우케테 이마스", exampleMeaning: "개별지도를 받고 있습니다.",
+    breakdown: [
+      { word: "受けて", reading: "うけて", meaning: "받아서" }
+    ] },
+  { level: "N5", kanji: "模擬試験", reading: "もぎしけん", korean: "모기시켄", meaning: "모의시험",
+    example: "模擬試験を受けました。", exampleReading: "もぎしけんをうけました。", exampleKorean: "모기시켕오 우케마시타", exampleMeaning: "모의시험을 봤습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "봤습니다" }
+    ] },
+  { level: "N5", kanji: "偏差値", reading: "へんさち", korean: "헨사치", meaning: "편차치(성적 지표)",
+    example: "偏差値が上がりました。", exampleReading: "へんさちがあがりました。", exampleKorean: "헨사치가 아가리마시타", exampleMeaning: "편차치가 올랐습니다.",
+    breakdown: [
+      { word: "上がりました", reading: "あがりました", meaning: "올랐습니다" }
+    ] },
+  { level: "N5", kanji: "受験勉強", reading: "じゅけんべんきょう", korean: "쥬켄벵쿄-", meaning: "입시공부",
+    example: "受験勉強に集中しています。", exampleReading: "じゅけんべんきょうにしゅうちゅうしています。", exampleKorean: "쥬켄벵쿄-니 슈-츄- 시테 이마스", exampleMeaning: "입시공부에 집중하고 있습니다.",
+    breakdown: [
+      { word: "集中", reading: "しゅうちゅう", meaning: "집중" }
+    ] },
+  { level: "N5", kanji: "受験生", reading: "じゅけんせい", korean: "쥬켄세-", meaning: "수험생",
+    example: "娘は受験生です。", exampleReading: "むすめはじゅけんせいです。", exampleKorean: "무스메와 쥬켄세-데스", exampleMeaning: "딸은 수험생입니다.",
+    breakdown: [
+      { word: "娘", reading: "むすめ", meaning: "딸" }
+    ] },
+  { level: "N5", kanji: "志望校", reading: "しぼうこう", korean: "시보-코-", meaning: "지망 학교",
+    example: "志望校に合格しました。", exampleReading: "しぼうこうにごうかくしました。", exampleKorean: "시보-코-니 고-카쿠 시마시타", exampleMeaning: "지망 학교에 합격했습니다.",
+    breakdown: [
+      { word: "合格", reading: "ごうかく", meaning: "합격" }
+    ] },
+  { level: "N5", kanji: "願書", reading: "がんしょ", korean: "간쇼", meaning: "원서",
+    example: "願書を提出しました。", exampleReading: "がんしょをていしゅつしました。", exampleKorean: "간쇼오 테-슈츠 시마시타", exampleMeaning: "원서를 제출했습니다.",
+    breakdown: [
+      { word: "提出", reading: "ていしゅつ", meaning: "제출" }
+    ] },
+  { level: "N5", kanji: "面接練習", reading: "めんせつれんしゅう", korean: "멘세츠렌슈-", meaning: "면접 연습",
+    example: "面接練習をしました。", exampleReading: "めんせつれんしゅうをしました。", exampleKorean: "멘세츠렌슈-오 시마시타", exampleMeaning: "면접 연습을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N5", kanji: "合格発表", reading: "ごうかくはっぴょう", korean: "고-카쿠핫표-", meaning: "합격 발표",
+    example: "合格発表を見に行きました。", exampleReading: "ごうかくはっぴょうをみにいきました。", exampleKorean: "고-카쿠핫표-오 미니 이키마시타", exampleMeaning: "합격 발표를 보러 갔습니다.",
+    breakdown: [
+      { word: "見に行きました", reading: "みにいきました", meaning: "보러 갔습니다" }
+    ] },
+  { level: "N5", kanji: "入学式", reading: "にゅうがくしき", korean: "뉴-가쿠시키", meaning: "입학식",
+    example: "入学式に出席しました。", exampleReading: "にゅうがくしきにしゅっせきしました。", exampleKorean: "뉴-가쿠시키니 슛세키 시마시타", exampleMeaning: "입학식에 참석했습니다.",
+    breakdown: [
+      { word: "出席", reading: "しゅっせき", meaning: "참석" }
+    ] },
+  { level: "N5", kanji: "始業式", reading: "しぎょうしき", korean: "시교-시키", meaning: "시업식",
+    example: "始業式で校長先生の話を聞きました。", exampleReading: "しぎょうしきでこうちょうせんせいのはなしをききました。", exampleKorean: "시교-시키데 코-쵸-센세-노 하나시오 키키마시타", exampleMeaning: "시업식에서 교장 선생님 말씀을 들었습니다.",
+    breakdown: [
+      { word: "校長先生", reading: "こうちょうせんせい", meaning: "교장 선생님" }
+    ] },
+  { level: "N5", kanji: "終業式", reading: "しゅうぎょうしき", korean: "슈-교-시키", meaning: "종업식",
+    example: "終業式で通知表をもらいました。", exampleReading: "しゅうぎょうしきでつうちひょうをもらいました。", exampleKorean: "슈-교-시키데 츠-치효-오 모라이마시타", exampleMeaning: "종업식에서 성적표를 받았습니다.",
+    breakdown: [
+      { word: "通知表", reading: "つうちひょう", meaning: "성적표" }
+    ] },
+  { level: "N5", kanji: "学年", reading: "がくねん", korean: "가쿠넨", meaning: "학년",
+    example: "同じ学年の友達です。", exampleReading: "おなじがくねんのともだちです。", exampleKorean: "오나지 가쿠넨노 토모다치데스", exampleMeaning: "같은 학년 친구입니다.",
+    breakdown: [
+      { word: "友達", reading: "ともだち", meaning: "친구" }
+    ] },
+  { level: "N5", kanji: "学期", reading: "がっき", korean: "각키", meaning: "학기",
+    example: "二学期が始まりました。", exampleReading: "にがっきがはじまりました。", exampleKorean: "니각키가 하지마리마시타", exampleMeaning: "2학기가 시작되었습니다.",
+    breakdown: [
+      { word: "始まりました", reading: "はじまりました", meaning: "시작되었습니다" }
+    ] },
+  { level: "N5", kanji: "授業料", reading: "じゅぎょうりょう", korean: "쥬교-료-", meaning: "수업료",
+    example: "授業料を払いました。", exampleReading: "じゅぎょうりょうをはらいました。", exampleKorean: "쥬교-료-오 하라이마시타", exampleMeaning: "수업료를 냈습니다.",
+    breakdown: [
+      { word: "払いました", reading: "はらいました", meaning: "냈습니다" }
+    ] },
+  { level: "N5", kanji: "奨学生", reading: "しょうがくせい", korean: "쇼-가쿠세-", meaning: "장학생",
+    example: "奨学生に選ばれました。", exampleReading: "しょうがくせいにえらばれました。", exampleKorean: "쇼-가쿠세-니 에라바레마시타", exampleMeaning: "장학생으로 선발되었습니다.",
+    breakdown: [
+      { word: "選ばれました", reading: "えらばれました", meaning: "선발되었습니다" }
+    ] },
+  { level: "N5", kanji: "特待生", reading: "とくたいせい", korean: "토쿠타이세-", meaning: "특대생",
+    example: "特待生として入学しました。", exampleReading: "とくたいせいとしてにゅうがくしました。", exampleKorean: "토쿠타이세-토시테 뉴-가쿠 시마시타", exampleMeaning: "특대생으로 입학했습니다.",
+    breakdown: [
+      { word: "入学", reading: "にゅうがく", meaning: "입학" }
+    ] },
+  { level: "N5", kanji: "交換留学", reading: "こうかんりゅうがく", korean: "코-칸류-가쿠", meaning: "교환유학",
+    example: "交換留学に行きました。", exampleReading: "こうかんりゅうがくにいきました。", exampleKorean: "코-칸류-가쿠니 이키마시타", exampleMeaning: "교환유학을 갔습니다.",
+    breakdown: [
+      { word: "行きました", reading: "いきました", meaning: "갔습니다" }
+    ] },
+  { level: "N5", kanji: "語学留学", reading: "ごがくりゅうがく", korean: "고가쿠류-가쿠", meaning: "어학연수",
+    example: "夏休みに語学留学をしました。", exampleReading: "なつやすみにごがくりゅうがくをしました。", exampleKorean: "나츠야스미니 고가쿠류-가쿠오 시마시타", exampleMeaning: "여름방학에 어학연수를 했습니다.",
+    breakdown: [
+      { word: "夏休み", reading: "なつやすみ", meaning: "여름방학" }
+    ] },
+  { level: "N5", kanji: "ホームステイ", reading: "ホームステイ", korean: "호-무스테이", meaning: "홈스테이",
+    example: "ホームステイを経験しました。", exampleReading: "ホームステイをけいけんしました。", exampleKorean: "호-무스테이오 케-켄 시마시타", exampleMeaning: "홈스테이를 경험했습니다.",
+    breakdown: [
+      { word: "経験", reading: "けいけん", meaning: "경험" }
+    ] },
+  { level: "N5", kanji: "寮", reading: "りょう", korean: "료-", meaning: "기숙사",
+    example: "大学の寮に住んでいます。", exampleReading: "だいがくのりょうにすんでいます。", exampleKorean: "다이가쿠노 료-니 슨데 이마스", exampleMeaning: "대학교 기숙사에 살고 있습니다.",
+    breakdown: [
+      { word: "大学", reading: "だいがく", meaning: "대학교" }
+    ] },
+  { level: "N5", kanji: "学生証", reading: "がくせいしょう", korean: "가쿠세-쇼-", meaning: "학생증",
+    example: "学生証を見せてください。", exampleReading: "がくせいしょうをみせてください。", exampleKorean: "가쿠세-쇼-오 미세테 쿠다사이", exampleMeaning: "학생증을 보여 주세요.",
+    breakdown: [
+      { word: "見せて", reading: "みせて", meaning: "보여줘서" }
+    ] },
+  { level: "N5", kanji: "学割", reading: "がくわり", korean: "가쿠와리", meaning: "학생할인",
+    example: "映画館で学割を使いました。", exampleReading: "えいがかんでがくわりをつかいました。", exampleKorean: "에-가칸데 가쿠와리오 츠카이마시타", exampleMeaning: "영화관에서 학생할인을 사용했습니다.",
+    breakdown: [
+      { word: "映画館", reading: "えいがかん", meaning: "영화관" }
+    ] },
+  { level: "N5", kanji: "部活動", reading: "ぶかつどう", korean: "부카츠도-", meaning: "동아리 활동",
+    example: "部活動に励んでいます。", exampleReading: "ぶかつどうにはげんでいます。", exampleKorean: "부카츠도-니 하겐데 이마스", exampleMeaning: "동아리 활동에 힘쓰고 있습니다.",
+    breakdown: [
+      { word: "励んで", reading: "はげんで", meaning: "힘써서" }
+    ] },
+  { level: "N5", kanji: "生徒会", reading: "せいとかい", korean: "세-토카이", meaning: "학생회",
+    example: "生徒会に所属しています。", exampleReading: "せいとかいにしょぞくしています。", exampleKorean: "세-토카이니 쇼조쿠 시테 이마스", exampleMeaning: "학생회에 소속되어 있습니다.",
+    breakdown: [
+      { word: "所属", reading: "しょぞく", meaning: "소속" }
+    ] },
+  { level: "N5", kanji: "生徒会長", reading: "せいとかいちょう", korean: "세-토카이쵸-", meaning: "학생회장",
+    example: "生徒会長に選ばれました。", exampleReading: "せいとかいちょうにえらばれました。", exampleKorean: "세-토카이쵸-니 에라바레마시타", exampleMeaning: "학생회장으로 선발되었습니다.",
+    breakdown: [
+      { word: "選ばれました", reading: "えらばれました", meaning: "선발되었습니다" }
+    ] },
+  { level: "N5", kanji: "補習", reading: "ほしゅう", korean: "호슈-", meaning: "보충수업",
+    example: "放課後に補習を受けます。", exampleReading: "ほうかごにほしゅうをうけます。", exampleKorean: "호-카고니 호슈-오 우케마스", exampleMeaning: "방과 후에 보충수업을 받습니다.",
+    breakdown: [
+      { word: "放課後", reading: "ほうかご", meaning: "방과 후" }
+    ] },
+  { level: "N5", kanji: "追試", reading: "ついし", korean: "츠이시", meaning: "추가시험, 재시험",
+    example: "追試を受けることになりました。", exampleReading: "ついしをうけることになりました。", exampleKorean: "츠이시오 우케루 코토니 나리마시타", exampleMeaning: "재시험을 보게 되었습니다.",
+    breakdown: [
+      { word: "受ける", reading: "うける", meaning: "보다" }
+    ] },
+  { level: "N5", kanji: "赤点", reading: "あかてん", korean: "아카텐", meaning: "낙제점",
+    example: "数学で赤点を取りました。", exampleReading: "すうがくであかてんをとりました。", exampleKorean: "스-가쿠데 아카텡오 토리마시타", exampleMeaning: "수학에서 낙제점을 받았습니다.",
+    breakdown: [
+      { word: "数学", reading: "すうがく", meaning: "수학" }
+    ] },
+  { level: "N5", kanji: "内申点", reading: "ないしんてん", korean: "나이신텐", meaning: "내신점수",
+    example: "内申点が重要です。", exampleReading: "ないしんてんがじゅうようです。", exampleKorean: "나이신텐가 쥬-요-데스", exampleMeaning: "내신점수가 중요합니다.",
+    breakdown: [
+      { word: "重要", reading: "じゅうよう", meaning: "중요" }
+    ] },
+  { level: "N5", kanji: "推薦入試", reading: "すいせんにゅうし", korean: "스이센뉴-시", meaning: "추천입시(수시)",
+    example: "推薦入試で合格しました。", exampleReading: "すいせんにゅうしでごうかくしました。", exampleKorean: "스이센뉴-시데 고-카쿠 시마시타", exampleMeaning: "수시로 합격했습니다.",
+    breakdown: [
+      { word: "合格", reading: "ごうかく", meaning: "합격" }
+    ] },
+  { level: "N5", kanji: "一般入試", reading: "いっぱんにゅうし", korean: "입판뉴-시", meaning: "정시입시",
+    example: "一般入試を受けました。", exampleReading: "いっぱんにゅうしをうけました。", exampleKorean: "입판뉴-시오 우케마시타", exampleMeaning: "정시입시를 봤습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "봤습니다" }
+    ] },
+  { level: "N5", kanji: "大学受験", reading: "だいがくじゅけん", korean: "다이가쿠쥬켄", meaning: "대학입시",
+    example: "大学受験の準備をしています。", exampleReading: "だいがくじゅけんのじゅんびをしています。", exampleKorean: "다이가쿠쥬켄노 쥰비오 시테 이마스", exampleMeaning: "대학입시 준비를 하고 있습니다.",
+    breakdown: [
+      { word: "準備", reading: "じゅんび", meaning: "준비" }
+    ] },
+  { level: "N5", kanji: "高校受験", reading: "こうこうじゅけん", korean: "코-코-쥬켄", meaning: "고등학교 입시",
+    example: "高校受験を控えています。", exampleReading: "こうこうじゅけんをひかえています。", exampleKorean: "코-코-쥬켕오 히카에테 이마스", exampleMeaning: "고등학교 입시를 앞두고 있습니다.",
+    breakdown: [
+      { word: "控えて", reading: "ひかえて", meaning: "앞두고" }
+    ] },
+  { level: "N5", kanji: "中学受験", reading: "ちゅうがくじゅけん", korean: "츄-가쿠쥬켄", meaning: "중학교 입시",
+    example: "中学受験のために塾に通っています。", exampleReading: "ちゅうがくじゅけんのためにじゅくにかよっています。", exampleKorean: "츄-가쿠쥬켄노 타메니 쥬쿠니 카욧테 이마스", exampleMeaning: "중학교 입시를 위해 학원에 다니고 있습니다.",
+    breakdown: [
+      { word: "塾", reading: "じゅく", meaning: "학원" }
+    ] },
+  { level: "N5", kanji: "塾講師", reading: "じゅくこうし", korean: "쥬쿠코-시", meaning: "학원 강사",
+    example: "塾講師のアルバイトをしています。", exampleReading: "じゅくこうしのアルバイトをしています。", exampleKorean: "쥬쿠코-시노 아루바이토오 시테 이마스", exampleMeaning: "학원 강사 아르바이트를 하고 있습니다.",
+    breakdown: [
+      { word: "アルバイト", reading: "アルバイト", meaning: "아르바이트" }
+    ] },
+  { level: "N5", kanji: "家庭訪問", reading: "かていほうもん", korean: "카테-호-몬", meaning: "가정방문",
+    example: "来週家庭訪問があります。", exampleReading: "らいしゅうかていほうもんがあります。", exampleKorean: "라이슈- 카테-호-몬가 아리마스", exampleMeaning: "다음 주에 가정방문이 있습니다.",
+    breakdown: [
+      { word: "来週", reading: "らいしゅう", meaning: "다음 주" }
+    ] },
+  { level: "N5", kanji: "保護者会", reading: "ほごしゃかい", korean: "호고샤카이", meaning: "학부모회",
+    example: "保護者会に出席しました。", exampleReading: "ほごしゃかいにしゅっせきしました。", exampleKorean: "호고샤카이니 슛세키 시마시타", exampleMeaning: "학부모회에 참석했습니다.",
+    breakdown: [
+      { word: "出席", reading: "しゅっせき", meaning: "참석" }
+    ] },
+  { level: "N5", kanji: "三者面談", reading: "さんしゃめんだん", korean: "산샤멘단", meaning: "삼자면담",
+    example: "三者面談で進路を相談しました。", exampleReading: "さんしゃめんだんでしんろをそうだんしました。", exampleKorean: "산샤멘단데 신로오 소-단 시마시타", exampleMeaning: "삼자면담에서 진로를 상담했습니다.",
+    breakdown: [
+      { word: "進路", reading: "しんろ", meaning: "진로" }
+    ] },
+  { level: "N5", kanji: "進路指導", reading: "しんろしどう", korean: "신로시도-", meaning: "진로지도",
+    example: "進路指導の先生に相談しました。", exampleReading: "しんろしどうのせんせいにそうだんしました。", exampleKorean: "신로시도-노 센세-니 소-단 시마시타", exampleMeaning: "진로지도 선생님께 상담했습니다.",
+    breakdown: [
+      { word: "先生", reading: "せんせい", meaning: "선생님" }
+    ] },
+  { level: "N5", kanji: "卒業論文", reading: "そつぎょうろんぶん", korean: "소츠교-론분", meaning: "졸업논문",
+    example: "卒業論文を提出しました。", exampleReading: "そつぎょうろんぶんをていしゅつしました。", exampleKorean: "소츠교-론붕오 테-슈츠 시마시타", exampleMeaning: "졸업논문을 제출했습니다.",
+    breakdown: [
+      { word: "提出", reading: "ていしゅつ", meaning: "제출" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
