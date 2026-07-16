@@ -11718,6 +11718,206 @@ const VOCAB = [
     breakdown: [
       { word: "争われました", reading: "あらそわれました", meaning: "다투어졌습니다" }
     ] },
+  { level: "N4", kanji: "冠婚葬祭マナー", reading: "かんこんそうさいマナー", korean: "캉콘소-사이마나-", meaning: "관혼상제 매너",
+    example: "冠婚葬祭マナーを学びました。", exampleReading: "かんこんそうさいマナーをまなびました。", exampleKorean: "캉콘소-사이마나-오 마나비마시타", exampleMeaning: "관혼상제 매너를 배웠습니다.",
+    breakdown: [
+      { word: "学びました", reading: "まなびました", meaning: "배웠습니다" }
+    ] },
+  { level: "N4", kanji: "慶弔休暇", reading: "けいちょうきゅうか", korean: "케-쵸-큐-카", meaning: "경조휴가",
+    example: "慶弔休暇を取得しました。", exampleReading: "けいちょうきゅうかをしゅとくしました。", exampleKorean: "케-쵸-큐-카오 슈토쿠 시마시타", exampleMeaning: "경조휴가를 취득했습니다.",
+    breakdown: [
+      { word: "取得", reading: "しゅとく", meaning: "취득" }
+    ] },
+  { level: "N4", kanji: "弔問客", reading: "ちょうもんきゃく", korean: "쵸-몬캬쿠", meaning: "조문객",
+    example: "多くの弔問客が訪れました。", exampleReading: "おおくのちょうもんきゃくがおとずれました。", exampleKorean: "오-쿠노 쵸-몬캬쿠가 오토즈레마시타", exampleMeaning: "많은 조문객이 방문했습니다.",
+    breakdown: [
+      { word: "訪れました", reading: "おとずれました", meaning: "방문했습니다" }
+    ] },
+  { level: "N4", kanji: "喪主", reading: "もしゅ", korean: "모슈", meaning: "상주",
+    example: "長男が喪主を務めました。", exampleReading: "ちょうなんがもしゅをつとめました。", exampleKorean: "쵸-난가 모슈오 츠토메마시타", exampleMeaning: "장남이 상주를 맡았습니다.",
+    breakdown: [
+      { word: "長男", reading: "ちょうなん", meaning: "장남" }
+    ] },
+  { level: "N4", kanji: "遺族", reading: "いぞく", korean: "이조쿠", meaning: "유족",
+    example: "遺族にお悔やみを申し上げました。", exampleReading: "いぞくにおくやみをもうしあげました。", exampleKorean: "이조쿠니 오쿠야미오 모-시아게마시타", exampleMeaning: "유족에게 애도의 말씀을 드렸습니다.",
+    breakdown: [
+      { word: "お悔やみ", reading: "おくやみ", meaning: "애도의 말" }
+    ] },
+  { level: "N4", kanji: "霊柩車", reading: "れいきゅうしゃ", korean: "레-큐-샤", meaning: "영구차",
+    example: "霊柩車が出発しました。", exampleReading: "れいきゅうしゃがしゅっぱつしました。", exampleKorean: "레-큐-샤가 슛파츠 시마시타", exampleMeaning: "영구차가 출발했습니다.",
+    breakdown: [
+      { word: "出発", reading: "しゅっぱつ", meaning: "출발" }
+    ] },
+  { level: "N4", kanji: "火葬場", reading: "かそうば", korean: "카소-바", meaning: "화장장",
+    example: "火葬場に向かいました。", exampleReading: "かそうばにむかいました。", exampleKorean: "카소-바니 무카이마시타", exampleMeaning: "화장장으로 향했습니다.",
+    breakdown: [
+      { word: "向かいました", reading: "むかいました", meaning: "향했습니다" }
+    ] },
+  { level: "N4", kanji: "納骨", reading: "のうこつ", korean: "노-코츠", meaning: "납골",
+    example: "納骨式が行われました。", exampleReading: "のうこつしきがおこなわれました。", exampleKorean: "노-코츠시키가 오코나와레마시타", exampleMeaning: "납골식이 거행되었습니다.",
+    breakdown: [
+      { word: "式", reading: "しき", meaning: "식" }
+    ] },
+  { level: "N4", kanji: "位牌", reading: "いはい", korean: "이하이", meaning: "위패",
+    example: "仏壇に位牌を安置しました。", exampleReading: "ぶつだんにいはいをあんちしました。", exampleKorean: "부츠단니 이하이오 안치 시마시타", exampleMeaning: "불단에 위패를 안치했습니다.",
+    breakdown: [
+      { word: "仏壇", reading: "ぶつだん", meaning: "불단" }
+    ] },
+  { level: "N4", kanji: "戒名", reading: "かいみょう", korean: "카이묘-", meaning: "계명(불교식 시호)",
+    example: "戒名をいただきました。", exampleReading: "かいみょうをいただきました。", exampleKorean: "카이묘-오 이타다키마시타", exampleMeaning: "계명을 받았습니다.",
+    breakdown: [
+      { word: "いただきました", reading: "いただきました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "法名", reading: "ほうみょう", korean: "호-묘-", meaning: "법명",
+    example: "法名を授かりました。", exampleReading: "ほうみょうをさずかりました。", exampleKorean: "호-묘-오 사즈카리마시타", exampleMeaning: "법명을 받았습니다.",
+    breakdown: [
+      { word: "授かりました", reading: "さずかりました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "数珠", reading: "じゅず", korean: "쥬즈", meaning: "염주",
+    example: "数珠を持って参列しました。", exampleReading: "じゅずをもってさんれつしました。", exampleKorean: "쥬즈오 못테 산레츠 시마시타", exampleMeaning: "염주를 들고 참석했습니다.",
+    breakdown: [
+      { word: "参列", reading: "さんれつ", meaning: "참석" }
+    ] },
+  { level: "N4", kanji: "焼香台", reading: "しょうこうだい", korean: "쇼-코-다이", meaning: "분향대",
+    example: "焼香台の前で手を合わせました。", exampleReading: "しょうこうだいのまえでてをあわせました。", exampleKorean: "쇼-코-다이노 마에데 테오 아와세마시타", exampleMeaning: "분향대 앞에서 손을 모았습니다.",
+    breakdown: [
+      { word: "手を合わせました", reading: "てをあわせました", meaning: "손을 모았습니다" }
+    ] },
+  { level: "N4", kanji: "供花", reading: "きょうか", korean: "쿄-카", meaning: "공화(제사용 꽃)",
+    example: "供花を贈りました。", exampleReading: "きょうかをおくりました。", exampleKorean: "쿄-카오 오쿠리마시타", exampleMeaning: "공화를 보냈습니다.",
+    breakdown: [
+      { word: "贈りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N4", kanji: "弔辞", reading: "ちょうじ", korean: "쵸-지", meaning: "조사",
+    example: "弔辞を読みました。", exampleReading: "ちょうじをよみました。", exampleKorean: "쵸-지오 요미마시타", exampleMeaning: "조사를 읽었습니다.",
+    breakdown: [
+      { word: "読みました", reading: "よみました", meaning: "읽었습니다" }
+    ] },
+  { level: "N4", kanji: "弔問", reading: "ちょうもん", korean: "쵸-몬", meaning: "조문",
+    example: "弔問に伺いました。", exampleReading: "ちょうもんにうかがいました。", exampleKorean: "쵸-몬니 우카가이마시타", exampleMeaning: "조문을 드리러 갔습니다.",
+    breakdown: [
+      { word: "伺いました", reading: "うかがいました", meaning: "찾아뵈었습니다" }
+    ] },
+  { level: "N4", kanji: "忌引き", reading: "きびき", korean: "키비키", meaning: "상 때문에 결근/결석함",
+    example: "忌引きで学校を休みました。", exampleReading: "きびきでがっこうをやすみました。", exampleKorean: "키비키데 각코-오 야스미마시타", exampleMeaning: "상을 당해 학교를 쉬었습니다.",
+    breakdown: [
+      { word: "学校", reading: "がっこう", meaning: "학교" }
+    ] },
+  { level: "N4", kanji: "法要準備", reading: "ほうようじゅんび", korean: "호-요-쥰비", meaning: "법요 준비",
+    example: "法要準備を進めています。", exampleReading: "ほうようじゅんびをすすめています。", exampleKorean: "호-요-쥰비오 스스메테 이마스", exampleMeaning: "법요 준비를 진행하고 있습니다.",
+    breakdown: [
+      { word: "進めて", reading: "すすめて", meaning: "진행해서" }
+    ] },
+  { level: "N4", kanji: "四十九日法要", reading: "しじゅうくにちほうよう", korean: "시쥬-쿠니치호-요-", meaning: "사십구재 법요",
+    example: "四十九日法要を行いました。", exampleReading: "しじゅうくにちほうようをおこないました。", exampleKorean: "시쥬-쿠니치호-요-오 오코나이마시타", exampleMeaning: "사십구재 법요를 지냈습니다.",
+    breakdown: [
+      { word: "行いました", reading: "おこないました", meaning: "지냈습니다" }
+    ] },
+  { level: "N4", kanji: "一周忌", reading: "いっしゅうき", korean: "잇슈-키", meaning: "일주기",
+    example: "一周忌の法要をしました。", exampleReading: "いっしゅうきのほうようをしました。", exampleKorean: "잇슈-키노 호-요-오 시마시타", exampleMeaning: "일주기 법요를 지냈습니다.",
+    breakdown: [
+      { word: "法要", reading: "ほうよう", meaning: "법요" }
+    ] },
+  { level: "N4", kanji: "三回忌", reading: "さんかいき", korean: "산카이키", meaning: "삼회기(2주기)",
+    example: "三回忌が近づいています。", exampleReading: "さんかいきがちかづいています。", exampleKorean: "산카이키가 치카즈이테 이마스", exampleMeaning: "삼회기가 다가오고 있습니다.",
+    breakdown: [
+      { word: "近づいて", reading: "ちかづいて", meaning: "다가와서" }
+    ] },
+  { level: "N4", kanji: "七回忌", reading: "ななかいき", korean: "나나카이키", meaning: "칠회기(6주기)",
+    example: "七回忌の準備をしています。", exampleReading: "ななかいきのじゅんびをしています。", exampleKorean: "나나카이키노 쥰비오 시테 이마스", exampleMeaning: "칠회기 준비를 하고 있습니다.",
+    breakdown: [
+      { word: "準備", reading: "じゅんび", meaning: "준비" }
+    ] },
+  { level: "N4", kanji: "十三回忌", reading: "じゅうさんかいき", korean: "쥬-산카이키", meaning: "십삼회기(12주기)",
+    example: "十三回忌を執り行いました。", exampleReading: "じゅうさんかいきをとりおこないました。", exampleKorean: "쥬-산카이키오 토리오코나이마시타", exampleMeaning: "십삼회기를 거행했습니다.",
+    breakdown: [
+      { word: "執り行いました", reading: "とりおこないました", meaning: "거행했습니다" }
+    ] },
+  { level: "N4", kanji: "お盆行事", reading: "おぼんぎょうじ", korean: "오본교-지", meaning: "오봉 행사",
+    example: "お盆行事に参加しました。", exampleReading: "おぼんぎょうじにさんかしました。", exampleKorean: "오본교-지니 상카 시마시타", exampleMeaning: "오봉 행사에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N4", kanji: "初盆", reading: "はつぼん", korean: "하츠본", meaning: "첫 오봉(고인 사후 첫 명절)",
+    example: "初盆の準備をしています。", exampleReading: "はつぼんのじゅんびをしています。", exampleKorean: "하츠본노 쥰비오 시테 이마스", exampleMeaning: "첫 오봉 준비를 하고 있습니다.",
+    breakdown: [
+      { word: "準備", reading: "じゅんび", meaning: "준비" }
+    ] },
+  { level: "N4", kanji: "新盆", reading: "にいぼん", korean: "니이본", meaning: "새 오봉(初盆의 다른 표현)",
+    example: "新盆の法要を行いました。", exampleReading: "にいぼんのほうようをおこないました。", exampleKorean: "니이본노 호-요-오 오코나이마시타", exampleMeaning: "새 오봉 법요를 지냈습니다.",
+    breakdown: [
+      { word: "法要", reading: "ほうよう", meaning: "법요" }
+    ] },
+  { level: "N4", kanji: "墓参り準備", reading: "はかまいりじゅんび", korean: "하카마이리쥰비", meaning: "성묘 준비",
+    example: "墓参り準備をしました。", exampleReading: "はかまいりじゅんびをしました。", exampleKorean: "하카마이리쥰비오 시마시타", exampleMeaning: "성묘 준비를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "お墓掃除", reading: "おはかそうじ", korean: "오하카소-지", meaning: "묘지 청소",
+    example: "お墓掃除をしました。", exampleReading: "おはかそうじをしました。", exampleKorean: "오하카소-지오 시마시타", exampleMeaning: "묘지 청소를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "墓石", reading: "はかいし", korean: "하카이시", meaning: "묘비",
+    example: "墓石を建てました。", exampleReading: "はかいしをたてました。", exampleKorean: "하카이시오 타테마시타", exampleMeaning: "묘비를 세웠습니다.",
+    breakdown: [
+      { word: "建てました", reading: "たてました", meaning: "세웠습니다" }
+    ] },
+  { level: "N4", kanji: "霊園", reading: "れいえん", korean: "레-엔", meaning: "영원(묘원)",
+    example: "霊園に墓を購入しました。", exampleReading: "れいえんにはかをこうにゅうしました。", exampleKorean: "레-엔니 하카오 코-뉴- 시마시타", exampleMeaning: "묘원에 묘를 구입했습니다.",
+    breakdown: [
+      { word: "墓", reading: "はか", meaning: "묘" }
+    ] },
+  { level: "N4", kanji: "納骨堂", reading: "のうこつどう", korean: "노-코츠도-", meaning: "납골당",
+    example: "納骨堂に安置しました。", exampleReading: "のうこつどうにあんちしました。", exampleKorean: "노-코츠도-니 안치 시마시타", exampleMeaning: "납골당에 안치했습니다.",
+    breakdown: [
+      { word: "安置", reading: "あんち", meaning: "안치" }
+    ] },
+  { level: "N4", kanji: "散骨", reading: "さんこつ", korean: "산코츠", meaning: "산골(뼈를 뿌림)",
+    example: "海に散骨しました。", exampleReading: "うみにさんこつしました。", exampleKorean: "우미니 산코츠 시마시타", exampleMeaning: "바다에 산골했습니다.",
+    breakdown: [
+      { word: "海", reading: "うみ", meaning: "바다" }
+    ] },
+  { level: "N4", kanji: "樹木葬", reading: "じゅもくそう", korean: "쥬모쿠소-", meaning: "수목장",
+    example: "樹木葬を選びました。", exampleReading: "じゅもくそうをえらびました。", exampleKorean: "쥬모쿠소-오 에라비마시타", exampleMeaning: "수목장을 선택했습니다.",
+    breakdown: [
+      { word: "選びました", reading: "えらびました", meaning: "선택했습니다" }
+    ] },
+  { level: "N4", kanji: "家族葬", reading: "かぞくそう", korean: "카조쿠소-", meaning: "가족장",
+    example: "家族葬を行いました。", exampleReading: "かぞくそうをおこないました。", exampleKorean: "카조쿠소-오 오코나이마시타", exampleMeaning: "가족장을 치렀습니다.",
+    breakdown: [
+      { word: "行いました", reading: "おこないました", meaning: "치렀습니다" }
+    ] },
+  { level: "N4", kanji: "直葬", reading: "ちょくそう", korean: "쵸쿠소-", meaning: "직장(장례 없이 바로 화장)",
+    example: "直葬を選びました。", exampleReading: "ちょくそうをえらびました。", exampleKorean: "쵸쿠소-오 에라비마시타", exampleMeaning: "직장을 선택했습니다.",
+    breakdown: [
+      { word: "選びました", reading: "えらびました", meaning: "선택했습니다" }
+    ] },
+  { level: "N4", kanji: "密葬", reading: "みっそう", korean: "밋소-", meaning: "밀장(비공개 장례)",
+    example: "密葬にしました。", exampleReading: "みっそうにしました。", exampleKorean: "밋소-니 시마시타", exampleMeaning: "밀장으로 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "本葬", reading: "ほんそう", korean: "혼소-", meaning: "본장(공식 장례)",
+    example: "後日本葬を行います。", exampleReading: "ごじつほんそうをおこないます。", exampleKorean: "고지츠 혼소-오 오코나이마스", exampleMeaning: "후일 본장을 치릅니다.",
+    breakdown: [
+      { word: "後日", reading: "ごじつ", meaning: "후일" }
+    ] },
+  { level: "N4", kanji: "偲ぶ会", reading: "しのぶかい", korean: "시노부카이", meaning: "추모회",
+    example: "偲ぶ会を開きました。", exampleReading: "しのぶかいをひらきました。", exampleKorean: "시노부카이오 히라키마시타", exampleMeaning: "추모회를 열었습니다.",
+    breakdown: [
+      { word: "開きました", reading: "ひらきました", meaning: "열었습니다" }
+    ] },
+  { level: "N4", kanji: "お別れの会", reading: "おわかれのかい", korean: "오와카레노카이", meaning: "작별의 모임",
+    example: "お別れの会に参加しました。", exampleReading: "おわかれのかいにさんかしました。", exampleKorean: "오와카레노카이니 상카 시마시타", exampleMeaning: "작별의 모임에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N4", kanji: "遺影", reading: "いえい", korean: "이에-", meaning: "영정사진",
+    example: "遺影を飾りました。", exampleReading: "いえいをかざりました。", exampleKorean: "이에-오 카자리마시타", exampleMeaning: "영정사진을 걸었습니다.",
+    breakdown: [
+      { word: "飾りました", reading: "かざりました", meaning: "걸었습니다" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
