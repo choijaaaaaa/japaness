@@ -4533,6 +4533,256 @@ const VOCAB = [
     breakdown: [
       { word: "待って", reading: "まって", meaning: "기다려서" }
     ] },
+  { level: "N5", kanji: "絵の具箱", reading: "えのぐばこ", korean: "에노구바코", meaning: "물감통",
+    example: "絵の具箱を持って行きました。", exampleReading: "えのぐばこをもっていきました。", exampleKorean: "에노구바코오 못테 이키마시타", exampleMeaning: "물감통을 가지고 갔습니다.",
+    breakdown: [
+      { word: "持って", reading: "もって", meaning: "가지고" }
+    ] },
+  { level: "N5", kanji: "習い事", reading: "ならいごと", korean: "나라이고토", meaning: "배우는 것(취미교육)",
+    example: "子供に習い事をさせています。", exampleReading: "こどもにならいごとをさせています。", exampleKorean: "코도모니 나라이고토오 사세테 이마스", exampleMeaning: "아이에게 여러 가지를 배우게 하고 있습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N5", kanji: "ピアノ教室", reading: "ピアノきょうしつ", korean: "피아노쿄-시츠", meaning: "피아노 교실",
+    example: "ピアノ教室に通っています。", exampleReading: "ピアノきょうしつにかよっています。", exampleKorean: "피아노쿄-시츠니 카욧테 이마스", exampleMeaning: "피아노 교실에 다니고 있습니다.",
+    breakdown: [
+      { word: "通って", reading: "かよって", meaning: "다녀서" }
+    ] },
+  { level: "N5", kanji: "習字教室", reading: "しゅうじきょうしつ", korean: "슈-지쿄-시츠", meaning: "서예 교실",
+    example: "習字教室で書道を学んでいます。", exampleReading: "しゅうじきょうしつでしょどうをまなんでいます。", exampleKorean: "슈-지쿄-시츠데 쇼도-오 마난데 이마스", exampleMeaning: "서예 교실에서 서도를 배우고 있습니다.",
+    breakdown: [
+      { word: "書道", reading: "しょどう", meaning: "서도" }
+    ] },
+  { level: "N5", kanji: "そろばん", reading: "そろばん", korean: "소로반", meaning: "주판",
+    example: "そろばんを習っています。", exampleReading: "そろばんをならっています。", exampleKorean: "소로반오 나랏테 이마스", exampleMeaning: "주판을 배우고 있습니다.",
+    breakdown: [
+      { word: "習って", reading: "ならって", meaning: "배워서" }
+    ] },
+  { level: "N5", kanji: "そろばん教室", reading: "そろばんきょうしつ", korean: "소로반쿄-시츠", meaning: "주판 교실",
+    example: "そろばん教室に通っています。", exampleReading: "そろばんきょうしつにかよっています。", exampleKorean: "소로반쿄-시츠니 카욧테 이마스", exampleMeaning: "주판 교실에 다니고 있습니다.",
+    breakdown: [
+      { word: "通って", reading: "かよって", meaning: "다녀서" }
+    ] },
+  { level: "N5", kanji: "英会話教室", reading: "えいかいわきょうしつ", korean: "에-카이와쿄-시츠", meaning: "영어회화 교실",
+    example: "英会話教室に通い始めました。", exampleReading: "えいかいわきょうしつにかよいはじめました。", exampleKorean: "에-카이와쿄-시츠니 카요이하지메마시타", exampleMeaning: "영어회화 교실에 다니기 시작했습니다.",
+    breakdown: [
+      { word: "通い始めました", reading: "かよいはじめました", meaning: "다니기 시작했습니다" }
+    ] },
+  { level: "N5", kanji: "ダンス教室", reading: "ダンスきょうしつ", korean: "단스쿄-시츠", meaning: "댄스 교실",
+    example: "ダンス教室に入会しました。", exampleReading: "ダンスきょうしつににゅうかいしました。", exampleKorean: "단스쿄-시츠니 뉴-카이 시마시타", exampleMeaning: "댄스 교실에 입회했습니다.",
+    breakdown: [
+      { word: "入会", reading: "にゅうかい", meaning: "입회" }
+    ] },
+  { level: "N5", kanji: "バレエ教室", reading: "バレエきょうしつ", korean: "바레에쿄-시츠", meaning: "발레 교실",
+    example: "娘はバレエ教室に通っています。", exampleReading: "むすめはバレエきょうしつにかよっています。", exampleKorean: "무스메와 바레에쿄-시츠니 카욧테 이마스", exampleMeaning: "딸은 발레 교실에 다니고 있습니다.",
+    breakdown: [
+      { word: "娘", reading: "むすめ", meaning: "딸" }
+    ] },
+  { level: "N5", kanji: "空手教室", reading: "からてきょうしつ", korean: "카라테쿄-시츠", meaning: "가라테 교실",
+    example: "空手教室で黒帯を取りました。", exampleReading: "からてきょうしつでくろおびをとりました。", exampleKorean: "카라테쿄-시츠데 쿠로오비오 토리마시타", exampleMeaning: "가라테 교실에서 검은띠를 땄습니다.",
+    breakdown: [
+      { word: "黒帯", reading: "くろおび", meaning: "검은띠" }
+    ] },
+  { level: "N5", kanji: "水彩画", reading: "すいさいが", korean: "스이사이가", meaning: "수채화",
+    example: "水彩画を描いています。", exampleReading: "すいさいがをかいています。", exampleKorean: "스이사이가오 카이테 이마스", exampleMeaning: "수채화를 그리고 있습니다.",
+    breakdown: [
+      { word: "描いて", reading: "かいて", meaning: "그려서" }
+    ] },
+  { level: "N5", kanji: "油絵", reading: "あぶらえ", korean: "아부라에", meaning: "유화",
+    example: "油絵を習っています。", exampleReading: "あぶらえをならっています。", exampleKorean: "아부라에오 나랏테 이마스", exampleMeaning: "유화를 배우고 있습니다.",
+    breakdown: [
+      { word: "習って", reading: "ならって", meaning: "배워서" }
+    ] },
+  { level: "N5", kanji: "デッサン", reading: "デッサン", korean: "뎃산", meaning: "데생",
+    example: "デッサンの練習をしています。", exampleReading: "デッサンのれんしゅうをしています。", exampleKorean: "뎃산노 렌슈-오 시테 이마스", exampleMeaning: "데생 연습을 하고 있습니다.",
+    breakdown: [
+      { word: "練習", reading: "れんしゅう", meaning: "연습" }
+    ] },
+  { level: "N5", kanji: "スケッチ", reading: "スケッチ", korean: "스켓치", meaning: "스케치",
+    example: "公園でスケッチをしました。", exampleReading: "こうえんでスケッチをしました。", exampleKorean: "코-엔데 스켓치오 시마시타", exampleMeaning: "공원에서 스케치를 했습니다.",
+    breakdown: [
+      { word: "公園", reading: "こうえん", meaning: "공원" }
+    ] },
+  { level: "N5", kanji: "版画", reading: "はんが", korean: "한가", meaning: "판화",
+    example: "版画を作りました。", exampleReading: "はんがをつくりました。", exampleKorean: "한가오 츠쿠리마시타", exampleMeaning: "판화를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N5", kanji: "陶芸", reading: "とうげい", korean: "토-게-", meaning: "도예",
+    example: "陶芸教室に通っています。", exampleReading: "とうげいきょうしつにかよっています。", exampleKorean: "토-게-쿄-시츠니 카욧테 이마스", exampleMeaning: "도예 교실에 다니고 있습니다.",
+    breakdown: [
+      { word: "教室", reading: "きょうしつ", meaning: "교실" }
+    ] },
+  { level: "N5", kanji: "手芸", reading: "しゅげい", korean: "슈게-", meaning: "수예",
+    example: "手芸が趣味です。", exampleReading: "しゅげいがしゅみです。", exampleKorean: "슈게-가 슈미데스", exampleMeaning: "수예가 취미입니다.",
+    breakdown: [
+      { word: "趣味", reading: "しゅみ", meaning: "취미" }
+    ] },
+  { level: "N5", kanji: "編み物", reading: "あみもの", korean: "아미모노", meaning: "뜨개질",
+    example: "編み物でマフラーを作りました。", exampleReading: "あみものでマフラーをつくりました。", exampleKorean: "아미모노데 마후라-오 츠쿠리마시타", exampleMeaning: "뜨개질로 목도리를 만들었습니다.",
+    breakdown: [
+      { word: "マフラー", reading: "マフラー", meaning: "목도리" }
+    ] },
+  { level: "N5", kanji: "刺繍", reading: "ししゅう", korean: "시슈-", meaning: "자수",
+    example: "刺繍を習っています。", exampleReading: "ししゅうをならっています。", exampleKorean: "시슈-오 나랏테 이마스", exampleMeaning: "자수를 배우고 있습니다.",
+    breakdown: [
+      { word: "習って", reading: "ならって", meaning: "배워서" }
+    ] },
+  { level: "N5", kanji: "ビーズアクセサリー", reading: "ビーズアクセサリー", korean: "비-즈아쿠세사리-", meaning: "비즈 액세서리",
+    example: "ビーズアクセサリーを作りました。", exampleReading: "ビーズアクセサリーをつくりました。", exampleKorean: "비-즈아쿠세사리-오 츠쿠리마시타", exampleMeaning: "비즈 액세서리를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N5", kanji: "プラモデル", reading: "プラモデル", korean: "푸라모데루", meaning: "프라모델",
+    example: "プラモデルを組み立てました。", exampleReading: "プラモデルをくみたてました。", exampleKorean: "푸라모데루오 쿠미타테마시타", exampleMeaning: "프라모델을 조립했습니다.",
+    breakdown: [
+      { word: "組み立てました", reading: "くみたてました", meaning: "조립했습니다" }
+    ] },
+  { level: "N5", kanji: "ブロック遊び", reading: "ブロックあそび", korean: "부록쿠아소비", meaning: "블록 놀이",
+    example: "子供はブロック遊びが好きです。", exampleReading: "こどもはブロックあそびがすきです。", exampleKorean: "코도모와 부록쿠아소비가 스키데스", exampleMeaning: "아이는 블록 놀이를 좋아합니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N5", kanji: "積み木", reading: "つみき", korean: "츠미키", meaning: "쌓기나무",
+    example: "積み木で遊びました。", exampleReading: "つみきであそびました。", exampleKorean: "츠미키데 아소비마시타", exampleMeaning: "쌓기나무로 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
+  { level: "N5", kanji: "パズル", reading: "パズル", korean: "파즈루", meaning: "퍼즐",
+    example: "パズルを完成させました。", exampleReading: "パズルをかんせいさせました。", exampleKorean: "파즈루오 칸세-사세마시타", exampleMeaning: "퍼즐을 완성시켰습니다.",
+    breakdown: [
+      { word: "完成", reading: "かんせい", meaning: "완성" }
+    ] },
+  { level: "N5", kanji: "ぬいぐるみ", reading: "ぬいぐるみ", korean: "누이구루미", meaning: "봉제인형",
+    example: "ぬいぐるみを抱いて寝ます。", exampleReading: "ぬいぐるみをだいてねます。", exampleKorean: "누이구루미오 다이테 네마스", exampleMeaning: "봉제인형을 안고 잡니다.",
+    breakdown: [
+      { word: "抱いて", reading: "だいて", meaning: "안고" }
+    ] },
+  { level: "N5", kanji: "人形遊び", reading: "にんぎょうあそび", korean: "닌교-아소비", meaning: "인형 놀이",
+    example: "娘は人形遊びが好きです。", exampleReading: "むすめはにんぎょうあそびがすきです。", exampleKorean: "무스메와 닌교-아소비가 스키데스", exampleMeaning: "딸은 인형 놀이를 좋아합니다.",
+    breakdown: [
+      { word: "娘", reading: "むすめ", meaning: "딸" }
+    ] },
+  { level: "N5", kanji: "お絵かき", reading: "おえかき", korean: "오에카키", meaning: "그림 그리기",
+    example: "子供はお絵かきが好きです。", exampleReading: "こどもはおえかきがすきです。", exampleKorean: "코도모와 오에카키가 스키데스", exampleMeaning: "아이는 그림 그리기를 좋아합니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N5", kanji: "粘土", reading: "ねんど", korean: "넨도", meaning: "점토",
+    example: "粘土で動物を作りました。", exampleReading: "ねんどでどうぶつをつくりました。", exampleKorean: "넨도데 도-부츠오 츠쿠리마시타", exampleMeaning: "점토로 동물을 만들었습니다.",
+    breakdown: [
+      { word: "動物", reading: "どうぶつ", meaning: "동물" }
+    ] },
+  { level: "N5", kanji: "シャボン玉", reading: "シャボンだま", korean: "샤본다마", meaning: "비눗방울",
+    example: "公園でシャボン玉をしました。", exampleReading: "こうえんでシャボンだまをしました。", exampleKorean: "코-엔데 샤본다마오 시마시타", exampleMeaning: "공원에서 비눗방울 놀이를 했습니다.",
+    breakdown: [
+      { word: "公園", reading: "こうえん", meaning: "공원" }
+    ] },
+  { level: "N5", kanji: "水遊び", reading: "みずあそび", korean: "미즈아소비", meaning: "물놀이",
+    example: "夏は水遊びが楽しいです。", exampleReading: "なつはみずあそびがたのしいです。", exampleKorean: "나츠와 미즈아소비가 타노시-데스", exampleMeaning: "여름에는 물놀이가 즐겁습니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
+  { level: "N5", kanji: "砂遊び", reading: "すなあそび", korean: "스나아소비", meaning: "모래놀이",
+    example: "子供が砂遊びをしています。", exampleReading: "こどもがすなあそびをしています。", exampleKorean: "코도모가 스나아소비오 시테 이마스", exampleMeaning: "아이가 모래놀이를 하고 있습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N5", kanji: "鬼ごっこ", reading: "おにごっこ", korean: "오니곳코", meaning: "술래잡기",
+    example: "公園で鬼ごっこをしました。", exampleReading: "こうえんでおにごっこをしました。", exampleKorean: "코-엔데 오니곳코오 시마시타", exampleMeaning: "공원에서 술래잡기를 했습니다.",
+    breakdown: [
+      { word: "公園", reading: "こうえん", meaning: "공원" }
+    ] },
+  { level: "N5", kanji: "かくれんぼ", reading: "かくれんぼ", korean: "카쿠렌보", meaning: "숨바꼭질",
+    example: "かくれんぼをして遊びました。", exampleReading: "かくれんぼをしてあそびました。", exampleKorean: "카쿠렌보오 시테 아소비마시타", exampleMeaning: "숨바꼭질을 하고 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
+  { level: "N5", kanji: "縄跳び", reading: "なわとび", korean: "나와토비", meaning: "줄넘기",
+    example: "毎日縄跳びをしています。", exampleReading: "まいにちなわとびをしています。", exampleKorean: "마이니치 나와토비오 시테 이마스", exampleMeaning: "매일 줄넘기를 하고 있습니다.",
+    breakdown: [
+      { word: "毎日", reading: "まいにち", meaning: "매일" }
+    ] },
+  { level: "N5", kanji: "けん玉", reading: "けんだま", korean: "켄다마", meaning: "켄다마(전통 공놀이)",
+    example: "けん玉が上手になりました。", exampleReading: "けんだまがじょうずになりました。", exampleKorean: "켄다마가 죠-즈니 나리마시타", exampleMeaning: "켄다마를 잘하게 되었습니다.",
+    breakdown: [
+      { word: "上手", reading: "じょうず", meaning: "능숙함" }
+    ] },
+  { level: "N5", kanji: "コマ回し", reading: "コマまわし", korean: "코마마와시", meaning: "팽이치기",
+    example: "お正月にコマ回しをしました。", exampleReading: "おしょうがつにコマまわしをしました。", exampleKorean: "오쇼-가츠니 코마마와시오 시마시타", exampleMeaning: "설날에 팽이치기를 했습니다.",
+    breakdown: [
+      { word: "お正月", reading: "おしょうがつ", meaning: "설날" }
+    ] },
+  { level: "N5", kanji: "おはじき", reading: "おはじき", korean: "오하지키", meaning: "공기놀이",
+    example: "おはじきで遊びました。", exampleReading: "おはじきであそびました。", exampleKorean: "오하지키데 아소비마시타", exampleMeaning: "공기놀이를 하며 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
+  { level: "N5", kanji: "あやとり", reading: "あやとり", korean: "아야토리", meaning: "실뜨기",
+    example: "あやとりを教えてもらいました。", exampleReading: "あやとりをおしえてもらいました。", exampleKorean: "아야토리오 오시에테 모라이마시타", exampleMeaning: "실뜨기를 배웠습니다.",
+    breakdown: [
+      { word: "教えて", reading: "おしえて", meaning: "가르쳐서" }
+    ] },
+  { level: "N5", kanji: "じゃんけん", reading: "じゃんけん", korean: "쟌켄", meaning: "가위바위보",
+    example: "じゃんけんで順番を決めました。", exampleReading: "じゃんけんでじゅんばんをきめました。", exampleKorean: "쟌켄데 쥰방오 키메마시타", exampleMeaning: "가위바위보로 순서를 정했습니다.",
+    breakdown: [
+      { word: "順番", reading: "じゅんばん", meaning: "순서" }
+    ] },
+  { level: "N5", kanji: "しりとり", reading: "しりとり", korean: "시리토리", meaning: "끝말잇기",
+    example: "車の中でしりとりをしました。", exampleReading: "くるまのなかでしりとりをしました。", exampleKorean: "쿠루마노 나카데 시리토리오 시마시타", exampleMeaning: "차 안에서 끝말잇기를 했습니다.",
+    breakdown: [
+      { word: "車の中", reading: "くるまのなか", meaning: "차 안" }
+    ] },
+  { level: "N5", kanji: "紙芝居", reading: "かみしばい", korean: "카미시바이", meaning: "종이연극",
+    example: "紙芝居を見せました。", exampleReading: "かみしばいをみせました。", exampleKorean: "카미시바이오 미세마시타", exampleMeaning: "종이연극을 보여줬습니다.",
+    breakdown: [
+      { word: "見せました", reading: "みせました", meaning: "보여줬습니다" }
+    ] },
+  { level: "N5", kanji: "絵本読み聞かせ", reading: "えほんよみきかせ", korean: "에혼요미키카세", meaning: "그림책 읽어주기",
+    example: "絵本読み聞かせの時間があります。", exampleReading: "えほんよみきかせのじかんがあります。", exampleKorean: "에혼요미키카세노 지캉가 아리마스", exampleMeaning: "그림책 읽어주기 시간이 있습니다.",
+    breakdown: [
+      { word: "時間", reading: "じかん", meaning: "시간" }
+    ] },
+  { level: "N5", kanji: "公園遊び", reading: "こうえんあそび", korean: "코-엔아소비", meaning: "공원 놀이",
+    example: "週末は公園遊びをします。", exampleReading: "しゅうまつはこうえんあそびをします。", exampleKorean: "슈-마츠와 코-엔아소비오 시마스", exampleMeaning: "주말에는 공원 놀이를 합니다.",
+    breakdown: [
+      { word: "週末", reading: "しゅうまつ", meaning: "주말" }
+    ] },
+  { level: "N5", kanji: "ブランコ", reading: "ブランコ", korean: "부란코", meaning: "그네",
+    example: "公園でブランコに乗りました。", exampleReading: "こうえんでブランコにのりました。", exampleKorean: "코-엔데 부란코니 노리마시타", exampleMeaning: "공원에서 그네를 탔습니다.",
+    breakdown: [
+      { word: "公園", reading: "こうえん", meaning: "공원" }
+    ] },
+  { level: "N5", kanji: "滑り台", reading: "すべりだい", korean: "스베리다이", meaning: "미끄럼틀",
+    example: "滑り台で遊びました。", exampleReading: "すべりだいであそびました。", exampleKorean: "스베리다이데 아소비마시타", exampleMeaning: "미끄럼틀에서 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
+  { level: "N5", kanji: "砂場", reading: "すなば", korean: "스나바", meaning: "모래사장(놀이터)",
+    example: "砂場で遊んでいます。", exampleReading: "すなばであそんでいます。", exampleKorean: "스나바데 아손데 이마스", exampleMeaning: "모래사장에서 놀고 있습니다.",
+    breakdown: [
+      { word: "遊んで", reading: "あそんで", meaning: "놀아서" }
+    ] },
+  { level: "N5", kanji: "ジャングルジム", reading: "ジャングルジム", korean: "쟝구루지무", meaning: "정글짐",
+    example: "ジャングルジムに登りました。", exampleReading: "ジャングルジムにのぼりました。", exampleKorean: "쟝구루지무니 노보리마시타", exampleMeaning: "정글짐에 올라갔습니다.",
+    breakdown: [
+      { word: "登りました", reading: "のぼりました", meaning: "올라갔습니다" }
+    ] },
+  { level: "N5", kanji: "鉄棒", reading: "てつぼう", korean: "테츠보-", meaning: "철봉",
+    example: "鉄棒で逆上がりをしました。", exampleReading: "てつぼうでさかあがりをしました。", exampleKorean: "테츠보-데 사카아가리오 시마시타", exampleMeaning: "철봉에서 역상을 했습니다.",
+    breakdown: [
+      { word: "逆上がり", reading: "さかあがり", meaning: "역상" }
+    ] },
+  { level: "N5", kanji: "うんてい", reading: "うんてい", korean: "운테-", meaning: "구름사다리",
+    example: "うんていで遊びました。", exampleReading: "うんていであそびました。", exampleKorean: "운테-데 아소비마시타", exampleMeaning: "구름사다리에서 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
+  { level: "N5", kanji: "シーソー", reading: "シーソー", korean: "시-소-", meaning: "시소",
+    example: "シーソーで遊びました。", exampleReading: "シーソーであそびました。", exampleKorean: "시-소-데 아소비마시타", exampleMeaning: "시소를 타고 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
