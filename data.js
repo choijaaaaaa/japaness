@@ -7793,6 +7793,256 @@ const VOCAB = [
     breakdown: [
       { word: "書き込みました", reading: "かきこみました", meaning: "글을 남겼습니다" }
     ] },
+  { level: "N4", kanji: "入院手続き", reading: "にゅういんてつづき", korean: "뉴-인테츠즈키", meaning: "입원 절차",
+    example: "入院手続きをしました。", exampleReading: "にゅういんてつづきをしました。", exampleKorean: "뉴-인테츠즈키오 시마시타", exampleMeaning: "입원 절차를 밟았습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "退院手続き", reading: "たいいんてつづき", korean: "타이인테츠즈키", meaning: "퇴원 절차",
+    example: "退院手続きに時間がかかりました。", exampleReading: "たいいんてつづきにじかんがかかりました。", exampleKorean: "타이인테츠즈키니 지캉가 카카리마시타", exampleMeaning: "퇴원 절차에 시간이 걸렸습니다.",
+    breakdown: [
+      { word: "時間", reading: "じかん", meaning: "시간" }
+    ] },
+  { level: "N4", kanji: "手術同意書", reading: "しゅじゅつどういしょ", korean: "슈쥬츠도-이쇼", meaning: "수술 동의서",
+    example: "手術同意書にサインしました。", exampleReading: "しゅじゅつどういしょにサインしました。", exampleKorean: "슈쥬츠도-이쇼니 사인 시마시타", exampleMeaning: "수술 동의서에 서명했습니다.",
+    breakdown: [
+      { word: "サイン", reading: "サイン", meaning: "서명" }
+    ] },
+  { level: "N4", kanji: "麻酔科", reading: "ますいか", korean: "마스이카", meaning: "마취과",
+    example: "麻酔科の医師と話しました。", exampleReading: "ますいかのいしとはなしました。", exampleKorean: "마스이카노 이시토 하나시마시타", exampleMeaning: "마취과 의사와 이야기했습니다.",
+    breakdown: [
+      { word: "医師", reading: "いし", meaning: "의사" }
+    ] },
+  { level: "N4", kanji: "外科", reading: "げか", korean: "게카", meaning: "외과",
+    example: "外科で手術を受けました。", exampleReading: "げかでしゅじゅつをうけました。", exampleKorean: "게카데 슈쥬츠오 우케마시타", exampleMeaning: "외과에서 수술을 받았습니다.",
+    breakdown: [
+      { word: "手術", reading: "しゅじゅつ", meaning: "수술" }
+    ] },
+  { level: "N4", kanji: "内科", reading: "ないか", korean: "나이카", meaning: "내과",
+    example: "内科で診てもらいました。", exampleReading: "ないかでみてもらいました。", exampleKorean: "나이카데 미테 모라이마시타", exampleMeaning: "내과에서 진찰을 받았습니다.",
+    breakdown: [
+      { word: "診て", reading: "みて", meaning: "진찰해서" }
+    ] },
+  { level: "N4", kanji: "歯科", reading: "しか", korean: "시카", meaning: "치과",
+    example: "歯科で検診を受けました。", exampleReading: "しかでけんしんをうけました。", exampleKorean: "시카데 켄싱오 우케마시타", exampleMeaning: "치과에서 검진을 받았습니다.",
+    breakdown: [
+      { word: "検診", reading: "けんしん", meaning: "검진" }
+    ] },
+  { level: "N4", kanji: "皮膚科", reading: "ひふか", korean: "히후카", meaning: "피부과",
+    example: "皮膚科に通っています。", exampleReading: "ひふかにかよっています。", exampleKorean: "히후카니 카욧테 이마스", exampleMeaning: "피부과에 다니고 있습니다.",
+    breakdown: [
+      { word: "通って", reading: "かよって", meaning: "다녀서" }
+    ] },
+  { level: "N4", kanji: "眼科", reading: "がんか", korean: "간카", meaning: "안과",
+    example: "眼科で視力を測りました。", exampleReading: "がんかでしりょくをはかりました。", exampleKorean: "간카데 시료쿠오 하카리마시타", exampleMeaning: "안과에서 시력을 측정했습니다.",
+    breakdown: [
+      { word: "視力", reading: "しりょく", meaning: "시력" }
+    ] },
+  { level: "N4", kanji: "耳鼻科", reading: "じびか", korean: "지비카", meaning: "이비인후과",
+    example: "耳鼻科で診てもらいました。", exampleReading: "じびかでみてもらいました。", exampleKorean: "지비카데 미테 모라이마시타", exampleMeaning: "이비인후과에서 진찰을 받았습니다.",
+    breakdown: [
+      { word: "診て", reading: "みて", meaning: "진찰해서" }
+    ] },
+  { level: "N4", kanji: "産婦人科", reading: "さんふじんか", korean: "산후진카", meaning: "산부인과",
+    example: "産婦人科で検診を受けました。", exampleReading: "さんふじんかでけんしんをうけました。", exampleKorean: "산후진카데 켄싱오 우케마시타", exampleMeaning: "산부인과에서 검진을 받았습니다.",
+    breakdown: [
+      { word: "検診", reading: "けんしん", meaning: "검진" }
+    ] },
+  { level: "N4", kanji: "小児科", reading: "しょうにか", korean: "쇼-니카", meaning: "소아과",
+    example: "小児科に子供を連れて行きました。", exampleReading: "しょうにかにこどもをつれていきました。", exampleKorean: "쇼-니카니 코도모오 츠레테 이키마시타", exampleMeaning: "소아과에 아이를 데려갔습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N4", kanji: "精神科", reading: "せいしんか", korean: "세-신카", meaning: "정신과",
+    example: "精神科に通院しています。", exampleReading: "せいしんかにつういんしています。", exampleKorean: "세-신카니 츠-인 시테 이마스", exampleMeaning: "정신과에 통원하고 있습니다.",
+    breakdown: [
+      { word: "通院", reading: "つういん", meaning: "통원" }
+    ] },
+  { level: "N4", kanji: "整形外科", reading: "せいけいげか", korean: "세-케-게카", meaning: "정형외과",
+    example: "整形外科で治療を受けました。", exampleReading: "せいけいげかでちりょうをうけました。", exampleKorean: "세-케-게카데 치료-오 우케마시타", exampleMeaning: "정형외과에서 치료를 받았습니다.",
+    breakdown: [
+      { word: "治療", reading: "ちりょう", meaning: "치료" }
+    ] },
+  { level: "N4", kanji: "救急外来", reading: "きゅうきゅうがいらい", korean: "큐-큐-가이라이", meaning: "응급실",
+    example: "救急外来に運ばれました。", exampleReading: "きゅうきゅうがいらいにはこばれました。", exampleKorean: "큐-큐-가이라이니 하코바레마시타", exampleMeaning: "응급실로 옮겨졌습니다.",
+    breakdown: [
+      { word: "運ばれました", reading: "はこばれました", meaning: "옮겨졌습니다" }
+    ] },
+  { level: "N4", kanji: "夜間診療", reading: "やかんしんりょう", korean: "야칸신료-", meaning: "야간진료",
+    example: "夜間診療を受けました。", exampleReading: "やかんしんりょうをうけました。", exampleKorean: "야칸신료-오 우케마시타", exampleMeaning: "야간진료를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "当直医", reading: "とうちょくい", korean: "토-쵸쿠이", meaning: "당직의",
+    example: "当直医が対応してくれました。", exampleReading: "とうちょくいがたいおうしてくれました。", exampleKorean: "토-쵸쿠이가 타이오-시테 쿠레마시타", exampleMeaning: "당직의가 대응해 주었습니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N4", kanji: "担当医", reading: "たんとうい", korean: "탄토-이", meaning: "담당의",
+    example: "担当医に相談しました。", exampleReading: "たんとういにそうだんしました。", exampleKorean: "탄토-이니 소-단 시마시타", exampleMeaning: "담당의에게 상담했습니다.",
+    breakdown: [
+      { word: "相談", reading: "そうだん", meaning: "상담" }
+    ] },
+  { level: "N4", kanji: "主治医", reading: "しゅじい", korean: "슈지이", meaning: "주치의",
+    example: "主治医に診てもらいました。", exampleReading: "しゅじいにみてもらいました。", exampleKorean: "슈지이니 미테 모라이마시타", exampleMeaning: "주치의에게 진찰받았습니다.",
+    breakdown: [
+      { word: "診て", reading: "みて", meaning: "진찰해서" }
+    ] },
+  { level: "N4", kanji: "セカンドオピニオン", reading: "セカンドオピニオン", korean: "세칸도오피니온", meaning: "세컨드 오피니언",
+    example: "セカンドオピニオンを求めました。", exampleReading: "セカンドオピニオンをもとめました。", exampleKorean: "세칸도오피니온오 모토메마시타", exampleMeaning: "세컨드 오피니언을 구했습니다.",
+    breakdown: [
+      { word: "求めました", reading: "もとめました", meaning: "구했습니다" }
+    ] },
+  { level: "N4", kanji: "処方箋", reading: "しょほうせん", korean: "쇼호-센", meaning: "처방전",
+    example: "処方箋をもらいました。", exampleReading: "しょほうせんをもらいました。", exampleKorean: "쇼호-셍오 모라이마시타", exampleMeaning: "처방전을 받았습니다.",
+    breakdown: [
+      { word: "もらいました", reading: "もらいました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "調剤", reading: "ちょうざい", korean: "쵸-자이", meaning: "조제",
+    example: "薬局で調剤してもらいました。", exampleReading: "やっきょくでちょうざいしてもらいました。", exampleKorean: "약쿄쿠데 쵸-자이 시테 모라이마시타", exampleMeaning: "약국에서 조제받았습니다.",
+    breakdown: [
+      { word: "薬局", reading: "やっきょく", meaning: "약국" }
+    ] },
+  { level: "N4", kanji: "服薬", reading: "ふくやく", korean: "후쿠야쿠", meaning: "복약",
+    example: "服薬を続けています。", exampleReading: "ふくやくをつづけています。", exampleKorean: "후쿠야쿠오 츠즈케테 이마스", exampleMeaning: "복약을 계속하고 있습니다.",
+    breakdown: [
+      { word: "続けて", reading: "つづけて", meaning: "계속해서" }
+    ] },
+  { level: "N4", kanji: "常備薬", reading: "じょうびやく", korean: "죠-비야쿠", meaning: "상비약",
+    example: "常備薬を用意しています。", exampleReading: "じょうびやくをよういしています。", exampleKorean: "죠-비야쿠오 요-이 시테 이마스", exampleMeaning: "상비약을 준비해 두고 있습니다.",
+    breakdown: [
+      { word: "用意", reading: "よい", meaning: "준비" }
+    ] },
+  { level: "N4", kanji: "頓服薬", reading: "とんぷくやく", korean: "톰푸쿠야쿠", meaning: "돈복약(필요시 복용약)",
+    example: "頓服薬をもらいました。", exampleReading: "とんぷくやくをもらいました。", exampleKorean: "톰푸쿠야쿠오 모라이마시타", exampleMeaning: "돈복약을 받았습니다.",
+    breakdown: [
+      { word: "もらいました", reading: "もらいました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "医療費", reading: "いりょうひ", korean: "이료-히", meaning: "의료비",
+    example: "医療費が高くなっています。", exampleReading: "いりょうひがたかくなっています。", exampleKorean: "이료-히가 타카쿠 낫테 이마스", exampleMeaning: "의료비가 비싸지고 있습니다.",
+    breakdown: [
+      { word: "高く", reading: "たかく", meaning: "비싸게" }
+    ] },
+  { level: "N4", kanji: "自己負担", reading: "じこふたん", korean: "지코후탄", meaning: "본인부담",
+    example: "自己負担は三割です。", exampleReading: "じこふたんはさんわりです。", exampleKorean: "지코후탄와 산와리데스", exampleMeaning: "본인부담은 30%입니다.",
+    breakdown: [
+      { word: "三割", reading: "さんわり", meaning: "30%" }
+    ] },
+  { level: "N4", kanji: "医療保険", reading: "いりょうほけん", korean: "이료-호켄", meaning: "의료보험",
+    example: "医療保険に加入しています。", exampleReading: "いりょうほけんにかにゅうしています。", exampleKorean: "이료-호켄니 카뉴- 시테 이마스", exampleMeaning: "의료보험에 가입해 있습니다.",
+    breakdown: [
+      { word: "加入", reading: "かにゅう", meaning: "가입" }
+    ] },
+  { level: "N4", kanji: "かかりつけ医", reading: "かかりつけい", korean: "카카리츠케이", meaning: "단골의사",
+    example: "かかりつけ医に相談しました。", exampleReading: "かかりつけいにそうだんしました。", exampleKorean: "카카리츠케이니 소-단 시마시타", exampleMeaning: "단골의사에게 상담했습니다.",
+    breakdown: [
+      { word: "相談", reading: "そうだん", meaning: "상담" }
+    ] },
+  { level: "N4", kanji: "総合病院", reading: "そうごうびょういん", korean: "소-고-뵤-인", meaning: "종합병원",
+    example: "総合病院で検査を受けました。", exampleReading: "そうごうびょういんでけんさをうけました。", exampleKorean: "소-고-뵤-인데 켄사오 우케마시타", exampleMeaning: "종합병원에서 검사를 받았습니다.",
+    breakdown: [
+      { word: "検査", reading: "けんさ", meaning: "검사" }
+    ] },
+  { level: "N4", kanji: "大学病院", reading: "だいがくびょういん", korean: "다이가쿠뵤-인", meaning: "대학병원",
+    example: "大学病院を紹介されました。", exampleReading: "だいがくびょういんをしょうかいされました。", exampleKorean: "다이가쿠뵤-인오 쇼-카이 사레마시타", exampleMeaning: "대학병원을 소개받았습니다.",
+    breakdown: [
+      { word: "紹介", reading: "しょうかい", meaning: "소개" }
+    ] },
+  { level: "N4", kanji: "クリニック", reading: "クリニック", korean: "쿠리닉쿠", meaning: "클리닉",
+    example: "近所のクリニックに行きました。", exampleReading: "きんじょのクリニックにいきました。", exampleKorean: "킨죠노 쿠리닉쿠니 이키마시타", exampleMeaning: "근처 클리닉에 갔습니다.",
+    breakdown: [
+      { word: "近所", reading: "きんじょ", meaning: "근처" }
+    ] },
+  { level: "N4", kanji: "開業医", reading: "かいぎょうい", korean: "카이교-이", meaning: "개업의",
+    example: "開業医として働いています。", exampleReading: "かいぎょういとしてはたらいています。", exampleKorean: "카이교-이토시테 하타라이테 이마스", exampleMeaning: "개업의로서 일하고 있습니다.",
+    breakdown: [
+      { word: "働いて", reading: "はたらいて", meaning: "일해서" }
+    ] },
+  { level: "N4", kanji: "往診", reading: "おうしん", korean: "오-신", meaning: "왕진",
+    example: "医師が往診に来ました。", exampleReading: "いしがおうしんにきました。", exampleKorean: "이시가 오-신니 키마시타", exampleMeaning: "의사가 왕진을 왔습니다.",
+    breakdown: [
+      { word: "医師", reading: "いし", meaning: "의사" }
+    ] },
+  { level: "N4", kanji: "リハビリ", reading: "リハビリ", korean: "리하비리", meaning: "재활",
+    example: "毎日リハビリをしています。", exampleReading: "まいにちリハビリをしています。", exampleKorean: "마이니치 리하비리오 시테 이마스", exampleMeaning: "매일 재활을 하고 있습니다.",
+    breakdown: [
+      { word: "毎日", reading: "まいにち", meaning: "매일" }
+    ] },
+  { level: "N4", kanji: "理学療法", reading: "りがくりょうほう", korean: "리가쿠료-호-", meaning: "물리치료",
+    example: "理学療法を受けています。", exampleReading: "りがくりょうほうをうけています。", exampleKorean: "리가쿠료-호-오 우케테 이마스", exampleMeaning: "물리치료를 받고 있습니다.",
+    breakdown: [
+      { word: "受けて", reading: "うけて", meaning: "받아서" }
+    ] },
+  { level: "N4", kanji: "検査結果", reading: "けんさけっか", korean: "켄사켁카", meaning: "검사결과",
+    example: "検査結果を待っています。", exampleReading: "けんさけっかをまっています。", exampleKorean: "켄사켁카오 맛테 이마스", exampleMeaning: "검사결과를 기다리고 있습니다.",
+    breakdown: [
+      { word: "待って", reading: "まって", meaning: "기다려서" }
+    ] },
+  { level: "N4", kanji: "血液検査", reading: "けつえきけんさ", korean: "케츠에키켄사", meaning: "혈액검사",
+    example: "血液検査を受けました。", exampleReading: "けつえきけんさをうけました。", exampleKorean: "케츠에키켄사오 우케마시타", exampleMeaning: "혈액검사를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "レントゲン", reading: "レントゲン", korean: "렌토겐", meaning: "엑스레이",
+    example: "レントゲンを撮りました。", exampleReading: "レントゲンをとりました。", exampleKorean: "렌토겐오 토리마시타", exampleMeaning: "엑스레이를 찍었습니다.",
+    breakdown: [
+      { word: "撮りました", reading: "とりました", meaning: "찍었습니다" }
+    ] },
+  { level: "N4", kanji: "超音波検査", reading: "ちょうおんぱけんさ", korean: "쵸-온파켄사", meaning: "초음파검사",
+    example: "超音波検査を受けました。", exampleReading: "ちょうおんぱけんさをうけました。", exampleKorean: "쵸-온파켄사오 우케마시타", exampleMeaning: "초음파검사를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "内視鏡", reading: "ないしきょう", korean: "나이시쿄-", meaning: "내시경",
+    example: "内視鏡検査を受けました。", exampleReading: "ないしきょうけんさをうけました。", exampleKorean: "나이시쿄-켄사오 우케마시타", exampleMeaning: "내시경검사를 받았습니다.",
+    breakdown: [
+      { word: "検査", reading: "けんさ", meaning: "검사" }
+    ] },
+  { level: "N4", kanji: "胃カメラ", reading: "いカメラ", korean: "이카메라", meaning: "위내시경",
+    example: "胃カメラの検査をしました。", exampleReading: "いカメラのけんさをしました。", exampleKorean: "이카메라노 켄사오 시마시타", exampleMeaning: "위내시경 검사를 했습니다.",
+    breakdown: [
+      { word: "検査", reading: "けんさ", meaning: "검사" }
+    ] },
+  { level: "N4", kanji: "健康診断", reading: "けんこうしんだん", korean: "켄코-신단", meaning: "건강진단",
+    example: "会社で健康診断を受けました。", exampleReading: "かいしゃでけんこうしんだんをうけました。", exampleKorean: "카이샤데 켄코-신단오 우케마시타", exampleMeaning: "회사에서 건강진단을 받았습니다.",
+    breakdown: [
+      { word: "会社", reading: "かいしゃ", meaning: "회사" }
+    ] },
+  { level: "N4", kanji: "人間ドック", reading: "にんげんドック", korean: "닝겐돗쿠", meaning: "종합건강검진",
+    example: "人間ドックを受診しました。", exampleReading: "にんげんドックをじゅしんしました。", exampleKorean: "닝겐돗쿠오 쥬신 시마시타", exampleMeaning: "종합건강검진을 받았습니다.",
+    breakdown: [
+      { word: "受診", reading: "じゅしん", meaning: "진료 받음" }
+    ] },
+  { level: "N4", kanji: "持病", reading: "じびょう", korean: "지뵤-", meaning: "지병",
+    example: "持病を抱えています。", exampleReading: "じびょうをかかえています。", exampleKorean: "지뵤-오 카카에테 이마스", exampleMeaning: "지병을 가지고 있습니다.",
+    breakdown: [
+      { word: "抱えて", reading: "かかえて", meaning: "가지고 있어서" }
+    ] },
+  { level: "N4", kanji: "慢性", reading: "まんせい", korean: "만세-", meaning: "만성",
+    example: "慢性の病気があります。", exampleReading: "まんせいのびょうきがあります。", exampleKorean: "만세-노 뵤-키가 아리마스", exampleMeaning: "만성 질환이 있습니다.",
+    breakdown: [
+      { word: "病気", reading: "びょうき", meaning: "병" }
+    ] },
+  { level: "N4", kanji: "急性", reading: "きゅうせい", korean: "큐-세-", meaning: "급성",
+    example: "急性の症状が出ました。", exampleReading: "きゅうせいのしょうじょうがでました。", exampleKorean: "큐-세-노 쇼-죠-가 데마시타", exampleMeaning: "급성 증상이 나타났습니다.",
+    breakdown: [
+      { word: "症状", reading: "しょうじょう", meaning: "증상" }
+    ] },
+  { level: "N4", kanji: "完治", reading: "かんち", korean: "칸치", meaning: "완치",
+    example: "病気が完治しました。", exampleReading: "びょうきがかんちしました。", exampleKorean: "뵤-키가 칸치 시마시타", exampleMeaning: "병이 완치되었습니다.",
+    breakdown: [
+      { word: "病気", reading: "びょうき", meaning: "병" }
+    ] },
+  { level: "N4", kanji: "経過観察", reading: "けいかかんさつ", korean: "케-카칸사츠", meaning: "경과관찰",
+    example: "しばらく経過観察をします。", exampleReading: "しばらくけいかかんさつをします。", exampleKorean: "시바라쿠 케-카칸사츠오 시마스", exampleMeaning: "당분간 경과관찰을 합니다.",
+    breakdown: [
+      { word: "しばらく", reading: "しばらく", meaning: "당분간" }
+    ] },
+  { level: "N4", kanji: "初診", reading: "しょしん", korean: "쇼신", meaning: "초진",
+    example: "初診の受付をしました。", exampleReading: "しょしんのうけつけをしました。", exampleKorean: "쇼신노 우케츠케오 시마시타", exampleMeaning: "초진 접수를 했습니다.",
+    breakdown: [
+      { word: "受付", reading: "うけつけ", meaning: "접수" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
