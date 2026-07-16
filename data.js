@@ -21591,4 +21591,149 @@ const VOCAB = [
     breakdown: [
       { word: "感謝", reading: "かんしゃ", meaning: "감사" }
     ] },
+  { level: "N1", kanji: "寂寥", reading: "せきりょう", korean: "세키료-", meaning: "적요(쓸쓸함)",
+    example: "寂寥とした風景でした。", exampleReading: "せきりょうとしたふうけいでした。", exampleKorean: "세키료-토시타 후-케-데시타", exampleMeaning: "적요한 풍경이었습니다.",
+    breakdown: [
+      { word: "風景", reading: "ふうけい", meaning: "풍경" }
+    ] },
+  { level: "N1", kanji: "虚無感", reading: "きょむかん", korean: "쿄무칸", meaning: "허무감",
+    example: "虚無感に襲われました。", exampleReading: "きょむかんにおそわれました。", exampleKorean: "쿄무칸니 오소와레마시타", exampleMeaning: "허무감에 사로잡혔습니다.",
+    breakdown: [
+      { word: "襲われました", reading: "おそわれました", meaning: "사로잡혔습니다" }
+    ] },
+  { level: "N1", kanji: "空虚", reading: "くうきょ", korean: "쿠-쿄", meaning: "공허함",
+    example: "心が空虚になりました。", exampleReading: "こころがくうきょになりました。", exampleKorean: "코코로가 쿠-쿄니 나리마시타", exampleMeaning: "마음이 공허해졌습니다.",
+    breakdown: [
+      { word: "心", reading: "こころ", meaning: "마음" }
+    ] },
+  { level: "N1", kanji: "空漠", reading: "くうばく", korean: "쿠-바쿠", meaning: "공막함(막연하고 텅 빔)",
+    example: "空漠とした不安を感じました。", exampleReading: "くうばくとしたふあんをかんじました。", exampleKorean: "쿠-바쿠토시타 후앙오 칸지마시타", exampleMeaning: "막연한 불안을 느꼈습니다.",
+    breakdown: [
+      { word: "不安", reading: "ふあん", meaning: "불안" }
+    ] },
+  { level: "N1", kanji: "茫漠", reading: "ぼうばく", korean: "보-바쿠", meaning: "망막함(아득하고 막연함)",
+    example: "茫漠とした未来が見えません。", exampleReading: "ぼうばくとしたみらいがみえません。", exampleKorean: "보-바쿠토시타 미라이가 미에마셍", exampleMeaning: "막연한 미래가 보이지 않습니다.",
+    breakdown: [
+      { word: "未来", reading: "みらい", meaning: "미래" }
+    ] },
+  { level: "N1", kanji: "漠とした", reading: "ばくとした", korean: "바쿠토시타", meaning: "막연한",
+    example: "漠とした不安があります。", exampleReading: "ばくとしたふあんがあります。", exampleKorean: "바쿠토시타 후앙가 아리마스", exampleMeaning: "막연한 불안이 있습니다.",
+    breakdown: [
+      { word: "不安", reading: "ふあん", meaning: "불안" }
+    ] },
+  { level: "N1", kanji: "漠然たる", reading: "ばくぜんたる", korean: "바쿠젠타루", meaning: "막연한",
+    example: "漠然たる希望を抱いています。", exampleReading: "ばくぜんたるきぼうをいだいています。", exampleKorean: "바쿠젠타루 키보-오 이다이테 이마스", exampleMeaning: "막연한 희망을 품고 있습니다.",
+    breakdown: [
+      { word: "希望", reading: "きぼう", meaning: "희망" }
+    ] },
+  { level: "N1", kanji: "荒涼", reading: "こうりょう", korean: "코-료-", meaning: "황량함",
+    example: "荒涼とした景色が広がっていました。", exampleReading: "こうりょうとしたけしきがひろがっていました。", exampleKorean: "코-료-토시타 케시키가 히로갓테 이마시타", exampleMeaning: "황량한 풍경이 펼쳐져 있었습니다.",
+    breakdown: [
+      { word: "景色", reading: "けしき", meaning: "풍경" }
+    ] },
+  { level: "N1", kanji: "荒れ果てる", reading: "あれはてる", korean: "아레하테루", meaning: "완전히 황폐해지다",
+    example: "家が荒れ果てていました。", exampleReading: "いえがあれはてていました。", exampleKorean: "이에가 아레하테테 이마시타", exampleMeaning: "집이 완전히 황폐해져 있었습니다.",
+    breakdown: [
+      { word: "家", reading: "いえ", meaning: "집" }
+    ] },
+  { level: "N1", kanji: "侘しさ", reading: "わびしさ", korean: "와비시사", meaning: "쓸쓸함",
+    example: "一人暮らしの侘しさを感じます。", exampleReading: "ひとりぐらしのわびしさをかんじます。", exampleKorean: "히토리구라시노 와비시사오 칸지마스", exampleMeaning: "혼자 사는 쓸쓸함을 느낍니다.",
+    breakdown: [
+      { word: "一人暮らし", reading: "ひとりぐらし", meaning: "혼자 살기" }
+    ] },
+  { level: "N1", kanji: "孤高", reading: "ここう", korean: "코코-", meaning: "고고함(홀로 높이 섬)",
+    example: "孤高の存在です。", exampleReading: "ここうのそんざいです。", exampleKorean: "코코-노 손자이데스", exampleMeaning: "고고한 존재입니다.",
+    breakdown: [
+      { word: "存在", reading: "そんざい", meaning: "존재" }
+    ] },
+  { level: "N1", kanji: "孤影", reading: "こえい", korean: "코에-", meaning: "고독한 그림자",
+    example: "孤影を見せていました。", exampleReading: "こえいをみせていました。", exampleKorean: "코에이오 미세테 이마시타", exampleMeaning: "고독한 모습을 보였습니다.",
+    breakdown: [
+      { word: "見せて", reading: "みせて", meaning: "보여서" }
+    ] },
+  { level: "N1", kanji: "独居", reading: "どっきょ", korean: "독쿄", meaning: "독거",
+    example: "祖母は独居しています。", exampleReading: "そぼはどっきょしています。", exampleKorean: "소보와 독쿄 시테 이마스", exampleMeaning: "할머니는 독거하고 있습니다.",
+    breakdown: [
+      { word: "祖母", reading: "そぼ", meaning: "할머니" }
+    ] },
+  { level: "N1", kanji: "孤絶", reading: "こぜつ", korean: "코제츠", meaning: "고절(고립되어 단절됨)",
+    example: "孤絶した状況に置かれました。", exampleReading: "こぜつしたじょうきょうにおかれました。", exampleKorean: "코제츠시타 죠-쿄-니 오카레마시타", exampleMeaning: "고립된 상황에 놓였습니다.",
+    breakdown: [
+      { word: "状況", reading: "じょうきょう", meaning: "상황" }
+    ] },
+  { level: "N1", kanji: "断絶感", reading: "だんぜつかん", korean: "단제츠칸", meaning: "단절감",
+    example: "世代間の断絶感があります。", exampleReading: "せだいかんのだんぜつかんがあります。", exampleKorean: "세다이칸노 단제츠캉가 아리마스", exampleMeaning: "세대 간의 단절감이 있습니다.",
+    breakdown: [
+      { word: "世代間", reading: "せだいかん", meaning: "세대 간" }
+    ] },
+  { level: "N1", kanji: "疎外感", reading: "そがいかん", korean: "소가이칸", meaning: "소외감",
+    example: "疎外感を感じました。", exampleReading: "そがいかんをかんじました。", exampleKorean: "소가이캉오 칸지마시타", exampleMeaning: "소외감을 느꼈습니다.",
+    breakdown: [
+      { word: "感じました", reading: "かんじました", meaning: "느꼈습니다" }
+    ] },
+  { level: "N1", kanji: "疎外", reading: "そがい", korean: "소가이", meaning: "소외",
+    example: "社会から疎外されています。", exampleReading: "しゃかいからそがいされています。", exampleKorean: "샤카이카라 소가이사레테 이마스", exampleMeaning: "사회로부터 소외되고 있습니다.",
+    breakdown: [
+      { word: "社会", reading: "しゃかい", meaning: "사회" }
+    ] },
+  { level: "N1", kanji: "孤独感", reading: "こどくかん", korean: "코도쿠칸", meaning: "고독감",
+    example: "孤独感に苦しんでいます。", exampleReading: "こどくかんにくるしんでいます。", exampleKorean: "코도쿠칸니 쿠루신데 이마스", exampleMeaning: "고독감에 시달리고 있습니다.",
+    breakdown: [
+      { word: "苦しんで", reading: "くるしんで", meaning: "시달려서" }
+    ] },
+  { level: "N1", kanji: "無常観", reading: "むじょうかん", korean: "무죠-칸", meaning: "무상관(덧없음을 느끼는 관점)",
+    example: "無常観を抱いています。", exampleReading: "むじょうかんをいだいています。", exampleKorean: "무죠-캉오 이다이테 이마스", exampleMeaning: "무상관을 품고 있습니다.",
+    breakdown: [
+      { word: "抱いて", reading: "いだいて", meaning: "품고 있어서" }
+    ] },
+  { level: "N1", kanji: "無常", reading: "むじょう", korean: "무죠-", meaning: "무상함",
+    example: "人生の無常を感じました。", exampleReading: "じんせいのむじょうをかんじました。", exampleKorean: "진세-노 무죠-오 칸지마시타", exampleMeaning: "인생의 무상함을 느꼈습니다.",
+    breakdown: [
+      { word: "人生", reading: "じんせい", meaning: "인생" }
+    ] },
+  { level: "N1", kanji: "諸行無常", reading: "しょぎょうむじょう", korean: "쇼교-무죠-", meaning: "제행무상",
+    example: "諸行無常という言葉があります。", exampleReading: "しょぎょうむじょうということばがあります。", exampleKorean: "쇼교-무죠-토이우 코토바가 아리마스", exampleMeaning: "제행무상이라는 말이 있습니다.",
+    breakdown: [
+      { word: "言葉", reading: "ことば", meaning: "말" }
+    ] },
+  { level: "N1", kanji: "儚さ", reading: "はかなさ", korean: "하카나사", meaning: "덧없음",
+    example: "人生の儚さを実感しました。", exampleReading: "じんせいのはかなさをじっかんしました。", exampleKorean: "진세-노 하카나사오 직칸 시마시타", exampleMeaning: "인생의 덧없음을 실감했습니다.",
+    breakdown: [
+      { word: "実感", reading: "じっかん", meaning: "실감" }
+    ] },
+  { level: "N1", kanji: "空しさ", reading: "むなしさ", korean: "무나시사", meaning: "허무함",
+    example: "勝利の後の空しさを感じました。", exampleReading: "しょうりのあとのむなしさをかんじました。", exampleKorean: "쇼-리노 아토노 무나시사오 칸지마시타", exampleMeaning: "승리 후의 허무함을 느꼈습니다.",
+    breakdown: [
+      { word: "勝利", reading: "しょうり", meaning: "승리" }
+    ] },
+  { level: "N1", kanji: "徒労感", reading: "とろうかん", korean: "토로-칸", meaning: "헛수고한 느낌",
+    example: "徒労感に襲われました。", exampleReading: "とろうかんにおそわれました。", exampleKorean: "토로-칸니 오소와레마시타", exampleMeaning: "헛수고한 느낌에 사로잡혔습니다.",
+    breakdown: [
+      { word: "襲われました", reading: "おそわれました", meaning: "사로잡혔습니다" }
+    ] },
+  { level: "N1", kanji: "喪失感", reading: "そうしつかん", korean: "소-시츠칸", meaning: "상실감",
+    example: "大きな喪失感を味わいました。", exampleReading: "おおきなそうしつかんをあじわいました。", exampleKorean: "오-키나 소-시츠캉오 아지와이마시타", exampleMeaning: "큰 상실감을 맛봤습니다.",
+    breakdown: [
+      { word: "味わいました", reading: "あじわいました", meaning: "맛봤습니다" }
+    ] },
+  { level: "N1", kanji: "欠落感", reading: "けつらくかん", korean: "케츠라쿠칸", meaning: "결핍감",
+    example: "心に欠落感があります。", exampleReading: "こころにけつらくかんがあります。", exampleKorean: "코코로니 케츠라쿠캉가 아리마스", exampleMeaning: "마음에 결핍감이 있습니다.",
+    breakdown: [
+      { word: "心", reading: "こころ", meaning: "마음" }
+    ] },
+  { level: "N1", kanji: "空白感", reading: "くうはくかん", korean: "쿠-하쿠칸", meaning: "공백감",
+    example: "引退後、空白感を覚えました。", exampleReading: "いんたいご、くうはくかんをおぼえました。", exampleKorean: "인타이고, 쿠-하쿠캉오 오보에마시타", exampleMeaning: "은퇴 후 공백감을 느꼈습니다.",
+    breakdown: [
+      { word: "引退後", reading: "いんたいご", meaning: "은퇴 후" }
+    ] },
+  { level: "N1", kanji: "虚脱感", reading: "きょだつかん", korean: "쿄다츠칸", meaning: "허탈감",
+    example: "試験後、虚脱感に包まれました。", exampleReading: "しけんご、きょだつかんにつつまれました。", exampleKorean: "시켄고, 쿄다츠칸니 츠츠마레마시타", exampleMeaning: "시험 후 허탈감에 휩싸였습니다.",
+    breakdown: [
+      { word: "試験後", reading: "しけんご", meaning: "시험 후" }
+    ] },
+  { level: "N1", kanji: "倦怠感", reading: "けんたいかん", korean: "켄타이칸", meaning: "권태감",
+    example: "倦怠感を覚えています。", exampleReading: "けんたいかんをおぼえています。", exampleKorean: "켄타이캉오 오보에테 이마스", exampleMeaning: "권태감을 느끼고 있습니다.",
+    breakdown: [
+      { word: "覚えて", reading: "おぼえて", meaning: "느끼고 있어서" }
+    ] },
 ];
