@@ -16728,6 +16728,206 @@ const VOCAB = [
     breakdown: [
       { word: "推進", reading: "すいしん", meaning: "추진" }
     ] },
+  { level: "N3", kanji: "論拠", reading: "ろんきょ", korean: "론쿄", meaning: "논거",
+    example: "論拠を示してください。", exampleReading: "ろんきょをしめしてください。", exampleKorean: "론쿄오 시메시테 쿠다사이", exampleMeaning: "논거를 제시해 주세요.",
+    breakdown: [
+      { word: "示して", reading: "しめして", meaning: "제시해서" }
+    ] },
+  { level: "N3", kanji: "立論", reading: "りつろん", korean: "리츠론", meaning: "입론",
+    example: "明確な立論を展開しました。", exampleReading: "めいかくなりつろんをてんかいしました。", exampleKorean: "메-카쿠나 리츠론오 텐카이 시마시타", exampleMeaning: "명확한 입론을 전개했습니다.",
+    breakdown: [
+      { word: "展開", reading: "てんかい", meaning: "전개" }
+    ] },
+  { level: "N3", kanji: "反証", reading: "はんしょう", korean: "한쇼-", meaning: "반증",
+    example: "反証を挙げました。", exampleReading: "はんしょうをあげました。", exampleKorean: "한쇼-오 아게마시타", exampleMeaning: "반증을 들었습니다.",
+    breakdown: [
+      { word: "挙げました", reading: "あげました", meaning: "들었습니다" }
+    ] },
+  { level: "N3", kanji: "検証可能性", reading: "けんしょうかのうせい", korean: "켄쇼-카노-세-", meaning: "검증가능성",
+    example: "検証可能性が重要です。", exampleReading: "けんしょうかのうせいがじゅうようです。", exampleKorean: "켄쇼-카노-세-가 쥬-요-데스", exampleMeaning: "검증가능성이 중요합니다.",
+    breakdown: [
+      { word: "重要", reading: "じゅうよう", meaning: "중요" }
+    ] },
+  { level: "N3", kanji: "再現性", reading: "さいげんせい", korean: "사이겐세-", meaning: "재현성",
+    example: "実験の再現性を確認しました。", exampleReading: "じっけんのさいげんせいをかくにんしました。", exampleKorean: "직켄노 사이겐세-오 카쿠닌 시마시타", exampleMeaning: "실험의 재현성을 확인했습니다.",
+    breakdown: [
+      { word: "実験", reading: "じっけん", meaning: "실험" }
+    ] },
+  { level: "N3", kanji: "客観的事実", reading: "きゃっかんてきじじつ", korean: "캭칸테키지지츠", meaning: "객관적 사실",
+    example: "客観的事実に基づいています。", exampleReading: "きゃっかんてきじじつにもとづいています。", exampleKorean: "캭칸테키지지츠니 모토즈이테 이마스", exampleMeaning: "객관적 사실에 근거하고 있습니다.",
+    breakdown: [
+      { word: "基づいて", reading: "もとづいて", meaning: "근거해서" }
+    ] },
+  { level: "N3", kanji: "主観的判断", reading: "しゅかんてきはんだん", korean: "슈칸테키한단", meaning: "주관적 판단",
+    example: "主観的判断を避けました。", exampleReading: "しゅかんてきはんだんをさけました。", exampleKorean: "슈칸테키한단오 사케마시타", exampleMeaning: "주관적 판단을 피했습니다.",
+    breakdown: [
+      { word: "避けました", reading: "さけました", meaning: "피했습니다" }
+    ] },
+  { level: "N3", kanji: "事実誤認", reading: "じじつごにん", korean: "지지츠고닌", meaning: "사실오인",
+    example: "事実誤認がありました。", exampleReading: "じじつごにんがありました。", exampleKorean: "지지츠고닌가 아리마시타", exampleMeaning: "사실오인이 있었습니다.",
+    breakdown: [
+      { word: "ありました", reading: "ありました", meaning: "있었습니다" }
+    ] },
+  { level: "N3", kanji: "曲解", reading: "きょっかい", korean: "쿄칵카이", meaning: "곡해",
+    example: "意図を曲解されました。", exampleReading: "いとをきょっかいされました。", exampleKorean: "이토오 쿄칵카이사레마시타", exampleMeaning: "의도가 곡해되었습니다.",
+    breakdown: [
+      { word: "意図", reading: "いと", meaning: "의도" }
+    ] },
+  { level: "N3", kanji: "誤読", reading: "ごどく", korean: "고도쿠", meaning: "오독",
+    example: "文章を誤読しました。", exampleReading: "ぶんしょうをごどくしました。", exampleKorean: "분쇼-오 고도쿠 시마시타", exampleMeaning: "문장을 오독했습니다.",
+    breakdown: [
+      { word: "文章", reading: "ぶんしょう", meaning: "문장" }
+    ] },
+  { level: "N3", kanji: "深読み", reading: "ふかよみ", korean: "후카요미", meaning: "지나친 확대해석",
+    example: "深読みしすぎました。", exampleReading: "ふかよみしすぎました。", exampleKorean: "후카요미시스기마시타", exampleMeaning: "너무 확대해석했습니다.",
+    breakdown: [
+      { word: "しすぎました", reading: "しすぎました", meaning: "너무 했습니다" }
+    ] },
+  { level: "N3", kanji: "裏読み", reading: "うらよみ", korean: "우라요미", meaning: "숨은 뜻 읽기",
+    example: "裏読みをしてしまいました。", exampleReading: "うらよみをしてしまいました。", exampleKorean: "우라요미오 시테 시마이마시타", exampleMeaning: "숨은 뜻을 읽어버렸습니다.",
+    breakdown: [
+      { word: "してしまいました", reading: "してしまいました", meaning: "해버렸습니다" }
+    ] },
+  { level: "N3", kanji: "邪推", reading: "じゃすい", korean: "쟈스이", meaning: "억측",
+    example: "邪推されてしまいました。", exampleReading: "じゃすいされてしまいました。", exampleKorean: "쟈스이사레테 시마이마시타", exampleMeaning: "억측당하고 말았습니다.",
+    breakdown: [
+      { word: "されて", reading: "されて", meaning: "당해서" }
+    ] },
+  { level: "N3", kanji: "勘繰る", reading: "かんぐる", korean: "캉구루", meaning: "억측하다",
+    example: "悪意を勘繰りました。", exampleReading: "あくいをかんぐりました。", exampleKorean: "아쿠이오 캉구리마시타", exampleMeaning: "악의를 억측했습니다.",
+    breakdown: [
+      { word: "悪意", reading: "あくい", meaning: "악의" }
+    ] },
+  { level: "N3", kanji: "杞憂", reading: "きゆう", korean: "키유-", meaning: "기우",
+    example: "それは杞憂に終わりました。", exampleReading: "それはきゆうにおわりました。", exampleKorean: "소레와 키유-니 오와리마시타", exampleMeaning: "그것은 기우로 끝났습니다.",
+    breakdown: [
+      { word: "終わりました", reading: "おわりました", meaning: "끝났습니다" }
+    ] },
+  { level: "N3", kanji: "取り越し苦労", reading: "とりこしぐろう", korean: "토리코시구로-", meaning: "쓸데없는 걱정",
+    example: "取り越し苦労でした。", exampleReading: "とりこしぐろうでした。", exampleKorean: "토리코시구로-데시타", exampleMeaning: "쓸데없는 걱정이었습니다.",
+    breakdown: [
+      { word: "でした", reading: "でした", meaning: "이었습니다" }
+    ] },
+  { level: "N3", kanji: "早合点", reading: "はやがてん", korean: "하야가텐", meaning: "성급한 결론",
+    example: "早合点しないでください。", exampleReading: "はやがてんしないでください。", exampleKorean: "하야가텐시나이데 쿠다사이", exampleMeaning: "성급하게 결론짓지 마세요.",
+    breakdown: [
+      { word: "しないで", reading: "しないで", meaning: "하지 말고" }
+    ] },
+  { level: "N3", kanji: "拙速", reading: "せっそく", korean: "셋소쿠", meaning: "졸속",
+    example: "拙速な判断でした。", exampleReading: "せっそくなはんだんでした。", exampleKorean: "셋소쿠나 한단데시타", exampleMeaning: "졸속한 판단이었습니다.",
+    breakdown: [
+      { word: "判断", reading: "はんだん", meaning: "판단" }
+    ] },
+  { level: "N3", kanji: "慎重論", reading: "しんちょうろん", korean: "신쵸-론", meaning: "신중론",
+    example: "慎重論が優勢です。", exampleReading: "しんちょうろんがゆうせいです。", exampleKorean: "신쵸-론가 유-세-데스", exampleMeaning: "신중론이 우세합니다.",
+    breakdown: [
+      { word: "優勢", reading: "ゆうせい", meaning: "우세" }
+    ] },
+  { level: "N3", kanji: "楽観論", reading: "らっかんろん", korean: "락칸론", meaning: "낙관론",
+    example: "楽観論を唱えています。", exampleReading: "らっかんろんをとなえています。", exampleKorean: "락칸론오 토나에테 이마스", exampleMeaning: "낙관론을 주장하고 있습니다.",
+    breakdown: [
+      { word: "唱えて", reading: "となえて", meaning: "주장해서" }
+    ] },
+  { level: "N3", kanji: "悲観論", reading: "ひかんろん", korean: "히칸론", meaning: "비관론",
+    example: "悲観論に傾いています。", exampleReading: "ひかんろんにかたむいています。", exampleKorean: "히칸론니 카타무이테 이마스", exampleMeaning: "비관론으로 기울고 있습니다.",
+    breakdown: [
+      { word: "傾いて", reading: "かたむいて", meaning: "기울어서" }
+    ] },
+  { level: "N3", kanji: "中立論", reading: "ちゅうりつろん", korean: "츄-리츠론", meaning: "중립론",
+    example: "中立論の立場を取りました。", exampleReading: "ちゅうりつろんのたちばをとりました。", exampleKorean: "츄-리츠론노 타치바오 토리마시타", exampleMeaning: "중립론의 입장을 취했습니다.",
+    breakdown: [
+      { word: "立場", reading: "たちば", meaning: "입장" }
+    ] },
+  { level: "N3", kanji: "両論併記", reading: "りょうろんへいき", korean: "료-론헤-키", meaning: "양론병기(양쪽 의견 모두 기재)",
+    example: "両論併記の方針です。", exampleReading: "りょうろんへいきのほうしんです。", exampleKorean: "료-론헤-키노 호-신데스", exampleMeaning: "양론병기 방침입니다.",
+    breakdown: [
+      { word: "方針", reading: "ほうしん", meaning: "방침" }
+    ] },
+  { level: "N3", kanji: "是々非々", reading: "ぜぜひひ", korean: "제제히히", meaning: "시시비비(옳고 그름을 명확히 함)",
+    example: "是々非々の姿勢で臨みます。", exampleReading: "ぜぜひひのしせいでのぞみます。", exampleKorean: "제제히히노 시세-데 노조미마스", exampleMeaning: "시시비비의 자세로 임합니다.",
+    breakdown: [
+      { word: "姿勢", reading: "しせい", meaning: "자세" }
+    ] },
+  { level: "N3", kanji: "善悪二元論", reading: "ぜんあくにげんろん", korean: "젠아쿠니겐론", meaning: "선악이원론",
+    example: "善悪二元論は単純すぎます。", exampleReading: "ぜんあくにげんろんはたんじゅんすぎます。", exampleKorean: "젠아쿠니겐론와 탄쥰스기마스", exampleMeaning: "선악이원론은 너무 단순합니다.",
+    breakdown: [
+      { word: "単純すぎます", reading: "たんじゅんすぎます", meaning: "너무 단순합니다" }
+    ] },
+  { level: "N3", kanji: "白黒つける", reading: "しろくろつける", korean: "시로쿠로츠케루", meaning: "흑백을 가리다",
+    example: "白黒つけたいです。", exampleReading: "しろくろつけたいです。", exampleKorean: "시로쿠로 츠케타이데스", exampleMeaning: "흑백을 가리고 싶습니다.",
+    breakdown: [
+      { word: "つけたい", reading: "つけたい", meaning: "가리고 싶다" }
+    ] },
+  { level: "N3", kanji: "グレーゾーン", reading: "グレーゾーン", korean: "구레-존-", meaning: "그레이존(애매한 영역)",
+    example: "法律のグレーゾーンです。", exampleReading: "ほうりつのグレーゾーンです。", exampleKorean: "호-리츠노 구레-존-데스", exampleMeaning: "법률의 그레이존입니다.",
+    breakdown: [
+      { word: "法律", reading: "ほうりつ", meaning: "법률" }
+    ] },
+  { level: "N3", kanji: "曖昧模糊", reading: "あいまいもこ", korean: "아이마이모코", meaning: "애매모호함",
+    example: "曖昧模糊とした返答でした。", exampleReading: "あいまいもことしたへんとうでした。", exampleKorean: "아이마이모코토시타 헨토-데시타", exampleMeaning: "애매모호한 답변이었습니다.",
+    breakdown: [
+      { word: "返答", reading: "へんとう", meaning: "답변" }
+    ] },
+  { level: "N3", kanji: "玉虫色の回答", reading: "たまむしいろのかいとう", korean: "타마무시이로노 카이토-", meaning: "애매모호한 답변",
+    example: "玉虫色の回答をしました。", exampleReading: "たまむしいろのかいとうをしました。", exampleKorean: "타마무시이로노 카이토-오 시마시타", exampleMeaning: "애매모호한 답변을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N3", kanji: "言葉遊び", reading: "ことばあそび", korean: "코토바아소비", meaning: "말장난",
+    example: "言葉遊びに過ぎません。", exampleReading: "ことばあそびにすぎません。", exampleKorean: "코토바아소비니 스기마셍", exampleMeaning: "말장난에 불과합니다.",
+    breakdown: [
+      { word: "すぎません", reading: "すぎません", meaning: "불과합니다" }
+    ] },
+  { level: "N3", kanji: "屁理屈", reading: "へりくつ", korean: "헤리쿠츠", meaning: "궤변, 억지 논리",
+    example: "屁理屈をこねないでください。", exampleReading: "へりくつをこねないでください。", exampleKorean: "헤리쿠츠오 코네나이데 쿠다사이", exampleMeaning: "억지 논리를 펴지 마세요.",
+    breakdown: [
+      { word: "こねないで", reading: "こねないで", meaning: "펴지 말고" }
+    ] },
+  { level: "N3", kanji: "詭弁", reading: "きべん", korean: "키벤", meaning: "궤변",
+    example: "詭弁を弄しています。", exampleReading: "きべんをろうしています。", exampleKorean: "키벤오 로-시테 이마스", exampleMeaning: "궤변을 늘어놓고 있습니다.",
+    breakdown: [
+      { word: "弄して", reading: "ろうして", meaning: "늘어놓아서" }
+    ] },
+  { level: "N3", kanji: "論点ずらし", reading: "ろんてんずらし", korean: "론텐즈라시", meaning: "논점 흐리기",
+    example: "論点ずらしをしないでください。", exampleReading: "ろんてんずらしをしないでください。", exampleKorean: "론텐즈라시오 시나이데 쿠다사이", exampleMeaning: "논점 흐리기를 하지 마세요.",
+    breakdown: [
+      { word: "しないで", reading: "しないで", meaning: "하지 말고" }
+    ] },
+  { level: "N3", kanji: "論点先取", reading: "ろんてんせんしゅ", korean: "론텐센슈", meaning: "순환논증(논점 선취)",
+    example: "論点先取の誤りです。", exampleReading: "ろんてんせんしゅのあやまりです。", exampleKorean: "론텐센슈노 아야마리데스", exampleMeaning: "순환논증의 오류입니다.",
+    breakdown: [
+      { word: "誤り", reading: "あやまり", meaning: "오류" }
+    ] },
+  { level: "N3", kanji: "循環論法", reading: "じゅんかんろんぽう", korean: "쥰칸론포-", meaning: "순환논법",
+    example: "循環論法に陥っています。", exampleReading: "じゅんかんろんぽうにおちいっています。", exampleKorean: "쥰칸론포-니 오치잇테 이마스", exampleMeaning: "순환논법에 빠져 있습니다.",
+    breakdown: [
+      { word: "陥って", reading: "おちいって", meaning: "빠져서" }
+    ] },
+  { level: "N3", kanji: "極論", reading: "きょくろん", korean: "쿄쿠론", meaning: "극단적인 논리",
+    example: "それは極論です。", exampleReading: "それはきょくろんです。", exampleKorean: "소레와 쿄쿠론데스", exampleMeaning: "그것은 극단적인 논리입니다.",
+    breakdown: [
+      { word: "それは", reading: "それは", meaning: "그것은" }
+    ] },
+  { level: "N3", kanji: "暴論", reading: "ぼうろん", korean: "보-론", meaning: "폭론(터무니없는 주장)",
+    example: "暴論だと批判されました。", exampleReading: "ぼうろんだとひはんされました。", exampleKorean: "보-론다토 히한사레마시타", exampleMeaning: "폭론이라고 비판받았습니다.",
+    breakdown: [
+      { word: "批判", reading: "ひはん", meaning: "비판" }
+    ] },
+  { level: "N3", kanji: "正論", reading: "せいろん", korean: "세-론", meaning: "정론(옳은 주장)",
+    example: "正論を述べました。", exampleReading: "せいろんをのべました。", exampleKorean: "세-론오 노베마시타", exampleMeaning: "정론을 진술했습니다.",
+    breakdown: [
+      { word: "述べました", reading: "のべました", meaning: "진술했습니다" }
+    ] },
+  { level: "N3", kanji: "建前論", reading: "たてまえろん", korean: "타테마에론", meaning: "명분론",
+    example: "建前論に過ぎません。", exampleReading: "たてまえろんにすぎません。", exampleKorean: "타테마에론니 스기마셍", exampleMeaning: "명분론에 불과합니다.",
+    breakdown: [
+      { word: "すぎません", reading: "すぎません", meaning: "불과합니다" }
+    ] },
+  { level: "N3", kanji: "本音論", reading: "ほんねろん", korean: "혼네론", meaning: "본심론",
+    example: "本音論で議論しましょう。", exampleReading: "ほんねろんでぎろんしましょう。", exampleKorean: "혼네론데 기론 시마쇼-", exampleMeaning: "본심론으로 논의합시다.",
+    breakdown: [
+      { word: "議論", reading: "ぎろん", meaning: "논의" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
