@@ -11318,6 +11318,206 @@ const VOCAB = [
     breakdown: [
       { word: "買って", reading: "かって", meaning: "사서" }
     ] },
+  { level: "N4", kanji: "ペーパードライバー", reading: "ペーパードライバー", korean: "페-파-도라이바-", meaning: "장롱면허",
+    example: "ペーパードライバーを卒業しました。", exampleReading: "ペーパードライバーをそつぎょうしました。", exampleKorean: "페-파-도라이바-오 소츠교- 시마시타", exampleMeaning: "장롱면허를 졸업했습니다.",
+    breakdown: [
+      { word: "卒業", reading: "そつぎょう", meaning: "졸업" }
+    ] },
+  { level: "N4", kanji: "初心者マーク", reading: "しょしんしゃマーク", korean: "쇼신샤마-쿠", meaning: "초보운전 마크",
+    example: "初心者マークをつけています。", exampleReading: "しょしんしゃマークをつけています。", exampleKorean: "쇼신샤마-쿠오 츠케테 이마스", exampleMeaning: "초보운전 마크를 붙이고 있습니다.",
+    breakdown: [
+      { word: "つけて", reading: "つけて", meaning: "붙이고 있어서" }
+    ] },
+  { level: "N4", kanji: "高齢者マーク", reading: "こうれいしゃマーク", korean: "코-레-샤마-쿠", meaning: "고령운전자 마크",
+    example: "高齢者マークをつけています。", exampleReading: "こうれいしゃマークをつけています。", exampleKorean: "코-레-샤마-쿠오 츠케테 이마스", exampleMeaning: "고령운전자 마크를 붙이고 있습니다.",
+    breakdown: [
+      { word: "つけて", reading: "つけて", meaning: "붙이고 있어서" }
+    ] },
+  { level: "N4", kanji: "車庫証明", reading: "しゃこしょうめい", korean: "샤코쇼-메-", meaning: "차고증명",
+    example: "車庫証明を取得しました。", exampleReading: "しゃこしょうめいをしゅとくしました。", exampleKorean: "샤코쇼-메-오 슈토쿠 시마시타", exampleMeaning: "차고증명을 취득했습니다.",
+    breakdown: [
+      { word: "取得", reading: "しゅとく", meaning: "취득" }
+    ] },
+  { level: "N4", kanji: "自動車保険", reading: "じどうしゃほけん", korean: "지도-샤호켄", meaning: "자동차보험",
+    example: "自動車保険に加入しました。", exampleReading: "じどうしゃほけんにかにゅうしました。", exampleKorean: "지도-샤호켄니 카뉴- 시마시타", exampleMeaning: "자동차보험에 가입했습니다.",
+    breakdown: [
+      { word: "加入", reading: "かにゅう", meaning: "가입" }
+    ] },
+  { level: "N4", kanji: "対人賠償", reading: "たいじんばいしょう", korean: "타이진바이쇼-", meaning: "대인배상",
+    example: "対人賠償の保険に入っています。", exampleReading: "たいじんばいしょうのほけんにはいっています。", exampleKorean: "타이진바이쇼-노 호켄니 하잇테 이마스", exampleMeaning: "대인배상 보험에 가입되어 있습니다.",
+    breakdown: [
+      { word: "保険", reading: "ほけん", meaning: "보험" }
+    ] },
+  { level: "N4", kanji: "対物賠償", reading: "たいぶつばいしょう", korean: "타이부츠바이쇼-", meaning: "대물배상",
+    example: "対物賠償が発生しました。", exampleReading: "たいぶつばいしょうがはっせいしました。", exampleKorean: "타이부츠바이쇼-가 핫세- 시마시타", exampleMeaning: "대물배상이 발생했습니다.",
+    breakdown: [
+      { word: "発生", reading: "はっせい", meaning: "발생" }
+    ] },
+  { level: "N4", kanji: "人身傷害保険", reading: "じんしんしょうがいほけん", korean: "진신쇼-가이호켄", meaning: "인신상해보험",
+    example: "人身傷害保険を利用しました。", exampleReading: "じんしんしょうがいほけんをりようしました。", exampleKorean: "진신쇼-가이호켄오 리요- 시마시타", exampleMeaning: "인신상해보험을 이용했습니다.",
+    breakdown: [
+      { word: "利用", reading: "りよう", meaning: "이용" }
+    ] },
+  { level: "N4", kanji: "車両保険", reading: "しゃりょうほけん", korean: "샤료-호켄", meaning: "차량보험",
+    example: "車両保険に加入しています。", exampleReading: "しゃりょうほけんにかにゅうしています。", exampleKorean: "샤료-호켄니 카뉴- 시테 이마스", exampleMeaning: "차량보험에 가입되어 있습니다.",
+    breakdown: [
+      { word: "加入", reading: "かにゅう", meaning: "가입" }
+    ] },
+  { level: "N4", kanji: "等級", reading: "とうきゅう", korean: "토-큐-", meaning: "등급(보험)",
+    example: "等級が上がりました。", exampleReading: "とうきゅうがあがりました。", exampleKorean: "토-큐-가 아가리마시타", exampleMeaning: "등급이 올라갔습니다.",
+    breakdown: [
+      { word: "上がりました", reading: "あがりました", meaning: "올라갔습니다" }
+    ] },
+  { level: "N4", kanji: "無事故無違反", reading: "むじこむいはん", korean: "무지코무이한", meaning: "무사고무위반",
+    example: "無事故無違反を続けています。", exampleReading: "むじこむいはんをつづけています。", exampleKorean: "무지코무이항오 츠즈케테 이마스", exampleMeaning: "무사고무위반을 계속하고 있습니다.",
+    breakdown: [
+      { word: "続けて", reading: "つづけて", meaning: "계속해서" }
+    ] },
+  { level: "N4", kanji: "安全運転", reading: "あんぜんうんてん", korean: "안젠운텐", meaning: "안전운전",
+    example: "安全運転を心がけています。", exampleReading: "あんぜんうんてんをこころがけています。", exampleKorean: "안젠운텐오 코코로가케테 이마스", exampleMeaning: "안전운전을 유념하고 있습니다.",
+    breakdown: [
+      { word: "心がけて", reading: "こころがけて", meaning: "유념해서" }
+    ] },
+  { level: "N4", kanji: "あおり運転", reading: "あおりうんてん", korean: "아오리운텐", meaning: "보복운전",
+    example: "あおり運転に遭いました。", exampleReading: "あおりうんてんにあいました。", exampleKorean: "아오리운텐니 아이마시타", exampleMeaning: "보복운전을 당했습니다.",
+    breakdown: [
+      { word: "遭いました", reading: "あいました", meaning: "당했습니다" }
+    ] },
+  { level: "N4", kanji: "ドライブレコーダー", reading: "ドライブレコーダー", korean: "도라이부레코-다-", meaning: "블랙박스",
+    example: "ドライブレコーダーを設置しました。", exampleReading: "ドライブレコーダーをせっちしました。", exampleKorean: "도라이부레코-다-오 셋치 시마시타", exampleMeaning: "블랙박스를 설치했습니다.",
+    breakdown: [
+      { word: "設置", reading: "せっち", meaning: "설치" }
+    ] },
+  { level: "N4", kanji: "バックカメラ", reading: "バックカメラ", korean: "박쿠카메라", meaning: "후방카메라",
+    example: "バックカメラで確認しました。", exampleReading: "バックカメラでかくにんしました。", exampleKorean: "박쿠카메라데 카쿠닌 시마시타", exampleMeaning: "후방카메라로 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "駐車アシスト", reading: "ちゅうしゃアシスト", korean: "츄-샤아시스토", meaning: "주차보조",
+    example: "駐車アシスト機能があります。", exampleReading: "ちゅうしゃアシストきのうがあります。", exampleKorean: "츄-샤아시스토 키노-가 아리마스", exampleMeaning: "주차보조 기능이 있습니다.",
+    breakdown: [
+      { word: "機能", reading: "きのう", meaning: "기능" }
+    ] },
+  { level: "N4", kanji: "自動ブレーキ", reading: "じどうブレーキ", korean: "지도-부레-키", meaning: "자동브레이크",
+    example: "自動ブレーキが作動しました。", exampleReading: "じどうブレーキがさどうしました。", exampleKorean: "지도-부레-키가 사도- 시마시타", exampleMeaning: "자동브레이크가 작동했습니다.",
+    breakdown: [
+      { word: "作動", reading: "さどう", meaning: "작동" }
+    ] },
+  { level: "N4", kanji: "クルーズコントロール", reading: "クルーズコントロール", korean: "쿠루-즈콘토로-루", meaning: "크루즈컨트롤",
+    example: "クルーズコントロールを使いました。", exampleReading: "クルーズコントロールをつかいました。", exampleKorean: "쿠루-즈콘토로-루오 츠카이마시타", exampleMeaning: "크루즈컨트롤을 사용했습니다.",
+    breakdown: [
+      { word: "使いました", reading: "つかいました", meaning: "사용했습니다" }
+    ] },
+  { level: "N4", kanji: "燃費", reading: "ねんぴ", korean: "넨피", meaning: "연비",
+    example: "この車は燃費がいいです。", exampleReading: "このくるまはねんぴがいいです。", exampleKorean: "코노 쿠루마와 넨피가 이-데스", exampleMeaning: "이 차는 연비가 좋습니다.",
+    breakdown: [
+      { word: "車", reading: "くるま", meaning: "차" }
+    ] },
+  { level: "N4", kanji: "ハイブリッド車", reading: "ハイブリッドしゃ", korean: "하이부릿도샤", meaning: "하이브리드차",
+    example: "ハイブリッド車に乗っています。", exampleReading: "ハイブリッドしゃにのっています。", exampleKorean: "하이부릿도샤니 놋테 이마스", exampleMeaning: "하이브리드차를 타고 있습니다.",
+    breakdown: [
+      { word: "乗って", reading: "のって", meaning: "타고 있어서" }
+    ] },
+  { level: "N4", kanji: "電気自動車", reading: "でんきじどうしゃ", korean: "덴키지도-샤", meaning: "전기자동차",
+    example: "電気自動車を購入しました。", exampleReading: "でんきじどうしゃをこうにゅうしました。", exampleKorean: "덴키지도-샤오 코-뉴- 시마시타", exampleMeaning: "전기자동차를 구입했습니다.",
+    breakdown: [
+      { word: "購入", reading: "こうにゅう", meaning: "구입" }
+    ] },
+  { level: "N4", kanji: "充電スタンド", reading: "じゅうでんスタンド", korean: "쥬-덴스탄도", meaning: "충전소",
+    example: "充電スタンドで充電しました。", exampleReading: "じゅうでんスタンドでじゅうでんしました。", exampleKorean: "쥬-덴스탄도데 쥬-덴 시마시타", exampleMeaning: "충전소에서 충전했습니다.",
+    breakdown: [
+      { word: "充電", reading: "じゅうでん", meaning: "충전" }
+    ] },
+  { level: "N4", kanji: "ガソリン価格", reading: "ガソリンかかく", korean: "가소린카카쿠", meaning: "휘발유 가격",
+    example: "ガソリン価格が上がりました。", exampleReading: "ガソリンかかくがあがりました。", exampleKorean: "가소린카카쿠가 아가리마시타", exampleMeaning: "휘발유 가격이 올랐습니다.",
+    breakdown: [
+      { word: "上がりました", reading: "あがりました", meaning: "올랐습니다" }
+    ] },
+  { level: "N4", kanji: "タイヤ交換時期", reading: "タイヤこうかんじき", korean: "타이야코-칸지키", meaning: "타이어 교체 시기",
+    example: "タイヤ交換時期です。", exampleReading: "タイヤこうかんじきです。", exampleKorean: "타이야코-칸지키데스", exampleMeaning: "타이어 교체 시기입니다.",
+    breakdown: [
+      { word: "時期", reading: "じき", meaning: "시기" }
+    ] },
+  { level: "N4", kanji: "オイル交換", reading: "オイルこうかん", korean: "오이루코-칸", meaning: "오일교환",
+    example: "オイル交換をしました。", exampleReading: "オイルこうかんをしました。", exampleKorean: "오이루코-캉오 시마시타", exampleMeaning: "오일교환을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "バッテリー交換", reading: "バッテリーこうかん", korean: "밧테리-코-칸", meaning: "배터리교환",
+    example: "バッテリー交換が必要です。", exampleReading: "バッテリーこうかんがひつようです。", exampleKorean: "밧테리-코-캉가 히츠요-데스", exampleMeaning: "배터리교환이 필요합니다.",
+    breakdown: [
+      { word: "必要", reading: "ひつよう", meaning: "필요" }
+    ] },
+  { level: "N4", kanji: "ワイパー交換", reading: "ワイパーこうかん", korean: "와이파-코-칸", meaning: "와이퍼교환",
+    example: "ワイパー交換をしました。", exampleReading: "ワイパーこうかんをしました。", exampleKorean: "와이파-코-캉오 시마시타", exampleMeaning: "와이퍼교환을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "エアコンフィルター", reading: "エアコンフィルター", korean: "에아콘휘루타-", meaning: "에어컨필터",
+    example: "エアコンフィルターを交換しました。", exampleReading: "エアコンフィルターをこうかんしました。", exampleKorean: "에아콘휘루타-오 코-칸 시마시타", exampleMeaning: "에어컨필터를 교체했습니다.",
+    breakdown: [
+      { word: "交換", reading: "こうかん", meaning: "교체" }
+    ] },
+  { level: "N4", kanji: "冷却水", reading: "れいきゃくすい", korean: "레-캬쿠스이", meaning: "냉각수",
+    example: "冷却水を確認しました。", exampleReading: "れいきゃくすいをかくにんしました。", exampleKorean: "레-캬쿠스이오 카쿠닌 시마시타", exampleMeaning: "냉각수를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "ブレーキパッド", reading: "ブレーキパッド", korean: "부레-키팟도", meaning: "브레이크패드",
+    example: "ブレーキパッドを交換しました。", exampleReading: "ブレーキパッドをこうかんしました。", exampleKorean: "부레-키팟도오 코-칸 시마시타", exampleMeaning: "브레이크패드를 교체했습니다.",
+    breakdown: [
+      { word: "交換", reading: "こうかん", meaning: "교체" }
+    ] },
+  { level: "N4", kanji: "マフラー交換", reading: "マフラーこうかん", korean: "마후라-코-칸", meaning: "머플러교환",
+    example: "マフラー交換が必要でした。", exampleReading: "マフラーこうかんがひつようでした。", exampleKorean: "마후라-코-캉가 히츠요-데시타", exampleMeaning: "머플러교환이 필요했습니다.",
+    breakdown: [
+      { word: "必要", reading: "ひつよう", meaning: "필요" }
+    ] },
+  { level: "N4", kanji: "車体番号", reading: "しゃたいばんごう", korean: "샤타이반고-", meaning: "차대번호",
+    example: "車体番号を確認しました。", exampleReading: "しゃたいばんごうをかくにんしました。", exampleKorean: "샤타이반고-오 카쿠닌 시마시타", exampleMeaning: "차대번호를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "車検証", reading: "しゃけんしょう", korean: "샤켄쇼-", meaning: "자동차검사증",
+    example: "車検証を提示しました。", exampleReading: "しゃけんしょうをていじしました。", exampleKorean: "샤켄쇼-오 테-지 시마시타", exampleMeaning: "자동차검사증을 제시했습니다.",
+    breakdown: [
+      { word: "提示", reading: "ていじ", meaning: "제시" }
+    ] },
+  { level: "N4", kanji: "自賠責保険", reading: "じばいせきほけん", korean: "지바이세키호켄", meaning: "자동차손해배상책임보험",
+    example: "自賠責保険に加入しています。", exampleReading: "じばいせきほけんにかにゅうしています。", exampleKorean: "지바이세키호켄니 카뉴- 시테 이마스", exampleMeaning: "자동차손해배상책임보험에 가입되어 있습니다.",
+    breakdown: [
+      { word: "加入", reading: "かにゅう", meaning: "가입" }
+    ] },
+  { level: "N4", kanji: "任意保険", reading: "にんいほけん", korean: "닌이호켄", meaning: "임의보험",
+    example: "任意保険にも入っています。", exampleReading: "にんいほけんにもはいっています。", exampleKorean: "닌이호켄니모 하잇테 이마스", exampleMeaning: "임의보험에도 가입되어 있습니다.",
+    breakdown: [
+      { word: "入って", reading: "はいって", meaning: "가입되어" }
+    ] },
+  { level: "N4", kanji: "保険料", reading: "ほけんりょう", korean: "호켄료-", meaning: "보험료",
+    example: "保険料が高くなりました。", exampleReading: "ほけんりょうがたかくなりました。", exampleKorean: "호켄료-가 타카쿠 나리마시타", exampleMeaning: "보험료가 비싸졌습니다.",
+    breakdown: [
+      { word: "高く", reading: "たかく", meaning: "비싸게" }
+    ] },
+  { level: "N4", kanji: "等級ダウン", reading: "とうきゅうダウン", korean: "토-큐-다운", meaning: "등급 하락",
+    example: "事故で等級ダウンしました。", exampleReading: "じこでとうきゅうダウンしました。", exampleKorean: "지코데 토-큐-다운 시마시타", exampleMeaning: "사고로 등급이 하락했습니다.",
+    breakdown: [
+      { word: "事故", reading: "じこ", meaning: "사고" }
+    ] },
+  { level: "N4", kanji: "事故対応", reading: "じこたいおう", korean: "지코타이오-", meaning: "사고대응",
+    example: "事故対応をしました。", exampleReading: "じこたいおうをしました。", exampleKorean: "지코타이오-오 시마시타", exampleMeaning: "사고대응을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "示談交渉", reading: "じだんこうしょう", korean: "지단코-쇼-", meaning: "합의교섭",
+    example: "示談交渉を進めました。", exampleReading: "じだんこうしょうをすすめました。", exampleKorean: "지단코-쇼-오 스스메마시타", exampleMeaning: "합의교섭을 진행했습니다.",
+    breakdown: [
+      { word: "進めました", reading: "すすめました", meaning: "진행했습니다" }
+    ] },
+  { level: "N4", kanji: "過失割合", reading: "かしつわりあい", korean: "카시츠와리아이", meaning: "과실비율",
+    example: "過失割合が争われました。", exampleReading: "かしつわりあいがあらそわれました。", exampleKorean: "카시츠와리아이가 아라소와레마시타", exampleMeaning: "과실비율이 다투어졌습니다.",
+    breakdown: [
+      { word: "争われました", reading: "あらそわれました", meaning: "다투어졌습니다" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
