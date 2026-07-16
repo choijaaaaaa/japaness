@@ -5983,6 +5983,206 @@ const VOCAB = [
     breakdown: [
       { word: "薬", reading: "くすり", meaning: "약" }
     ] },
+  { level: "N5", kanji: "折り紙教室", reading: "おりがみきょうしつ", korean: "오리가미쿄-시츠", meaning: "종이접기 교실",
+    example: "折り紙教室に参加しました。", exampleReading: "おりがみきょうしつにさんかしました。", exampleKorean: "오리가미쿄-시츠니 상카 시마시타", exampleMeaning: "종이접기 교실에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N5", kanji: "アニメイベント", reading: "アニメイベント", korean: "아니메이벤토", meaning: "애니메이션 이벤트",
+    example: "アニメイベントに行きました。", exampleReading: "アニメイベントにいきました。", exampleKorean: "아니메이벤토니 이키마시타", exampleMeaning: "애니메이션 이벤트에 갔습니다.",
+    breakdown: [
+      { word: "行きました", reading: "いきました", meaning: "갔습니다" }
+    ] },
+  { level: "N5", kanji: "コスプレ", reading: "コスプレ", korean: "코스푸레", meaning: "코스프레",
+    example: "コスプレを楽しみました。", exampleReading: "コスプレをたのしみました。", exampleKorean: "코스푸레오 타노시미마시타", exampleMeaning: "코스프레를 즐겼습니다.",
+    breakdown: [
+      { word: "楽しみました", reading: "たのしみました", meaning: "즐겼습니다" }
+    ] },
+  { level: "N5", kanji: "漫画喫茶", reading: "まんがきっさ", korean: "망가킷사", meaning: "만화방",
+    example: "漫画喫茶で一晩過ごしました。", exampleReading: "まんがきっさでひとばんすごしました。", exampleKorean: "망가킷사데 히토반 스고시마시타", exampleMeaning: "만화방에서 하룻밤을 보냈습니다.",
+    breakdown: [
+      { word: "一晩", reading: "ひとばん", meaning: "하룻밤" }
+    ] },
+  { level: "N5", kanji: "ネットカフェ", reading: "ネットカフェ", korean: "넷토카훼", meaning: "넷카페",
+    example: "ネットカフェで休みました。", exampleReading: "ネットカフェでやすみました。", exampleKorean: "넷토카훼데 야스미마시타", exampleMeaning: "넷카페에서 쉬었습니다.",
+    breakdown: [
+      { word: "休みました", reading: "やすみました", meaning: "쉬었습니다" }
+    ] },
+  { level: "N5", kanji: "ボードゲーム", reading: "ボードゲーム", korean: "보-도게-무", meaning: "보드게임",
+    example: "友達とボードゲームをしました。", exampleReading: "ともだちとボードゲームをしました。", exampleKorean: "토모다치토 보-도게-무오 시마시타", exampleMeaning: "친구와 보드게임을 했습니다.",
+    breakdown: [
+      { word: "友達と", reading: "ともだちと", meaning: "친구와" }
+    ] },
+  { level: "N5", kanji: "カードゲーム", reading: "カードゲーム", korean: "카-도게-무", meaning: "카드게임",
+    example: "カードゲームで遊びました。", exampleReading: "カードゲームであそびました。", exampleKorean: "카-도게-무데 아소비마시타", exampleMeaning: "카드게임을 하며 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
+  { level: "N5", kanji: "脱出ゲーム", reading: "だっしゅつゲーム", korean: "닷슈츠게-무", meaning: "방탈출게임",
+    example: "脱出ゲームに挑戦しました。", exampleReading: "だっしゅつゲームにちょうせんしました。", exampleKorean: "닷슈츠게-무니 쵸-센 시마시타", exampleMeaning: "방탈출게임에 도전했습니다.",
+    breakdown: [
+      { word: "挑戦", reading: "ちょうせん", meaning: "도전" }
+    ] },
+  { level: "N5", kanji: "謎解きイベント", reading: "なぞときイベント", korean: "나조토키이벤토", meaning: "수수께끼 이벤트",
+    example: "謎解きイベントに参加しました。", exampleReading: "なぞときイベントにさんかしました。", exampleKorean: "나조토키이벤토니 상카 시마시타", exampleMeaning: "수수께끼 이벤트에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N5", kanji: "ボウリング場", reading: "ボウリングじょう", korean: "보-린구죠-", meaning: "볼링장",
+    example: "ボウリング場に行きました。", exampleReading: "ボウリングじょうにいきました。", exampleKorean: "보-린구죠-니 이키마시타", exampleMeaning: "볼링장에 갔습니다.",
+    breakdown: [
+      { word: "行きました", reading: "いきました", meaning: "갔습니다" }
+    ] },
+  { level: "N5", kanji: "カラオケ店", reading: "カラオケてん", korean: "카라오케텐", meaning: "노래방",
+    example: "カラオケ店で歌いました。", exampleReading: "カラオケてんでうたいました。", exampleKorean: "카라오케텐데 우타이마시타", exampleMeaning: "노래방에서 노래를 불렀습니다.",
+    breakdown: [
+      { word: "歌いました", reading: "うたいました", meaning: "불렀습니다" }
+    ] },
+  { level: "N5", kanji: "ダーツバー", reading: "ダーツバー", korean: "다-츠바-", meaning: "다트바",
+    example: "ダーツバーで遊びました。", exampleReading: "ダーツバーであそびました。", exampleKorean: "다-츠바-데 아소비마시타", exampleMeaning: "다트바에서 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
+  { level: "N5", kanji: "ビリヤード", reading: "ビリヤード", korean: "비리야-도", meaning: "당구",
+    example: "ビリヤードをしました。", exampleReading: "ビリヤードをしました。", exampleKorean: "비리야-도오 시마시타", exampleMeaning: "당구를 쳤습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "쳤습니다" }
+    ] },
+  { level: "N5", kanji: "卓球台", reading: "たっきゅうだい", korean: "탁큐-다이", meaning: "탁구대",
+    example: "公園に卓球台があります。", exampleReading: "こうえんにたっきゅうだいがあります。", exampleKorean: "코-엔니 탁큐-다이가 아리마스", exampleMeaning: "공원에 탁구대가 있습니다.",
+    breakdown: [
+      { word: "公園", reading: "こうえん", meaning: "공원" }
+    ] },
+  { level: "N5", kanji: "ゲームセンター", reading: "ゲームセンター", korean: "게-무센타-", meaning: "오락실",
+    example: "ゲームセンターで遊びました。", exampleReading: "ゲームセンターであそびました。", exampleKorean: "게-무센타-데 아소비마시타", exampleMeaning: "오락실에서 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
+  { level: "N5", kanji: "クレーンゲーム", reading: "クレーンゲーム", korean: "쿠레-은게-무", meaning: "인형뽑기",
+    example: "クレーンゲームで人形を取りました。", exampleReading: "クレーンゲームでにんぎょうをとりました。", exampleKorean: "쿠레-은게-무데 닌교-오 토리마시타", exampleMeaning: "인형뽑기로 인형을 뽑았습니다.",
+    breakdown: [
+      { word: "人形", reading: "にんぎょう", meaning: "인형" }
+    ] },
+  { level: "N5", kanji: "プリクラ", reading: "プリクラ", korean: "푸리쿠라", meaning: "스티커사진",
+    example: "友達とプリクラを撮りました。", exampleReading: "ともだちとプリクラをとりました。", exampleKorean: "토모다치토 푸리쿠라오 토리마시타", exampleMeaning: "친구와 스티커사진을 찍었습니다.",
+    breakdown: [
+      { word: "友達と", reading: "ともだちと", meaning: "친구와" }
+    ] },
+  { level: "N5", kanji: "写真スタジオ", reading: "しゃしんスタジオ", korean: "샤신스타지오", meaning: "사진 스튜디오",
+    example: "写真スタジオで撮影しました。", exampleReading: "しゃしんスタジオでさつえいしました。", exampleKorean: "샤신스타지오데 사츠에- 시마시타", exampleMeaning: "사진 스튜디오에서 촬영했습니다.",
+    breakdown: [
+      { word: "撮影", reading: "さつえい", meaning: "촬영" }
+    ] },
+  { level: "N5", kanji: "ウォーターパーク", reading: "ウォーターパーク", korean: "워-타-파-쿠", meaning: "워터파크",
+    example: "夏はウォーターパークに行きます。", exampleReading: "なつはウォーターパークにいきます。", exampleKorean: "나츠와 워-타-파-쿠니 이키마스", exampleMeaning: "여름에는 워터파크에 갑니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
+  { level: "N5", kanji: "キャンプ場", reading: "キャンプじょう", korean: "캼푸죠-", meaning: "캠핑장",
+    example: "キャンプ場を予約しました。", exampleReading: "キャンプじょうをよやくしました。", exampleKorean: "캼푸죠-오 요야쿠 시마시타", exampleMeaning: "캠핑장을 예약했습니다.",
+    breakdown: [
+      { word: "予約", reading: "よやく", meaning: "예약" }
+    ] },
+  { level: "N5", kanji: "遊園地チケット", reading: "ゆうえんちチケット", korean: "유-엔치치켓토", meaning: "놀이공원 티켓",
+    example: "遊園地チケットを買いました。", exampleReading: "ゆうえんちチケットをかいました。", exampleKorean: "유-엔치치켓토오 카이마시타", exampleMeaning: "놀이공원 티켓을 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N5", kanji: "絶叫マシン", reading: "ぜっきょうマシン", korean: "젝쿄-마신", meaning: "롤러코스터류 놀이기구",
+    example: "絶叫マシンに乗りました。", exampleReading: "ぜっきょうマシンにのりました。", exampleKorean: "젝쿄-마신니 노리마시타", exampleMeaning: "롤러코스터류 놀이기구를 탔습니다.",
+    breakdown: [
+      { word: "乗りました", reading: "のりました", meaning: "탔습니다" }
+    ] },
+  { level: "N5", kanji: "観覧車", reading: "かんらんしゃ", korean: "칸란샤", meaning: "대관람차",
+    example: "観覧車に乗りました。", exampleReading: "かんらんしゃにのりました。", exampleKorean: "칸란샤니 노리마시타", exampleMeaning: "대관람차를 탔습니다.",
+    breakdown: [
+      { word: "乗りました", reading: "のりました", meaning: "탔습니다" }
+    ] },
+  { level: "N5", kanji: "ジェットコースター", reading: "ジェットコースター", korean: "젯토코-스타-", meaning: "제트코스터",
+    example: "ジェットコースターに乗りました。", exampleReading: "ジェットコースターにのりました。", exampleKorean: "젯토코-스타-니 노리마시타", exampleMeaning: "제트코스터를 탔습니다.",
+    breakdown: [
+      { word: "乗りました", reading: "のりました", meaning: "탔습니다" }
+    ] },
+  { level: "N5", kanji: "メリーゴーラウンド", reading: "メリーゴーラウンド", korean: "메리-고-라운도", meaning: "회전목마",
+    example: "メリーゴーラウンドに乗りました。", exampleReading: "メリーゴーラウンドにのりました。", exampleKorean: "메리-고-라운도니 노리마시타", exampleMeaning: "회전목마를 탔습니다.",
+    breakdown: [
+      { word: "乗りました", reading: "のりました", meaning: "탔습니다" }
+    ] },
+  { level: "N5", kanji: "お化け屋敷", reading: "おばけやしき", korean: "오바케야시키", meaning: "귀신의 집",
+    example: "お化け屋敷に入りました。", exampleReading: "おばけやしきにはいりました。", exampleKorean: "오바케야시키니 하이리마시타", exampleMeaning: "귀신의 집에 들어갔습니다.",
+    breakdown: [
+      { word: "入りました", reading: "はいりました", meaning: "들어갔습니다" }
+    ] },
+  { level: "N5", kanji: "動物ふれあいコーナー", reading: "どうぶつふれあいコーナー", korean: "도-부츠후레아이코-나-", meaning: "동물체험 코너",
+    example: "動物ふれあいコーナーで遊びました。", exampleReading: "どうぶつふれあいコーナーであそびました。", exampleKorean: "도-부츠후레아이코-나-데 아소비마시타", exampleMeaning: "동물체험 코너에서 놀았습니다.",
+    breakdown: [
+      { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
+    ] },
+  { level: "N5", kanji: "入場料", reading: "にゅうじょうりょう", korean: "뉴-죠-료-", meaning: "입장료",
+    example: "入場料を払いました。", exampleReading: "にゅうじょうりょうをはらいました。", exampleKorean: "뉴-죠-료-오 하라이마시타", exampleMeaning: "입장료를 냈습니다.",
+    breakdown: [
+      { word: "払いました", reading: "はらいました", meaning: "냈습니다" }
+    ] },
+  { level: "N5", kanji: "年間パスポート", reading: "ねんかんパスポート", korean: "넨칸파스포-토", meaning: "연간회원권",
+    example: "年間パスポートを買いました。", exampleReading: "ねんかんパスポートをかいました。", exampleKorean: "넨칸파스포-토오 카이마시타", exampleMeaning: "연간회원권을 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N5", kanji: "待ち時間", reading: "まちじかん", korean: "마치지칸", meaning: "대기시간",
+    example: "待ち時間が長かったです。", exampleReading: "まちじかんがながかったです。", exampleKorean: "마치지캉가 나가캇타데스", exampleMeaning: "대기시간이 길었습니다.",
+    breakdown: [
+      { word: "長かった", reading: "ながかった", meaning: "길었다" }
+    ] },
+  { level: "N5", kanji: "グループ旅行", reading: "グループりょこう", korean: "구루-푸료코-", meaning: "단체여행(그룹)",
+    example: "グループ旅行に参加しました。", exampleReading: "グループりょこうにさんかしました。", exampleKorean: "구루-푸료코-니 상카 시마시타", exampleMeaning: "그룹여행에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N5", kanji: "日帰り旅行", reading: "ひがえりりょこう", korean: "히가에리료코-", meaning: "당일치기여행",
+    example: "日帰り旅行を楽しみました。", exampleReading: "ひがえりりょこうをたのしみました。", exampleKorean: "히가에리료코-오 타노시미마시타", exampleMeaning: "당일치기여행을 즐겼습니다.",
+    breakdown: [
+      { word: "楽しみました", reading: "たのしみました", meaning: "즐겼습니다" }
+    ] },
+  { level: "N5", kanji: "週末旅行", reading: "しゅうまつりょこう", korean: "슈-마츠료코-", meaning: "주말여행",
+    example: "週末旅行を計画しています。", exampleReading: "しゅうまつりょこうをけいかくしています。", exampleKorean: "슈-마츠료코-오 케-카쿠 시테 이마스", exampleMeaning: "주말여행을 계획하고 있습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N5", kanji: "海外旅行計画", reading: "かいがいりょこうけいかく", korean: "카이가이료코-케-카쿠", meaning: "해외여행 계획",
+    example: "海外旅行計画を立てました。", exampleReading: "かいがいりょこうけいかくをたてました。", exampleKorean: "카이가이료코-케-카쿠오 타테마시타", exampleMeaning: "해외여행 계획을 세웠습니다.",
+    breakdown: [
+      { word: "立てました", reading: "たてました", meaning: "세웠습니다" }
+    ] },
+  { level: "N5", kanji: "旅行保険加入", reading: "りょこうほけんかにゅう", korean: "료코-호켄카뉴-", meaning: "여행보험 가입",
+    example: "旅行保険加入を忘れずにします。", exampleReading: "りょこうほけんかにゅうをわすれずにします。", exampleKorean: "료코-호켄카뉴-오 와스레즈니 시마스", exampleMeaning: "여행보험 가입을 잊지 않고 합니다.",
+    breakdown: [
+      { word: "忘れずに", reading: "わすれずに", meaning: "잊지 않고" }
+    ] },
+  { level: "N5", kanji: "パスポート更新", reading: "パスポートこうしん", korean: "파스포-토코-신", meaning: "여권갱신",
+    example: "パスポート更新をしました。", exampleReading: "パスポートこうしんをしました。", exampleKorean: "파스포-토코-싱오 시마시타", exampleMeaning: "여권갱신을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N5", kanji: "ビザ申請", reading: "ビザしんせい", korean: "비자신세-", meaning: "비자신청",
+    example: "ビザ申請をしました。", exampleReading: "ビザしんせいをしました。", exampleKorean: "비자신세-오 시마시타", exampleMeaning: "비자신청을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N5", kanji: "空港送迎", reading: "くうこうそうげい", korean: "쿠-코-소-게-", meaning: "공항 픽업서비스",
+    example: "空港送迎を頼みました。", exampleReading: "くうこうそうげいをたのみました。", exampleKorean: "쿠-코-소-게-오 타노미마시타", exampleMeaning: "공항 픽업서비스를 부탁했습니다.",
+    breakdown: [
+      { word: "頼みました", reading: "たのみました", meaning: "부탁했습니다" }
+    ] },
+  { level: "N5", kanji: "ホテル予約サイト", reading: "ホテルよやくサイト", korean: "호테루요야쿠사이토", meaning: "호텔예약 사이트",
+    example: "ホテル予約サイトを利用しました。", exampleReading: "ホテルよやくサイトをりようしました。", exampleKorean: "호테루요야쿠사이토오 리요- 시마시타", exampleMeaning: "호텔예약 사이트를 이용했습니다.",
+    breakdown: [
+      { word: "利用", reading: "りよう", meaning: "이용" }
+    ] },
+  { level: "N5", kanji: "格安航空券", reading: "かくやすこうくうけん", korean: "카쿠야스코-쿠-켄", meaning: "저가항공권",
+    example: "格安航空券を予約しました。", exampleReading: "かくやすこうくうけんをよやくしました。", exampleKorean: "카쿠야스코-쿠-켕오 요야쿠 시마시타", exampleMeaning: "저가항공권을 예약했습니다.",
+    breakdown: [
+      { word: "予約", reading: "よやく", meaning: "예약" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
