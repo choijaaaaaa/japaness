@@ -23386,4 +23386,154 @@ const VOCAB = [
     breakdown: [
       { word: "合格", reading: "ごうかく", meaning: "합격" }
     ] },
+  { level: "N1", kanji: "一縷の望み", reading: "いちるののぞみ", korean: "이치루노노조미", meaning: "한 가닥 희망",
+    example: "一縷の望みにかけました。", exampleReading: "いちるののぞみにかけました。", exampleKorean: "이치루노 노조미니 카케마시타", exampleMeaning: "한 가닥 희망에 걸었습니다.",
+    breakdown: [
+      { word: "かけました", reading: "かけました", meaning: "걸었습니다" }
+    ] },
+  { level: "N1", kanji: "万策尽きる", reading: "ばんさくつきる", korean: "반사쿠츠키루", meaning: "모든 방법이 다하다",
+    example: "万策尽きて諦めました。", exampleReading: "ばんさくつきてあきらめました。", exampleKorean: "반사쿠츠키테 아키라메마시타", exampleMeaning: "모든 방법이 다해 포기했습니다.",
+    breakdown: [
+      { word: "諦めました", reading: "あきらめました", meaning: "포기했습니다" }
+    ] },
+  { level: "N1", kanji: "八方塞がりになる", reading: "はっぽうふさがりになる", korean: "합포-후사가리니나루", meaning: "사면초가가 되다",
+    example: "八方塞がりになりました。", exampleReading: "はっぽうふさがりになりました。", exampleKorean: "합포-후사가리니 나리마시타", exampleMeaning: "사면초가가 되었습니다.",
+    breakdown: [
+      { word: "なりました", reading: "なりました", meaning: "되었습니다" }
+    ] },
+  { level: "N1", kanji: "窮まる", reading: "きわまる", korean: "키와마루", meaning: "극에 달하다",
+    example: "感激窮まりました。", exampleReading: "かんげききわまりました。", exampleKorean: "칸게키 키와마리마시타", exampleMeaning: "감격이 극에 달했습니다.",
+    breakdown: [
+      { word: "感激", reading: "かんげき", meaning: "감격" }
+    ] },
+  { level: "N1", kanji: "窮地に立つ", reading: "きゅうちにたつ", korean: "큐-치니타츠", meaning: "궁지에 서다",
+    example: "窮地に立たされました。", exampleReading: "きゅうちにたたされました。", exampleKorean: "큐-치니 타타사레마시타", exampleMeaning: "궁지에 몰렸습니다.",
+    breakdown: [
+      { word: "立たされました", reading: "たたされました", meaning: "서게 되었습니다" }
+    ] },
+  { level: "N1", kanji: "背水の陣を敷く", reading: "はいすいのじんをしく", korean: "하이스이노진오시쿠", meaning: "배수의 진을 치다",
+    example: "背水の陣を敷いて臨みました。", exampleReading: "はいすいのじんをしいてのぞみました。", exampleKorean: "하이스이노 진오 시이테 노조미마시타", exampleMeaning: "배수의 진을 치고 임했습니다.",
+    breakdown: [
+      { word: "臨みました", reading: "のぞみました", meaning: "임했습니다" }
+    ] },
+  { level: "N1", kanji: "一矢報いる", reading: "いっしむくいる", korean: "잇시무쿠이루", meaning: "일격을 가하다(반격하다)",
+    example: "最後に一矢報いました。", exampleReading: "さいごにいっしむくいました。", exampleKorean: "사이고니 잇시무쿠이마시타", exampleMeaning: "마지막에 일격을 가했습니다.",
+    breakdown: [
+      { word: "最後に", reading: "さいごに", meaning: "마지막에" }
+    ] },
+  { level: "N1", kanji: "起死回生の一手", reading: "きしかいせいのいって", korean: "키시카이세-노 잇테", meaning: "기사회생의 한 수",
+    example: "起死回生の一手を打ちました。", exampleReading: "きしかいせいのいってをうちました。", exampleKorean: "키시카이세-노 잇테오 우치마시타", exampleMeaning: "기사회생의 한 수를 두었습니다.",
+    breakdown: [
+      { word: "打ちました", reading: "うちました", meaning: "두었습니다" }
+    ] },
+  { level: "N1", kanji: "土壇場", reading: "どたんば", korean: "도탄바", meaning: "막판, 최후의 순간",
+    example: "土壇場で逆転しました。", exampleReading: "どたんばでぎゃくてんしました。", exampleKorean: "도탄바데 갹텐 시마시타", exampleMeaning: "막판에 역전했습니다.",
+    breakdown: [
+      { word: "逆転", reading: "ぎゃくてん", meaning: "역전" }
+    ] },
+  { level: "N1", kanji: "土壇場で", reading: "どたんばで", korean: "도탄바데", meaning: "막판에",
+    example: "土壇場で契約が決まりました。", exampleReading: "どたんばでけいやくがきまりました。", exampleKorean: "도탄바데 케-야쿠가 키마리마시타", exampleMeaning: "막판에 계약이 성사되었습니다.",
+    breakdown: [
+      { word: "契約", reading: "けいやく", meaning: "계약" }
+    ] },
+  { level: "N1", kanji: "正念場", reading: "しょうねんば", korean: "쇼-넨바", meaning: "정념장(중요한 고비)",
+    example: "ここが正念場です。", exampleReading: "ここがしょうねんばです。", exampleKorean: "코코가 쇼-넨바데스", exampleMeaning: "여기가 중요한 고비입니다.",
+    breakdown: [
+      { word: "ここが", reading: "ここが", meaning: "여기가" }
+    ] },
+  { level: "N1", kanji: "踏ん切りがつく", reading: "ふんぎりがつく", korean: "훈기리가츠쿠", meaning: "결단이 서다",
+    example: "ようやく踏ん切りがつきました。", exampleReading: "ようやくふんぎりがつきました。", exampleKorean: "요-야쿠 훈기리가 츠키마시타", exampleMeaning: "마침내 결단이 섰습니다.",
+    breakdown: [
+      { word: "ようやく", reading: "ようやく", meaning: "마침내" }
+    ] },
+  { level: "N1", kanji: "踏ん切りがつかない", reading: "ふんぎりがつかない", korean: "훈기리가츠카나이", meaning: "결단을 내리지 못하다",
+    example: "なかなか踏ん切りがつきません。", exampleReading: "なかなかふんぎりがつきません。", exampleKorean: "나카나카 훈기리가 츠키마셍", exampleMeaning: "좀처럼 결단을 내리지 못합니다.",
+    breakdown: [
+      { word: "なかなか", reading: "なかなか", meaning: "좀처럼" }
+    ] },
+  { level: "N1", kanji: "けじめをつける", reading: "けじめをつける", korean: "케지메오츠케루", meaning: "매듭을 짓다",
+    example: "この件にけじめをつけました。", exampleReading: "このけんにけじめをつけました。", exampleKorean: "코노 켄니 케지메오 츠케마시타", exampleMeaning: "이 건에 매듭을 지었습니다.",
+    breakdown: [
+      { word: "この件", reading: "このけん", meaning: "이 건" }
+    ] },
+  { level: "N1", kanji: "引導を渡す", reading: "いんどうをわたす", korean: "인도-오와타스", meaning: "최후 통첩을 하다",
+    example: "上司が引導を渡しました。", exampleReading: "じょうしがいんどうをわたしました。", exampleKorean: "죠-시가 인도-오 와타시마시타", exampleMeaning: "상사가 최후 통첩을 했습니다.",
+    breakdown: [
+      { word: "上司", reading: "じょうし", meaning: "상사" }
+    ] },
+  { level: "N1", kanji: "終止符を打つ", reading: "しゅうしふをうつ", korean: "슈-시후오우츠", meaning: "종지부를 찍다",
+    example: "長い争いに終止符を打ちました。", exampleReading: "ながいあらそいにしゅうしふをうちました。", exampleKorean: "나가이 아라소이니 슈-시후오 우치마시타", exampleMeaning: "긴 다툼에 종지부를 찍었습니다.",
+    breakdown: [
+      { word: "争い", reading: "あらそい", meaning: "다툼" }
+    ] },
+  { level: "N1", kanji: "幕を引く", reading: "まくをひく", korean: "마쿠오히쿠", meaning: "막을 내리다",
+    example: "時代が幕を引きました。", exampleReading: "じだいがまくをひきました。", exampleKorean: "지다이가 마쿠오 히키마시타", exampleMeaning: "시대가 막을 내렸습니다.",
+    breakdown: [
+      { word: "時代", reading: "じだい", meaning: "시대" }
+    ] },
+  { level: "N1", kanji: "幕引き", reading: "まくひき", korean: "마쿠히키", meaning: "막 내림, 마무리",
+    example: "事件は幕引きとなりました。", exampleReading: "じけんはまくひきとなりました。", exampleKorean: "지켕와 마쿠히키토 나리마시타", exampleMeaning: "사건은 마무리되었습니다.",
+    breakdown: [
+      { word: "事件", reading: "じけん", meaning: "사건" }
+    ] },
+  { level: "N1", kanji: "瀬戸際", reading: "せとぎわ", korean: "세토기와", meaning: "갈림길, 벼랑끝",
+    example: "破産の瀬戸際に立たされました。", exampleReading: "はさんのせとぎわにたたされました。", exampleKorean: "하산노 세토기와니 타타사레마시타", exampleMeaning: "파산의 벼랑끝에 몰렸습니다.",
+    breakdown: [
+      { word: "破産", reading: "はさん", meaning: "파산" }
+    ] },
+  { level: "N1", kanji: "崖っぷち", reading: "がけっぷち", korean: "가켑푸치", meaning: "벼랑끝",
+    example: "崖っぷちに立たされています。", exampleReading: "がけっぷちにたたされています。", exampleKorean: "가켑푸치니 타타사레테 이마스", exampleMeaning: "벼랑끝에 몰려 있습니다.",
+    breakdown: [
+      { word: "立たされて", reading: "たたされて", meaning: "몰려서" }
+    ] },
+  { level: "N1", kanji: "大逆転", reading: "だいぎゃくてん", korean: "다이갹텐", meaning: "대역전",
+    example: "大逆転で優勝しました。", exampleReading: "だいぎゃくてんでゆうしょうしました。", exampleKorean: "다이갹텐데 유-쇼- 시마시타", exampleMeaning: "대역전으로 우승했습니다.",
+    breakdown: [
+      { word: "優勝", reading: "ゆうしょう", meaning: "우승" }
+    ] },
+  { level: "N1", kanji: "形勢逆転", reading: "けいせいぎゃくてん", korean: "케-세-갹텐", meaning: "형세역전",
+    example: "形勢逆転を狙いました。", exampleReading: "けいせいぎゃくてんをねらいました。", exampleKorean: "케-세-갹텡오 네라이마시타", exampleMeaning: "형세역전을 노렸습니다.",
+    breakdown: [
+      { word: "狙いました", reading: "ねらいました", meaning: "노렸습니다" }
+    ] },
+  { level: "N1", kanji: "挽回", reading: "ばんかい", korean: "반카이", meaning: "만회",
+    example: "名誉を挽回しました。", exampleReading: "めいよをばんかいしました。", exampleKorean: "메-요오 반카이 시마시타", exampleMeaning: "명예를 만회했습니다.",
+    breakdown: [
+      { word: "名誉", reading: "めいよ", meaning: "명예" }
+    ] },
+  { level: "N1", kanji: "死力を尽くす", reading: "しりょくをつくす", korean: "시료쿠오츠쿠스", meaning: "사력을 다하다",
+    example: "死力を尽くして戦いました。", exampleReading: "しりょくをつくしてたたかいました。", exampleKorean: "시료쿠오 츠쿠시테 타타카이마시타", exampleMeaning: "사력을 다해 싸웠습니다.",
+    breakdown: [
+      { word: "戦いました", reading: "たたかいました", meaning: "싸웠습니다" }
+    ] },
+  { level: "N1", kanji: "全力を尽くす", reading: "ぜんりょくをつくす", korean: "젠료쿠오츠쿠스", meaning: "전력을 다하다",
+    example: "全力を尽くして頑張りました。", exampleReading: "ぜんりょくをつくしてがんばりました。", exampleKorean: "젠료쿠오 츠쿠시테 감바리마시타", exampleMeaning: "전력을 다해 노력했습니다.",
+    breakdown: [
+      { word: "頑張りました", reading: "がんばりました", meaning: "노력했습니다" }
+    ] },
+  { level: "N1", kanji: "精魂を傾ける", reading: "せいこんをかたむける", korean: "세-콘오카타무케루", meaning: "정성을 쏟다",
+    example: "作品に精魂を傾けました。", exampleReading: "さくひんにせいこんをかたむけました。", exampleKorean: "사쿠힌니 세-콘오 카타무케마시타", exampleMeaning: "작품에 정성을 쏟았습니다.",
+    breakdown: [
+      { word: "作品", reading: "さくひん", meaning: "작품" }
+    ] },
+  { level: "N1", kanji: "心血を注ぐ", reading: "しんけつをそそぐ", korean: "신케츠오소소구", meaning: "심혈을 기울이다",
+    example: "研究に心血を注ぎました。", exampleReading: "けんきゅうにしんけつをそそぎました。", exampleKorean: "켕큐-니 신케츠오 소소기마시타", exampleMeaning: "연구에 심혈을 기울였습니다.",
+    breakdown: [
+      { word: "研究", reading: "けんきゅう", meaning: "연구" }
+    ] },
+  { level: "N1", kanji: "骨身を惜しまない", reading: "ほねみをおしまない", korean: "호네미오오시마나이", meaning: "몸을 아끼지 않다",
+    example: "骨身を惜しまず働きました。", exampleReading: "ほねみをおしまずはたらきました。", exampleKorean: "호네미오 오시마즈 하타라키마시타", exampleMeaning: "몸을 아끼지 않고 일했습니다.",
+    breakdown: [
+      { word: "働きました", reading: "はたらきました", meaning: "일했습니다" }
+    ] },
+  { level: "N1", kanji: "奮起", reading: "ふんき", korean: "훈키", meaning: "분기(마음을 다잡음)",
+    example: "チームは奮起しました。", exampleReading: "チームはふんきしました。", exampleKorean: "치-무와 훈키 시마시타", exampleMeaning: "팀은 분기했습니다.",
+    breakdown: [
+      { word: "チーム", reading: "チーム", meaning: "팀" }
+    ] },
+  { level: "N1", kanji: "奮起を促す", reading: "ふんきをうながす", korean: "훈키오우나가스", meaning: "분발을 촉구하다",
+    example: "選手たちの奮起を促しました。", exampleReading: "せんしゅたちのふんきをうながしました。", exampleKorean: "센슈타치노 훈키오 우나가시마시타", exampleMeaning: "선수들의 분발을 촉구했습니다.",
+    breakdown: [
+      { word: "選手たち", reading: "せんしゅたち", meaning: "선수들" }
+    ] },
 ];
