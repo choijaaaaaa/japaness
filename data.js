@@ -16092,6 +16092,156 @@ const VOCAB = [
     breakdown: [
       { word: "求めました", reading: "もとめました", meaning: "요구했습니다" }
     ] },
+  { level: "N2", kanji: "半導体", reading: "はんどうたい", korean: "한도-타이", meaning: "반도체",
+    example: "半導体不足が続いています。", exampleReading: "はんどうたいぶそくがつづいています。", exampleKorean: "한도-타이부소쿠가 츠즈이테 이마스", exampleMeaning: "반도체 부족이 계속되고 있습니다.",
+    breakdown: [
+      { word: "不足", reading: "ぶそく", meaning: "부족" }
+    ] },
+  { level: "N2", kanji: "量子コンピュータ", reading: "りょうしコンピュータ", korean: "료-시콤퓨-타", meaning: "양자컴퓨터",
+    example: "量子コンピュータの研究が進んでいます。", exampleReading: "りょうしコンピュータのけんきゅうがすすんでいます。", exampleKorean: "료-시콤퓨-타노 켕큐-가 스슨데 이마스", exampleMeaning: "양자컴퓨터 연구가 진행되고 있습니다.",
+    breakdown: [
+      { word: "研究", reading: "けんきゅう", meaning: "연구" }
+    ] },
+  { level: "N2", kanji: "人工衛星", reading: "じんこうえいせい", korean: "진코-에-세-", meaning: "인공위성",
+    example: "人工衛星を打ち上げました。", exampleReading: "じんこうえいせいをうちあげました。", exampleKorean: "진코-에-세-오 우치아게마시타", exampleMeaning: "인공위성을 발사했습니다.",
+    breakdown: [
+      { word: "打ち上げました", reading: "うちあげました", meaning: "발사했습니다" }
+    ] },
+  { level: "N2", kanji: "宇宙開発", reading: "うちゅうかいはつ", korean: "우츄-카이하츠", meaning: "우주개발",
+    example: "宇宙開発に投資しています。", exampleReading: "うちゅうかいはつにとうししています。", exampleKorean: "우츄-카이하츠니 토-시 시테 이마스", exampleMeaning: "우주개발에 투자하고 있습니다.",
+    breakdown: [
+      { word: "投資", reading: "とうし", meaning: "투자" }
+    ] },
+  { level: "N2", kanji: "宇宙飛行士", reading: "うちゅうひこうし", korean: "우츄-히코-시", meaning: "우주비행사",
+    example: "宇宙飛行士になりたいです。", exampleReading: "うちゅうひこうしになりたいです。", exampleKorean: "우츄-히코-시니 나리타이데스", exampleMeaning: "우주비행사가 되고 싶습니다.",
+    breakdown: [
+      { word: "なりたい", reading: "なりたい", meaning: "되고 싶다" }
+    ] },
+  { level: "N2", kanji: "ロケット発射", reading: "ロケットはっしゃ", korean: "로켓토핫샤", meaning: "로켓 발사",
+    example: "ロケット発射に成功しました。", exampleReading: "ロケットはっしゃにせいこうしました。", exampleKorean: "로켓토핫샤니 세-코- 시마시타", exampleMeaning: "로켓 발사에 성공했습니다.",
+    breakdown: [
+      { word: "成功", reading: "せいこう", meaning: "성공" }
+    ] },
+  { level: "N2", kanji: "探査機", reading: "たんさき", korean: "탄사키", meaning: "탐사기",
+    example: "火星探査機が着陸しました。", exampleReading: "かせいたんさきがちゃくりくしました。", exampleKorean: "카세이탄사키가 챠쿠리쿠 시마시타", exampleMeaning: "화성탐사기가 착륙했습니다.",
+    breakdown: [
+      { word: "火星", reading: "かせい", meaning: "화성" }
+    ] },
+  { level: "N2", kanji: "惑星探査", reading: "わくせいたんさ", korean: "와쿠세-탄사", meaning: "행성탐사",
+    example: "惑星探査のミッションです。", exampleReading: "わくせいたんさのミッションです。", exampleKorean: "와쿠세-탄사노 밋숀데스", exampleMeaning: "행성탐사 미션입니다.",
+    breakdown: [
+      { word: "ミッション", reading: "ミッション", meaning: "미션" }
+    ] },
+  { level: "N2", kanji: "太陽系", reading: "たいようけい", korean: "타이요-케-", meaning: "태양계",
+    example: "太陽系には八つの惑星があります。", exampleReading: "たいようけいにははっつのわくせいがあります。", exampleKorean: "타이요-케-니와 핫츠노 와쿠세-가 아리마스", exampleMeaning: "태양계에는 8개의 행성이 있습니다.",
+    breakdown: [
+      { word: "惑星", reading: "わくせい", meaning: "행성" }
+    ] },
+  { level: "N2", kanji: "銀河系", reading: "ぎんがけい", korean: "깅가케-", meaning: "은하계",
+    example: "銀河系の中心を研究しています。", exampleReading: "ぎんがけいのちゅうしんをけんきゅうしています。", exampleKorean: "깅가케-노 츄-신오 켕큐- 시테 이마스", exampleMeaning: "은하계의 중심을 연구하고 있습니다.",
+    breakdown: [
+      { word: "中心", reading: "ちゅうしん", meaning: "중심" }
+    ] },
+  { level: "N2", kanji: "ブラックホール", reading: "ブラックホール", korean: "부락쿠호-루", meaning: "블랙홀",
+    example: "ブラックホールの撮影に成功しました。", exampleReading: "ブラックホールのさつえいにせいこうしました。", exampleKorean: "부락쿠호-루노 사츠에-니 세-코- 시마시타", exampleMeaning: "블랙홀 촬영에 성공했습니다.",
+    breakdown: [
+      { word: "撮影", reading: "さつえい", meaning: "촬영" }
+    ] },
+  { level: "N2", kanji: "光年", reading: "こうねん", korean: "코-넨", meaning: "광년",
+    example: "百光年離れた星です。", exampleReading: "ひゃくこうねんはなれたほしです。", exampleKorean: "햐쿠 코-넨 하나레타 호시데스", exampleMeaning: "100광년 떨어진 별입니다.",
+    breakdown: [
+      { word: "星", reading: "ほし", meaning: "별" }
+    ] },
+  { level: "N2", kanji: "天文学", reading: "てんもんがく", korean: "텐몬가쿠", meaning: "천문학",
+    example: "天文学を専攻しています。", exampleReading: "てんもんがくをせんこうしています。", exampleKorean: "텐몬가쿠오 센코- 시테 이마스", exampleMeaning: "천문학을 전공하고 있습니다.",
+    breakdown: [
+      { word: "専攻", reading: "せんこう", meaning: "전공" }
+    ] },
+  { level: "N2", kanji: "天体観測", reading: "てんたいかんそく", korean: "텐타이칸소쿠", meaning: "천체관측",
+    example: "夜に天体観測をしました。", exampleReading: "よるにてんたいかんそくをしました。", exampleKorean: "요루니 텐타이칸소쿠오 시마시타", exampleMeaning: "밤에 천체관측을 했습니다.",
+    breakdown: [
+      { word: "夜", reading: "よる", meaning: "밤" }
+    ] },
+  { level: "N2", kanji: "望遠鏡技術", reading: "ぼうえんきょうぎじゅつ", korean: "보-엔쿄-기쥬츠", meaning: "망원경 기술",
+    example: "望遠鏡技術が進歩しました。", exampleReading: "ぼうえんきょうぎじゅつがしんぽしました。", exampleKorean: "보-엔쿄-기쥬츠가 신포 시마시타", exampleMeaning: "망원경 기술이 진보했습니다.",
+    breakdown: [
+      { word: "進歩", reading: "しんぽ", meaning: "진보" }
+    ] },
+  { level: "N2", kanji: "電磁波", reading: "でんじは", korean: "덴지하", meaning: "전자파",
+    example: "電磁波の影響を調べました。", exampleReading: "でんじはのえいきょうをしらべました。", exampleKorean: "덴지하노 에-쿄-오 시라베마시타", exampleMeaning: "전자파의 영향을 조사했습니다.",
+    breakdown: [
+      { word: "影響", reading: "えいきょう", meaning: "영향" }
+    ] },
+  { level: "N2", kanji: "放射能", reading: "ほうしゃのう", korean: "호-샤노-", meaning: "방사능",
+    example: "放射能を測定しました。", exampleReading: "ほうしゃのうをそくていしました。", exampleKorean: "호-샤노-오 소쿠테- 시마시타", exampleMeaning: "방사능을 측정했습니다.",
+    breakdown: [
+      { word: "測定", reading: "そくてい", meaning: "측정" }
+    ] },
+  { level: "N2", kanji: "原子力", reading: "げんしりょく", korean: "겐시료쿠", meaning: "원자력",
+    example: "原子力の利用について議論しています。", exampleReading: "げんしりょくのりようについてぎろんしています。", exampleKorean: "겐시료쿠노 리요-니 츠이테 기론 시테 이마스", exampleMeaning: "원자력 이용에 대해 논의하고 있습니다.",
+    breakdown: [
+      { word: "議論", reading: "ぎろん", meaning: "논의" }
+    ] },
+  { level: "N2", kanji: "核融合", reading: "かくゆうごう", korean: "카쿠유-고-", meaning: "핵융합",
+    example: "核融合発電の研究が進んでいます。", exampleReading: "かくゆうごうはつでんのけんきゅうがすすんでいます。", exampleKorean: "카쿠유-고- 핫덴노 켕큐-가 스슨데 이마스", exampleMeaning: "핵융합 발전 연구가 진행되고 있습니다.",
+    breakdown: [
+      { word: "研究", reading: "けんきゅう", meaning: "연구" }
+    ] },
+  { level: "N2", kanji: "再生医療", reading: "さいせいいりょう", korean: "사이세-이료-", meaning: "재생의료",
+    example: "再生医療の分野が発展しています。", exampleReading: "さいせいいりょうのぶんやがはってんしています。", exampleKorean: "사이세-이료-노 분야가 핫텐 시테 이마스", exampleMeaning: "재생의료 분야가 발전하고 있습니다.",
+    breakdown: [
+      { word: "分野", reading: "ぶんや", meaning: "분야" }
+    ] },
+  { level: "N2", kanji: "ips細胞", reading: "アイピーエスさいぼう", korean: "아이피-에스사이보-", meaning: "iPS세포",
+    example: "ips細胞の研究でノーベル賞を取りました。", exampleReading: "アイピーエスさいぼうのけんきゅうでノーベルしょうをとりました。", exampleKorean: "아이피-에스사이보-노 켕큐-데 노-베루쇼-오 토리마시타", exampleMeaning: "iPS세포 연구로 노벨상을 받았습니다.",
+    breakdown: [
+      { word: "研究", reading: "けんきゅう", meaning: "연구" }
+    ] },
+  { level: "N2", kanji: "幹細胞", reading: "かんさいぼう", korean: "칸사이보-", meaning: "줄기세포",
+    example: "幹細胞を使った治療法です。", exampleReading: "かんさいぼうをつかったちりょうほうです。", exampleKorean: "칸사이보-오 츠캇타 치료-호-데스", exampleMeaning: "줄기세포를 사용한 치료법입니다.",
+    breakdown: [
+      { word: "治療法", reading: "ちりょうほう", meaning: "치료법" }
+    ] },
+  { level: "N2", kanji: "ゲノム編集", reading: "ゲノムへんしゅう", korean: "게노무헨슈-", meaning: "유전체 편집",
+    example: "ゲノム編集技術が発展しました。", exampleReading: "ゲノムへんしゅうぎじゅつがはってんしました。", exampleKorean: "게노무헨슈- 기쥬츠가 핫텐 시마시타", exampleMeaning: "유전체 편집 기술이 발전했습니다.",
+    breakdown: [
+      { word: "技術", reading: "ぎじゅつ", meaning: "기술" }
+    ] },
+  { level: "N2", kanji: "ナノテクノロジー", reading: "ナノテクノロジー", korean: "나노테쿠노로지-", meaning: "나노기술",
+    example: "ナノテクノロジーを応用しています。", exampleReading: "ナノテクノロジーをおうようしています。", exampleKorean: "나노테쿠노로지-오 오-요- 시테 이마스", exampleMeaning: "나노기술을 응용하고 있습니다.",
+    breakdown: [
+      { word: "応用", reading: "おうよう", meaning: "응용" }
+    ] },
+  { level: "N2", kanji: "自動運転", reading: "じどううんてん", korean: "지도-운텐", meaning: "자율주행",
+    example: "自動運転車が普及しています。", exampleReading: "じどううんてんしゃがふきゅうしています。", exampleKorean: "지도-운텐샤가 후큐- 시테 이마스", exampleMeaning: "자율주행차가 보급되고 있습니다.",
+    breakdown: [
+      { word: "普及", reading: "ふきゅう", meaning: "보급" }
+    ] },
+  { level: "N2", kanji: "ドローン技術", reading: "ドローンぎじゅつ", korean: "도로-은기쥬츠", meaning: "드론 기술",
+    example: "ドローン技術を活用しています。", exampleReading: "ドローンぎじゅつをかつようしています。", exampleKorean: "도로-은기쥬츠오 카츠요- 시테 이마스", exampleMeaning: "드론 기술을 활용하고 있습니다.",
+    breakdown: [
+      { word: "活用", reading: "かつよう", meaning: "활용" }
+    ] },
+  { level: "N2", kanji: "5G通信", reading: "ファイブジーつうしん", korean: "화이부지-츠-신", meaning: "5G통신",
+    example: "5G通信が導入されました。", exampleReading: "ファイブジーつうしんがどうにゅうされました。", exampleKorean: "화이부지-츠-신가 도-뉴-사레마시타", exampleMeaning: "5G통신이 도입되었습니다.",
+    breakdown: [
+      { word: "導入", reading: "どうにゅう", meaning: "도입" }
+    ] },
+  { level: "N2", kanji: "量子暗号", reading: "りょうしあんごう", korean: "료-시안고-", meaning: "양자암호",
+    example: "量子暗号技術が注目されています。", exampleReading: "りょうしあんごうぎじゅつがちゅうもくされています。", exampleKorean: "료-시안고- 기쥬츠가 츄-모쿠사레테 이마스", exampleMeaning: "양자암호 기술이 주목받고 있습니다.",
+    breakdown: [
+      { word: "技術", reading: "ぎじゅつ", meaning: "기술" }
+    ] },
+  { level: "N2", kanji: "機械学習", reading: "きかいがくしゅう", korean: "키카이각슈-", meaning: "머신러닝",
+    example: "機械学習を活用したシステムです。", exampleReading: "きかいがくしゅうをかつようしたシステムです。", exampleKorean: "키카이각슈-오 카츠요-시타 시스테무데스", exampleMeaning: "머신러닝을 활용한 시스템입니다.",
+    breakdown: [
+      { word: "システム", reading: "システム", meaning: "시스템" }
+    ] },
+  { level: "N2", kanji: "深層学習", reading: "しんそうがくしゅう", korean: "신소-각슈-", meaning: "딥러닝",
+    example: "深層学習で画像を認識します。", exampleReading: "しんそうがくしゅうでがぞうをにんしきします。", exampleKorean: "신소-각슈-데 가조-오 닌시키 시마스", exampleMeaning: "딥러닝으로 이미지를 인식합니다.",
+    breakdown: [
+      { word: "画像", reading: "がぞう", meaning: "이미지" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
