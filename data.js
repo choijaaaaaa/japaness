@@ -17896,4 +17896,154 @@ const VOCAB = [
     breakdown: [
       { word: "激しい", reading: "はげしい", meaning: "격렬한" }
     ] },
+  { level: "N1", kanji: "朽ち果てる", reading: "くちはてる", korean: "쿠치하테루", meaning: "완전히 썩다, 쇠퇴하다",
+    example: "古い建物が朽ち果てています。", exampleReading: "ふるいたてものがくちはてています。", exampleKorean: "후루이 타테모노가 쿠치하테테 이마스", exampleMeaning: "오래된 건물이 완전히 낡아버렸습니다.",
+    breakdown: [
+      { word: "建物", reading: "たてもの", meaning: "건물" }
+    ] },
+  { level: "N1", kanji: "風化", reading: "ふうか", korean: "후-카", meaning: "풍화, 잊혀짐",
+    example: "事件の記憶が風化しています。", exampleReading: "じけんのきおくがふうかしています。", exampleKorean: "지켄노 키오쿠가 후-카 시테 이마스", exampleMeaning: "사건의 기억이 잊혀지고 있습니다.",
+    breakdown: [
+      { word: "記憶", reading: "きおく", meaning: "기억" }
+    ] },
+  { level: "N1", kanji: "語り継ぐ", reading: "かたりつぐ", korean: "카타리츠구", meaning: "대대로 전하다",
+    example: "この話は代々語り継がれています。", exampleReading: "このはなしはだいだいかたりつがれています。", exampleKorean: "코노 하나시와 다이다이 카타리츠가레테 이마스", exampleMeaning: "이 이야기는 대대로 전해지고 있습니다.",
+    breakdown: [
+      { word: "代々", reading: "だいだい", meaning: "대대로" }
+    ] },
+  { level: "N1", kanji: "語り草", reading: "かたりぐさ", korean: "카타리구사", meaning: "이야깃거리, 화젯거리",
+    example: "今でも語り草になっています。", exampleReading: "いまでもかたりぐさになっています。", exampleKorean: "이마데모 카타리구사니 낫테 이마스", exampleMeaning: "지금도 이야깃거리가 되고 있습니다.",
+    breakdown: [
+      { word: "今でも", reading: "いまでも", meaning: "지금도" }
+    ] },
+  { level: "N1", kanji: "言い伝え", reading: "いいつたえ", korean: "이이츠타에", meaning: "전설, 구전",
+    example: "村の言い伝えがあります。", exampleReading: "むらのいいつたえがあります。", exampleKorean: "무라노 이이츠타에가 아리마스", exampleMeaning: "마을의 구전이 있습니다.",
+    breakdown: [
+      { word: "村", reading: "むら", meaning: "마을" }
+    ] },
+  { level: "N1", kanji: "語り部", reading: "かたりべ", korean: "카타리베", meaning: "이야기꾼(구전 전승자)",
+    example: "戦争の語り部として活動しています。", exampleReading: "せんそうのかたりべとしてかつどうしています。", exampleKorean: "센소-노 카타리베토시테 카츠도- 시테 이마스", exampleMeaning: "전쟁의 증언자로서 활동하고 있습니다.",
+    breakdown: [
+      { word: "戦争", reading: "せんそう", meaning: "전쟁" }
+    ] },
+  { level: "N1", kanji: "伝承", reading: "でんしょう", korean: "덴쇼-", meaning: "전승",
+    example: "古い技術を伝承しています。", exampleReading: "ふるいぎじゅつをでんしょうしています。", exampleKorean: "후루이 기쥬츠오 덴쇼- 시테 이마스", exampleMeaning: "오래된 기술을 전승하고 있습니다.",
+    breakdown: [
+      { word: "技術", reading: "ぎじゅつ", meaning: "기술" }
+    ] },
+  { level: "N1", kanji: "伝説", reading: "でんせつ", korean: "덴세츠", meaning: "전설",
+    example: "この山には伝説があります。", exampleReading: "このやまにはでんせつがあります。", exampleKorean: "코노 야마니와 덴세츠가 아리마스", exampleMeaning: "이 산에는 전설이 있습니다.",
+    breakdown: [
+      { word: "山", reading: "やま", meaning: "산" }
+    ] },
+  { level: "N1", kanji: "伝聞", reading: "でんぶん", korean: "덴분", meaning: "전문(들어서 앎)",
+    example: "伝聞に過ぎない情報です。", exampleReading: "でんぶんにすぎないじょうほうです。", exampleKorean: "덴분니 스기나이 죠-호-데스", exampleMeaning: "전해 들은 것에 불과한 정보입니다.",
+    breakdown: [
+      { word: "情報", reading: "じょうほう", meaning: "정보" }
+    ] },
+  { level: "N1", kanji: "継ぎ目", reading: "つぎめ", korean: "츠기메", meaning: "이음매, 접합부",
+    example: "布の継ぎ目が見えます。", exampleReading: "ぬののつぎめがみえます。", exampleKorean: "누노노 츠기메가 미에마스", exampleMeaning: "천의 이음매가 보입니다.",
+    breakdown: [
+      { word: "布", reading: "ぬの", meaning: "천" }
+    ] },
+  { level: "N1", kanji: "断片", reading: "だんぺん", korean: "단펜", meaning: "단편, 조각",
+    example: "記憶の断片が残っています。", exampleReading: "きおくのだんぺんがのこっています。", exampleKorean: "키오쿠노 단펜가 노콧테 이마스", exampleMeaning: "기억의 단편이 남아 있습니다.",
+    breakdown: [
+      { word: "記憶", reading: "きおく", meaning: "기억" }
+    ] },
+  { level: "N1", kanji: "片鱗", reading: "へんりん", korean: "헨린", meaning: "편린(일부)",
+    example: "天才の片鱗を見せました。", exampleReading: "てんさいのへんりんをみせました。", exampleKorean: "텐사이노 헨린오 미세마시타", exampleMeaning: "천재의 편린을 보였습니다.",
+    breakdown: [
+      { word: "天才", reading: "てんさい", meaning: "천재" }
+    ] },
+  { level: "N1", kanji: "垣間見える", reading: "かいまみえる", korean: "카이마미에루", meaning: "언뜻 보이다",
+    example: "彼の本性が垣間見えました。", exampleReading: "かれのほんしょうがかいまみえました。", exampleKorean: "카레노 혼쇼-가 카이마미에마시타", exampleMeaning: "그의 본성이 언뜻 보였습니다.",
+    breakdown: [
+      { word: "本性", reading: "ほんしょう", meaning: "본성" }
+    ] },
+  { level: "N1", kanji: "垣間見る", reading: "かいまみる", korean: "카이마미루", meaning: "언뜻 보다, 엿보다",
+    example: "舞台裏を垣間見ました。", exampleReading: "ぶたいうらをかいまみました。", exampleKorean: "부타이우라오 카이마미마시타", exampleMeaning: "무대 뒤를 엿봤습니다.",
+    breakdown: [
+      { word: "舞台裏", reading: "ぶたいうら", meaning: "무대 뒤" }
+    ] },
+  { level: "N1", kanji: "窺い知る", reading: "うかがいしる", korean: "우카가이시루", meaning: "엿보아 알다",
+    example: "内情を窺い知ることができました。", exampleReading: "ないじょうをうかがいしることができました。", exampleKorean: "나이죠-오 우카가이시루 코토가 데키마시타", exampleMeaning: "내부 사정을 엿볼 수 있었습니다.",
+    breakdown: [
+      { word: "内情", reading: "ないじょう", meaning: "내부 사정" }
+    ] },
+  { level: "N1", kanji: "窺う", reading: "うかがう", korean: "우카가우", meaning: "엿보다, 살피다",
+    example: "様子を窺っています。", exampleReading: "ようすをうかがっています。", exampleKorean: "요-스오 우카갓테 이마스", exampleMeaning: "상황을 살피고 있습니다.",
+    breakdown: [
+      { word: "様子", reading: "ようす", meaning: "상황" }
+    ] },
+  { level: "N1", kanji: "推し量る", reading: "おしはかる", korean: "오시하카루", meaning: "헤아리다, 추측하다",
+    example: "相手の気持ちを推し量りました。", exampleReading: "あいてのきもちをおしはかりました。", exampleKorean: "아이테노 키모치오 오시하카리마시타", exampleMeaning: "상대의 마음을 헤아렸습니다.",
+    breakdown: [
+      { word: "気持ち", reading: "きもち", meaning: "마음" }
+    ] },
+  { level: "N1", kanji: "面影", reading: "おもかげ", korean: "오모카게", meaning: "옛 모습, 자취",
+    example: "昔の面影が残っています。", exampleReading: "むかしのおもかげがのこっています。", exampleKorean: "무카시노 오모카게가 노콧테 이마스", exampleMeaning: "옛 모습이 남아 있습니다.",
+    breakdown: [
+      { word: "昔", reading: "むかし", meaning: "옛날" }
+    ] },
+  { level: "N1", kanji: "痕跡", reading: "こんせき", korean: "콘세키", meaning: "흔적",
+    example: "事故の痕跡が残っています。", exampleReading: "じこのこんせきがのこっています。", exampleKorean: "지코노 콘세키가 노콧테 이마스", exampleMeaning: "사고의 흔적이 남아 있습니다.",
+    breakdown: [
+      { word: "事故", reading: "じこ", meaning: "사고" }
+    ] },
+  { level: "N1", kanji: "跡形", reading: "あとかた", korean: "아토카타", meaning: "흔적, 자취",
+    example: "跡形もなく消えました。", exampleReading: "あとかたもなくきえました。", exampleKorean: "아토카타모 나쿠 키에마시타", exampleMeaning: "흔적도 없이 사라졌습니다.",
+    breakdown: [
+      { word: "消えました", reading: "きえました", meaning: "사라졌습니다" }
+    ] },
+  { level: "N1", kanji: "郷愁", reading: "きょうしゅう", korean: "쿄-슈-", meaning: "향수(그리움)",
+    example: "故郷への郷愁を感じます。", exampleReading: "こきょうへのきょうしゅうをかんじます。", exampleKorean: "코쿄-에노 쿄-슈-오 칸지마스", exampleMeaning: "고향에 대한 향수를 느낍니다.",
+    breakdown: [
+      { word: "故郷", reading: "こきょう", meaning: "고향" }
+    ] },
+  { level: "N1", kanji: "望郷", reading: "ぼうきょう", korean: "보-쿄-", meaning: "망향",
+    example: "望郷の念にかられました。", exampleReading: "ぼうきょうのねんにかられました。", exampleKorean: "보-쿄-노 넨니 카라레마시타", exampleMeaning: "망향의 정에 사무쳤습니다.",
+    breakdown: [
+      { word: "念", reading: "ねん", meaning: "정" }
+    ] },
+  { level: "N1", kanji: "懐古", reading: "かいこ", korean: "카이코", meaning: "회고, 옛 것을 그리워함",
+    example: "懐古趣味があります。", exampleReading: "かいこしゅみがあります。", exampleKorean: "카이코슈미가 아리마스", exampleMeaning: "옛 것을 그리워하는 취미가 있습니다.",
+    breakdown: [
+      { word: "趣味", reading: "しゅみ", meaning: "취미" }
+    ] },
+  { level: "N1", kanji: "追憶", reading: "ついおく", korean: "츠이오쿠", meaning: "추억(회상)",
+    example: "過去を追憶しました。", exampleReading: "かこをついおくしました。", exampleKorean: "카코오 츠이오쿠 시마시타", exampleMeaning: "과거를 회상했습니다.",
+    breakdown: [
+      { word: "過去", reading: "かこ", meaning: "과거" }
+    ] },
+  { level: "N1", kanji: "回顧", reading: "かいこ", korean: "카이코", meaning: "회고",
+    example: "一年を回顧しました。", exampleReading: "いちねんをかいこしました。", exampleKorean: "이치넹오 카이코 시마시타", exampleMeaning: "한 해를 회고했습니다.",
+    breakdown: [
+      { word: "一年", reading: "いちねん", meaning: "한 해" }
+    ] },
+  { level: "N1", kanji: "思い出深い", reading: "おもいでぶかい", korean: "오모이데부카이", meaning: "추억이 깊은",
+    example: "思い出深い旅行でした。", exampleReading: "おもいでぶかいりょこうでした。", exampleKorean: "오모이데부카이 료코-데시타", exampleMeaning: "추억이 깊은 여행이었습니다.",
+    breakdown: [
+      { word: "旅行", reading: "りょこう", meaning: "여행" }
+    ] },
+  { level: "N1", kanji: "感慨", reading: "かんがい", korean: "캉가이", meaning: "감개",
+    example: "感慨にふけりました。", exampleReading: "かんがいにふけりました。", exampleKorean: "캉가이니 후케리마시타", exampleMeaning: "감개에 잠겼습니다.",
+    breakdown: [
+      { word: "ふけりました", reading: "ふけりました", meaning: "잠겼습니다" }
+    ] },
+  { level: "N1", kanji: "感慨深い", reading: "かんがいぶかい", korean: "캉가이부카이", meaning: "감개무량한",
+    example: "感慨深い思いです。", exampleReading: "かんがいぶかいおもいです。", exampleKorean: "캉가이부카이 오모이데스", exampleMeaning: "감개무량한 심정입니다.",
+    breakdown: [
+      { word: "思い", reading: "おもい", meaning: "심정" }
+    ] },
+  { level: "N1", kanji: "万感", reading: "ばんかん", korean: "반칸", meaning: "만감",
+    example: "万感の思いを込めました。", exampleReading: "ばんかんのおもいをこめました。", exampleKorean: "반칸노 오모이오 코메마시타", exampleMeaning: "만감이 교차하는 마음을 담았습니다.",
+    breakdown: [
+      { word: "思い", reading: "おもい", meaning: "마음" }
+    ] },
+  { level: "N1", kanji: "感無量", reading: "かんむりょう", korean: "칸무료-", meaning: "감개무량",
+    example: "感無量です。", exampleReading: "かんむりょうです。", exampleKorean: "칸무료-데스", exampleMeaning: "감개무량합니다.",
+    breakdown: [
+      { word: "です", reading: "です", meaning: "입니다" }
+    ] },
 ];
