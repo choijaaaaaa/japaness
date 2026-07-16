@@ -4783,6 +4783,206 @@ const VOCAB = [
     breakdown: [
       { word: "遊びました", reading: "あそびました", meaning: "놀았습니다" }
     ] },
+  { level: "N5", kanji: "自動販売機", reading: "じどうはんばいき", korean: "지도-함바이키", meaning: "자동판매기",
+    example: "自動販売機で飲み物を買いました。", exampleReading: "じどうはんばいきでのみものをかいました。", exampleKorean: "지도-함바이키데 노미모노오 카이마시타", exampleMeaning: "자동판매기에서 음료를 샀습니다.",
+    breakdown: [
+      { word: "飲み物", reading: "のみもの", meaning: "음료" }
+    ] },
+  { level: "N5", kanji: "コインランドリー", reading: "コインランドリー", korean: "코인란도리-", meaning: "코인세탁소",
+    example: "コインランドリーで洗濯しました。", exampleReading: "コインランドリーでせんたくしました。", exampleKorean: "코인란도리-데 센타쿠 시마시타", exampleMeaning: "코인세탁소에서 세탁했습니다.",
+    breakdown: [
+      { word: "洗濯", reading: "せんたく", meaning: "세탁" }
+    ] },
+  { level: "N5", kanji: "コインロッカー", reading: "コインロッカー", korean: "코인록카-", meaning: "코인로커",
+    example: "駅のコインロッカーに荷物を預けました。", exampleReading: "えきのコインロッカーににもつをあずけました。", exampleKorean: "에키노 코인록카-니 니모츠오 아즈케마시타", exampleMeaning: "역의 코인로커에 짐을 맡겼습니다.",
+    breakdown: [
+      { word: "荷物", reading: "にもつ", meaning: "짐" }
+    ] },
+  { level: "N5", kanji: "宅配ボックス", reading: "たくはいボックス", korean: "타쿠하이복쿠스", meaning: "택배함",
+    example: "宅配ボックスに荷物が届きました。", exampleReading: "たくはいボックスににもつがとどきました。", exampleKorean: "타쿠하이복쿠스니 니모츠가 토도키마시타", exampleMeaning: "택배함에 짐이 도착했습니다.",
+    breakdown: [
+      { word: "荷物", reading: "にもつ", meaning: "짐" }
+    ] },
+  { level: "N5", kanji: "宅配便", reading: "たくはいびん", korean: "타쿠하이빈", meaning: "택배",
+    example: "宅配便で送りました。", exampleReading: "たくはいびんでおくりました。", exampleKorean: "타쿠하이빈데 오쿠리마시타", exampleMeaning: "택배로 보냈습니다.",
+    breakdown: [
+      { word: "送りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N5", kanji: "再配達", reading: "さいはいたつ", korean: "사이하이타츠", meaning: "재배달",
+    example: "再配達をお願いしました。", exampleReading: "さいはいたつをおねがいしました。", exampleKorean: "사이하이타츠오 오네가이 시마시타", exampleMeaning: "재배달을 부탁했습니다.",
+    breakdown: [
+      { word: "お願い", reading: "おねがい", meaning: "부탁" }
+    ] },
+  { level: "N5", kanji: "郵便ポスト", reading: "ゆうびんポスト", korean: "유-빈포스토", meaning: "우체통",
+    example: "郵便ポストに手紙を入れました。", exampleReading: "ゆうびんポストにてがみをいれました。", exampleKorean: "유-빈포스토니 테가미오 이레마시타", exampleMeaning: "우체통에 편지를 넣었습니다.",
+    breakdown: [
+      { word: "手紙", reading: "てがみ", meaning: "편지" }
+    ] },
+  { level: "N5", kanji: "切手", reading: "きって", korean: "킷테", meaning: "우표",
+    example: "切手を貼りました。", exampleReading: "きってをはりました。", exampleKorean: "킷테오 하리마시타", exampleMeaning: "우표를 붙였습니다.",
+    breakdown: [
+      { word: "貼りました", reading: "はりました", meaning: "붙였습니다" }
+    ] },
+  { level: "N5", kanji: "はがき", reading: "はがき", korean: "하가키", meaning: "엽서",
+    example: "友達にはがきを送りました。", exampleReading: "ともだちにはがきをおくりました。", exampleKorean: "토모다치니 하가키오 오쿠리마시타", exampleMeaning: "친구에게 엽서를 보냈습니다.",
+    breakdown: [
+      { word: "友達に", reading: "ともだちに", meaning: "친구에게" }
+    ] },
+  { level: "N5", kanji: "封筒", reading: "ふうとう", korean: "후-토-", meaning: "봉투",
+    example: "手紙を封筒に入れました。", exampleReading: "てがみをふうとうにいれました。", exampleKorean: "테가미오 후-토-니 이레마시타", exampleMeaning: "편지를 봉투에 넣었습니다.",
+    breakdown: [
+      { word: "手紙", reading: "てがみ", meaning: "편지" }
+    ] },
+  { level: "N5", kanji: "便箋", reading: "びんせん", korean: "빈센", meaning: "편지지",
+    example: "便箋に手紙を書きました。", exampleReading: "びんせんにてがみをかきました。", exampleKorean: "빈센니 테가미오 카키마시타", exampleMeaning: "편지지에 편지를 썼습니다.",
+    breakdown: [
+      { word: "手紙", reading: "てがみ", meaning: "편지" }
+    ] },
+  { level: "N5", kanji: "年賀はがき", reading: "ねんがはがき", korean: "넨가하가키", meaning: "연하엽서",
+    example: "年賀はがきを書きました。", exampleReading: "ねんがはがきをかきました。", exampleKorean: "넨가하가키오 카키마시타", exampleMeaning: "연하엽서를 썼습니다.",
+    breakdown: [
+      { word: "書きました", reading: "かきました", meaning: "썼습니다" }
+    ] },
+  { level: "N5", kanji: "速達", reading: "そくたつ", korean: "소쿠타츠", meaning: "속달",
+    example: "速達で送りました。", exampleReading: "そくたつでおくりました。", exampleKorean: "소쿠타츠데 오쿠리마시타", exampleMeaning: "속달로 보냈습니다.",
+    breakdown: [
+      { word: "送りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N5", kanji: "書留", reading: "かきとめ", korean: "카키토메", meaning: "등기우편",
+    example: "書留で送りました。", exampleReading: "かきとめでおくりました。", exampleKorean: "카키토메데 오쿠리마시타", exampleMeaning: "등기우편으로 보냈습니다.",
+    breakdown: [
+      { word: "送りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N5", kanji: "小包", reading: "こづつみ", korean: "코즈츠미", meaning: "소포",
+    example: "小包を送りました。", exampleReading: "こづつみをおくりました。", exampleKorean: "코즈츠미오 오쿠리마시타", exampleMeaning: "소포를 보냈습니다.",
+    breakdown: [
+      { word: "送りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N5", kanji: "宅配業者", reading: "たくはいぎょうしゃ", korean: "타쿠하이교-샤", meaning: "택배업체",
+    example: "宅配業者に依頼しました。", exampleReading: "たくはいぎょうしゃにいらいしました。", exampleKorean: "타쿠하이교-샤니 이라이 시마시타", exampleMeaning: "택배업체에 의뢰했습니다.",
+    breakdown: [
+      { word: "依頼", reading: "いらい", meaning: "의뢰" }
+    ] },
+  { level: "N5", kanji: "配達員", reading: "はいたついん", korean: "하이타츠인", meaning: "배달원",
+    example: "配達員が荷物を届けました。", exampleReading: "はいたついんがにもつをとどけました。", exampleKorean: "하이타츠인가 니모츠오 토도케마시타", exampleMeaning: "배달원이 짐을 배달했습니다.",
+    breakdown: [
+      { word: "荷物", reading: "にもつ", meaning: "짐" }
+    ] },
+  { level: "N5", kanji: "置き配", reading: "おきはい", korean: "오키하이", meaning: "비대면 배송",
+    example: "置き配を利用しています。", exampleReading: "おきはいをりようしています。", exampleKorean: "오키하이오 리요- 시테 이마스", exampleMeaning: "비대면 배송을 이용하고 있습니다.",
+    breakdown: [
+      { word: "利用", reading: "りよう", meaning: "이용" }
+    ] },
+  { level: "N5", kanji: "時間指定", reading: "じかんしてい", korean: "지칸시테-", meaning: "시간지정",
+    example: "配達の時間指定をしました。", exampleReading: "はいたつのじかんしていをしました。", exampleKorean: "하이타츠노 지칸시테- 시마시타", exampleMeaning: "배달 시간지정을 했습니다.",
+    breakdown: [
+      { word: "配達", reading: "はいたつ", meaning: "배달" }
+    ] },
+  { level: "N5", kanji: "日時指定", reading: "にちじしてい", korean: "니치지시테-", meaning: "일시지정",
+    example: "日時指定で注文しました。", exampleReading: "にちじしていでちゅうもんしました。", exampleKorean: "니치지시테-데 츄-몬 시마시타", exampleMeaning: "일시지정으로 주문했습니다.",
+    breakdown: [
+      { word: "注文", reading: "ちゅうもん", meaning: "주문" }
+    ] },
+  { level: "N5", kanji: "市役所窓口", reading: "しやくしょまどぐち", korean: "시야쿠쇼마도구치", meaning: "시청 창구",
+    example: "市役所窓口で手続きをしました。", exampleReading: "しやくしょまどぐちでてつづきをしました。", exampleKorean: "시야쿠쇼마도구치데 테츠즈키오 시마시타", exampleMeaning: "시청 창구에서 절차를 밟았습니다.",
+    breakdown: [
+      { word: "手続き", reading: "てつづき", meaning: "절차" }
+    ] },
+  { level: "N5", kanji: "戸籍謄本", reading: "こせきとうほん", korean: "코세키토-혼", meaning: "호적등본",
+    example: "戸籍謄本を取得しました。", exampleReading: "こせきとうほんをしゅとくしました。", exampleKorean: "코세키토-홍오 슈토쿠 시마시타", exampleMeaning: "호적등본을 발급받았습니다.",
+    breakdown: [
+      { word: "取得", reading: "しゅとく", meaning: "발급" }
+    ] },
+  { level: "N5", kanji: "印鑑証明", reading: "いんかんしょうめい", korean: "인칸쇼-메-", meaning: "인감증명",
+    example: "印鑑証明を発行してもらいました。", exampleReading: "いんかんしょうめいをはっこうしてもらいました。", exampleKorean: "인칸쇼-메-오 학코-시테 모라이마시타", exampleMeaning: "인감증명을 발급받았습니다.",
+    breakdown: [
+      { word: "発行", reading: "はっこう", meaning: "발급" }
+    ] },
+  { level: "N5", kanji: "転入届", reading: "てんにゅうとどけ", korean: "텐뉴-토도케", meaning: "전입신고",
+    example: "転入届を出しました。", exampleReading: "てんにゅうとどけをだしました。", exampleKorean: "텐뉴-토도케오 다시마시타", exampleMeaning: "전입신고를 냈습니다.",
+    breakdown: [
+      { word: "出しました", reading: "だしました", meaning: "냈습니다" }
+    ] },
+  { level: "N5", kanji: "転出届", reading: "てんしゅつとどけ", korean: "텐슈츠토도케", meaning: "전출신고",
+    example: "転出届を提出しました。", exampleReading: "てんしゅつとどけをていしゅつしました。", exampleKorean: "텐슈츠토도케오 테-슈츠 시마시타", exampleMeaning: "전출신고를 제출했습니다.",
+    breakdown: [
+      { word: "提出", reading: "ていしゅつ", meaning: "제출" }
+    ] },
+  { level: "N5", kanji: "婚姻届", reading: "こんいんとどけ", korean: "콘인토도케", meaning: "혼인신고",
+    example: "婚姻届を出しました。", exampleReading: "こんいんとどけをだしました。", exampleKorean: "콘인토도케오 다시마시타", exampleMeaning: "혼인신고를 냈습니다.",
+    breakdown: [
+      { word: "出しました", reading: "だしました", meaning: "냈습니다" }
+    ] },
+  { level: "N5", kanji: "出生届", reading: "しゅっしょうとどけ", korean: "슛쇼-토도케", meaning: "출생신고",
+    example: "子供の出生届を出しました。", exampleReading: "こどものしゅっしょうとどけをだしました。", exampleKorean: "코도모노 슛쇼-토도케오 다시마시타", exampleMeaning: "아이의 출생신고를 냈습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N5", kanji: "死亡届", reading: "しぼうとどけ", korean: "시보-토도케", meaning: "사망신고",
+    example: "死亡届を提出しました。", exampleReading: "しぼうとどけをていしゅつしました。", exampleKorean: "시보-토도케오 테-슈츠 시마시타", exampleMeaning: "사망신고를 제출했습니다.",
+    breakdown: [
+      { word: "提出", reading: "ていしゅつ", meaning: "제출" }
+    ] },
+  { level: "N5", kanji: "パスポート申請", reading: "パスポートしんせい", korean: "파스포-토신세-", meaning: "여권 신청",
+    example: "パスポート申請をしました。", exampleReading: "パスポートしんせいをしました。", exampleKorean: "파스포-토신세-오 시마시타", exampleMeaning: "여권 신청을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N5", kanji: "マイナンバーカード", reading: "マイナンバーカード", korean: "마이남바-카-도", meaning: "마이넘버 카드",
+    example: "マイナンバーカードを作りました。", exampleReading: "マイナンバーカードをつくりました。", exampleKorean: "마이남바-카-도오 츠쿠리마시타", exampleMeaning: "마이넘버 카드를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N5", kanji: "図書館カード", reading: "としょかんカード", korean: "토쇼칸카-도", meaning: "도서관 카드",
+    example: "図書館カードを作りました。", exampleReading: "としょかんカードをつくりました。", exampleKorean: "토쇼칸카-도오 츠쿠리마시타", exampleMeaning: "도서관 카드를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N5", kanji: "会員カード", reading: "かいいんカード", korean: "카이인카-도", meaning: "회원카드",
+    example: "会員カードを提示しました。", exampleReading: "かいいんカードをていじしました。", exampleKorean: "카이인카-도오 테-지 시마시타", exampleMeaning: "회원카드를 제시했습니다.",
+    breakdown: [
+      { word: "提示", reading: "ていじ", meaning: "제시" }
+    ] },
+  { level: "N5", kanji: "運転免許証", reading: "うんてんめんきょしょう", korean: "운텐멘쿄쇼-", meaning: "운전면허증",
+    example: "運転免許証を更新しました。", exampleReading: "うんてんめんきょしょうをこうしんしました。", exampleKorean: "운텐멘쿄쇼-오 코-신 시마시타", exampleMeaning: "운전면허증을 갱신했습니다.",
+    breakdown: [
+      { word: "更新", reading: "こうしん", meaning: "갱신" }
+    ] },
+  { level: "N5", kanji: "学生証コピー", reading: "がくせいしょうコピー", korean: "가쿠세-쇼- 코피-", meaning: "학생증 복사본",
+    example: "学生証コピーを提出しました。", exampleReading: "がくせいしょうコピーをていしゅつしました。", exampleKorean: "가쿠세-쇼- 코피-오 테-슈츠 시마시타", exampleMeaning: "학생증 복사본을 제출했습니다.",
+    breakdown: [
+      { word: "提出", reading: "ていしゅつ", meaning: "제출" }
+    ] },
+  { level: "N5", kanji: "証明写真", reading: "しょうめいしゃしん", korean: "쇼-메-샤신", meaning: "증명사진",
+    example: "証明写真を撮りました。", exampleReading: "しょうめいしゃしんをとりました。", exampleKorean: "쇼-메-샤신오 토리마시타", exampleMeaning: "증명사진을 찍었습니다.",
+    breakdown: [
+      { word: "撮りました", reading: "とりました", meaning: "찍었습니다" }
+    ] },
+  { level: "N5", kanji: "写真撮影", reading: "しゃしんさつえい", korean: "샤신사츠에-", meaning: "사진촬영",
+    example: "写真撮影をお願いしました。", exampleReading: "しゃしんさつえいをおねがいしました。", exampleKorean: "샤신사츠에-오 오네가이 시마시타", exampleMeaning: "사진촬영을 부탁했습니다.",
+    breakdown: [
+      { word: "お願い", reading: "おねがい", meaning: "부탁" }
+    ] },
+  { level: "N5", kanji: "証明書発行", reading: "しょうめいしょはっこう", korean: "쇼-메-쇼학코-", meaning: "증명서 발행",
+    example: "証明書発行の手続きをしました。", exampleReading: "しょうめいしょはっこうのてつづきをしました。", exampleKorean: "쇼-메-쇼학코-노 테츠즈키오 시마시타", exampleMeaning: "증명서 발행 절차를 밟았습니다.",
+    breakdown: [
+      { word: "手続き", reading: "てつづき", meaning: "절차" }
+    ] },
+  { level: "N5", kanji: "卒業証明書", reading: "そつぎょうしょうめいしょ", korean: "소츠교-쇼-메-쇼", meaning: "졸업증명서",
+    example: "卒業証明書を提出しました。", exampleReading: "そつぎょうしょうめいしょをていしゅつしました。", exampleKorean: "소츠교-쇼-메-쇼오 테-슈츠 시마시타", exampleMeaning: "졸업증명서를 제출했습니다.",
+    breakdown: [
+      { word: "提出", reading: "ていしゅつ", meaning: "제출" }
+    ] },
+  { level: "N5", kanji: "在学証明書", reading: "ざいがくしょうめいしょ", korean: "자이가쿠쇼-메-쇼", meaning: "재학증명서",
+    example: "在学証明書を発行してもらいました。", exampleReading: "ざいがくしょうめいしょをはっこうしてもらいました。", exampleKorean: "자이가쿠쇼-메-쇼오 학코-시테 모라이마시타", exampleMeaning: "재학증명서를 발급받았습니다.",
+    breakdown: [
+      { word: "発行", reading: "はっこう", meaning: "발급" }
+    ] },
+  { level: "N5", kanji: "成績証明書", reading: "せいせきしょうめいしょ", korean: "세-세키쇼-메-쇼", meaning: "성적증명서",
+    example: "成績証明書を提出しました。", exampleReading: "せいせきしょうめいしょをていしゅつしました。", exampleKorean: "세-세키쇼-메-쇼오 테-슈츠 시마시타", exampleMeaning: "성적증명서를 제출했습니다.",
+    breakdown: [
+      { word: "提出", reading: "ていしゅつ", meaning: "제출" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
