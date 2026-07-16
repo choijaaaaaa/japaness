@@ -8793,6 +8793,231 @@ const VOCAB = [
     breakdown: [
       { word: "塗りました", reading: "ぬりました", meaning: "발랐습니다" }
     ] },
+  { level: "N4", kanji: "野菜炒め", reading: "やさいいため", korean: "야사이이타메", meaning: "야채볶음",
+    example: "野菜炒めを作りました。", exampleReading: "やさいいためをつくりました。", exampleKorean: "야사이이타메오 츠쿠리마시타", exampleMeaning: "야채볶음을 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N4", kanji: "カレーライス", reading: "カレーライス", korean: "카레-라이스", meaning: "카레라이스",
+    example: "昼ご飯にカレーライスを食べました。", exampleReading: "ひるごはんにカレーライスをたべました。", exampleKorean: "히루고한니 카레-라이스오 타베마시타", exampleMeaning: "점심으로 카레라이스를 먹었습니다.",
+    breakdown: [
+      { word: "昼ご飯", reading: "ひるごはん", meaning: "점심" }
+    ] },
+  { level: "N4", kanji: "ハンバーグ", reading: "ハンバーグ", korean: "함바-구", meaning: "햄버그스테이크",
+    example: "夕食にハンバーグを作りました。", exampleReading: "ゆうしょくにハンバーグをつくりました。", exampleKorean: "유-쇼쿠니 함바-구오 츠쿠리마시타", exampleMeaning: "저녁으로 햄버그스테이크를 만들었습니다.",
+    breakdown: [
+      { word: "夕食", reading: "ゆうしょく", meaning: "저녁" }
+    ] },
+  { level: "N4", kanji: "ステーキ", reading: "ステーキ", korean: "스테-키", meaning: "스테이크",
+    example: "記念日にステーキを食べました。", exampleReading: "きねんびにステーキをたべました。", exampleKorean: "키넨비니 스테-키오 타베마시타", exampleMeaning: "기념일에 스테이크를 먹었습니다.",
+    breakdown: [
+      { word: "記念日", reading: "きねんび", meaning: "기념일" }
+    ] },
+  { level: "N4", kanji: "パスタ", reading: "パスタ", korean: "파스타", meaning: "파스타",
+    example: "ランチにパスタを注文しました。", exampleReading: "ランチにパスタをちゅうもんしました。", exampleKorean: "란치니 파스타오 츄-몬 시마시타", exampleMeaning: "런치로 파스타를 주문했습니다.",
+    breakdown: [
+      { word: "ランチ", reading: "ランチ", meaning: "런치" }
+    ] },
+  { level: "N4", kanji: "スパゲッティ", reading: "スパゲッティ", korean: "스파겟티", meaning: "스파게티",
+    example: "スパゲッティを茹でました。", exampleReading: "スパゲッティをゆでました。", exampleKorean: "스파겟티오 유데마시타", exampleMeaning: "스파게티를 삶았습니다.",
+    breakdown: [
+      { word: "茹でました", reading: "ゆでました", meaning: "삶았습니다" }
+    ] },
+  { level: "N4", kanji: "ピザ", reading: "ピザ", korean: "피자", meaning: "피자",
+    example: "友達とピザを食べました。", exampleReading: "ともだちとピザをたべました。", exampleKorean: "토모다치토 피자오 타베마시타", exampleMeaning: "친구와 피자를 먹었습니다.",
+    breakdown: [
+      { word: "友達と", reading: "ともだちと", meaning: "친구와" }
+    ] },
+  { level: "N4", kanji: "サンドイッチ", reading: "サンドイッチ", korean: "산도잇치", meaning: "샌드위치",
+    example: "朝ご飯にサンドイッチを食べました。", exampleReading: "あさごはんにサンドイッチをたべました。", exampleKorean: "아사고한니 산도잇치오 타베마시타", exampleMeaning: "아침으로 샌드위치를 먹었습니다.",
+    breakdown: [
+      { word: "朝ご飯", reading: "あさごはん", meaning: "아침" }
+    ] },
+  { level: "N4", kanji: "ハンバーガー", reading: "ハンバーガー", korean: "함바-가-", meaning: "햄버거",
+    example: "昼にハンバーガーを食べました。", exampleReading: "ひるにハンバーガーをたべました。", exampleKorean: "히루니 함바-가-오 타베마시타", exampleMeaning: "점심에 햄버거를 먹었습니다.",
+    breakdown: [
+      { word: "昼", reading: "ひる", meaning: "점심" }
+    ] },
+  { level: "N4", kanji: "フライドポテト", reading: "フライドポテト", korean: "후라이도포테토", meaning: "감자튀김",
+    example: "フライドポテトを注文しました。", exampleReading: "フライドポテトをちゅうもんしました。", exampleKorean: "후라이도포테토오 츄-몬 시마시타", exampleMeaning: "감자튀김을 주문했습니다.",
+    breakdown: [
+      { word: "注文", reading: "ちゅうもん", meaning: "주문" }
+    ] },
+  { level: "N4", kanji: "天ぷらそば", reading: "てんぷらそば", korean: "텐푸라소바", meaning: "튀김메밀국수",
+    example: "天ぷらそばを食べました。", exampleReading: "てんぷらそばをたべました。", exampleKorean: "텐푸라소바오 타베마시타", exampleMeaning: "튀김메밀국수를 먹었습니다.",
+    breakdown: [
+      { word: "食べました", reading: "たべました", meaning: "먹었습니다" }
+    ] },
+  { level: "N4", kanji: "きつねうどん", reading: "きつねうどん", korean: "키츠네우동", meaning: "유부우동",
+    example: "きつねうどんが好きです。", exampleReading: "きつねうどんがすきです。", exampleKorean: "키츠네우동가 스키데스", exampleMeaning: "유부우동을 좋아합니다.",
+    breakdown: [
+      { word: "好き", reading: "すき", meaning: "좋아함" }
+    ] },
+  { level: "N4", kanji: "たぬきそば", reading: "たぬきそば", korean: "타누키소바", meaning: "튀김부스러기 메밀국수",
+    example: "たぬきそばを注文しました。", exampleReading: "たぬきそばをちゅうもんしました。", exampleKorean: "타누키소바오 츄-몬 시마시타", exampleMeaning: "타누키소바를 주문했습니다.",
+    breakdown: [
+      { word: "注文", reading: "ちゅうもん", meaning: "주문" }
+    ] },
+  { level: "N4", kanji: "冷やし中華", reading: "ひやしちゅうか", korean: "히야시츄-카", meaning: "히야시츄카(냉면 스타일)",
+    example: "夏は冷やし中華が人気です。", exampleReading: "なつはひやしちゅうかがにんきです。", exampleKorean: "나츠와 히야시츄-카가 닌키데스", exampleMeaning: "여름에는 히야시츄카가 인기입니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
+  { level: "N4", kanji: "肉じゃが", reading: "にくじゃが", korean: "니쿠쟈가", meaning: "고기감자조림",
+    example: "肉じゃがを作りました。", exampleReading: "にくじゃがをつくりました。", exampleKorean: "니쿠쟈가오 츠쿠리마시타", exampleMeaning: "고기감자조림을 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N4", kanji: "ミートソース", reading: "ミートソース", korean: "미-토소-스", meaning: "미트소스",
+    example: "ミートソースパスタを食べました。", exampleReading: "ミートソースパスタをたべました。", exampleKorean: "미-토소-스 파스타오 타베마시타", exampleMeaning: "미트소스 파스타를 먹었습니다.",
+    breakdown: [
+      { word: "パスタ", reading: "パスタ", meaning: "파스타" }
+    ] },
+  { level: "N4", kanji: "ホワイトソース", reading: "ホワイトソース", korean: "호와이토소-스", meaning: "화이트소스",
+    example: "ホワイトソースのグラタンです。", exampleReading: "ホワイトソースのグラタンです。", exampleKorean: "호와이토소-스노 구라탄데스", exampleMeaning: "화이트소스 그라탕입니다.",
+    breakdown: [
+      { word: "グラタン", reading: "グラタン", meaning: "그라탕" }
+    ] },
+  { level: "N4", kanji: "照り焼き", reading: "てりやき", korean: "테리야키", meaning: "데리야키",
+    example: "照り焼きチキンを作りました。", exampleReading: "てりやきチキンをつくりました。", exampleKorean: "테리야키 치킨오 츠쿠리마시타", exampleMeaning: "데리야키 치킨을 만들었습니다.",
+    breakdown: [
+      { word: "チキン", reading: "チキン", meaning: "치킨" }
+    ] },
+  { level: "N4", kanji: "生姜焼き", reading: "しょうがやき", korean: "쇼-가야키", meaning: "생강구이",
+    example: "豚肉の生姜焼きを食べました。", exampleReading: "ぶたにくのしょうがやきをたべました。", exampleKorean: "부타니쿠노 쇼-가야키오 타베마시타", exampleMeaning: "돼지고기 생강구이를 먹었습니다.",
+    breakdown: [
+      { word: "豚肉", reading: "ぶたにく", meaning: "돼지고기" }
+    ] },
+  { level: "N4", kanji: "酢豚", reading: "すぶた", korean: "스부타", meaning: "탕수육",
+    example: "酢豚を注文しました。", exampleReading: "すぶたをちゅうもんしました。", exampleKorean: "스부타오 츄-몬 시마시타", exampleMeaning: "탕수육을 주문했습니다.",
+    breakdown: [
+      { word: "注文", reading: "ちゅうもん", meaning: "주문" }
+    ] },
+  { level: "N4", kanji: "麻婆豆腐", reading: "まーぼーどうふ", korean: "마-보-도-후", meaning: "마파두부",
+    example: "麻婆豆腐が辛かったです。", exampleReading: "まーぼーどうふがからかったです。", exampleKorean: "마-보-도-후가 카라캇타데스", exampleMeaning: "마파두부가 매웠습니다.",
+    breakdown: [
+      { word: "辛かった", reading: "からかった", meaning: "매웠다" }
+    ] },
+  { level: "N4", kanji: "青椒肉絲", reading: "チンジャオロース", korean: "친쟈오로-스", meaning: "칭징러우쓰",
+    example: "青椒肉絲を作りました。", exampleReading: "チンジャオロースをつくりました。", exampleKorean: "친쟈오로-스오 츠쿠리마시타", exampleMeaning: "칭징러우쓰를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N4", kanji: "回鍋肉", reading: "ホイコーロー", korean: "호이코-로-", meaning: "회과육",
+    example: "回鍋肉を食べに行きました。", exampleReading: "ホイコーローをたべにいきました。", exampleKorean: "호이코-로-오 타베니 이키마시타", exampleMeaning: "회과육을 먹으러 갔습니다.",
+    breakdown: [
+      { word: "食べに行きました", reading: "たべにいきました", meaning: "먹으러 갔습니다" }
+    ] },
+  { level: "N4", kanji: "エビチリ", reading: "エビチリ", korean: "에비치리", meaning: "칠리새우",
+    example: "エビチリが好きです。", exampleReading: "エビチリがすきです。", exampleKorean: "에비치리가 스키데스", exampleMeaning: "칠리새우를 좋아합니다.",
+    breakdown: [
+      { word: "好き", reading: "すき", meaning: "좋아함" }
+    ] },
+  { level: "N4", kanji: "八宝菜", reading: "はっぽうさい", korean: "합포-사이", meaning: "팔보채",
+    example: "八宝菜を注文しました。", exampleReading: "はっぽうさいをちゅうもんしました。", exampleKorean: "합포-사이오 츄-몬 시마시타", exampleMeaning: "팔보채를 주문했습니다.",
+    breakdown: [
+      { word: "注文", reading: "ちゅうもん", meaning: "주문" }
+    ] },
+  { level: "N4", kanji: "チャーハン", reading: "チャーハン", korean: "챠-한", meaning: "볶음밥",
+    example: "チャーハンを作りました。", exampleReading: "チャーハンをつくりました。", exampleKorean: "챠-한오 츠쿠리마시타", exampleMeaning: "볶음밥을 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N4", kanji: "冷麺", reading: "れいめん", korean: "레-멘", meaning: "냉면",
+    example: "夏は冷麺を食べます。", exampleReading: "なつはれいめんをたべます。", exampleKorean: "나츠와 레-멘오 타베마스", exampleMeaning: "여름에는 냉면을 먹습니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
+  { level: "N4", kanji: "ビビンバ", reading: "ビビンバ", korean: "비빔바", meaning: "비빔밥",
+    example: "ビビンバを食べました。", exampleReading: "ビビンバをたべました。", exampleKorean: "비빔바오 타베마시타", exampleMeaning: "비빔밥을 먹었습니다.",
+    breakdown: [
+      { word: "食べました", reading: "たべました", meaning: "먹었습니다" }
+    ] },
+  { level: "N4", kanji: "キムチチゲ", reading: "キムチチゲ", korean: "키무치치게", meaning: "김치찌개",
+    example: "キムチチゲが辛かったです。", exampleReading: "キムチチゲがからかったです。", exampleKorean: "키무치치게가 카라캇타데스", exampleMeaning: "김치찌개가 매웠습니다.",
+    breakdown: [
+      { word: "辛かった", reading: "からかった", meaning: "매웠다" }
+    ] },
+  { level: "N4", kanji: "プルコギ", reading: "プルコギ", korean: "푸루코기", meaning: "불고기",
+    example: "プルコギを作りました。", exampleReading: "プルコギをつくりました。", exampleKorean: "푸루코기오 츠쿠리마시타", exampleMeaning: "불고기를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N4", kanji: "トッポギ", reading: "トッポギ", korean: "톳포기", meaning: "떡볶이",
+    example: "トッポギが辛かったです。", exampleReading: "トッポギがからかったです。", exampleKorean: "톳포기가 카라캇타데스", exampleMeaning: "떡볶이가 매웠습니다.",
+    breakdown: [
+      { word: "辛かった", reading: "からかった", meaning: "매웠다" }
+    ] },
+  { level: "N4", kanji: "チヂミ", reading: "チヂミ", korean: "치지미", meaning: "전(부침개)",
+    example: "チヂミを焼きました。", exampleReading: "チヂミをやきました。", exampleKorean: "치지미오 야키마시타", exampleMeaning: "전을 부쳤습니다.",
+    breakdown: [
+      { word: "焼きました", reading: "やきました", meaning: "부쳤습니다" }
+    ] },
+  { level: "N4", kanji: "サムギョプサル", reading: "サムギョプサル", korean: "사무교푸사루", meaning: "삼겹살",
+    example: "サムギョプサルを食べました。", exampleReading: "サムギョプサルをたべました。", exampleKorean: "사무교푸사루오 타베마시타", exampleMeaning: "삼겹살을 먹었습니다.",
+    breakdown: [
+      { word: "食べました", reading: "たべました", meaning: "먹었습니다" }
+    ] },
+  { level: "N4", kanji: "冷製パスタ", reading: "れいせいパスタ", korean: "레-세-파스타", meaning: "냉파스타",
+    example: "夏は冷製パスタが人気です。", exampleReading: "なつはれいせいパスタがにんきです。", exampleKorean: "나츠와 레-세- 파스타가 닌키데스", exampleMeaning: "여름에는 냉파스타가 인기입니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
+  { level: "N4", kanji: "ミネストローネ", reading: "ミネストローネ", korean: "미네스토로-네", meaning: "미네스트로네",
+    example: "ミネストローネを作りました。", exampleReading: "ミネストローネをつくりました。", exampleKorean: "미네스토로-네오 츠쿠리마시타", exampleMeaning: "미네스트로네를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N4", kanji: "コンソメスープ", reading: "コンソメスープ", korean: "콘소메스-푸", meaning: "콩소메 수프",
+    example: "コンソメスープを飲みました。", exampleReading: "コンソメスープをのみました。", exampleKorean: "콘소메스-푸오 노미마시타", exampleMeaning: "콩소메 수프를 마셨습니다.",
+    breakdown: [
+      { word: "飲みました", reading: "のみました", meaning: "마셨습니다" }
+    ] },
+  { level: "N4", kanji: "クラムチャウダー", reading: "クラムチャウダー", korean: "쿠라무챠우다-", meaning: "클램차우더",
+    example: "クラムチャウダーが美味しかったです。", exampleReading: "クラムチャウダーがおいしかったです。", exampleKorean: "쿠라무챠우다-가 오이시캇타데스", exampleMeaning: "클램차우더가 맛있었습니다.",
+    breakdown: [
+      { word: "美味しかった", reading: "おいしかった", meaning: "맛있었다" }
+    ] },
+  { level: "N4", kanji: "ポタージュ", reading: "ポタージュ", korean: "포타-쥬", meaning: "포타주",
+    example: "かぼちゃのポタージュを作りました。", exampleReading: "かぼちゃのポタージュをつくりました。", exampleKorean: "카보챠노 포타-쥬오 츠쿠리마시타", exampleMeaning: "단호박 포타주를 만들었습니다.",
+    breakdown: [
+      { word: "かぼちゃ", reading: "かぼちゃ", meaning: "단호박" }
+    ] },
+  { level: "N4", kanji: "コーンスープ", reading: "コーンスープ", korean: "코-은스-푸", meaning: "콘수프",
+    example: "コーンスープを飲みました。", exampleReading: "コーンスープをのみました。", exampleKorean: "코-은스-푸오 노미마시타", exampleMeaning: "콘수프를 마셨습니다.",
+    breakdown: [
+      { word: "飲みました", reading: "のみました", meaning: "마셨습니다" }
+    ] },
+  { level: "N4", kanji: "ワンタンスープ", reading: "ワンタンスープ", korean: "완탄스-푸", meaning: "완탕수프",
+    example: "ワンタンスープを食べました。", exampleReading: "ワンタンスープをたべました。", exampleKorean: "완탄스-푸오 타베마시타", exampleMeaning: "완탕수프를 먹었습니다.",
+    breakdown: [
+      { word: "食べました", reading: "たべました", meaning: "먹었습니다" }
+    ] },
+  { level: "N4", kanji: "中華スープ", reading: "ちゅうかスープ", korean: "츄-카스-푸", meaning: "중화 수프",
+    example: "中華スープを注文しました。", exampleReading: "ちゅうかスープをちゅうもんしました。", exampleKorean: "츄-카스-푸오 츄-몬 시마시타", exampleMeaning: "중화 수프를 주문했습니다.",
+    breakdown: [
+      { word: "注文", reading: "ちゅうもん", meaning: "주문" }
+    ] },
+  { level: "N4", kanji: "味噌ラーメン", reading: "みそラーメン", korean: "미소라-멘", meaning: "미소라멘",
+    example: "味噌ラーメンを食べました。", exampleReading: "みそラーメンをたべました。", exampleKorean: "미소라-멘오 타베마시타", exampleMeaning: "미소라멘을 먹었습니다.",
+    breakdown: [
+      { word: "食べました", reading: "たべました", meaning: "먹었습니다" }
+    ] },
+  { level: "N4", kanji: "塩ラーメン", reading: "しおラーメン", korean: "시오라-멘", meaning: "시오라멘",
+    example: "塩ラーメンが好きです。", exampleReading: "しおラーメンがすきです。", exampleKorean: "시오라-멘가 스키데스", exampleMeaning: "시오라멘을 좋아합니다.",
+    breakdown: [
+      { word: "好き", reading: "すき", meaning: "좋아함" }
+    ] },
+  { level: "N4", kanji: "醤油ラーメン", reading: "しょうゆラーメン", korean: "쇼-유라-멘", meaning: "쇼유라멘",
+    example: "醤油ラーメンを注文しました。", exampleReading: "しょうゆラーメンをちゅうもんしました。", exampleKorean: "쇼-유라-멘오 츄-몬 시마시타", exampleMeaning: "쇼유라멘을 주문했습니다.",
+    breakdown: [
+      { word: "注文", reading: "ちゅうもん", meaning: "주문" }
+    ] },
+  { level: "N4", kanji: "とんかつ", reading: "とんかつ", korean: "톤카츠", meaning: "돈가스",
+    example: "とんかつを食べました。", exampleReading: "とんかつをたべました。", exampleKorean: "톤카츠오 타베마시타", exampleMeaning: "돈가스를 먹었습니다.",
+    breakdown: [
+      { word: "食べました", reading: "たべました", meaning: "먹었습니다" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
