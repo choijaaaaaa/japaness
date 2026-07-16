@@ -12712,6 +12712,156 @@ const VOCAB = [
     breakdown: [
       { word: "政策", reading: "せいさく", meaning: "정책" }
     ] },
+  { level: "N2", kanji: "特許", reading: "とっきょ", korean: "톡쿄", meaning: "특허",
+    example: "新技術の特許を取得しました。", exampleReading: "しんぎじゅつのとっきょをしゅとくしました。", exampleKorean: "신기쥬츠노 톡쿄오 슈토쿠 시마시타", exampleMeaning: "신기술의 특허를 취득했습니다.",
+    breakdown: [
+      { word: "新技術", reading: "しんぎじゅつ", meaning: "신기술" }
+    ] },
+  { level: "N2", kanji: "商標", reading: "しょうひょう", korean: "쇼-효-", meaning: "상표",
+    example: "商標を登録しました。", exampleReading: "しょうひょうをとうろくしました。", exampleKorean: "쇼-효-오 토-로쿠 시마시타", exampleMeaning: "상표를 등록했습니다.",
+    breakdown: [
+      { word: "登録", reading: "とうろく", meaning: "등록" }
+    ] },
+  { level: "N2", kanji: "著作権侵害", reading: "ちょさくけんしんがい", korean: "쵸사쿠켄신가이", meaning: "저작권 침해",
+    example: "著作権侵害で訴えられました。", exampleReading: "ちょさくけんしんがいでうったえられました。", exampleKorean: "쵸사쿠켄신가이데 웃타에라레마시타", exampleMeaning: "저작권 침해로 고소당했습니다.",
+    breakdown: [
+      { word: "訴えられました", reading: "うったえられました", meaning: "고소당했습니다" }
+    ] },
+  { level: "N2", kanji: "知的財産", reading: "ちてきざいさん", korean: "치테키자이산", meaning: "지식재산",
+    example: "知的財産を保護しています。", exampleReading: "ちてきざいさんをほごしています。", exampleKorean: "치테키자이상오 호고 시테 이마스", exampleMeaning: "지식재산을 보호하고 있습니다.",
+    breakdown: [
+      { word: "保護", reading: "ほご", meaning: "보호" }
+    ] },
+  { level: "N2", kanji: "特許庁", reading: "とっきょちょう", korean: "톡쿄쵸-", meaning: "특허청",
+    example: "特許庁に申請しました。", exampleReading: "とっきょちょうにしんせいしました。", exampleKorean: "톡쿄쵸-니 신세- 시마시타", exampleMeaning: "특허청에 신청했습니다.",
+    breakdown: [
+      { word: "申請", reading: "しんせい", meaning: "신청" }
+    ] },
+  { level: "N2", kanji: "出願", reading: "しゅつがん", korean: "슈츠간", meaning: "출원",
+    example: "特許を出願しました。", exampleReading: "とっきょをしゅつがんしました。", exampleKorean: "톡쿄오 슈츠간 시마시타", exampleMeaning: "특허를 출원했습니다.",
+    breakdown: [
+      { word: "特許", reading: "とっきょ", meaning: "특허" }
+    ] },
+  { level: "N2", kanji: "認可", reading: "にんか", korean: "닌카", meaning: "인가",
+    example: "事業の認可を受けました。", exampleReading: "じぎょうのにんかをうけました。", exampleKorean: "지교-노 닌카오 우케마시타", exampleMeaning: "사업의 인가를 받았습니다.",
+    breakdown: [
+      { word: "事業", reading: "じぎょう", meaning: "사업" }
+    ] },
+  { level: "N2", kanji: "許認可", reading: "きょにんか", korean: "쿄닌카", meaning: "허인가",
+    example: "許認可の手続きが複雑です。", exampleReading: "きょにんかのてつづきがふくざつです。", exampleKorean: "쿄닌카노 테츠즈키가 후쿠자츠데스", exampleMeaning: "허인가 절차가 복잡합니다.",
+    breakdown: [
+      { word: "手続き", reading: "てつづき", meaning: "절차" }
+    ] },
+  { level: "N2", kanji: "規格", reading: "きかく", korean: "키카쿠", meaning: "규격",
+    example: "国際規格に準拠しています。", exampleReading: "こくさいきかくにじゅんきょしています。", exampleKorean: "코쿠사이 키카쿠니 쥰쿄 시테 이마스", exampleMeaning: "국제규격에 준거하고 있습니다.",
+    breakdown: [
+      { word: "国際", reading: "こくさい", meaning: "국제" }
+    ] },
+  { level: "N2", kanji: "基準値", reading: "きじゅんち", korean: "키쥰치", meaning: "기준치",
+    example: "基準値を超えています。", exampleReading: "きじゅんちをこえています。", exampleKorean: "키쥰치오 코에테 이마스", exampleMeaning: "기준치를 초과하고 있습니다.",
+    breakdown: [
+      { word: "超えて", reading: "こえて", meaning: "초과해서" }
+    ] },
+  { level: "N2", kanji: "検定試験", reading: "けんていしけん", korean: "켄테-시켄", meaning: "검정시험",
+    example: "日本語の検定試験を受けました。", exampleReading: "にほんごのけんていしけんをうけました。", exampleKorean: "니혼고노 켄테-시켕오 우케마시타", exampleMeaning: "일본어 검정시험을 봤습니다.",
+    breakdown: [
+      { word: "日本語", reading: "にほんご", meaning: "일본어" }
+    ] },
+  { level: "N2", kanji: "資格取得", reading: "しかくしゅとく", korean: "시카쿠슈토쿠", meaning: "자격취득",
+    example: "資格取得を目指しています。", exampleReading: "しかくしゅとくをめざしています。", exampleKorean: "시카쿠슈토쿠오 메자시테 이마스", exampleMeaning: "자격취득을 목표로 하고 있습니다.",
+    breakdown: [
+      { word: "目指して", reading: "めざして", meaning: "목표로 해서" }
+    ] },
+  { level: "N2", kanji: "認定", reading: "にんてい", korean: "닌테-", meaning: "인정, 인가",
+    example: "国家資格に認定されました。", exampleReading: "こっかしかくににんていされました。", exampleKorean: "콕카시카쿠니 닌테-사레마시타", exampleMeaning: "국가자격으로 인정받았습니다.",
+    breakdown: [
+      { word: "国家資格", reading: "こっかしかく", meaning: "국가자격" }
+    ] },
+  { level: "N2", kanji: "認証", reading: "にんしょう", korean: "닌쇼-", meaning: "인증",
+    example: "指紋認証を使っています。", exampleReading: "しもんにんしょうをつかっています。", exampleKorean: "시몬 닌쇼-오 츠캇테 이마스", exampleMeaning: "지문인증을 사용하고 있습니다.",
+    breakdown: [
+      { word: "指紋", reading: "しもん", meaning: "지문" }
+    ] },
+  { level: "N2", kanji: "品質管理", reading: "ひんしつかんり", korean: "힌시츠칸리", meaning: "품질관리",
+    example: "品質管理を徹底しています。", exampleReading: "ひんしつかんりをてっていしています。", exampleKorean: "힌시츠칸리오 텟테- 시테 이마스", exampleMeaning: "품질관리를 철저히 하고 있습니다.",
+    breakdown: [
+      { word: "徹底", reading: "てってい", meaning: "철저" }
+    ] },
+  { level: "N2", kanji: "工程管理", reading: "こうていかんり", korean: "코-테-칸리", meaning: "공정관리",
+    example: "工程管理を担当しています。", exampleReading: "こうていかんりをたんとうしています。", exampleKorean: "코-테-칸리오 탄토- 시테 이마스", exampleMeaning: "공정관리를 담당하고 있습니다.",
+    breakdown: [
+      { word: "担当", reading: "たんとう", meaning: "담당" }
+    ] },
+  { level: "N2", kanji: "納期", reading: "のうき", korean: "노-키", meaning: "납기",
+    example: "納期を守りました。", exampleReading: "のうきをまもりました。", exampleKorean: "노-키오 마모리마시타", exampleMeaning: "납기를 지켰습니다.",
+    breakdown: [
+      { word: "守りました", reading: "まもりました", meaning: "지켰습니다" }
+    ] },
+  { level: "N2", kanji: "発注", reading: "はっちゅう", korean: "핫츄-", meaning: "발주",
+    example: "部品を発注しました。", exampleReading: "ぶひんをはっちゅうしました。", exampleKorean: "부힝오 핫츄- 시마시타", exampleMeaning: "부품을 발주했습니다.",
+    breakdown: [
+      { word: "部品", reading: "ぶひん", meaning: "부품" }
+    ] },
+  { level: "N2", kanji: "受注", reading: "じゅちゅう", korean: "쥬츄-", meaning: "수주",
+    example: "大口の受注を獲得しました。", exampleReading: "おおぐちのじゅちゅうをかくとくしました。", exampleKorean: "오-구치노 쥬츄-오 카쿠토쿠 시마시타", exampleMeaning: "대량 수주를 확보했습니다.",
+    breakdown: [
+      { word: "獲得", reading: "かくとく", meaning: "확보" }
+    ] },
+  { level: "N2", kanji: "発注書", reading: "はっちゅうしょ", korean: "핫츄-쇼", meaning: "발주서",
+    example: "発注書を送りました。", exampleReading: "はっちゅうしょをおくりました。", exampleKorean: "핫츄-쇼오 오쿠리마시타", exampleMeaning: "발주서를 보냈습니다.",
+    breakdown: [
+      { word: "送りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N2", kanji: "見積書", reading: "みつもりしょ", korean: "미츠모리쇼", meaning: "견적서",
+    example: "見積書を作成しました。", exampleReading: "みつもりしょをさくせいしました。", exampleKorean: "미츠모리쇼오 사쿠세- 시마시타", exampleMeaning: "견적서를 작성했습니다.",
+    breakdown: [
+      { word: "作成", reading: "さくせい", meaning: "작성" }
+    ] },
+  { level: "N2", kanji: "見積もり", reading: "みつもり", korean: "미츠모리", meaning: "견적",
+    example: "見積もりをお願いします。", exampleReading: "みつもりをおねがいします。", exampleKorean: "미츠모리오 오네가이 시마스", exampleMeaning: "견적을 부탁드립니다.",
+    breakdown: [
+      { word: "お願いします", reading: "おねがいします", meaning: "부탁드립니다" }
+    ] },
+  { level: "N2", kanji: "納品", reading: "のうひん", korean: "노-힌", meaning: "납품",
+    example: "商品を納品しました。", exampleReading: "しょうひんをのうひんしました。", exampleKorean: "쇼-힝오 노-힌 시마시타", exampleMeaning: "상품을 납품했습니다.",
+    breakdown: [
+      { word: "商品", reading: "しょうひん", meaning: "상품" }
+    ] },
+  { level: "N2", kanji: "検収", reading: "けんしゅう", korean: "켄슈-", meaning: "검수",
+    example: "納品後に検収を行います。", exampleReading: "のうひんごにけんしゅうをおこないます。", exampleKorean: "노-힌고니 켄슈-오 오코나이마스", exampleMeaning: "납품 후에 검수를 실시합니다.",
+    breakdown: [
+      { word: "納品後", reading: "のうひんご", meaning: "납품 후" }
+    ] },
+  { level: "N2", kanji: "品質保証", reading: "ひんしつほしょう", korean: "힌시츠호쇼-", meaning: "품질보증",
+    example: "品質保証の担当をしています。", exampleReading: "ひんしつほしょうのたんとうをしています。", exampleKorean: "힌시츠호쇼-노 탄토-오 시테 이마스", exampleMeaning: "품질보증 담당을 하고 있습니다.",
+    breakdown: [
+      { word: "担当", reading: "たんとう", meaning: "담당" }
+    ] },
+  { level: "N2", kanji: "不良品", reading: "ふりょうひん", korean: "후료-힌", meaning: "불량품",
+    example: "不良品を交換しました。", exampleReading: "ふりょうひんをこうかんしました。", exampleKorean: "후료-힌오 코-칸 시마시타", exampleMeaning: "불량품을 교환했습니다.",
+    breakdown: [
+      { word: "交換", reading: "こうかん", meaning: "교환" }
+    ] },
+  { level: "N2", kanji: "出荷", reading: "しゅっか", korean: "슉카", meaning: "출하",
+    example: "製品を出荷しました。", exampleReading: "せいひんをしゅっかしました。", exampleKorean: "세-힝오 슉카 시마시타", exampleMeaning: "제품을 출하했습니다.",
+    breakdown: [
+      { word: "製品", reading: "せいひん", meaning: "제품" }
+    ] },
+  { level: "N2", kanji: "入荷", reading: "にゅうか", korean: "뉴-카", meaning: "입하",
+    example: "新商品が入荷しました。", exampleReading: "しんしょうひんがにゅうかしました。", exampleKorean: "신쇼-힝가 뉴-카 시마시타", exampleMeaning: "신상품이 입하되었습니다.",
+    breakdown: [
+      { word: "新商品", reading: "しんしょうひん", meaning: "신상품" }
+    ] },
+  { level: "N2", kanji: "在庫管理", reading: "ざいこかんり", korean: "자이코칸리", meaning: "재고관리",
+    example: "在庫管理を任されています。", exampleReading: "ざいこかんりをまかされています。", exampleKorean: "자이코칸리오 마카사레테 이마스", exampleMeaning: "재고관리를 맡고 있습니다.",
+    breakdown: [
+      { word: "任されて", reading: "まかされて", meaning: "맡아서" }
+    ] },
+  { level: "N2", kanji: "仕入れ", reading: "しいれ", korean: "시이레", meaning: "매입",
+    example: "商品の仕入れをしています。", exampleReading: "しょうひんのしいれをしています。", exampleKorean: "쇼-힌노 시이레오 시테 이마스", exampleMeaning: "상품 매입을 하고 있습니다.",
+    breakdown: [
+      { word: "商品", reading: "しょうひん", meaning: "상품" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
