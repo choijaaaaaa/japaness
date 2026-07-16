@@ -4283,6 +4283,256 @@ const VOCAB = [
     breakdown: [
       { word: "提出", reading: "ていしゅつ", meaning: "제출" }
     ] },
+  { level: "N5", kanji: "空港カウンター", reading: "くうこうカウンター", korean: "쿠-코-카운타-", meaning: "공항 카운터",
+    example: "空港カウンターでチェックインしました。", exampleReading: "くうこうカウンターでチェックインしました。", exampleKorean: "쿠-코-카운타-데 첵쿠인 시마시타", exampleMeaning: "공항 카운터에서 체크인했습니다.",
+    breakdown: [
+      { word: "チェックイン", reading: "チェックイン", meaning: "체크인" }
+    ] },
+  { level: "N5", kanji: "手荷物", reading: "てにもつ", korean: "테니모츠", meaning: "수하물",
+    example: "手荷物を預けました。", exampleReading: "てにもつをあずけました。", exampleKorean: "테니모츠오 아즈케마시타", exampleMeaning: "수하물을 맡겼습니다.",
+    breakdown: [
+      { word: "預けました", reading: "あずけました", meaning: "맡겼습니다" }
+    ] },
+  { level: "N5", kanji: "機内食", reading: "きないしょく", korean: "키나이쇼쿠", meaning: "기내식",
+    example: "機内食が美味しかったです。", exampleReading: "きないしょくがおいしかったです。", exampleKorean: "키나이쇼쿠가 오이시캇타데스", exampleMeaning: "기내식이 맛있었습니다.",
+    breakdown: [
+      { word: "美味しかった", reading: "おいしかった", meaning: "맛있었다" }
+    ] },
+  { level: "N5", kanji: "座席指定", reading: "ざせきしてい", korean: "자세키시테-", meaning: "좌석지정",
+    example: "窓側の座席指定をしました。", exampleReading: "まどがわのざせきしていをしました。", exampleKorean: "마도가와노 자세키시테- 시마시타", exampleMeaning: "창가 좌석지정을 했습니다.",
+    breakdown: [
+      { word: "窓側", reading: "まどがわ", meaning: "창가" }
+    ] },
+  { level: "N5", kanji: "窓側の席", reading: "まどがわのせき", korean: "마도가와노세키", meaning: "창가 좌석",
+    example: "窓側の席を選びました。", exampleReading: "まどがわのせきをえらびました。", exampleKorean: "마도가와노 세키오 에라비마시타", exampleMeaning: "창가 좌석을 선택했습니다.",
+    breakdown: [
+      { word: "選びました", reading: "えらびました", meaning: "선택했습니다" }
+    ] },
+  { level: "N5", kanji: "通路側の席", reading: "つうろがわのせき", korean: "츠-로가와노세키", meaning: "통로 좌석",
+    example: "通路側の席の方が便利です。", exampleReading: "つうろがわのせきのほうがべんりです。", exampleKorean: "츠-로가와노 세키노 호-가 벤리데스", exampleMeaning: "통로 좌석이 더 편리합니다.",
+    breakdown: [
+      { word: "便利", reading: "べんり", meaning: "편리" }
+    ] },
+  { level: "N5", kanji: "非常口", reading: "ひじょうぐち", korean: "히죠-구치", meaning: "비상구",
+    example: "非常口を確認しました。", exampleReading: "ひじょうぐちをかくにんしました。", exampleKorean: "히죠-구치오 카쿠닌 시마시타", exampleMeaning: "비상구를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N5", kanji: "シートベルト着用", reading: "シートベルトちゃくよう", korean: "시-토베루토 챠쿠요-", meaning: "안전벨트 착용",
+    example: "シートベルト着用のサインが出ました。", exampleReading: "シートベルトちゃくようのサインがでました。", exampleKorean: "시-토베루토 챠쿠요-노 사인가 데마시타", exampleMeaning: "안전벨트 착용 사인이 켜졌습니다.",
+    breakdown: [
+      { word: "サイン", reading: "サイン", meaning: "사인" }
+    ] },
+  { level: "N5", kanji: "離陸", reading: "りりく", korean: "리리쿠", meaning: "이륙",
+    example: "飛行機が離陸しました。", exampleReading: "ひこうきがりりくしました。", exampleKorean: "히코-키가 리리쿠 시마시타", exampleMeaning: "비행기가 이륙했습니다.",
+    breakdown: [
+      { word: "飛行機", reading: "ひこうき", meaning: "비행기" }
+    ] },
+  { level: "N5", kanji: "着陸", reading: "ちゃくりく", korean: "챠쿠리쿠", meaning: "착륙",
+    example: "無事に着陸しました。", exampleReading: "ぶじにちゃくりくしました。", exampleKorean: "부지니 챠쿠리쿠 시마시타", exampleMeaning: "무사히 착륙했습니다.",
+    breakdown: [
+      { word: "無事に", reading: "ぶじに", meaning: "무사히" }
+    ] },
+  { level: "N5", kanji: "時差ぼけ", reading: "じさぼけ", korean: "지사보케", meaning: "시차 적응 못함",
+    example: "時差ぼけで眠いです。", exampleReading: "じさぼけでねむいです。", exampleKorean: "지사보케데 네무이데스", exampleMeaning: "시차 적응이 안 돼서 졸립니다.",
+    breakdown: [
+      { word: "眠い", reading: "ねむい", meaning: "졸리다" }
+    ] },
+  { level: "N5", kanji: "時差", reading: "じさ", korean: "지사", meaning: "시차",
+    example: "日本と韓国は時差がありません。", exampleReading: "にほんとかんこくはじさがありません。", exampleKorean: "니혼토 캉코쿠와 지사가 아리마셍", exampleMeaning: "일본과 한국은 시차가 없습니다.",
+    breakdown: [
+      { word: "日本", reading: "にほん", meaning: "일본" }
+    ] },
+  { level: "N5", kanji: "海外旅行保険", reading: "かいがいりょこうほけん", korean: "카이가이료코-호켄", meaning: "해외여행보험",
+    example: "海外旅行保険に入りました。", exampleReading: "かいがいりょこうほけんにはいりました。", exampleKorean: "카이가이료코-호켄니 하이리마시타", exampleMeaning: "해외여행보험에 가입했습니다.",
+    breakdown: [
+      { word: "入りました", reading: "はいりました", meaning: "가입했습니다" }
+    ] },
+  { level: "N5", kanji: "外貨両替", reading: "がいかりょうがえ", korean: "가이카료-가에", meaning: "외화환전",
+    example: "外貨両替をしました。", exampleReading: "がいかりょうがえをしました。", exampleKorean: "가이카료-가에오 시마시타", exampleMeaning: "외화환전을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N5", kanji: "クレジットカード", reading: "クレジットカード", korean: "쿠레짓토카-도", meaning: "신용카드",
+    example: "クレジットカードで払いました。", exampleReading: "クレジットカードではらいました。", exampleKorean: "쿠레짓토카-도데 하라이마시타", exampleMeaning: "신용카드로 냈습니다.",
+    breakdown: [
+      { word: "払いました", reading: "はらいました", meaning: "냈습니다" }
+    ] },
+  { level: "N5", kanji: "トラベラーズチェック", reading: "トラベラーズチェック", korean: "토라베라-즈첵쿠", meaning: "여행자수표",
+    example: "トラベラーズチェックを持って行きました。", exampleReading: "トラベラーズチェックをもっていきました。", exampleKorean: "토라베라-즈첵쿠오 못테 이키마시타", exampleMeaning: "여행자수표를 가지고 갔습니다.",
+    breakdown: [
+      { word: "持って", reading: "もって", meaning: "가지고" }
+    ] },
+  { level: "N5", kanji: "宿泊先", reading: "しゅくはくさき", korean: "슈쿠하쿠사키", meaning: "숙박처",
+    example: "宿泊先を決めました。", exampleReading: "しゅくはくさきをきめました。", exampleKorean: "슈쿠하쿠사키오 키메마시타", exampleMeaning: "숙박처를 정했습니다.",
+    breakdown: [
+      { word: "決めました", reading: "きめました", meaning: "정했습니다" }
+    ] },
+  { level: "N5", kanji: "宿泊予約", reading: "しゅくはくよやく", korean: "슈쿠하쿠요야쿠", meaning: "숙박예약",
+    example: "宿泊予約をキャンセルしました。", exampleReading: "しゅくはくよやくをキャンセルしました。", exampleKorean: "슈쿠하쿠요야쿠오 캰세루 시마시타", exampleMeaning: "숙박예약을 취소했습니다.",
+    breakdown: [
+      { word: "キャンセル", reading: "キャンセル", meaning: "취소" }
+    ] },
+  { level: "N5", kanji: "キャンセル料", reading: "キャンセルりょう", korean: "캰세루료-", meaning: "취소 수수료",
+    example: "キャンセル料がかかりました。", exampleReading: "キャンセルりょうがかかりました。", exampleKorean: "캰세루료-가 카카리마시타", exampleMeaning: "취소 수수료가 들었습니다.",
+    breakdown: [
+      { word: "かかりました", reading: "かかりました", meaning: "들었습니다" }
+    ] },
+  { level: "N5", kanji: "延泊", reading: "えんぱく", korean: "엔파쿠", meaning: "연박",
+    example: "一泊延泊しました。", exampleReading: "いっぱくえんぱくしました。", exampleKorean: "입파쿠 엔파쿠 시마시타", exampleMeaning: "하루 더 연박했습니다.",
+    breakdown: [
+      { word: "一泊", reading: "いっぱく", meaning: "1박" }
+    ] },
+  { level: "N5", kanji: "出国審査", reading: "しゅっこくしんさ", korean: "슉코쿠신사", meaning: "출국심사",
+    example: "出国審査を受けました。", exampleReading: "しゅっこくしんさをうけました。", exampleKorean: "슉코쿠신사오 우케마시타", exampleMeaning: "출국심사를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N5", kanji: "免税店", reading: "めんぜいてん", korean: "멘제-텐", meaning: "면세점",
+    example: "空港の免税店で買い物をしました。", exampleReading: "くうこうのめんぜいてんでかいものをしました。", exampleKorean: "쿠-코-노 멘제-텐데 카이모노오 시마시타", exampleMeaning: "공항 면세점에서 쇼핑을 했습니다.",
+    breakdown: [
+      { word: "買い物", reading: "かいもの", meaning: "쇼핑" }
+    ] },
+  { level: "N5", kanji: "お土産屋", reading: "おみやげや", korean: "오미야게야", meaning: "기념품 가게",
+    example: "お土産屋で買い物をしました。", exampleReading: "おみやげやでかいものをしました。", exampleKorean: "오미야게야데 카이모노오 시마시타", exampleMeaning: "기념품 가게에서 쇼핑을 했습니다.",
+    breakdown: [
+      { word: "買い物", reading: "かいもの", meaning: "쇼핑" }
+    ] },
+  { level: "N5", kanji: "観光案内所", reading: "かんこうあんないじょ", korean: "캉코-안나이죠", meaning: "관광안내소",
+    example: "観光案内所で地図をもらいました。", exampleReading: "かんこうあんないじょでちずをもらいました。", exampleKorean: "캉코-안나이죠데 치즈오 모라이마시타", exampleMeaning: "관광안내소에서 지도를 받았습니다.",
+    breakdown: [
+      { word: "地図", reading: "ちず", meaning: "지도" }
+    ] },
+  { level: "N5", kanji: "ツアーガイド", reading: "ツアーガイド", korean: "츠아-가이도", meaning: "투어가이드",
+    example: "ツアーガイドに案内されました。", exampleReading: "ツアーガイドにあんないされました。", exampleKorean: "츠아-가이도니 안나이사레마시타", exampleMeaning: "투어가이드의 안내를 받았습니다.",
+    breakdown: [
+      { word: "案内", reading: "あんない", meaning: "안내" }
+    ] },
+  { level: "N5", kanji: "現地ガイド", reading: "げんちガイド", korean: "겐치가이도", meaning: "현지가이드",
+    example: "現地ガイドを雇いました。", exampleReading: "げんちガイドをやといました。", exampleKorean: "겐치가이도오 야토이마시타", exampleMeaning: "현지가이드를 고용했습니다.",
+    breakdown: [
+      { word: "雇いました", reading: "やといました", meaning: "고용했습니다" }
+    ] },
+  { level: "N5", kanji: "添乗員", reading: "てんじょういん", korean: "텐죠-인", meaning: "인솔자",
+    example: "添乗員が説明してくれました。", exampleReading: "てんじょういんがせつめいしてくれました。", exampleKorean: "텐죠-인가 세츠메-시테 쿠레마시타", exampleMeaning: "인솔자가 설명해 주었습니다.",
+    breakdown: [
+      { word: "説明", reading: "せつめい", meaning: "설명" }
+    ] },
+  { level: "N5", kanji: "団体旅行", reading: "だんたいりょこう", korean: "단타이료코-", meaning: "단체여행",
+    example: "団体旅行に参加しました。", exampleReading: "だんたいりょこうにさんかしました。", exampleKorean: "단타이료코-니 상카 시마시타", exampleMeaning: "단체여행에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N5", kanji: "個人旅行", reading: "こじんりょこう", korean: "코진료코-", meaning: "개인여행",
+    example: "個人旅行が好きです。", exampleReading: "こじんりょこうがすきです。", exampleKorean: "코진료코-가 스키데스", exampleMeaning: "개인여행을 좋아합니다.",
+    breakdown: [
+      { word: "好き", reading: "すき", meaning: "좋아함" }
+    ] },
+  { level: "N5", kanji: "パッケージツアー", reading: "パッケージツアー", korean: "팟케-지츠아-", meaning: "패키지투어",
+    example: "パッケージツアーを申し込みました。", exampleReading: "パッケージツアーをもうしこみました。", exampleKorean: "팟케-지츠아-오 모-시코미마시타", exampleMeaning: "패키지투어를 신청했습니다.",
+    breakdown: [
+      { word: "申し込みました", reading: "もうしこみました", meaning: "신청했습니다" }
+    ] },
+  { level: "N5", kanji: "自由行動", reading: "じゆうこうどう", korean: "지유-코-도-", meaning: "자유행동",
+    example: "午後は自由行動です。", exampleReading: "ごごはじゆうこうどうです。", exampleKorean: "고고와 지유-코-도-데스", exampleMeaning: "오후는 자유행동입니다.",
+    breakdown: [
+      { word: "午後", reading: "ごご", meaning: "오후" }
+    ] },
+  { level: "N5", kanji: "集合時間", reading: "しゅうごうじかん", korean: "슈-고-지칸", meaning: "집합시간",
+    example: "集合時間を確認しました。", exampleReading: "しゅうごうじかんをかくにんしました。", exampleKorean: "슈-고-지칸오 카쿠닌 시마시타", exampleMeaning: "집합시간을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N5", kanji: "待ち合わせ場所", reading: "まちあわせばしょ", korean: "마치아와세바쇼", meaning: "만날 장소",
+    example: "待ち合わせ場所を決めました。", exampleReading: "まちあわせばしょをきめました。", exampleKorean: "마치아와세바쇼오 키메마시타", exampleMeaning: "만날 장소를 정했습니다.",
+    breakdown: [
+      { word: "決めました", reading: "きめました", meaning: "정했습니다" }
+    ] },
+  { level: "N5", kanji: "現地時間", reading: "げんちじかん", korean: "겐치지칸", meaning: "현지시간",
+    example: "現地時間に合わせました。", exampleReading: "げんちじかんにあわせました。", exampleKorean: "겐치지칸니 아와세마시타", exampleMeaning: "현지시간에 맞췄습니다.",
+    breakdown: [
+      { word: "合わせました", reading: "あわせました", meaning: "맞췄습니다" }
+    ] },
+  { level: "N5", kanji: "時刻表", reading: "じこくひょう", korean: "지코쿠효-", meaning: "시간표",
+    example: "電車の時刻表を確認しました。", exampleReading: "でんしゃのじこくひょうをかくにんしました。", exampleKorean: "덴샤노 지코쿠효-오 카쿠닌 시마시타", exampleMeaning: "전차 시간표를 확인했습니다.",
+    breakdown: [
+      { word: "電車", reading: "でんしゃ", meaning: "전차" }
+    ] },
+  { level: "N5", kanji: "乗り換え", reading: "のりかえ", korean: "노리카에", meaning: "환승",
+    example: "新宿駅で乗り換えました。", exampleReading: "しんじゅくえきでのりかえました。", exampleKorean: "신쥬쿠에키데 노리카에마시타", exampleMeaning: "신주쿠역에서 환승했습니다.",
+    breakdown: [
+      { word: "駅", reading: "えき", meaning: "역" }
+    ] },
+  { level: "N5", kanji: "直行便", reading: "ちょっこうびん", korean: "쵹코-빈", meaning: "직항편",
+    example: "直行便を予約しました。", exampleReading: "ちょっこうびんをよやくしました。", exampleKorean: "쵹코-빙오 요야쿠 시마시타", exampleMeaning: "직항편을 예약했습니다.",
+    breakdown: [
+      { word: "予約", reading: "よやく", meaning: "예약" }
+    ] },
+  { level: "N5", kanji: "経由便", reading: "けいゆびん", korean: "케-유빈", meaning: "경유편",
+    example: "経由便で行きました。", exampleReading: "けいゆびんでいきました。", exampleKorean: "케-유빈데 이키마시타", exampleMeaning: "경유편으로 갔습니다.",
+    breakdown: [
+      { word: "行きました", reading: "いきました", meaning: "갔습니다" }
+    ] },
+  { level: "N5", kanji: "往復切符", reading: "おうふくきっぷ", korean: "오-후쿠킵푸", meaning: "왕복표",
+    example: "往復切符を買いました。", exampleReading: "おうふくきっぷをかいました。", exampleKorean: "오-후쿠킵푸오 카이마시타", exampleMeaning: "왕복표를 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N5", kanji: "片道切符", reading: "かたみちきっぷ", korean: "카타미치킵푸", meaning: "편도표",
+    example: "片道切符を購入しました。", exampleReading: "かたみちきっぷをこうにゅうしました。", exampleKorean: "카타미치킵푸오 코-뉴- 시마시타", exampleMeaning: "편도표를 구입했습니다.",
+    breakdown: [
+      { word: "購入", reading: "こうにゅう", meaning: "구입" }
+    ] },
+  { level: "N5", kanji: "ビジネスクラス", reading: "ビジネスクラス", korean: "비지네스쿠라스", meaning: "비즈니스클래스",
+    example: "ビジネスクラスにアップグレードしました。", exampleReading: "ビジネスクラスにアップグレードしました。", exampleKorean: "비지네스쿠라스니 압푸구레-도 시마시타", exampleMeaning: "비즈니스클래스로 업그레이드했습니다.",
+    breakdown: [
+      { word: "アップグレード", reading: "アップグレード", meaning: "업그레이드" }
+    ] },
+  { level: "N5", kanji: "エコノミークラス", reading: "エコノミークラス", korean: "에코노미-쿠라스", meaning: "이코노미클래스",
+    example: "エコノミークラスで帰りました。", exampleReading: "エコノミークラスでかえりました。", exampleKorean: "에코노미-쿠라스데 카에리마시타", exampleMeaning: "이코노미클래스로 돌아왔습니다.",
+    breakdown: [
+      { word: "帰りました", reading: "かえりました", meaning: "돌아왔습니다" }
+    ] },
+  { level: "N5", kanji: "マイレージ", reading: "マイレージ", korean: "마이레-지", meaning: "마일리지",
+    example: "マイレージを貯めています。", exampleReading: "マイレージをためています。", exampleKorean: "마이레-지오 타메테 이마스", exampleMeaning: "마일리지를 모으고 있습니다.",
+    breakdown: [
+      { word: "貯めて", reading: "ためて", meaning: "모아서" }
+    ] },
+  { level: "N5", kanji: "予約確認", reading: "よやくかくにん", korean: "요야쿠카쿠닌", meaning: "예약확인",
+    example: "予約確認のメールが来ました。", exampleReading: "よやくかくにんのメールがきました。", exampleKorean: "요야쿠카쿠닌노 메-루가 키마시타", exampleMeaning: "예약확인 메일이 왔습니다.",
+    breakdown: [
+      { word: "メール", reading: "メール", meaning: "메일" }
+    ] },
+  { level: "N5", kanji: "空席状況", reading: "くうせきじょうきょう", korean: "쿠-세키죠-쿄-", meaning: "좌석 현황",
+    example: "空席状況を確認しました。", exampleReading: "くうせきじょうきょうをかくにんしました。", exampleKorean: "쿠-세키죠-쿄-오 카쿠닌 시마시타", exampleMeaning: "좌석 현황을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N5", kanji: "満席", reading: "まんせき", korean: "만세키", meaning: "만석",
+    example: "フライトは満席でした。", exampleReading: "フライトはまんせきでした。", exampleKorean: "후라이토와 만세키데시타", exampleMeaning: "항공편은 만석이었습니다.",
+    breakdown: [
+      { word: "フライト", reading: "フライト", meaning: "항공편" }
+    ] },
+  { level: "N5", kanji: "欠航", reading: "けっこう", korean: "켁코-", meaning: "결항",
+    example: "台風で欠航になりました。", exampleReading: "たいふうでけっこうになりました。", exampleKorean: "타이후-데 켁코-니 나리마시타", exampleMeaning: "태풍으로 결항되었습니다.",
+    breakdown: [
+      { word: "台風", reading: "たいふう", meaning: "태풍" }
+    ] },
+  { level: "N5", kanji: "遅延", reading: "ちえん", korean: "치엔", meaning: "지연",
+    example: "フライトが遅延しています。", exampleReading: "フライトがちえんしています。", exampleKorean: "후라이토가 치엔 시테 이마스", exampleMeaning: "항공편이 지연되고 있습니다.",
+    breakdown: [
+      { word: "フライト", reading: "フライト", meaning: "항공편" }
+    ] },
+  { level: "N5", kanji: "定刻", reading: "ていこく", korean: "테-코쿠", meaning: "정각",
+    example: "定刻に出発しました。", exampleReading: "ていこくにしゅっぱつしました。", exampleKorean: "테-코쿠니 슛파츠 시마시타", exampleMeaning: "정각에 출발했습니다.",
+    breakdown: [
+      { word: "出発", reading: "しゅっぱつ", meaning: "출발" }
+    ] },
+  { level: "N5", kanji: "出発ロビー", reading: "しゅっぱつロビー", korean: "슛파츠 로비-", meaning: "출발 로비",
+    example: "出発ロビーで待っています。", exampleReading: "しゅっぱつロビーでまっています。", exampleKorean: "슛파츠 로비-데 맛테 이마스", exampleMeaning: "출발 로비에서 기다리고 있습니다.",
+    breakdown: [
+      { word: "待って", reading: "まって", meaning: "기다려서" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
