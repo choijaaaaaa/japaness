@@ -5383,6 +5383,206 @@ const VOCAB = [
     breakdown: [
       { word: "食べました", reading: "たべました", meaning: "먹었습니다" }
     ] },
+  { level: "N5", kanji: "動物園デート", reading: "どうぶつえんデート", korean: "도-부츠엔데-토", meaning: "동물원 데이트",
+    example: "動物園デートをしました。", exampleReading: "どうぶつえんデートをしました。", exampleKorean: "도-부츠엔데-토오 시마시타", exampleMeaning: "동물원 데이트를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N5", kanji: "水族館デート", reading: "すいぞくかんデート", korean: "스이조쿠칸데-토", meaning: "수족관 데이트",
+    example: "水族館デートは楽しかったです。", exampleReading: "すいぞくかんデートはたのしかったです。", exampleKorean: "스이조쿠칸데-토와 타노시캇타데스", exampleMeaning: "수족관 데이트는 즐거웠습니다.",
+    breakdown: [
+      { word: "楽しかった", reading: "たのしかった", meaning: "즐거웠다" }
+    ] },
+  { level: "N5", kanji: "映画デート", reading: "えいがデート", korean: "에-가데-토", meaning: "영화 데이트",
+    example: "映画デートに誘われました。", exampleReading: "えいがデートにさそわれました。", exampleKorean: "에-가데-토니 사소와레마시타", exampleMeaning: "영화 데이트에 초대받았습니다.",
+    breakdown: [
+      { word: "誘われました", reading: "さそわれました", meaning: "초대받았습니다" }
+    ] },
+  { level: "N5", kanji: "ドライブデート", reading: "ドライブデート", korean: "도라이부데-토", meaning: "드라이브 데이트",
+    example: "週末にドライブデートをしました。", exampleReading: "しゅうまつにドライブデートをしました。", exampleKorean: "슈-마츠니 도라이부데-토오 시마시타", exampleMeaning: "주말에 드라이브 데이트를 했습니다.",
+    breakdown: [
+      { word: "週末", reading: "しゅうまつ", meaning: "주말" }
+    ] },
+  { level: "N5", kanji: "初デート", reading: "はつデート", korean: "하츠데-토", meaning: "첫 데이트",
+    example: "初デートは緊張しました。", exampleReading: "はつデートはきんちょうしました。", exampleKorean: "하츠데-토와 킨쵸- 시마시타", exampleMeaning: "첫 데이트는 긴장했습니다.",
+    breakdown: [
+      { word: "緊張", reading: "きんちょう", meaning: "긴장" }
+    ] },
+  { level: "N5", kanji: "告白の場所", reading: "こくはくのばしょ", korean: "코쿠하쿠노바쇼", meaning: "고백 장소",
+    example: "告白の場所を考えました。", exampleReading: "こくはくのばしょをかんがえました。", exampleKorean: "코쿠하쿠노 바쇼오 캉가에마시타", exampleMeaning: "고백 장소를 생각했습니다.",
+    breakdown: [
+      { word: "考えました", reading: "かんがえました", meaning: "생각했습니다" }
+    ] },
+  { level: "N5", kanji: "プロポーズ", reading: "プロポーズ", korean: "푸로포-즈", meaning: "프러포즈",
+    example: "彼にプロポーズされました。", exampleReading: "かれにプロポーズされました。", exampleKorean: "카레니 푸로포-즈사레마시타", exampleMeaning: "그에게 프러포즈받았습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N5", kanji: "結婚指輪", reading: "けっこんゆびわ", korean: "켁콘유비와", meaning: "결혼반지",
+    example: "結婚指輪を選びました。", exampleReading: "けっこんゆびわをえらびました。", exampleKorean: "켁콘유비와오 에라비마시타", exampleMeaning: "결혼반지를 골랐습니다.",
+    breakdown: [
+      { word: "選びました", reading: "えらびました", meaning: "골랐습니다" }
+    ] },
+  { level: "N5", kanji: "婚約指輪", reading: "こんやくゆびわ", korean: "콘야쿠유비와", meaning: "약혼반지",
+    example: "婚約指輪をもらいました。", exampleReading: "こんやくゆびわをもらいました。", exampleKorean: "콘야쿠유비와오 모라이마시타", exampleMeaning: "약혼반지를 받았습니다.",
+    breakdown: [
+      { word: "もらいました", reading: "もらいました", meaning: "받았습니다" }
+    ] },
+  { level: "N5", kanji: "デートスポット", reading: "デートスポット", korean: "데-토스폿토", meaning: "데이트 스팟",
+    example: "人気のデートスポットです。", exampleReading: "にんきのデートスポットです。", exampleKorean: "닌키노 데-토스폿토데스", exampleMeaning: "인기있는 데이트 스팟입니다.",
+    breakdown: [
+      { word: "人気", reading: "にんき", meaning: "인기" }
+    ] },
+  { level: "N5", kanji: "夜景スポット", reading: "やけいスポット", korean: "야케-스폿토", meaning: "야경 명소",
+    example: "夜景スポットに行きました。", exampleReading: "やけいスポットにいきました。", exampleKorean: "야케-스폿토니 이키마시타", exampleMeaning: "야경 명소에 갔습니다.",
+    breakdown: [
+      { word: "行きました", reading: "いきました", meaning: "갔습니다" }
+    ] },
+  { level: "N5", kanji: "記念日デート", reading: "きねんびデート", korean: "키넨비데-토", meaning: "기념일 데이트",
+    example: "記念日デートを計画しました。", exampleReading: "きねんびデートをけいかくしました。", exampleKorean: "키넨비데-토오 케-카쿠 시마시타", exampleMeaning: "기념일 데이트를 계획했습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N5", kanji: "手をつなぐ", reading: "てをつなぐ", korean: "테오츠나구", meaning: "손을 잡다",
+    example: "公園で手をつなぎました。", exampleReading: "こうえんでてをつなぎました。", exampleKorean: "코-엔데 테오 츠나기마시타", exampleMeaning: "공원에서 손을 잡았습니다.",
+    breakdown: [
+      { word: "公園", reading: "こうえん", meaning: "공원" }
+    ] },
+  { level: "N5", kanji: "腕を組む", reading: "うでをくむ", korean: "우데오쿠무", meaning: "팔짱을 끼다",
+    example: "腕を組んで歩きました。", exampleReading: "うでをくんであるきました。", exampleKorean: "우데오 쿤데 아루키마시타", exampleMeaning: "팔짱을 끼고 걸었습니다.",
+    breakdown: [
+      { word: "歩きました", reading: "あるきました", meaning: "걸었습니다" }
+    ] },
+  { level: "N5", kanji: "ハグ", reading: "ハグ", korean: "하구", meaning: "포옹",
+    example: "再会してハグしました。", exampleReading: "さいかいしてハグしました。", exampleKorean: "사이카이시테 하구 시마시타", exampleMeaning: "재회해서 포옹했습니다.",
+    breakdown: [
+      { word: "再会", reading: "さいかい", meaning: "재회" }
+    ] },
+  { level: "N5", kanji: "キス", reading: "キス", korean: "키스", meaning: "키스",
+    example: "映画のようなキスシーンでした。", exampleReading: "えいがのようなキスシーンでした。", exampleKorean: "에-가노 요-나 키스신-데시타", exampleMeaning: "영화 같은 키스신이었습니다.",
+    breakdown: [
+      { word: "映画", reading: "えいが", meaning: "영화" }
+    ] },
+  { level: "N5", kanji: "恋人つなぎ", reading: "こいびとつなぎ", korean: "코이비토츠나기", meaning: "연인 손깍지",
+    example: "恋人つなぎで歩きました。", exampleReading: "こいびとつなぎであるきました。", exampleKorean: "코이비토츠나기데 아루키마시타", exampleMeaning: "연인 손깍지를 하고 걸었습니다.",
+    breakdown: [
+      { word: "歩きました", reading: "あるきました", meaning: "걸었습니다" }
+    ] },
+  { level: "N5", kanji: "付き合って", reading: "つきあって", korean: "츠키앗테", meaning: "사귄지",
+    example: "付き合って一年になります。", exampleReading: "つきあっていちねんになります。", exampleKorean: "츠키앗테 이치넨니 나리마스", exampleMeaning: "사귄지 1년이 됩니다.",
+    breakdown: [
+      { word: "一年", reading: "いちねん", meaning: "1년" }
+    ] },
+  { level: "N5", kanji: "片思いの相手", reading: "かたおもいのあいて", korean: "카타오모이노아이테", meaning: "짝사랑 상대",
+    example: "片思いの相手に告白しました。", exampleReading: "かたおもいのあいてにこくはくしました。", exampleKorean: "카타오모이노 아이테니 코쿠하쿠 시마시타", exampleMeaning: "짝사랑 상대에게 고백했습니다.",
+    breakdown: [
+      { word: "告白", reading: "こくはく", meaning: "고백" }
+    ] },
+  { level: "N5", kanji: "両想い", reading: "りょうおもい", korean: "료-오모이", meaning: "서로 좋아함(짝사랑 아님)",
+    example: "両想いだと分かりました。", exampleReading: "りょうおもいだとわかりました。", exampleKorean: "료-오모이다토 와카리마시타", exampleMeaning: "서로 좋아하는 사이라는 걸 알았습니다.",
+    breakdown: [
+      { word: "分かりました", reading: "わかりました", meaning: "알았습니다" }
+    ] },
+  { level: "N5", kanji: "遠距離恋愛", reading: "えんきょりれんあい", korean: "엔쿄리렌아이", meaning: "장거리 연애",
+    example: "遠距離恋愛を続けています。", exampleReading: "えんきょりれんあいをつづけています。", exampleKorean: "엔쿄리렌아이오 츠즈케테 이마스", exampleMeaning: "장거리 연애를 계속하고 있습니다.",
+    breakdown: [
+      { word: "続けて", reading: "つづけて", meaning: "계속해서" }
+    ] },
+  { level: "N5", kanji: "社内恋愛", reading: "しゃないれんあい", korean: "샤나이렌아이", meaning: "사내연애",
+    example: "社内恋愛は禁止されています。", exampleReading: "しゃないれんあいはきんしされています。", exampleKorean: "샤나이렌아이와 킨시사레테 이마스", exampleMeaning: "사내연애는 금지되어 있습니다.",
+    breakdown: [
+      { word: "禁止", reading: "きんし", meaning: "금지" }
+    ] },
+  { level: "N5", kanji: "復縁", reading: "ふくえん", korean: "후쿠엔", meaning: "재결합",
+    example: "元カレと復縁しました。", exampleReading: "もとカレとふくえんしました。", exampleKorean: "모토카레토 후쿠엔 시마시타", exampleMeaning: "전 남자친구와 재결합했습니다.",
+    breakdown: [
+      { word: "元カレ", reading: "もとカレ", meaning: "전 남자친구" }
+    ] },
+  { level: "N5", kanji: "再会", reading: "さいかい", korean: "사이카이", meaning: "재회",
+    example: "十年ぶりに再会しました。", exampleReading: "じゅうねんぶりにさいかいしました。", exampleKorean: "쥬-넨부리니 사이카이 시마시타", exampleMeaning: "10년 만에 재회했습니다.",
+    breakdown: [
+      { word: "十年ぶり", reading: "じゅうねんぶり", meaning: "10년 만" }
+    ] },
+  { level: "N5", kanji: "元カレ", reading: "もとカレ", korean: "모토카레", meaning: "전 남자친구",
+    example: "元カレから連絡が来ました。", exampleReading: "もとカレかられんらくがきました。", exampleKorean: "모토카레카라 렌라쿠가 키마시타", exampleMeaning: "전 남자친구에게서 연락이 왔습니다.",
+    breakdown: [
+      { word: "連絡", reading: "れんらく", meaning: "연락" }
+    ] },
+  { level: "N5", kanji: "元カノ", reading: "もとカノ", korean: "모토카노", meaning: "전 여자친구",
+    example: "元カノの話をしました。", exampleReading: "もとカノのはなしをしました。", exampleKorean: "모토카노노 하나시오 시마시타", exampleMeaning: "전 여자친구 이야기를 했습니다.",
+    breakdown: [
+      { word: "話", reading: "はなし", meaning: "이야기" }
+    ] },
+  { level: "N5", kanji: "推しキャラ", reading: "おしキャラ", korean: "오시캬라", meaning: "최애 캐릭터",
+    example: "推しキャラのグッズを買いました。", exampleReading: "おしキャラのグッズをかいました。", exampleKorean: "오시캬라노 굿즈오 카이마시타", exampleMeaning: "최애 캐릭터의 굿즈를 샀습니다.",
+    breakdown: [
+      { word: "グッズ", reading: "グッズ", meaning: "굿즈" }
+    ] },
+  { level: "N5", kanji: "推し活", reading: "おしかつ", korean: "오시카츠", meaning: "최애 응원 활동",
+    example: "推し活に夢中です。", exampleReading: "おしかつにむちゅうです。", exampleKorean: "오시카츠니 무츄-데스", exampleMeaning: "최애 응원 활동에 푹 빠져 있습니다.",
+    breakdown: [
+      { word: "夢中", reading: "むちゅう", meaning: "푹 빠짐" }
+    ] },
+  { level: "N5", kanji: "ファンクラブ", reading: "ファンクラブ", korean: "환쿠라부", meaning: "팬클럽",
+    example: "ファンクラブに入会しました。", exampleReading: "ファンクラブににゅうかいしました。", exampleKorean: "환쿠라부니 뉴-카이 시마시타", exampleMeaning: "팬클럽에 가입했습니다.",
+    breakdown: [
+      { word: "入会", reading: "にゅうかい", meaning: "가입" }
+    ] },
+  { level: "N5", kanji: "コンサートチケット", reading: "コンサートチケット", korean: "콘사-토치켓토", meaning: "콘서트 티켓",
+    example: "コンサートチケットが当たりました。", exampleReading: "コンサートチケットがあたりました。", exampleKorean: "콘사-토치켓토가 아타리마시타", exampleMeaning: "콘서트 티켓에 당첨되었습니다.",
+    breakdown: [
+      { word: "当たりました", reading: "あたりました", meaning: "당첨되었습니다" }
+    ] },
+  { level: "N5", kanji: "グッズ収集", reading: "グッズしゅうしゅう", korean: "굿즈슈-슈-", meaning: "굿즈 수집",
+    example: "グッズ収集が趣味です。", exampleReading: "グッズしゅうしゅうがしゅみです。", exampleKorean: "굿즈슈-슈-가 슈미데스", exampleMeaning: "굿즈 수집이 취미입니다.",
+    breakdown: [
+      { word: "趣味", reading: "しゅみ", meaning: "취미" }
+    ] },
+  { level: "N5", kanji: "サイン会", reading: "サインかい", korean: "사인카이", meaning: "사인회",
+    example: "サイン会に参加しました。", exampleReading: "サインかいにさんかしました。", exampleKorean: "사인카이니 상카 시마시타", exampleMeaning: "사인회에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N5", kanji: "握手会", reading: "あくしゅかい", korean: "아쿠슈카이", meaning: "악수회",
+    example: "握手会のチケットを買いました。", exampleReading: "あくしゅかいのチケットをかいました。", exampleKorean: "아쿠슈카이노 치켓토오 카이마시타", exampleMeaning: "악수회 티켓을 샀습니다.",
+    breakdown: [
+      { word: "チケット", reading: "チケット", meaning: "티켓" }
+    ] },
+  { level: "N5", kanji: "限定グッズ", reading: "げんていグッズ", korean: "겐테-굿즈", meaning: "한정 굿즈",
+    example: "限定グッズを予約しました。", exampleReading: "げんていグッズをよやくしました。", exampleKorean: "겐테-굿즈오 요야쿠 시마시타", exampleMeaning: "한정 굿즈를 예약했습니다.",
+    breakdown: [
+      { word: "予約", reading: "よやく", meaning: "예약" }
+    ] },
+  { level: "N5", kanji: "応援うちわ", reading: "おうえんうちわ", korean: "오-엔우치와", meaning: "응원 부채",
+    example: "応援うちわを作りました。", exampleReading: "おうえんうちわをつくりました。", exampleKorean: "오-엔우치와오 츠쿠리마시타", exampleMeaning: "응원 부채를 만들었습니다.",
+    breakdown: [
+      { word: "作りました", reading: "つくりました", meaning: "만들었습니다" }
+    ] },
+  { level: "N5", kanji: "ペンライト", reading: "ペンライト", korean: "펜라이토", meaning: "펜라이트(응원봉)",
+    example: "ペンライトを振りました。", exampleReading: "ペンライトをふりました。", exampleKorean: "펜라이토오 후리마시타", exampleMeaning: "펜라이트를 흔들었습니다.",
+    breakdown: [
+      { word: "振りました", reading: "ふりました", meaning: "흔들었습니다" }
+    ] },
+  { level: "N5", kanji: "コール", reading: "コール", korean: "코-루", meaning: "콜(응원구호)",
+    example: "コールを覚えました。", exampleReading: "コールをおぼえました。", exampleKorean: "코-루오 오보에마시타", exampleMeaning: "콜(응원구호)을 외웠습니다.",
+    breakdown: [
+      { word: "覚えました", reading: "おぼえました", meaning: "외웠습니다" }
+    ] },
+  { level: "N5", kanji: "ライブ配信", reading: "ライブはいしん", korean: "라이부하이신", meaning: "라이브 스트리밍",
+    example: "ライブ配信を見ました。", exampleReading: "ライブはいしんをみました。", exampleKorean: "라이부하이신오 미마시타", exampleMeaning: "라이브 스트리밍을 봤습니다.",
+    breakdown: [
+      { word: "見ました", reading: "みました", meaning: "봤습니다" }
+    ] },
+  { level: "N5", kanji: "推しメン", reading: "おしメン", korean: "오시멘", meaning: "최애 멤버",
+    example: "推しメンが決まりました。", exampleReading: "おしメンがきまりました。", exampleKorean: "오시멘가 키마리마시타", exampleMeaning: "최애 멤버가 정해졌습니다.",
+    breakdown: [
+      { word: "決まりました", reading: "きまりました", meaning: "정해졌습니다" }
+    ] },
+  { level: "N5", kanji: "神対応", reading: "かみたいおう", korean: "카미타이오-", meaning: "팬을 감동시키는 최고의 대응",
+    example: "神対応に感動しました。", exampleReading: "かみたいおうにかんどうしました。", exampleKorean: "카미타이오-니 칸도- 시마시타", exampleMeaning: "최고의 대응에 감동했습니다.",
+    breakdown: [
+      { word: "感動", reading: "かんどう", meaning: "감동" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
