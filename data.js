@@ -10118,6 +10118,206 @@ const VOCAB = [
     breakdown: [
       { word: "目指して", reading: "めざして", meaning: "지향해서" }
     ] },
+  { level: "N4", kanji: "マンション管理組合", reading: "マンションかんりくみあい", korean: "만숀칸리쿠미아이", meaning: "아파트관리조합",
+    example: "マンション管理組合の会議に出ました。", exampleReading: "マンションかんりくみあいのかいぎにでました。", exampleKorean: "만숀칸리쿠미아이노 카이기니 데마시타", exampleMeaning: "아파트관리조합 회의에 나갔습니다.",
+    breakdown: [
+      { word: "会議", reading: "かいぎ", meaning: "회의" }
+    ] },
+  { level: "N4", kanji: "理事会", reading: "りじかい", korean: "리지카이", meaning: "이사회(관리조합)",
+    example: "理事会のメンバーになりました。", exampleReading: "りじかいのメンバーになりました。", exampleKorean: "리지카이노 멘바-니 나리마시타", exampleMeaning: "이사회의 멤버가 되었습니다.",
+    breakdown: [
+      { word: "メンバー", reading: "メンバー", meaning: "멤버" }
+    ] },
+  { level: "N4", kanji: "総会議事録", reading: "そうかいぎじろく", korean: "소-카이기지로쿠", meaning: "총회의사록",
+    example: "総会議事録を確認しました。", exampleReading: "そうかいぎじろくをかくにんしました。", exampleKorean: "소-카이기지로쿠오 카쿠닌 시마시타", exampleMeaning: "총회의사록을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "修繕積立金", reading: "しゅうぜんつみたてきん", korean: "슈-젠츠미타테킨", meaning: "수선적립금",
+    example: "修繕積立金を毎月払っています。", exampleReading: "しゅうぜんつみたてきんをまいつきはらっています。", exampleKorean: "슈-젠츠미타테킹오 마이츠키 하랏테 이마스", exampleMeaning: "수선적립금을 매달 내고 있습니다.",
+    breakdown: [
+      { word: "毎月", reading: "まいつき", meaning: "매달" }
+    ] },
+  { level: "N4", kanji: "大規模修繕", reading: "だいきぼしゅうぜん", korean: "다이키보슈-젠", meaning: "대규모수선",
+    example: "来年大規模修繕が行われます。", exampleReading: "らいねんだいきぼしゅうぜんがおこなわれます。", exampleKorean: "라이넨 다이키보슈-젠가 오코나와레마스", exampleMeaning: "내년에 대규모수선이 이루어집니다.",
+    breakdown: [
+      { word: "来年", reading: "らいねん", meaning: "내년" }
+    ] },
+  { level: "N4", kanji: "エレベーター点検", reading: "エレベーターてんけん", korean: "에레베-타-텐켄", meaning: "엘리베이터 점검",
+    example: "エレベーター点検が行われました。", exampleReading: "エレベーターてんけんがおこなわれました。", exampleKorean: "에레베-타-텐켄가 오코나와레마시타", exampleMeaning: "엘리베이터 점검이 실시되었습니다.",
+    breakdown: [
+      { word: "行われました", reading: "おこなわれました", meaning: "실시되었습니다" }
+    ] },
+  { level: "N4", kanji: "消防点検", reading: "しょうぼうてんけん", korean: "쇼-보-텐켄", meaning: "소방점검",
+    example: "消防点検の日でした。", exampleReading: "しょうぼうてんけんのひでした。", exampleKorean: "쇼-보-텐켄노 히데시타", exampleMeaning: "소방점검일이었습니다.",
+    breakdown: [
+      { word: "日", reading: "ひ", meaning: "날" }
+    ] },
+  { level: "N4", kanji: "駐輪場", reading: "ちゅうりんじょう", korean: "츄-린죠-", meaning: "자전거 주차장",
+    example: "駐輪場に自転車を停めました。", exampleReading: "ちゅうりんじょうにじてんしゃをとめました。", exampleKorean: "츄-린죠-니 지텐샤오 토메마시타", exampleMeaning: "자전거 주차장에 자전거를 세웠습니다.",
+    breakdown: [
+      { word: "自転車", reading: "じてんしゃ", meaning: "자전거" }
+    ] },
+  { level: "N4", kanji: "駐車場契約", reading: "ちゅうしゃじょうけいやく", korean: "츄-샤죠-케-야쿠", meaning: "주차장 계약",
+    example: "駐車場契約をしました。", exampleReading: "ちゅうしゃじょうけいやくをしました。", exampleKorean: "츄-샤죠-케-야쿠오 시마시타", exampleMeaning: "주차장 계약을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "ペット可物件", reading: "ペットかぶっけん", korean: "펫토카붓켄", meaning: "반려동물 가능 매물",
+    example: "ペット可物件を探しています。", exampleReading: "ペットかぶっけんをさがしています。", exampleKorean: "펫토카붓켄오 사가시테 이마스", exampleMeaning: "반려동물 가능 매물을 찾고 있습니다.",
+    breakdown: [
+      { word: "探して", reading: "さがして", meaning: "찾아서" }
+    ] },
+  { level: "N4", kanji: "ペット不可", reading: "ペットふか", korean: "펫토후카", meaning: "반려동물 불가",
+    example: "この部屋はペット不可です。", exampleReading: "このへやはペットふかです。", exampleKorean: "코노 헤야와 펫토후카데스", exampleMeaning: "이 방은 반려동물 불가입니다.",
+    breakdown: [
+      { word: "部屋", reading: "へや", meaning: "방" }
+    ] },
+  { level: "N4", kanji: "ルームシェア", reading: "ルームシェア", korean: "루-무셰아", meaning: "룸쉐어",
+    example: "友達とルームシェアしています。", exampleReading: "ともだちとルームシェアしています。", exampleKorean: "토모다치토 루-무셰아 시테 이마스", exampleMeaning: "친구와 룸쉐어를 하고 있습니다.",
+    breakdown: [
+      { word: "友達と", reading: "ともだちと", meaning: "친구와" }
+    ] },
+  { level: "N4", kanji: "シェアハウス", reading: "シェアハウス", korean: "셰아하우스", meaning: "셰어하우스",
+    example: "シェアハウスに住んでいます。", exampleReading: "シェアハウスにすんでいます。", exampleKorean: "셰아하우스니 슨데 이마스", exampleMeaning: "셰어하우스에 살고 있습니다.",
+    breakdown: [
+      { word: "住んで", reading: "すんで", meaning: "살아서" }
+    ] },
+  { level: "N4", kanji: "単身赴任", reading: "たんしんふにん", korean: "탄신후닌", meaning: "단신부임",
+    example: "父は単身赴任しています。", exampleReading: "ちちはたんしんふにんしています。", exampleKorean: "치치와 탄신후닌 시테 이마스", exampleMeaning: "아버지는 단신부임하고 계십니다.",
+    breakdown: [
+      { word: "父", reading: "ちち", meaning: "아버지" }
+    ] },
+  { level: "N4", kanji: "転勤族", reading: "てんきんぞく", korean: "텐킨조쿠", meaning: "전근족(전근이 잦은 사람)",
+    example: "うちは転勤族です。", exampleReading: "うちはてんきんぞくです。", exampleKorean: "우치와 텐킨조쿠데스", exampleMeaning: "우리 집은 전근이 잦습니다.",
+    breakdown: [
+      { word: "うち", reading: "うち", meaning: "우리 집" }
+    ] },
+  { level: "N4", kanji: "社宅", reading: "しゃたく", korean: "샤타쿠", meaning: "사택",
+    example: "社宅に住んでいます。", exampleReading: "しゃたくにすんでいます。", exampleKorean: "샤타쿠니 슨데 이마스", exampleMeaning: "사택에 살고 있습니다.",
+    breakdown: [
+      { word: "住んで", reading: "すんで", meaning: "살아서" }
+    ] },
+  { level: "N4", kanji: "借り上げ社宅", reading: "かりあげしゃたく", korean: "카리아게샤타쿠", meaning: "임차사택",
+    example: "借り上げ社宅に入居しました。", exampleReading: "かりあげしゃたくににゅうきょしました。", exampleKorean: "카리아게샤타쿠니 뉴-쿄 시마시타", exampleMeaning: "임차사택에 입주했습니다.",
+    breakdown: [
+      { word: "入居", reading: "にゅうきょ", meaning: "입주" }
+    ] },
+  { level: "N4", kanji: "独身寮", reading: "どくしんりょう", korean: "도쿠신료-", meaning: "독신자 기숙사",
+    example: "独身寮に住んでいます。", exampleReading: "どくしんりょうにすんでいます。", exampleKorean: "도쿠신료-니 슨데 이마스", exampleMeaning: "독신자 기숙사에 살고 있습니다.",
+    breakdown: [
+      { word: "住んで", reading: "すんで", meaning: "살아서" }
+    ] },
+  { level: "N4", kanji: "家族寮", reading: "かぞくりょう", korean: "카조쿠료-", meaning: "가족 기숙사",
+    example: "家族寮に入居しました。", exampleReading: "かぞくりょうににゅうきょしました。", exampleKorean: "카조쿠료-니 뉴-쿄 시마시타", exampleMeaning: "가족 기숙사에 입주했습니다.",
+    breakdown: [
+      { word: "入居", reading: "にゅうきょ", meaning: "입주" }
+    ] },
+  { level: "N4", kanji: "マイホーム", reading: "マイホーム", korean: "마이호-무", meaning: "자가주택",
+    example: "マイホームを購入しました。", exampleReading: "マイホームをこうにゅうしました。", exampleKorean: "마이호-무오 코-뉴- 시마시타", exampleMeaning: "자가주택을 구입했습니다.",
+    breakdown: [
+      { word: "購入", reading: "こうにゅう", meaning: "구입" }
+    ] },
+  { level: "N4", kanji: "住宅ローン", reading: "じゅうたくローン", korean: "쥬-타쿠로-은", meaning: "주택담보대출",
+    example: "住宅ローンを組みました。", exampleReading: "じゅうたくローンをくみました。", exampleKorean: "쥬-타쿠로-은오 쿠미마시타", exampleMeaning: "주택담보대출을 받았습니다.",
+    breakdown: [
+      { word: "組みました", reading: "くみました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "頭金", reading: "あたまきん", korean: "아타마킨", meaning: "계약금(선불금)",
+    example: "頭金を用意しました。", exampleReading: "あたまきんをよういしました。", exampleKorean: "아타마킹오 요-이 시마시타", exampleMeaning: "계약금을 준비했습니다.",
+    breakdown: [
+      { word: "用意", reading: "よい", meaning: "준비" }
+    ] },
+  { level: "N4", kanji: "ボーナス払い", reading: "ボーナスばらい", korean: "보-나스바라이", meaning: "보너스 상환",
+    example: "ボーナス払いを併用しています。", exampleReading: "ボーナスばらいをへいようしています。", exampleKorean: "보-나스바라이오 헤-요- 시테 이마스", exampleMeaning: "보너스 상환을 병행하고 있습니다.",
+    breakdown: [
+      { word: "併用", reading: "へいよう", meaning: "병용" }
+    ] },
+  { level: "N4", kanji: "固定金利", reading: "こていきんり", korean: "코테-킨리", meaning: "고정금리",
+    example: "固定金利を選びました。", exampleReading: "こていきんりをえらびました。", exampleKorean: "코테-킨리오 에라비마시타", exampleMeaning: "고정금리를 선택했습니다.",
+    breakdown: [
+      { word: "選びました", reading: "えらびました", meaning: "선택했습니다" }
+    ] },
+  { level: "N4", kanji: "変動金利", reading: "へんどうきんり", korean: "헨도-킨리", meaning: "변동금리",
+    example: "変動金利は上昇しています。", exampleReading: "へんどうきんりはじょうしょうしています。", exampleKorean: "헨도-킨리와 죠-쇼- 시테 이마스", exampleMeaning: "변동금리는 상승하고 있습니다.",
+    breakdown: [
+      { word: "上昇", reading: "じょうしょう", meaning: "상승" }
+    ] },
+  { level: "N4", kanji: "繰り上げ返済", reading: "くりあげへんさい", korean: "쿠리아게헨사이", meaning: "조기상환",
+    example: "繰り上げ返済をしました。", exampleReading: "くりあげへんさいをしました。", exampleKorean: "쿠리아게헨사이오 시마시타", exampleMeaning: "조기상환을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "団体信用生命保険", reading: "だんたいしんようせいめいほけん", korean: "단타이신요-세-메-호켄", meaning: "단체신용생명보험",
+    example: "団体信用生命保険に加入しました。", exampleReading: "だんたいしんようせいめいほけんにかにゅうしました。", exampleKorean: "단타이신요-세-메-호켄니 카뉴- 시마시타", exampleMeaning: "단체신용생명보험에 가입했습니다.",
+    breakdown: [
+      { word: "加入", reading: "かにゅう", meaning: "가입" }
+    ] },
+  { level: "N4", kanji: "住宅ローン控除", reading: "じゅうたくローンこうじょ", korean: "쥬-타쿠로-은코-죠", meaning: "주택담보대출공제",
+    example: "住宅ローン控除を受けました。", exampleReading: "じゅうたくローンこうじょをうけました。", exampleKorean: "쥬-타쿠로-은코-죠오 우케마시타", exampleMeaning: "주택담보대출공제를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "不動産取得税", reading: "ふどうさんしゅとくぜい", korean: "후도-산슈토쿠제-", meaning: "부동산취득세",
+    example: "不動産取得税を払いました。", exampleReading: "ふどうさんしゅとくぜいをはらいました。", exampleKorean: "후도-산슈토쿠제-오 하라이마시타", exampleMeaning: "부동산취득세를 냈습니다.",
+    breakdown: [
+      { word: "払いました", reading: "はらいました", meaning: "냈습니다" }
+    ] },
+  { level: "N4", kanji: "固定資産税", reading: "こていしさんぜい", korean: "코테-시산제-", meaning: "고정자산세",
+    example: "固定資産税の通知が届きました。", exampleReading: "こていしさんぜいのつうちがとどきました。", exampleKorean: "코테-시산제-노 츠-치가 토도키마시타", exampleMeaning: "고정자산세 통지가 도착했습니다.",
+    breakdown: [
+      { word: "通知", reading: "つうち", meaning: "통지" }
+    ] },
+  { level: "N4", kanji: "都市計画税", reading: "としけいかくぜい", korean: "토시케-카쿠제-", meaning: "도시계획세",
+    example: "都市計画税も課税されます。", exampleReading: "としけいかくぜいもかぜいされます。", exampleKorean: "토시케-카쿠제-모 카제-사레마스", exampleMeaning: "도시계획세도 과세됩니다.",
+    breakdown: [
+      { word: "課税", reading: "かぜい", meaning: "과세" }
+    ] },
+  { level: "N4", kanji: "登記費用", reading: "とうきひよう", korean: "토-키히요-", meaning: "등기비용",
+    example: "登記費用がかかりました。", exampleReading: "とうきひようがかかりました。", exampleKorean: "토-키히요-가 카카리마시타", exampleMeaning: "등기비용이 들었습니다.",
+    breakdown: [
+      { word: "かかりました", reading: "かかりました", meaning: "들었습니다" }
+    ] },
+  { level: "N4", kanji: "司法書士報酬", reading: "しほうしょしほうしゅう", korean: "시호-쇼시호-슈-", meaning: "법무사 보수",
+    example: "司法書士報酬を支払いました。", exampleReading: "しほうしょしほうしゅうをしはらいました。", exampleKorean: "시호-쇼시호-슈-오 시하라이마시타", exampleMeaning: "법무사 보수를 지불했습니다.",
+    breakdown: [
+      { word: "支払いました", reading: "しはらいました", meaning: "지불했습니다" }
+    ] },
+  { level: "N4", kanji: "火災保険料", reading: "かさいほけんりょう", korean: "카사이호켄료-", meaning: "화재보험료",
+    example: "火災保険料を確認しました。", exampleReading: "かさいほけんりょうをかくにんしました。", exampleKorean: "카사이호켄료-오 카쿠닌 시마시타", exampleMeaning: "화재보험료를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "地震保険", reading: "じしんほけん", korean: "지신호켄", meaning: "지진보험",
+    example: "地震保険にも加入しました。", exampleReading: "じしんほけんにもかにゅうしました。", exampleKorean: "지신호켄니모 카뉴- 시마시타", exampleMeaning: "지진보험에도 가입했습니다.",
+    breakdown: [
+      { word: "加入", reading: "かにゅう", meaning: "가입" }
+    ] },
+  { level: "N4", kanji: "住宅性能評価", reading: "じゅうたくせいのうひょうか", korean: "쥬-타쿠세-노-효-카", meaning: "주택성능평가",
+    example: "住宅性能評価を受けました。", exampleReading: "じゅうたくせいのうひょうかをうけました。", exampleKorean: "쥬-타쿠세-노-효-카오 우케마시타", exampleMeaning: "주택성능평가를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N4", kanji: "耐震基準", reading: "たいしんきじゅん", korean: "타이신키쥰", meaning: "내진기준",
+    example: "新しい耐震基準を満たしています。", exampleReading: "あたらしいたいしんきじゅんをみたしています。", exampleKorean: "아타라시- 타이신키쥰오 미타시테 이마스", exampleMeaning: "새로운 내진기준을 충족하고 있습니다.",
+    breakdown: [
+      { word: "満たして", reading: "みたして", meaning: "충족해서" }
+    ] },
+  { level: "N4", kanji: "断熱性能", reading: "だんねつせいのう", korean: "단네츠세-노-", meaning: "단열성능",
+    example: "断熱性能が高い家です。", exampleReading: "だんねつせいのうがたかいいえです。", exampleKorean: "단네츠세-노-가 타카이 이에데스", exampleMeaning: "단열성능이 높은 집입니다.",
+    breakdown: [
+      { word: "家", reading: "いえ", meaning: "집" }
+    ] },
+  { level: "N4", kanji: "省エネ住宅", reading: "しょうエネじゅうたく", korean: "쇼-에네쥬-타쿠", meaning: "에너지절약주택",
+    example: "省エネ住宅を建てました。", exampleReading: "しょうエネじゅうたくをたてました。", exampleKorean: "쇼-에네쥬-타쿠오 타테마시타", exampleMeaning: "에너지절약주택을 지었습니다.",
+    breakdown: [
+      { word: "建てました", reading: "たてました", meaning: "지었습니다" }
+    ] },
+  { level: "N4", kanji: "二世帯住宅", reading: "にせたいじゅうたく", korean: "니세타이쥬-타쿠", meaning: "이세대주택",
+    example: "二世帯住宅に住んでいます。", exampleReading: "にせたいじゅうたくにすんでいます。", exampleKorean: "니세타이쥬-타쿠니 슨데 이마스", exampleMeaning: "이세대주택에 살고 있습니다.",
+    breakdown: [
+      { word: "住んで", reading: "すんで", meaning: "살아서" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
