@@ -15528,6 +15528,206 @@ const VOCAB = [
     breakdown: [
       { word: "黙祷", reading: "もくとう", meaning: "묵도" }
     ] },
+  { level: "N3", kanji: "既視感", reading: "きしかん", korean: "키시칸", meaning: "기시감",
+    example: "既視感を覚えました。", exampleReading: "きしかんをおぼえました。", exampleKorean: "키시칸오 오보에마시타", exampleMeaning: "기시감을 느꼈습니다.",
+    breakdown: [
+      { word: "覚えました", reading: "おぼえました", meaning: "느꼈습니다" }
+    ] },
+  { level: "N3", kanji: "未視感", reading: "みしかん", korean: "미시칸", meaning: "미시감(친숙한 것이 낯설게 느껴짐)",
+    example: "未視感に戸惑いました。", exampleReading: "みしかんにとまどいました。", exampleKorean: "미시칸니 토마도이마시타", exampleMeaning: "미시감에 당황했습니다.",
+    breakdown: [
+      { word: "戸惑いました", reading: "とまどいました", meaning: "당황했습니다" }
+    ] },
+  { level: "N3", kanji: "デジャブ", reading: "デジャブ", korean: "데쟈부", meaning: "데자뷰",
+    example: "デジャブを感じました。", exampleReading: "デジャブをかんじました。", exampleKorean: "데쟈부오 칸지마시타", exampleMeaning: "데자뷰를 느꼈습니다.",
+    breakdown: [
+      { word: "感じました", reading: "かんじました", meaning: "느꼈습니다" }
+    ] },
+  { level: "N3", kanji: "予知夢", reading: "よちむ", korean: "요치무", meaning: "예지몽",
+    example: "予知夢を見ました。", exampleReading: "よちむをみました。", exampleKorean: "요치무오 미마시타", exampleMeaning: "예지몽을 꿨습니다.",
+    breakdown: [
+      { word: "見ました", reading: "みました", meaning: "꿨습니다" }
+    ] },
+  { level: "N3", kanji: "夢占い", reading: "ゆめうらない", korean: "유메우라나이", meaning: "꿈해몽",
+    example: "夢占いで調べました。", exampleReading: "ゆめうらないでしらべました。", exampleKorean: "유메우라나이데 시라베마시타", exampleMeaning: "꿈해몽으로 알아봤습니다.",
+    breakdown: [
+      { word: "調べました", reading: "しらべました", meaning: "알아봤습니다" }
+    ] },
+  { level: "N3", kanji: "正夢", reading: "まさゆめ", korean: "마사유메", meaning: "현실이 된 꿈",
+    example: "正夢になりました。", exampleReading: "まさゆめになりました。", exampleKorean: "마사유메니 나리마시타", exampleMeaning: "현실이 된 꿈이 되었습니다.",
+    breakdown: [
+      { word: "なりました", reading: "なりました", meaning: "되었습니다" }
+    ] },
+  { level: "N3", kanji: "逆夢", reading: "さかゆめ", korean: "사카유메", meaning: "반대의 꿈(현실과 반대인 꿈)",
+    example: "逆夢だったようです。", exampleReading: "さかゆめだったようです。", exampleKorean: "사카유메닷타 요-데스", exampleMeaning: "반대의 꿈이었던 것 같습니다.",
+    breakdown: [
+      { word: "ようです", reading: "ようです", meaning: "것 같습니다" }
+    ] },
+  { level: "N3", kanji: "悪夢にうなされる", reading: "あくむにうなされる", korean: "아쿠무니우나사레루", meaning: "악몽에 시달리다",
+    example: "悪夢にうなされました。", exampleReading: "あくむにうなされました。", exampleKorean: "아쿠무니 우나사레마시타", exampleMeaning: "악몽에 시달렸습니다.",
+    breakdown: [
+      { word: "悪夢", reading: "あくむ", meaning: "악몽" }
+    ] },
+  { level: "N3", kanji: "夢遊病", reading: "むゆうびょう", korean: "무유-뵤-", meaning: "몽유병",
+    example: "夢遊病の症状があります。", exampleReading: "むゆうびょうのしょうじょうがあります。", exampleKorean: "무유-뵤-노 쇼-죠-가 아리마스", exampleMeaning: "몽유병 증상이 있습니다.",
+    breakdown: [
+      { word: "症状", reading: "しょうじょう", meaning: "증상" }
+    ] },
+  { level: "N3", kanji: "金縛り", reading: "かなしばり", korean: "카나시바리", meaning: "가위눌림",
+    example: "夜中に金縛りにあいました。", exampleReading: "よなかにかなしばりにあいました。", exampleKorean: "요나카니 카나시바리니 아이마시타", exampleMeaning: "한밤중에 가위눌렸습니다.",
+    breakdown: [
+      { word: "夜中", reading: "よなか", meaning: "한밤중" }
+    ] },
+  { level: "N3", kanji: "幽体離脱", reading: "ゆうたいりだつ", korean: "유-타이리다츠", meaning: "유체이탈",
+    example: "幽体離脱を経験したそうです。", exampleReading: "ゆうたいりだつをけいけんしたそうです。", exampleKorean: "유-타이리다츠오 케-켄시타 소-데스", exampleMeaning: "유체이탈을 경험했다고 합니다.",
+    breakdown: [
+      { word: "経験", reading: "けいけん", meaning: "경험" }
+    ] },
+  { level: "N3", kanji: "臨死体験", reading: "りんしたいけん", korean: "린시타이켄", meaning: "임사체험",
+    example: "臨死体験について語りました。", exampleReading: "りんしたいけんについてかたりました。", exampleKorean: "린시타이켄니 츠이테 카타리마시타", exampleMeaning: "임사체험에 대해 이야기했습니다.",
+    breakdown: [
+      { word: "語りました", reading: "かたりました", meaning: "이야기했습니다" }
+    ] },
+  { level: "N3", kanji: "第六感", reading: "だいろっかん", korean: "다이록칸", meaning: "제육감",
+    example: "第六感が働きました。", exampleReading: "だいろっかんがはたらきました。", exampleKorean: "다이록칸가 하타라키마시타", exampleMeaning: "제육감이 발동했습니다.",
+    breakdown: [
+      { word: "働きました", reading: "はたらきました", meaning: "발동했습니다" }
+    ] },
+  { level: "N3", kanji: "虫の知らせ", reading: "むしのしらせ", korean: "무시노시라세", meaning: "불길한 예감",
+    example: "虫の知らせがありました。", exampleReading: "むしのしらせがありました。", exampleKorean: "무시노 시라세가 아리마시타", exampleMeaning: "불길한 예감이 있었습니다.",
+    breakdown: [
+      { word: "ありました", reading: "ありました", meaning: "있었습니다" }
+    ] },
+  { level: "N3", kanji: "虫が知らせる", reading: "むしがしらせる", korean: "무시가시라세루", meaning: "불길한 예감이 들다",
+    example: "虫が知らせたのでしょうか。", exampleReading: "むしがしらせたのでしょうか。", exampleKorean: "무시가 시라세타노데쇼-카", exampleMeaning: "불길한 예감이 든 것일까요.",
+    breakdown: [
+      { word: "のでしょうか", reading: "のでしょうか", meaning: "것일까요" }
+    ] },
+  { level: "N3", kanji: "虫の居所が悪い", reading: "むしのいどころがわるい", korean: "무시노이도코로가와루이", meaning: "심기가 불편하다",
+    example: "今日は虫の居所が悪いようです。", exampleReading: "きょうはむしのいどころがわるいようです。", exampleKorean: "쿄-와 무시노 이도코로가 와루이 요-데스", exampleMeaning: "오늘은 심기가 불편한 것 같습니다.",
+    breakdown: [
+      { word: "今日", reading: "きょう", meaning: "오늘" }
+    ] },
+  { level: "N3", kanji: "虫が好かない", reading: "むしがすかない", korean: "무시가스카나이", meaning: "왠지 마음에 안 들다",
+    example: "彼のことが虫が好かないです。", exampleReading: "かれのことがむしがすかないです。", exampleKorean: "카레노 코토가 무시가 스카나이데스", exampleMeaning: "그가 왠지 마음에 안 듭니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N3", kanji: "虫酸が走る", reading: "むしずがはしる", korean: "무시즈가하시루", meaning: "극도로 혐오감을 느끼다",
+    example: "その言い方に虫酸が走りました。", exampleReading: "そのいいかたにむしずがはしりました。", exampleKorean: "소노 이이카타니 무시즈가 하시리마시타", exampleMeaning: "그 말투에 극도로 혐오감을 느꼈습니다.",
+    breakdown: [
+      { word: "言い方", reading: "いいかた", meaning: "말투" }
+    ] },
+  { level: "N3", kanji: "肝が据わる", reading: "きもがすわる", korean: "키모가스와루", meaning: "담대해지다",
+    example: "肝が据わっている人です。", exampleReading: "きもがすわっているひとです。", exampleKorean: "키모가 스왓테 이루 히토데스", exampleMeaning: "담대한 사람입니다.",
+    breakdown: [
+      { word: "人", reading: "ひと", meaning: "사람" }
+    ] },
+  { level: "N3", kanji: "肝を冷やす", reading: "きもをひやす", korean: "키모오히야스", meaning: "간담이 서늘해지다",
+    example: "事故に肝を冷やしました。", exampleReading: "じこにきもをひやしました。", exampleKorean: "지코니 키모오 히야시마시타", exampleMeaning: "사고에 간담이 서늘해졌습니다.",
+    breakdown: [
+      { word: "事故", reading: "じこ", meaning: "사고" }
+    ] },
+  { level: "N3", kanji: "肝を潰す", reading: "きもをつぶす", korean: "키모오츠부스", meaning: "크게 놀라다",
+    example: "突然の音に肝を潰しました。", exampleReading: "とつぜんのおとにきもをつぶしました。", exampleKorean: "토츠젠노 오토니 키모오 츠부시마시타", exampleMeaning: "갑작스러운 소리에 크게 놀랐습니다.",
+    breakdown: [
+      { word: "突然", reading: "とつぜん", meaning: "갑작스러운" }
+    ] },
+  { level: "N3", kanji: "腹を割る", reading: "はらをわる", korean: "하라오와루", meaning: "속을 터놓다",
+    example: "腹を割って話しました。", exampleReading: "はらをわってはなしました。", exampleKorean: "하라오 왓테 하나시마시타", exampleMeaning: "속을 터놓고 이야기했습니다.",
+    breakdown: [
+      { word: "話しました", reading: "はなしました", meaning: "이야기했습니다" }
+    ] },
+  { level: "N3", kanji: "腹を探る", reading: "はらをさぐる", korean: "하라오사구루", meaning: "속내를 떠보다",
+    example: "相手の腹を探りました。", exampleReading: "あいてのはらをさぐりました。", exampleKorean: "아이테노 하라오 사구리마시타", exampleMeaning: "상대의 속내를 떠봤습니다.",
+    breakdown: [
+      { word: "相手", reading: "あいて", meaning: "상대" }
+    ] },
+  { level: "N3", kanji: "腹黒い", reading: "はらぐろい", korean: "하라구로이", meaning: "속이 검다(음흉하다)",
+    example: "彼は腹黒い人です。", exampleReading: "かれははらぐろいひとです。", exampleKorean: "카레와 하라구로이 히토데스", exampleMeaning: "그는 음흉한 사람입니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N3", kanji: "腹が立つ", reading: "はらがたつ", korean: "하라가타츠", meaning: "화가 나다",
+    example: "その態度に腹が立ちました。", exampleReading: "そのたいどにはらがたちました。", exampleKorean: "소노 타이도니 하라가 타치마시타", exampleMeaning: "그 태도에 화가 났습니다.",
+    breakdown: [
+      { word: "態度", reading: "たいど", meaning: "태도" }
+    ] },
+  { level: "N3", kanji: "腹を立てる", reading: "はらをたてる", korean: "하라오타테루", meaning: "화를 내다",
+    example: "彼は腹を立てました。", exampleReading: "かれははらをたてました。", exampleKorean: "카레와 하라오 타테마시타", exampleMeaning: "그는 화를 냈습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N3", kanji: "腹の虫が治まらない", reading: "はらのむしがおさまらない", korean: "하라노무시가오사마라나이", meaning: "분이 풀리지 않다",
+    example: "腹の虫が治まりません。", exampleReading: "はらのむしがおさまりません。", exampleKorean: "하라노 무시가 오사마리마셍", exampleMeaning: "분이 풀리지 않습니다.",
+    breakdown: [
+      { word: "治まりません", reading: "おさまりません", meaning: "풀리지 않습니다" }
+    ] },
+  { level: "N3", kanji: "腹が据わる", reading: "はらがすわる", korean: "하라가스와루", meaning: "마음의 각오가 서다",
+    example: "腹が据わった人です。", exampleReading: "はらがすわったひとです。", exampleKorean: "하라가 스왓타 히토데스", exampleMeaning: "마음의 각오가 선 사람입니다.",
+    breakdown: [
+      { word: "人", reading: "ひと", meaning: "사람" }
+    ] },
+  { level: "N3", kanji: "肝が小さい", reading: "きもがちいさい", korean: "키모가치-사이", meaning: "간이 작다(겁이 많다)",
+    example: "肝が小さくて怖がりです。", exampleReading: "きもがちいさくてこわがりです。", exampleKorean: "키모가 치-사쿠테 코와가리데스", exampleMeaning: "간이 작아서 겁이 많습니다.",
+    breakdown: [
+      { word: "怖がり", reading: "こわがり", meaning: "겁쟁이" }
+    ] },
+  { level: "N3", kanji: "度胸がある", reading: "どきょうがある", korean: "도쿄-가아루", meaning: "배짱이 있다",
+    example: "彼は度胸があります。", exampleReading: "かれはどきょうがあります。", exampleKorean: "카레와 도쿄-가 아리마스", exampleMeaning: "그는 배짱이 있습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N3", kanji: "度胸試し", reading: "どきょうだめし", korean: "도쿄-다메시", meaning: "담력시험",
+    example: "度胸試しをしました。", exampleReading: "どきょうだめしをしました。", exampleKorean: "도쿄-다메시오 시마시타", exampleMeaning: "담력시험을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N3", kanji: "肝試し", reading: "きもだめし", korean: "키모다메시", meaning: "담력시험(전통)",
+    example: "夏に肝試しをしました。", exampleReading: "なつにきもだめしをしました。", exampleKorean: "나츠니 키모다메시오 시마시타", exampleMeaning: "여름에 담력시험을 했습니다.",
+    breakdown: [
+      { word: "夏", reading: "なつ", meaning: "여름" }
+    ] },
+  { level: "N3", kanji: "肝っ玉", reading: "きもったま", korean: "키못타마", meaning: "배짱",
+    example: "肝っ玉が据わっています。", exampleReading: "きもったまがすわっています。", exampleKorean: "키못타마가 스왓테 이마스", exampleMeaning: "배짱이 두둑합니다.",
+    breakdown: [
+      { word: "据わって", reading: "すわって", meaning: "두둑해서" }
+    ] },
+  { level: "N3", kanji: "太っ腹", reading: "ふとっぱら", korean: "후톳파라", meaning: "통이 큼(도량이 넓음)",
+    example: "太っ腹な人です。", exampleReading: "ふとっぱらなひとです。", exampleKorean: "후톳파라나 히토데스", exampleMeaning: "통이 큰 사람입니다.",
+    breakdown: [
+      { word: "人", reading: "ひと", meaning: "사람" }
+    ] },
+  { level: "N3", kanji: "小心者", reading: "しょうしんもの", korean: "쇼-신모노", meaning: "소심한 사람",
+    example: "私は小心者です。", exampleReading: "わたしはしょうしんものです。", exampleKorean: "와타시와 쇼-신모노데스", exampleMeaning: "저는 소심한 사람입니다.",
+    breakdown: [
+      { word: "私", reading: "わたし", meaning: "저" }
+    ] },
+  { level: "N3", kanji: "臆病風に吹かれる", reading: "おくびょうかぜにふかれる", korean: "오쿠뵤-카제니후카레루", meaning: "겁이 나서 주저하다",
+    example: "臆病風に吹かれてやめました。", exampleReading: "おくびょうかぜにふかれてやめました。", exampleKorean: "오쿠뵤-카제니 후카레테 야메마시타", exampleMeaning: "겁이 나서 그만뒀습니다.",
+    breakdown: [
+      { word: "やめました", reading: "やめました", meaning: "그만뒀습니다" }
+    ] },
+  { level: "N3", kanji: "血の気が引く", reading: "ちのけがひく", korean: "치노케가히쿠", meaning: "핏기가 가시다",
+    example: "知らせを聞いて血の気が引きました。", exampleReading: "しらせをきいてちのけがひきました。", exampleKorean: "시라세오 키이테 치노케가 히키마시타", exampleMeaning: "소식을 듣고 핏기가 가셨습니다.",
+    breakdown: [
+      { word: "知らせ", reading: "しらせ", meaning: "소식" }
+    ] },
+  { level: "N3", kanji: "背筋が凍る", reading: "せすじがこおる", korean: "세스지가코-루", meaning: "등골이 오싹하다",
+    example: "背筋が凍る話でした。", exampleReading: "せすじがこおるはなしでした。", exampleKorean: "세스지가 코-루 하나시데시타", exampleMeaning: "등골이 오싹한 이야기였습니다.",
+    breakdown: [
+      { word: "話", reading: "はなし", meaning: "이야기" }
+    ] },
+  { level: "N3", kanji: "鳥肌が立つ", reading: "とりはだがたつ", korean: "토리하다가타츠", meaning: "소름이 돋다",
+    example: "感動して鳥肌が立ちました。", exampleReading: "かんどうしてとりはだがたちました。", exampleKorean: "칸도-시테 토리하다가 타치마시타", exampleMeaning: "감동해서 소름이 돋았습니다.",
+    breakdown: [
+      { word: "感動", reading: "かんどう", meaning: "감동" }
+    ] },
+  { level: "N3", kanji: "身の毛がよだつ", reading: "みのけがよだつ", korean: "미노케가요다츠", meaning: "몸서리가 쳐지다",
+    example: "身の毛がよだつ話でした。", exampleReading: "みのけがよだつはなしでした。", exampleKorean: "미노케가 요다츠 하나시데시타", exampleMeaning: "몸서리쳐지는 이야기였습니다.",
+    breakdown: [
+      { word: "話", reading: "はなし", meaning: "이야기" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
