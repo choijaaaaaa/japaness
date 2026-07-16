@@ -16837,6 +16837,156 @@ const VOCAB = [
     breakdown: [
       { word: "画像", reading: "がぞう", meaning: "이미지" }
     ] },
+  { level: "N2", kanji: "公認会計士", reading: "こうにんかいけいし", korean: "코-닌카이케-시", meaning: "공인회계사",
+    example: "公認会計士の資格を取りました。", exampleReading: "こうにんかいけいしのしかくをとりました。", exampleKorean: "코-닌카이케-시노 시카쿠오 토리마시타", exampleMeaning: "공인회계사 자격을 땄습니다.",
+    breakdown: [
+      { word: "資格", reading: "しかく", meaning: "자격" }
+    ] },
+  { level: "N2", kanji: "税理士", reading: "ぜいりし", korean: "제-리시", meaning: "세무사",
+    example: "税理士に相談しました。", exampleReading: "ぜいりしにそうだんしました。", exampleKorean: "제-리시니 소-단 시마시타", exampleMeaning: "세무사에게 상담했습니다.",
+    breakdown: [
+      { word: "相談", reading: "そうだん", meaning: "상담" }
+    ] },
+  { level: "N2", kanji: "司法書士", reading: "しほうしょし", korean: "시호-쇼시", meaning: "법무사",
+    example: "司法書士に依頼しました。", exampleReading: "しほうしょしにいらいしました。", exampleKorean: "시호-쇼시니 이라이 시마시타", exampleMeaning: "법무사에게 의뢰했습니다.",
+    breakdown: [
+      { word: "依頼", reading: "いらい", meaning: "의뢰" }
+    ] },
+  { level: "N2", kanji: "行政書士", reading: "ぎょうせいしょし", korean: "교-세-쇼시", meaning: "행정서사",
+    example: "行政書士の試験に合格しました。", exampleReading: "ぎょうせいしょしのしけんにごうかくしました。", exampleKorean: "교-세-쇼시노 시켄니 고-카쿠 시마시타", exampleMeaning: "행정서사 시험에 합격했습니다.",
+    breakdown: [
+      { word: "試験", reading: "しけん", meaning: "시험" }
+    ] },
+  { level: "N2", kanji: "社会保険労務士", reading: "しゃかいほけんろうむし", korean: "샤카이호켄로-무시", meaning: "사회보험노무사",
+    example: "社会保険労務士に相談しました。", exampleReading: "しゃかいほけんろうむしにそうだんしました。", exampleKorean: "샤카이호켄로-무시니 소-단 시마시타", exampleMeaning: "사회보험노무사에게 상담했습니다.",
+    breakdown: [
+      { word: "相談", reading: "そうだん", meaning: "상담" }
+    ] },
+  { level: "N2", kanji: "弁理士", reading: "べんりし", korean: "벤리시", meaning: "변리사",
+    example: "弁理士に特許出願を依頼しました。", exampleReading: "べんりしにとっきょしゅつがんをいらいしました。", exampleKorean: "벤리시니 톡쿄슈츠간오 이라이 시마시타", exampleMeaning: "변리사에게 특허출원을 의뢰했습니다.",
+    breakdown: [
+      { word: "特許出願", reading: "とっきょしゅつがん", meaning: "특허출원" }
+    ] },
+  { level: "N2", kanji: "中小企業診断士", reading: "ちゅうしょうきぎょうしんだんし", korean: "츄-쇼-키교-신단시", meaning: "중소기업진단사",
+    example: "中小企業診断士の資格を目指しています。", exampleReading: "ちゅうしょうきぎょうしんだんしのしかくをめざしています。", exampleKorean: "츄-쇼-키교-신단시노 시카쿠오 메자시테 이마스", exampleMeaning: "중소기업진단사 자격을 목표로 하고 있습니다.",
+    breakdown: [
+      { word: "資格", reading: "しかく", meaning: "자격" }
+    ] },
+  { level: "N2", kanji: "ファイナンシャルプランナー", reading: "ファイナンシャルプランナー", korean: "화이난샤루푸란나-", meaning: "파이낸셜 플래너",
+    example: "ファイナンシャルプランナーに相談しました。", exampleReading: "ファイナンシャルプランナーにそうだんしました。", exampleKorean: "화이난샤루푸란나-니 소-단 시마시타", exampleMeaning: "파이낸셜 플래너에게 상담했습니다.",
+    breakdown: [
+      { word: "相談", reading: "そうだん", meaning: "상담" }
+    ] },
+  { level: "N2", kanji: "宅地建物取引士", reading: "たくちたてものとりひきし", korean: "타쿠치타테모노토리히키시", meaning: "공인중개사",
+    example: "宅地建物取引士の資格を取得しました。", exampleReading: "たくちたてものとりひきしのしかくをしゅとくしました。", exampleKorean: "타쿠치타테모노토리히키시노 시카쿠오 슈토쿠 시마시타", exampleMeaning: "공인중개사 자격을 취득했습니다.",
+    breakdown: [
+      { word: "資格", reading: "しかく", meaning: "자격" }
+    ] },
+  { level: "N2", kanji: "通関士", reading: "つうかんし", korean: "츠-칸시", meaning: "통관사",
+    example: "通関士の試験を受けました。", exampleReading: "つうかんしのしけんをうけました。", exampleKorean: "츠-칸시노 시켕오 우케마시타", exampleMeaning: "통관사 시험을 봤습니다.",
+    breakdown: [
+      { word: "試験", reading: "しけん", meaning: "시험" }
+    ] },
+  { level: "N2", kanji: "不動産鑑定士", reading: "ふどうさんかんていし", korean: "후도-산칸테-시", meaning: "부동산감정사",
+    example: "不動産鑑定士に依頼しました。", exampleReading: "ふどうさんかんていしにいらいしました。", exampleKorean: "후도-산칸테-시니 이라이 시마시타", exampleMeaning: "부동산감정사에게 의뢰했습니다.",
+    breakdown: [
+      { word: "依頼", reading: "いらい", meaning: "의뢰" }
+    ] },
+  { level: "N2", kanji: "土地家屋調査士", reading: "とちかおくちょうさし", korean: "토치카오쿠쵸-사시", meaning: "토지가옥조사사",
+    example: "土地家屋調査士に測量を頼みました。", exampleReading: "とちかおくちょうさしにそくりょうをたのみました。", exampleKorean: "토치카오쿠쵸-사시니 소쿠료-오 타노미마시타", exampleMeaning: "토지가옥조사사에게 측량을 부탁했습니다.",
+    breakdown: [
+      { word: "測量", reading: "そくりょう", meaning: "측량" }
+    ] },
+  { level: "N2", kanji: "技術士", reading: "ぎじゅつし", korean: "기쥬츠시", meaning: "기술사",
+    example: "技術士の資格を持っています。", exampleReading: "ぎじゅつしのしかくをもっています。", exampleKorean: "기쥬츠시노 시카쿠오 못테 이마스", exampleMeaning: "기술사 자격을 가지고 있습니다.",
+    breakdown: [
+      { word: "資格", reading: "しかく", meaning: "자격" }
+    ] },
+  { level: "N2", kanji: "建築士", reading: "けんちくし", korean: "켄치쿠시", meaning: "건축사",
+    example: "建築士に設計を依頼しました。", exampleReading: "けんちくしにせっけいをいらいしました。", exampleKorean: "켄치쿠시니 셋케-오 이라이 시마시타", exampleMeaning: "건축사에게 설계를 의뢰했습니다.",
+    breakdown: [
+      { word: "設計", reading: "せっけい", meaning: "설계" }
+    ] },
+  { level: "N2", kanji: "施工管理技士", reading: "せこうかんりぎし", korean: "세코-칸리기시", meaning: "시공관리기사",
+    example: "施工管理技士の資格を取りました。", exampleReading: "せこうかんりぎしのしかくをとりました。", exampleKorean: "세코-칸리기시노 시카쿠오 토리마시타", exampleMeaning: "시공관리기사 자격을 땄습니다.",
+    breakdown: [
+      { word: "資格", reading: "しかく", meaning: "자격" }
+    ] },
+  { level: "N2", kanji: "危険物取扱者", reading: "きけんぶつとりあつかいしゃ", korean: "키켄부츠토리아츠카이샤", meaning: "위험물취급자",
+    example: "危険物取扱者の免許を取得しました。", exampleReading: "きけんぶつとりあつかいしゃのめんきょをしゅとくしました。", exampleKorean: "키켄부츠토리아츠카이샤노 멘쿄오 슈토쿠 시마시타", exampleMeaning: "위험물취급자 면허를 취득했습니다.",
+    breakdown: [
+      { word: "免許", reading: "めんきょ", meaning: "면허" }
+    ] },
+  { level: "N2", kanji: "電気工事士", reading: "でんきこうじし", korean: "덴키코-지시", meaning: "전기공사사",
+    example: "電気工事士の資格を持っています。", exampleReading: "でんきこうじしのしかくをもっています。", exampleKorean: "덴키코-지시노 시카쿠오 못테 이마스", exampleMeaning: "전기공사사 자격을 가지고 있습니다.",
+    breakdown: [
+      { word: "資格", reading: "しかく", meaning: "자격" }
+    ] },
+  { level: "N2", kanji: "衛生管理者", reading: "えいせいかんりしゃ", korean: "에-세-칸리샤", meaning: "위생관리자",
+    example: "衛生管理者に選任されました。", exampleReading: "えいせいかんりしゃにせんにんされました。", exampleKorean: "에-세-칸리샤니 센닌사레마시타", exampleMeaning: "위생관리자로 선임되었습니다.",
+    breakdown: [
+      { word: "選任", reading: "せんにん", meaning: "선임" }
+    ] },
+  { level: "N2", kanji: "情報処理技術者", reading: "じょうほうしょりぎじゅつしゃ", korean: "죠-호-쇼리기쥬츠샤", meaning: "정보처리기술자",
+    example: "情報処理技術者試験に合格しました。", exampleReading: "じょうほうしょりぎじゅつしゃしけんにごうかくしました。", exampleKorean: "죠-호-쇼리기쥬츠샤 시켄니 고-카쿠 시마시타", exampleMeaning: "정보처리기술자 시험에 합격했습니다.",
+    breakdown: [
+      { word: "合格", reading: "ごうかく", meaning: "합격" }
+    ] },
+  { level: "N2", kanji: "システムエンジニア", reading: "システムエンジニア", korean: "시스테무엔지니아", meaning: "시스템 엔지니어",
+    example: "システムエンジニアとして働いています。", exampleReading: "システムエンジニアとしてはたらいています。", exampleKorean: "시스테무엔지니아토시테 하타라이테 이마스", exampleMeaning: "시스템 엔지니어로 일하고 있습니다.",
+    breakdown: [
+      { word: "働いて", reading: "はたらいて", meaning: "일해서" }
+    ] },
+  { level: "N2", kanji: "プロジェクトマネージャー", reading: "プロジェクトマネージャー", korean: "프로제쿠토마네-쟈-", meaning: "프로젝트 매니저",
+    example: "プロジェクトマネージャーに昇進しました。", exampleReading: "プロジェクトマネージャーにしょうしんしました。", exampleKorean: "프로제쿠토마네-쟈-니 쇼-신 시마시타", exampleMeaning: "프로젝트 매니저로 승진했습니다.",
+    breakdown: [
+      { word: "昇進", reading: "しょうしん", meaning: "승진" }
+    ] },
+  { level: "N2", kanji: "データサイエンティスト", reading: "データサイエンティスト", korean: "데-타사이엔티스토", meaning: "데이터 사이언티스트",
+    example: "データサイエンティストとして活躍しています。", exampleReading: "データサイエンティストとしてかつやくしています。", exampleKorean: "데-타사이엔티스토토시테 카츠야쿠 시테 이마스", exampleMeaning: "데이터 사이언티스트로 활약하고 있습니다.",
+    breakdown: [
+      { word: "活躍", reading: "かつやく", meaning: "활약" }
+    ] },
+  { level: "N2", kanji: "コンサルタント", reading: "コンサルタント", korean: "콘사루탄토", meaning: "컨설턴트",
+    example: "経営コンサルタントに相談しました。", exampleReading: "けいえいコンサルタントにそうだんしました。", exampleKorean: "케-에- 콘사루탄토니 소-단 시마시타", exampleMeaning: "경영 컨설턴트에게 상담했습니다.",
+    breakdown: [
+      { word: "経営", reading: "けいえい", meaning: "경영" }
+    ] },
+  { level: "N2", kanji: "アナリスト", reading: "アナリスト", korean: "아나리스토", meaning: "애널리스트",
+    example: "証券アナリストの資格があります。", exampleReading: "しょうけんアナリストのしかくがあります。", exampleKorean: "쇼-켄 아나리스토노 시카쿠가 아리마스", exampleMeaning: "증권 애널리스트 자격이 있습니다.",
+    breakdown: [
+      { word: "証券", reading: "しょうけん", meaning: "증권" }
+    ] },
+  { level: "N2", kanji: "ディレクター", reading: "ディレクター", korean: "디레쿠타-", meaning: "디렉터",
+    example: "映画のディレクターです。", exampleReading: "えいがのディレクターです。", exampleKorean: "에-가노 디레쿠타-데스", exampleMeaning: "영화의 디렉터입니다.",
+    breakdown: [
+      { word: "映画", reading: "えいが", meaning: "영화" }
+    ] },
+  { level: "N2", kanji: "プロデューサー", reading: "プロデューサー", korean: "푸로듀-사-", meaning: "프로듀서",
+    example: "番組のプロデューサーをしています。", exampleReading: "ばんぐみのプロデューサーをしています。", exampleKorean: "방구미노 푸로듀-사-오 시테 이마스", exampleMeaning: "프로그램의 프로듀서를 하고 있습니다.",
+    breakdown: [
+      { word: "番組", reading: "ばんぐみ", meaning: "프로그램" }
+    ] },
+  { level: "N2", kanji: "クリエイター", reading: "クリエイター", korean: "쿠리에이타-", meaning: "크리에이터",
+    example: "フリーのクリエイターです。", exampleReading: "フリーのクリエイターです。", exampleKorean: "후리-노 쿠리에이타-데스", exampleMeaning: "프리랜서 크리에이터입니다.",
+    breakdown: [
+      { word: "フリー", reading: "フリー", meaning: "프리랜서" }
+    ] },
+  { level: "N2", kanji: "デザイナー職", reading: "デザイナーしょく", korean: "데자이나-쇼쿠", meaning: "디자이너 직종",
+    example: "デザイナー職に転職しました。", exampleReading: "デザイナーしょくにてんしょくしました。", exampleKorean: "데자이나-쇼쿠니 텐쇼쿠 시마시타", exampleMeaning: "디자이너 직종으로 전직했습니다.",
+    breakdown: [
+      { word: "転職", reading: "てんしょく", meaning: "전직" }
+    ] },
+  { level: "N2", kanji: "エンジニア職", reading: "エンジニアしょく", korean: "엔지니아쇼쿠", meaning: "엔지니어 직종",
+    example: "エンジニア職を希望しています。", exampleReading: "エンジニアしょくをきぼうしています。", exampleKorean: "엔지니아쇼쿠오 키보- 시테 이마스", exampleMeaning: "엔지니어 직종을 희망하고 있습니다.",
+    breakdown: [
+      { word: "希望", reading: "きぼう", meaning: "희망" }
+    ] },
+  { level: "N2", kanji: "マーケター", reading: "マーケター", korean: "마-케타-", meaning: "마케터",
+    example: "デジタルマーケターとして働いています。", exampleReading: "デジタルマーケターとしてはたらいています。", exampleKorean: "데지타루마-케타-토시테 하타라이테 이마스", exampleMeaning: "디지털 마케터로 일하고 있습니다.",
+    breakdown: [
+      { word: "働いて", reading: "はたらいて", meaning: "일해서" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
