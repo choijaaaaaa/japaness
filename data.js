@@ -5583,6 +5583,206 @@ const VOCAB = [
     breakdown: [
       { word: "感動", reading: "かんどう", meaning: "감동" }
     ] },
+  { level: "N5", kanji: "野球観戦", reading: "やきゅうかんせん", korean: "야큐-칸센", meaning: "야구관람",
+    example: "家族で野球観戦をしました。", exampleReading: "かぞくでやきゅうかんせんをしました。", exampleKorean: "카조쿠데 야큐-칸센오 시마시타", exampleMeaning: "가족과 야구관람을 했습니다.",
+    breakdown: [
+      { word: "家族で", reading: "かぞくで", meaning: "가족과" }
+    ] },
+  { level: "N5", kanji: "サッカー観戦", reading: "サッカーかんせん", korean: "삭카-칸센", meaning: "축구관람",
+    example: "スタジアムでサッカー観戦をしました。", exampleReading: "スタジアムでサッカーかんせんをしました。", exampleKorean: "스타지아무데 삭카-칸센오 시마시타", exampleMeaning: "경기장에서 축구관람을 했습니다.",
+    breakdown: [
+      { word: "スタジアム", reading: "スタジアム", meaning: "경기장" }
+    ] },
+  { level: "N5", kanji: "応援グッズ", reading: "おうえんグッズ", korean: "오-엔굿즈", meaning: "응원 굿즈",
+    example: "応援グッズを買いました。", exampleReading: "おうえんグッズをかいました。", exampleKorean: "오-엔굿즈오 카이마시타", exampleMeaning: "응원 굿즈를 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N5", kanji: "ユニフォーム", reading: "ユニフォーム", korean: "유니훠-무", meaning: "유니폼",
+    example: "選手のユニフォームを着ました。", exampleReading: "せんしゅのユニフォームをきました。", exampleKorean: "센슈노 유니훠-무오 키마시타", exampleMeaning: "선수의 유니폼을 입었습니다.",
+    breakdown: [
+      { word: "選手", reading: "せんしゅ", meaning: "선수" }
+    ] },
+  { level: "N5", kanji: "試合結果", reading: "しあいけっか", korean: "시아이켁카", meaning: "경기결과",
+    example: "試合結果を確認しました。", exampleReading: "しあいけっかをかくにんしました。", exampleKorean: "시아이켁카오 카쿠닌 시마시타", exampleMeaning: "경기결과를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N5", kanji: "勝敗", reading: "しょうはい", korean: "쇼-하이", meaning: "승패",
+    example: "勝敗が決まりました。", exampleReading: "しょうはいがきまりました。", exampleKorean: "쇼-하이가 키마리마시타", exampleMeaning: "승패가 결정되었습니다.",
+    breakdown: [
+      { word: "決まりました", reading: "きまりました", meaning: "결정되었습니다" }
+    ] },
+  { level: "N5", kanji: "延長戦", reading: "えんちょうせん", korean: "엔쵸-센", meaning: "연장전",
+    example: "延長戦にもつれました。", exampleReading: "えんちょうせんにもつれました。", exampleKorean: "엔쵸-센니 모츠레마시타", exampleMeaning: "연장전까지 이어졌습니다.",
+    breakdown: [
+      { word: "もつれました", reading: "もつれました", meaning: "꼬였습니다, 이어졌습니다" }
+    ] },
+  { level: "N5", kanji: "引き分け", reading: "ひきわけ", korean: "히키와케", meaning: "무승부",
+    example: "試合は引き分けでした。", exampleReading: "しあいはひきわけでした。", exampleKorean: "시아이와 히키와케데시타", exampleMeaning: "경기는 무승부였습니다.",
+    breakdown: [
+      { word: "試合", reading: "しあい", meaning: "경기" }
+    ] },
+  { level: "N5", kanji: "逆転勝ち", reading: "ぎゃくてんがち", korean: "갹텐가치", meaning: "역전승",
+    example: "逆転勝ちを収めました。", exampleReading: "ぎゃくてんがちをおさめました。", exampleKorean: "갹텐가치오 오사메마시타", exampleMeaning: "역전승을 거두었습니다.",
+    breakdown: [
+      { word: "収めました", reading: "おさめました", meaning: "거두었습니다" }
+    ] },
+  { level: "N5", kanji: "完封勝利", reading: "かんぷうしょうり", korean: "캄푸-쇼-리", meaning: "완봉승",
+    example: "完封勝利を飾りました。", exampleReading: "かんぷうしょうりをかざりました。", exampleKorean: "캄푸-쇼-리오 카자리마시타", exampleMeaning: "완봉승을 거두었습니다.",
+    breakdown: [
+      { word: "飾りました", reading: "かざりました", meaning: "거두었습니다" }
+    ] },
+  { level: "N5", kanji: "ホームラン", reading: "ホームラン", korean: "호-무란", meaning: "홈런",
+    example: "ホームランを打ちました。", exampleReading: "ホームランをうちました。", exampleKorean: "호-무란오 우치마시타", exampleMeaning: "홈런을 쳤습니다.",
+    breakdown: [
+      { word: "打ちました", reading: "うちました", meaning: "쳤습니다" }
+    ] },
+  { level: "N5", kanji: "ヒット", reading: "ヒット", korean: "힛토", meaning: "안타",
+    example: "タイムリーヒットを打ちました。", exampleReading: "タイムリーヒットをうちました。", exampleKorean: "타이무리-힛토오 우치마시타", exampleMeaning: "적시타를 쳤습니다.",
+    breakdown: [
+      { word: "打ちました", reading: "うちました", meaning: "쳤습니다" }
+    ] },
+  { level: "N5", kanji: "三振", reading: "さんしん", korean: "산신", meaning: "삼진",
+    example: "三振を取りました。", exampleReading: "さんしんをとりました。", exampleKorean: "산신오 토리마시타", exampleMeaning: "삼진을 잡았습니다.",
+    breakdown: [
+      { word: "取りました", reading: "とりました", meaning: "잡았습니다" }
+    ] },
+  { level: "N5", kanji: "フォアボール", reading: "フォアボール", korean: "훠아보-루", meaning: "포볼(볼넷)",
+    example: "フォアボールで出塁しました。", exampleReading: "フォアボールでしゅつるいしました。", exampleKorean: "훠아보-루데 슈츠루이 시마시타", exampleMeaning: "볼넷으로 출루했습니다.",
+    breakdown: [
+      { word: "出塁", reading: "しゅつるい", meaning: "출루" }
+    ] },
+  { level: "N5", kanji: "盗塁", reading: "とうるい", korean: "토-루이", meaning: "도루",
+    example: "盗塁に成功しました。", exampleReading: "とうるいにせいこうしました。", exampleKorean: "토-루이니 세-코- 시마시타", exampleMeaning: "도루에 성공했습니다.",
+    breakdown: [
+      { word: "成功", reading: "せいこう", meaning: "성공" }
+    ] },
+  { level: "N5", kanji: "守備", reading: "しゅび", korean: "슈비", meaning: "수비",
+    example: "守備につきました。", exampleReading: "しゅびにつきました。", exampleKorean: "슈비니 츠키마시타", exampleMeaning: "수비 위치에 섰습니다.",
+    breakdown: [
+      { word: "つきました", reading: "つきました", meaning: "섰습니다" }
+    ] },
+  { level: "N5", kanji: "攻撃", reading: "こうげき", korean: "코-게키", meaning: "공격",
+    example: "攻撃のチャンスです。", exampleReading: "こうげきのチャンスです。", exampleKorean: "코-게키노 챤스데스", exampleMeaning: "공격의 기회입니다.",
+    breakdown: [
+      { word: "チャンス", reading: "チャンス", meaning: "기회" }
+    ] },
+  { level: "N5", kanji: "監督采配", reading: "かんとくさいはい", korean: "칸토쿠사이하이", meaning: "감독의 지휘",
+    example: "監督采配が的中しました。", exampleReading: "かんとくさいはいがてきちゅうしました。", exampleKorean: "칸토쿠사이하이가 테키츄- 시마시타", exampleMeaning: "감독의 지휘가 적중했습니다.",
+    breakdown: [
+      { word: "的中", reading: "てきちゅう", meaning: "적중" }
+    ] },
+  { level: "N5", kanji: "選手交代", reading: "せんしゅこうたい", korean: "센슈코-타이", meaning: "선수교체",
+    example: "選手交代がありました。", exampleReading: "せんしゅこうたいがありました。", exampleKorean: "센슈코-타이가 아리마시타", exampleMeaning: "선수교체가 있었습니다.",
+    breakdown: [
+      { word: "ありました", reading: "ありました", meaning: "있었습니다" }
+    ] },
+  { level: "N5", kanji: "審判", reading: "しんぱん", korean: "신판", meaning: "심판",
+    example: "審判の判定に抗議しました。", exampleReading: "しんぱんのはんていにこうぎしました。", exampleKorean: "신판노 한테-니 코-기 시마시타", exampleMeaning: "심판의 판정에 항의했습니다.",
+    breakdown: [
+      { word: "判定", reading: "はんてい", meaning: "판정" }
+    ] },
+  { level: "N5", kanji: "ゴールキーパー", reading: "ゴールキーパー", korean: "고-루키-파-", meaning: "골키퍼",
+    example: "ゴールキーパーがボールを止めました。", exampleReading: "ゴールキーパーがボールをとめました。", exampleKorean: "고-루키-파-가 보-루오 토메마시타", exampleMeaning: "골키퍼가 공을 막았습니다.",
+    breakdown: [
+      { word: "ボール", reading: "ボール", meaning: "공" }
+    ] },
+  { level: "N5", kanji: "フォワード", reading: "フォワード", korean: "훠와-도", meaning: "포워드",
+    example: "フォワードがゴールを決めました。", exampleReading: "フォワードがゴールをきめました。", exampleKorean: "훠와-도가 고-루오 키메마시타", exampleMeaning: "포워드가 골을 넣었습니다.",
+    breakdown: [
+      { word: "ゴール", reading: "ゴール", meaning: "골" }
+    ] },
+  { level: "N5", kanji: "ディフェンダー", reading: "ディフェンダー", korean: "디휀다-", meaning: "디펜더",
+    example: "ディフェンダーがボールを奪いました。", exampleReading: "ディフェンダーがボールをうばいました。", exampleKorean: "디휀다-가 보-루오 우바이마시타", exampleMeaning: "디펜더가 공을 빼앗았습니다.",
+    breakdown: [
+      { word: "ボール", reading: "ボール", meaning: "공" }
+    ] },
+  { level: "N5", kanji: "ミッドフィルダー", reading: "ミッドフィルダー", korean: "밋도휘루다-", meaning: "미드필더",
+    example: "ミッドフィルダーがパスを出しました。", exampleReading: "ミッドフィルダーがパスをだしました。", exampleKorean: "밋도휘루다-가 파스오 다시마시타", exampleMeaning: "미드필더가 패스를 했습니다.",
+    breakdown: [
+      { word: "パス", reading: "パス", meaning: "패스" }
+    ] },
+  { level: "N5", kanji: "コーナーキック", reading: "コーナーキック", korean: "코-나-킥쿠", meaning: "코너킥",
+    example: "コーナーキックからゴールが決まりました。", exampleReading: "コーナーキックからゴールがきまりました。", exampleKorean: "코-나-킥쿠카라 고-루가 키마리마시타", exampleMeaning: "코너킥에서 골이 들어갔습니다.",
+    breakdown: [
+      { word: "ゴール", reading: "ゴール", meaning: "골" }
+    ] },
+  { level: "N5", kanji: "ペナルティーキック", reading: "ペナルティーキック", korean: "페나루티-킥쿠", meaning: "페널티킥",
+    example: "ペナルティーキックを決めました。", exampleReading: "ペナルティーキックをきめました。", exampleKorean: "페나루티-킥쿠오 키메마시타", exampleMeaning: "페널티킥을 성공시켰습니다.",
+    breakdown: [
+      { word: "決めました", reading: "きめました", meaning: "성공시켰습니다" }
+    ] },
+  { level: "N5", kanji: "オフサイド", reading: "オフサイド", korean: "오후사이도", meaning: "오프사이드",
+    example: "オフサイドの判定でした。", exampleReading: "オフサイドのはんていでした。", exampleKorean: "오후사이도노 한테-데시타", exampleMeaning: "오프사이드 판정이었습니다.",
+    breakdown: [
+      { word: "判定", reading: "はんてい", meaning: "판정" }
+    ] },
+  { level: "N5", kanji: "イエローカード", reading: "イエローカード", korean: "이에로-카-도", meaning: "옐로카드",
+    example: "イエローカードを受けました。", exampleReading: "イエローカードをうけました。", exampleKorean: "이에로-카-도오 우케마시타", exampleMeaning: "옐로카드를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N5", kanji: "レッドカード", reading: "レッドカード", korean: "렛도카-도", meaning: "레드카드",
+    example: "レッドカードで退場しました。", exampleReading: "レッドカードでたいじょうしました。", exampleKorean: "렛도카-도데 타이죠- 시마시타", exampleMeaning: "레드카드로 퇴장당했습니다.",
+    breakdown: [
+      { word: "退場", reading: "たいじょう", meaning: "퇴장" }
+    ] },
+  { level: "N5", kanji: "ハーフタイム", reading: "ハーフタイム", korean: "하-후타이무", meaning: "하프타임",
+    example: "ハーフタイムに休憩しました。", exampleReading: "ハーフタイムにきゅうけいしました。", exampleKorean: "하-후타이무니 큐-케- 시마시타", exampleMeaning: "하프타임에 휴식했습니다.",
+    breakdown: [
+      { word: "休憩", reading: "きゅうけい", meaning: "휴식" }
+    ] },
+  { level: "N5", kanji: "ロスタイム", reading: "ロスタイム", korean: "로스타이무", meaning: "로스타임(추가시간)",
+    example: "ロスタイムにゴールが決まりました。", exampleReading: "ロスタイムにゴールがきまりました。", exampleKorean: "로스타이무니 고-루가 키마리마시타", exampleMeaning: "로스타임에 골이 들어갔습니다.",
+    breakdown: [
+      { word: "ゴール", reading: "ゴール", meaning: "골" }
+    ] },
+  { level: "N5", kanji: "キックオフ", reading: "キックオフ", korean: "킥쿠오후", meaning: "킥오프",
+    example: "試合はキックオフしました。", exampleReading: "しあいはキックオフしました。", exampleKorean: "시아이와 킥쿠오후 시마시타", exampleMeaning: "경기가 킥오프되었습니다.",
+    breakdown: [
+      { word: "試合", reading: "しあい", meaning: "경기" }
+    ] },
+  { level: "N5", kanji: "シュート", reading: "シュート", korean: "슈-토", meaning: "슈팅",
+    example: "シュートを決めました。", exampleReading: "シュートをきめました。", exampleKorean: "슈-토오 키메마시타", exampleMeaning: "슈팅을 성공시켰습니다.",
+    breakdown: [
+      { word: "決めました", reading: "きめました", meaning: "성공시켰습니다" }
+    ] },
+  { level: "N5", kanji: "パス回し", reading: "パスまわし", korean: "파스마와시", meaning: "패스 돌리기",
+    example: "パス回しで時間を稼ぎました。", exampleReading: "パスまわしでじかんをかせぎました。", exampleKorean: "파스마와시데 지캉오 카세기마시타", exampleMeaning: "패스 돌리기로 시간을 벌었습니다.",
+    breakdown: [
+      { word: "時間", reading: "じかん", meaning: "시간" }
+    ] },
+  { level: "N5", kanji: "ドリブル", reading: "ドリブル", korean: "도리부루", meaning: "드리블",
+    example: "ドリブルで抜き去りました。", exampleReading: "ドリブルでぬきさりました。", exampleKorean: "도리부루데 누키사리마시타", exampleMeaning: "드리블로 제쳤습니다.",
+    breakdown: [
+      { word: "抜き去りました", reading: "ぬきさりました", meaning: "제쳤습니다" }
+    ] },
+  { level: "N5", kanji: "タックル", reading: "タックル", korean: "탁쿠루", meaning: "태클",
+    example: "タックルを受けました。", exampleReading: "タックルをうけました。", exampleKorean: "탁쿠루오 우케마시타", exampleMeaning: "태클을 당했습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "당했습니다" }
+    ] },
+  { level: "N5", kanji: "フリーキック", reading: "フリーキック", korean: "후리-킥쿠", meaning: "프리킥",
+    example: "フリーキックを蹴りました。", exampleReading: "フリーキックをけりました。", exampleKorean: "후리-킥쿠오 케리마시타", exampleMeaning: "프리킥을 찼습니다.",
+    breakdown: [
+      { word: "蹴りました", reading: "けりました", meaning: "찼습니다" }
+    ] },
+  { level: "N5", kanji: "ヘディング", reading: "ヘディング", korean: "헤딩구", meaning: "헤딩",
+    example: "ヘディングでゴールを決めました。", exampleReading: "ヘディングでゴールをきめました。", exampleKorean: "헤딩구데 고-루오 키메마시타", exampleMeaning: "헤딩으로 골을 넣었습니다.",
+    breakdown: [
+      { word: "ゴール", reading: "ゴール", meaning: "골" }
+    ] },
+  { level: "N5", kanji: "決勝戦", reading: "けっしょうせん", korean: "켁쇼-센", meaning: "결승전",
+    example: "決勝戦に進出しました。", exampleReading: "けっしょうせんにしんしゅつしました。", exampleKorean: "켁쇼-센니 신슈츠 시마시타", exampleMeaning: "결승전에 진출했습니다.",
+    breakdown: [
+      { word: "進出", reading: "しんしゅつ", meaning: "진출" }
+    ] },
+  { level: "N5", kanji: "準決勝", reading: "じゅんけっしょう", korean: "쥰켁쇼-", meaning: "준결승",
+    example: "準決勝で敗れました。", exampleReading: "じゅんけっしょうでやぶれました。", exampleKorean: "쥰켁쇼-데 야부레마시타", exampleMeaning: "준결승에서 패했습니다.",
+    breakdown: [
+      { word: "敗れました", reading: "やぶれました", meaning: "패했습니다" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
