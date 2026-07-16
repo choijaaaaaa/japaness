@@ -14328,6 +14328,206 @@ const VOCAB = [
     breakdown: [
       { word: "時代", reading: "じだい", meaning: "시대" }
     ] },
+  { level: "N3", kanji: "能動的", reading: "のうどうてき", korean: "노-도-테키", meaning: "능동적",
+    example: "能動的に行動しましょう。", exampleReading: "のうどうてきにこうどうしましょう。", exampleKorean: "노-도-테키니 코-도- 시마쇼-", exampleMeaning: "능동적으로 행동합시다.",
+    breakdown: [
+      { word: "行動", reading: "こうどう", meaning: "행동" }
+    ] },
+  { level: "N3", kanji: "受動的", reading: "じゅどうてき", korean: "쥬도-테키", meaning: "수동적",
+    example: "受動的な姿勢はよくありません。", exampleReading: "じゅどうてきなしせいはよくありません。", exampleKorean: "쥬도-테키나 시세-와 요쿠 아리마셍", exampleMeaning: "수동적인 자세는 좋지 않습니다.",
+    breakdown: [
+      { word: "姿勢", reading: "しせい", meaning: "자세" }
+    ] },
+  { level: "N3", kanji: "主体的", reading: "しゅたいてき", korean: "슈타이테키", meaning: "주체적",
+    example: "主体的に考えて行動します。", exampleReading: "しゅたいてきにかんがえてこうどうします。", exampleKorean: "슈타이테키니 캉가에테 코-도- 시마스", exampleMeaning: "주체적으로 생각하고 행동합니다.",
+    breakdown: [
+      { word: "行動", reading: "こうどう", meaning: "행동" }
+    ] },
+  { level: "N3", kanji: "他律的", reading: "たりつてき", korean: "타리츠테키", meaning: "타율적",
+    example: "他律的な組織は成長しません。", exampleReading: "たりつてきなそしきはせいちょうしません。", exampleKorean: "타리츠테키나 소시키와 세-쵸- 시마셍", exampleMeaning: "타율적인 조직은 성장하지 않습니다.",
+    breakdown: [
+      { word: "組織", reading: "そしき", meaning: "조직" }
+    ] },
+  { level: "N3", kanji: "自律的", reading: "じりつてき", korean: "지리츠테키", meaning: "자율적",
+    example: "自律的に判断してください。", exampleReading: "じりつてきにはんだんしてください。", exampleKorean: "지리츠테키니 한단 시테 쿠다사이", exampleMeaning: "자율적으로 판단해 주세요.",
+    breakdown: [
+      { word: "判断", reading: "はんだん", meaning: "판단" }
+    ] },
+  { level: "N3", kanji: "内発的", reading: "ないはつてき", korean: "나이하츠테키", meaning: "내발적(내부에서 우러나는)",
+    example: "内発的な動機が重要です。", exampleReading: "ないはつてきなどうきがじゅうようです。", exampleKorean: "나이하츠테키나 도-키가 쥬-요-데스", exampleMeaning: "내발적 동기가 중요합니다.",
+    breakdown: [
+      { word: "動機", reading: "どうき", meaning: "동기" }
+    ] },
+  { level: "N3", kanji: "外発的", reading: "がいはつてき", korean: "가이하츠테키", meaning: "외발적(외부에서 오는)",
+    example: "外発的な報酬に頼りすぎています。", exampleReading: "がいはつてきなほうしゅうにたよりすぎています。", exampleKorean: "가이하츠테키나 호-슈-니 타요리스기테 이마스", exampleMeaning: "외발적 보상에 지나치게 의존하고 있습니다.",
+    breakdown: [
+      { word: "報酬", reading: "ほうしゅう", meaning: "보상" }
+    ] },
+  { level: "N3", kanji: "自発的", reading: "じはつてき", korean: "지하츠테키", meaning: "자발적",
+    example: "自発的に参加しました。", exampleReading: "じはつてきにさんかしました。", exampleKorean: "지하츠테키니 상카 시마시타", exampleMeaning: "자발적으로 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N3", kanji: "惰性的", reading: "だせいてき", korean: "다세-테키", meaning: "타성적",
+    example: "惰性的に続けていました。", exampleReading: "だせいてきにつづけていました。", exampleKorean: "다세-테키니 츠즈케테 이마시타", exampleMeaning: "타성적으로 계속하고 있었습니다.",
+    breakdown: [
+      { word: "続けて", reading: "つづけて", meaning: "계속해서" }
+    ] },
+  { level: "N3", kanji: "固定観念", reading: "こていかんねん", korean: "코테-칸넨", meaning: "고정관념",
+    example: "固定観念を捨てましょう。", exampleReading: "こていかんねんをすてましょう。", exampleKorean: "코테-칸넨오 스테마쇼-", exampleMeaning: "고정관념을 버립시다.",
+    breakdown: [
+      { word: "捨てましょう", reading: "すてましょう", meaning: "버립시다" }
+    ] },
+  { level: "N3", kanji: "先入観", reading: "せんにゅうかん", korean: "센뉴-칸", meaning: "선입견",
+    example: "先入観を持たないようにします。", exampleReading: "せんにゅうかんをもたないようにします。", exampleKorean: "센뉴-칸오 모타나이요-니 시마스", exampleMeaning: "선입견을 갖지 않도록 합니다.",
+    breakdown: [
+      { word: "持たない", reading: "もたない", meaning: "갖지 않다" }
+    ] },
+  { level: "N3", kanji: "偏見を持つ", reading: "へんけんをもつ", korean: "헨켄오모츠", meaning: "편견을 갖다",
+    example: "偏見を持たないでください。", exampleReading: "へんけんをもたないでください。", exampleKorean: "헨켕오 모타나이데 쿠다사이", exampleMeaning: "편견을 갖지 말아 주세요.",
+    breakdown: [
+      { word: "持たないで", reading: "もたないで", meaning: "갖지 말고" }
+    ] },
+  { level: "N3", kanji: "固定概念", reading: "こていがいねん", korean: "코테-가이넨", meaning: "고정개념",
+    example: "固定概念にとらわれています。", exampleReading: "こていがいねんにとらわれています。", exampleKorean: "코테-가이넨니 토라와레테 이마스", exampleMeaning: "고정개념에 얽매여 있습니다.",
+    breakdown: [
+      { word: "とらわれて", reading: "とらわれて", meaning: "얽매여서" }
+    ] },
+  { level: "N3", kanji: "ステレオタイプ", reading: "ステレオタイプ", korean: "스테레오타이푸", meaning: "스테레오타입",
+    example: "ステレオタイプな見方です。", exampleReading: "ステレオタイプなみかたです。", exampleKorean: "스테레오타이푸나 미카타데스", exampleMeaning: "스테레오타입적인 시각입니다.",
+    breakdown: [
+      { word: "見方", reading: "みかた", meaning: "시각" }
+    ] },
+  { level: "N3", kanji: "レッテルを貼る", reading: "レッテルをはる", korean: "렛테루오하루", meaning: "딱지를 붙이다",
+    example: "簡単にレッテルを貼らないでください。", exampleReading: "かんたんにレッテルをはらないでください。", exampleKorean: "칸탄니 렛테루오 하라나이데 쿠다사이", exampleMeaning: "쉽게 딱지를 붙이지 마세요.",
+    breakdown: [
+      { word: "簡単に", reading: "かんたんに", meaning: "쉽게" }
+    ] },
+  { level: "N3", kanji: "思い込み", reading: "おもいこみ", korean: "오모이코미", meaning: "선입견, 지레짐작",
+    example: "思い込みで判断しました。", exampleReading: "おもいこみではんだんしました。", exampleKorean: "오모이코미데 한단 시마시타", exampleMeaning: "지레짐작으로 판단했습니다.",
+    breakdown: [
+      { word: "判断", reading: "はんだん", meaning: "판단" }
+    ] },
+  { level: "N3", kanji: "決めつけ", reading: "きめつけ", korean: "키메츠케", meaning: "단정, 지레짐작",
+    example: "決めつけは良くありません。", exampleReading: "きめつけはよくありません。", exampleKorean: "키메츠케와 요쿠 아리마셍", exampleMeaning: "지레짐작은 좋지 않습니다.",
+    breakdown: [
+      { word: "良くありません", reading: "よくありません", meaning: "좋지 않습니다" }
+    ] },
+  { level: "N3", kanji: "杓子定規", reading: "しゃくしじょうぎ", korean: "샤쿠시죠-기", meaning: "융통성 없음(형식적)",
+    example: "杓子定規な対応でした。", exampleReading: "しゃくしじょうぎなたいおうでした。", exampleKorean: "샤쿠시죠-기나 타이오-데시타", exampleMeaning: "융통성 없는 대응이었습니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N3", kanji: "融通が利く", reading: "ゆうずうがきく", korean: "유-즈-가키쿠", meaning: "융통성이 있다",
+    example: "彼は融通が利く人です。", exampleReading: "かれはゆうずうがきくひとです。", exampleKorean: "카레와 유-즈-가 키쿠 히토데스", exampleMeaning: "그는 융통성이 있는 사람입니다.",
+    breakdown: [
+      { word: "人", reading: "ひと", meaning: "사람" }
+    ] },
+  { level: "N3", kanji: "融通が利かない", reading: "ゆうずうがきかない", korean: "유-즈-가키카나이", meaning: "융통성이 없다",
+    example: "融通が利かない制度です。", exampleReading: "ゆうずうがきかないせいどです。", exampleKorean: "유-즈-가 키카나이 세-도데스", exampleMeaning: "융통성이 없는 제도입니다.",
+    breakdown: [
+      { word: "制度", reading: "せいど", meaning: "제도" }
+    ] },
+  { level: "N3", kanji: "多角的", reading: "たかくてき", korean: "타카쿠테키", meaning: "다각적",
+    example: "多角的に検討しました。", exampleReading: "たかくてきにけんとうしました。", exampleKorean: "타카쿠테키니 켄토- 시마시타", exampleMeaning: "다각적으로 검토했습니다.",
+    breakdown: [
+      { word: "検討", reading: "けんとう", meaning: "검토" }
+    ] },
+  { level: "N3", kanji: "俯瞰", reading: "ふかん", korean: "후칸", meaning: "부감(전체를 내려다봄)",
+    example: "状況を俯瞰して考えます。", exampleReading: "じょうきょうをふかんしてかんがえます。", exampleKorean: "죠-쿄-오 후칸시테 캉가에마스", exampleMeaning: "상황을 부감하여 생각합니다.",
+    breakdown: [
+      { word: "状況", reading: "じょうきょう", meaning: "상황" }
+    ] },
+  { level: "N3", kanji: "俯瞰的", reading: "ふかんてき", korean: "후칸테키", meaning: "부감적(전체를 내려다보는)",
+    example: "俯瞰的な視点が必要です。", exampleReading: "ふかんてきなしてんがひつようです。", exampleKorean: "후칸테키나 시텐가 히츠요-데스", exampleMeaning: "부감적인 시점이 필요합니다.",
+    breakdown: [
+      { word: "視点", reading: "してん", meaning: "시점" }
+    ] },
+  { level: "N3", kanji: "鳥瞰図", reading: "ちょうかんず", korean: "쵸-칸즈", meaning: "조감도",
+    example: "街の鳥瞰図を描きました。", exampleReading: "まちのちょうかんずをえがきました。", exampleKorean: "마치노 쵸-칸즈오 에가키마시타", exampleMeaning: "거리의 조감도를 그렸습니다.",
+    breakdown: [
+      { word: "街", reading: "まち", meaning: "거리" }
+    ] },
+  { level: "N3", kanji: "大局観", reading: "たいきょくかん", korean: "타이쿄쿠칸", meaning: "대국관(전체를 보는 안목)",
+    example: "大局観を持って判断します。", exampleReading: "たいきょくかんをもってはんだんします。", exampleKorean: "타이쿄쿠칸오 못테 한단 시마스", exampleMeaning: "대국관을 가지고 판단합니다.",
+    breakdown: [
+      { word: "判断", reading: "はんだん", meaning: "판단" }
+    ] },
+  { level: "N3", kanji: "木を見て森を見ず", reading: "きをみてもりをみず", korean: "키오미테모리오미즈", meaning: "나무만 보고 숲을 보지 못하다",
+    example: "木を見て森を見ずの状態です。", exampleReading: "きをみてもりをみずのじょうたいです。", exampleKorean: "키오미테모리오미즈노 죠-타이데스", exampleMeaning: "나무만 보고 숲을 못 보는 상태입니다.",
+    breakdown: [
+      { word: "状態", reading: "じょうたい", meaning: "상태" }
+    ] },
+  { level: "N3", kanji: "視野が狭い", reading: "しやがせまい", korean: "시야가세마이", meaning: "시야가 좁다",
+    example: "視野が狭い考え方です。", exampleReading: "しやがせまいかんがえかたです。", exampleKorean: "시야가 세마이 캉가에카타데스", exampleMeaning: "시야가 좁은 사고방식입니다.",
+    breakdown: [
+      { word: "考え方", reading: "かんがえかた", meaning: "사고방식" }
+    ] },
+  { level: "N3", kanji: "視野を広げる", reading: "しやをひろげる", korean: "시야오히로게루", meaning: "시야를 넓히다",
+    example: "旅行で視野を広げました。", exampleReading: "りょこうでしやをひろげました。", exampleKorean: "료코-데 시야오 히로게마시타", exampleMeaning: "여행으로 시야를 넓혔습니다.",
+    breakdown: [
+      { word: "旅行", reading: "りょこう", meaning: "여행" }
+    ] },
+  { level: "N3", kanji: "井の中の蛙", reading: "いのなかのかわず", korean: "이노나카노카와즈", meaning: "우물 안 개구리",
+    example: "井の中の蛙にならないようにします。", exampleReading: "いのなかのかわずにならないようにします。", exampleKorean: "이노나카노카와즈니 나라나이요-니 시마스", exampleMeaning: "우물 안 개구리가 되지 않도록 하겠습니다.",
+    breakdown: [
+      { word: "なりません", reading: "なりません", meaning: "되지 않습니다" }
+    ] },
+  { level: "N3", kanji: "世間知らず", reading: "せけんしらず", korean: "세켄시라즈", meaning: "세상 물정을 모름",
+    example: "彼は世間知らずです。", exampleReading: "かれはせけんしらずです。", exampleKorean: "카레와 세켄시라즈데스", exampleMeaning: "그는 세상 물정을 모릅니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N3", kanji: "世間ずれ", reading: "せけんずれ", korean: "세켄즈레", meaning: "세파에 시달려 약아짐",
+    example: "世間ずれした感じの人です。", exampleReading: "せけんずれしたかんじのひとです。", exampleKorean: "세켄즈레시타 칸지노 히토데스", exampleMeaning: "세파에 시달려 약아진 느낌의 사람입니다.",
+    breakdown: [
+      { word: "人", reading: "ひと", meaning: "사람" }
+    ] },
+  { level: "N3", kanji: "経験則", reading: "けいけんそく", korean: "케-켄소쿠", meaning: "경험칙",
+    example: "経験則で判断しました。", exampleReading: "けいけんそくではんだんしました。", exampleKorean: "케-켄소쿠데 한단 시마시타", exampleMeaning: "경험칙으로 판단했습니다.",
+    breakdown: [
+      { word: "判断", reading: "はんだん", meaning: "판단" }
+    ] },
+  { level: "N3", kanji: "直感的", reading: "ちょっかんてき", korean: "쵹칸테키", meaning: "직감적",
+    example: "直感的に選びました。", exampleReading: "ちょっかんてきにえらびました。", exampleKorean: "쵹칸테키니 에라비마시타", exampleMeaning: "직감적으로 선택했습니다.",
+    breakdown: [
+      { word: "選びました", reading: "えらびました", meaning: "선택했습니다" }
+    ] },
+  { level: "N3", kanji: "感覚的", reading: "かんかくてき", korean: "캉카쿠테키", meaning: "감각적",
+    example: "感覚的に理解しました。", exampleReading: "かんかくてきにりかいしました。", exampleKorean: "캉카쿠테키니 리카이 시마시타", exampleMeaning: "감각적으로 이해했습니다.",
+    breakdown: [
+      { word: "理解", reading: "りかい", meaning: "이해" }
+    ] },
+  { level: "N3", kanji: "論理的思考", reading: "ろんりてきしこう", korean: "론리테키시코-", meaning: "논리적 사고",
+    example: "論理的思考を鍛えています。", exampleReading: "ろんりてきしこうをきたえています。", exampleKorean: "론리테키시코-오 키타에테 이마스", exampleMeaning: "논리적 사고를 단련하고 있습니다.",
+    breakdown: [
+      { word: "鍛えて", reading: "きたえて", meaning: "단련해서" }
+    ] },
+  { level: "N3", kanji: "批判的思考", reading: "ひはんてきしこう", korean: "히한테키시코-", meaning: "비판적 사고",
+    example: "批判的思考が求められます。", exampleReading: "ひはんてきしこうがもとめられます。", exampleKorean: "히한테키시코-가 모토메라레마스", exampleMeaning: "비판적 사고가 요구됩니다.",
+    breakdown: [
+      { word: "求められます", reading: "もとめられます", meaning: "요구됩니다" }
+    ] },
+  { level: "N3", kanji: "建設的", reading: "けんせつてき", korean: "켄세츠테키", meaning: "건설적",
+    example: "建設的な意見をお願いします。", exampleReading: "けんせつてきないけんをおねがいします。", exampleKorean: "켄세츠테키나 이켕오 오네가이 시마스", exampleMeaning: "건설적인 의견을 부탁드립니다.",
+    breakdown: [
+      { word: "意見", reading: "いけん", meaning: "의견" }
+    ] },
+  { level: "N3", kanji: "非建設的", reading: "ひけんせつてき", korean: "히켄세츠테키", meaning: "비건설적",
+    example: "非建設的な批判はやめましょう。", exampleReading: "ひけんせつてきなひはんはやめましょう。", exampleKorean: "히켄세츠테키나 히한와 야메마쇼-", exampleMeaning: "비건설적인 비판은 그만둡시다.",
+    breakdown: [
+      { word: "批判", reading: "ひはん", meaning: "비판" }
+    ] },
+  { level: "N3", kanji: "独断", reading: "どくだん", korean: "도쿠단", meaning: "독단",
+    example: "独断で決めてしまいました。", exampleReading: "どくだんできめてしまいました。", exampleKorean: "도쿠단데 키메테 시마이마시타", exampleMeaning: "독단으로 정해버렸습니다.",
+    breakdown: [
+      { word: "決めて", reading: "きめて", meaning: "정해서" }
+    ] },
+  { level: "N3", kanji: "独善", reading: "どくぜん", korean: "도쿠젠", meaning: "독선",
+    example: "独善的な考え方です。", exampleReading: "どくぜんてきなかんがえかたです。", exampleKorean: "도쿠젠테키나 캉가에카타데스", exampleMeaning: "독선적인 사고방식입니다.",
+    breakdown: [
+      { word: "考え方", reading: "かんがえかた", meaning: "사고방식" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
