@@ -20691,4 +20691,154 @@ const VOCAB = [
     breakdown: [
       { word: "性格", reading: "せいかく", meaning: "성격" }
     ] },
+  { level: "N1", kanji: "刮目", reading: "かつもく", korean: "카츠모쿠", meaning: "괄목(눈을 비비고 봄)",
+    example: "刮目に値する成長です。", exampleReading: "かつもくにあたいするせいちょうです。", exampleKorean: "카츠모쿠니 아타이스루 세-쵸-데스", exampleMeaning: "괄목할 만한 성장입니다.",
+    breakdown: [
+      { word: "成長", reading: "せいちょう", meaning: "성장" }
+    ] },
+  { level: "N1", kanji: "瞠目", reading: "どうもく", korean: "도-모쿠", meaning: "눈을 크게 뜨고 봄(경탄)",
+    example: "瞠目すべき結果でした。", exampleReading: "どうもくすべきけっかでした。", exampleKorean: "도-모쿠스베키 켁카데시타", exampleMeaning: "경탄할 만한 결과였습니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N1", kanji: "驚愕", reading: "きょうがく", korean: "쿄-가쿠", meaning: "경악",
+    example: "驚愕の事実が判明しました。", exampleReading: "きょうがくのじじつがはんめいしました。", exampleKorean: "쿄-가쿠노 지지츠가 함메- 시마시타", exampleMeaning: "경악할 사실이 판명되었습니다.",
+    breakdown: [
+      { word: "事実", reading: "じじつ", meaning: "사실" }
+    ] },
+  { level: "N1", kanji: "驚嘆", reading: "きょうたん", korean: "쿄-탄", meaning: "경탄",
+    example: "その技術に驚嘆しました。", exampleReading: "そのぎじゅつにきょうたんしました。", exampleKorean: "소노 기쥬츠니 쿄-탄 시마시타", exampleMeaning: "그 기술에 경탄했습니다.",
+    breakdown: [
+      { word: "技術", reading: "ぎじゅつ", meaning: "기술" }
+    ] },
+  { level: "N1", kanji: "感嘆", reading: "かんたん", korean: "칸탄", meaning: "감탄",
+    example: "感嘆の声を上げました。", exampleReading: "かんたんのこえをあげました。", exampleKorean: "칸탄노 코에오 아게마시타", exampleMeaning: "감탄의 소리를 냈습니다.",
+    breakdown: [
+      { word: "声", reading: "こえ", meaning: "소리" }
+    ] },
+  { level: "N1", kanji: "嘆息", reading: "たんそく", korean: "탄소쿠", meaning: "탄식",
+    example: "深く嘆息しました。", exampleReading: "ふかくたんそくしました。", exampleKorean: "후카쿠 탄소쿠 시마시타", exampleMeaning: "깊이 탄식했습니다.",
+    breakdown: [
+      { word: "深く", reading: "ふかく", meaning: "깊이" }
+    ] },
+  { level: "N1", kanji: "慨嘆", reading: "がいたん", korean: "가이탄", meaning: "개탄",
+    example: "現状を慨嘆しました。", exampleReading: "げんじょうをがいたんしました。", exampleKorean: "겐죠-오 가이탄 시마시타", exampleMeaning: "현상을 개탄했습니다.",
+    breakdown: [
+      { word: "現状", reading: "げんじょう", meaning: "현상" }
+    ] },
+  { level: "N1", kanji: "悲嘆", reading: "ひたん", korean: "히탄", meaning: "비탄",
+    example: "悲嘆に暮れました。", exampleReading: "ひたんにくれました。", exampleKorean: "히탄니 쿠레마시타", exampleMeaning: "비탄에 잠겼습니다.",
+    breakdown: [
+      { word: "暮れました", reading: "くれました", meaning: "잠겼습니다" }
+    ] },
+  { level: "N1", kanji: "嘆く", reading: "なげく", korean: "나게쿠", meaning: "한탄하다",
+    example: "運命を嘆きました。", exampleReading: "うんめいをなげきました。", exampleKorean: "운메-오 나게키마시타", exampleMeaning: "운명을 한탄했습니다.",
+    breakdown: [
+      { word: "運命", reading: "うんめい", meaning: "운명" }
+    ] },
+  { level: "N1", kanji: "愁う", reading: "うれう", korean: "우레우", meaning: "근심하다, 걱정하다",
+    example: "世を愁う心境でした。", exampleReading: "よをうれうしんきょうでした。", exampleKorean: "요오 우레우 신쿄-데시타", exampleMeaning: "세상을 근심하는 심경이었습니다.",
+    breakdown: [
+      { word: "心境", reading: "しんきょう", meaning: "심경" }
+    ] },
+  { level: "N1", kanji: "憂う", reading: "うれう", korean: "우레우", meaning: "우려하다",
+    example: "将来を憂う声があります。", exampleReading: "しょうらいをうれうこえがあります。", exampleKorean: "쇼-라이오 우레우 코에가 아리마스", exampleMeaning: "미래를 우려하는 목소리가 있습니다.",
+    breakdown: [
+      { word: "将来", reading: "しょうらい", meaning: "미래" }
+    ] },
+  { level: "N1", kanji: "憂き目", reading: "うきめ", korean: "우키메", meaning: "고초, 쓰라린 경험",
+    example: "失敗の憂き目に遭いました。", exampleReading: "しっぱいのうきめにあいました。", exampleKorean: "싯파이노 우키메니 아이마시타", exampleMeaning: "실패의 고초를 겪었습니다.",
+    breakdown: [
+      { word: "失敗", reading: "しっぱい", meaning: "실패" }
+    ] },
+  { level: "N1", kanji: "憂き目に遭う", reading: "うきめにあう", korean: "우키메니아우", meaning: "고초를 겪다",
+    example: "倒産の憂き目に遭いました。", exampleReading: "とうさんのうきめにあいました。", exampleKorean: "토-산노 우키메니 아이마시타", exampleMeaning: "도산의 고초를 겪었습니다.",
+    breakdown: [
+      { word: "倒産", reading: "とうさん", meaning: "도산" }
+    ] },
+  { level: "N1", kanji: "沈痛", reading: "ちんつう", korean: "친츠-", meaning: "침통함",
+    example: "沈痛な面持ちでした。", exampleReading: "ちんつうなおももちでした。", exampleKorean: "친츠-나 오모모치데시타", exampleMeaning: "침통한 표정이었습니다.",
+    breakdown: [
+      { word: "面持ち", reading: "おももち", meaning: "표정" }
+    ] },
+  { level: "N1", kanji: "悲痛極まる", reading: "ひつうきわまる", korean: "히츠-키와마루", meaning: "극도로 비통하다",
+    example: "悲痛極まる知らせでした。", exampleReading: "ひつうきわまるしらせでした。", exampleKorean: "히츠-키와마루 시라세데시타", exampleMeaning: "극도로 비통한 소식이었습니다.",
+    breakdown: [
+      { word: "知らせ", reading: "しらせ", meaning: "소식" }
+    ] },
+  { level: "N1", kanji: "断腸", reading: "だんちょう", korean: "단쵸-", meaning: "단장(창자가 끊어지는 아픔)",
+    example: "断腸の思いです。", exampleReading: "だんちょうのおもいです。", exampleKorean: "단쵸-노 오모이데스", exampleMeaning: "단장의 심정입니다.",
+    breakdown: [
+      { word: "思い", reading: "おもい", meaning: "심정" }
+    ] },
+  { level: "N1", kanji: "胸を痛める", reading: "むねをいためる", korean: "무네오이타메루", meaning: "마음 아파하다",
+    example: "子供の将来を胸を痛めています。", exampleReading: "こどものしょうらいをむねをいためています。", exampleKorean: "코도모노 쇼-라이오 무네오 이타메테 이마스", exampleMeaning: "아이의 미래를 마음 아파하고 있습니다.",
+    breakdown: [
+      { word: "将来", reading: "しょうらい", meaning: "미래" }
+    ] },
+  { level: "N1", kanji: "胸が締め付けられる", reading: "むねがしめつけられる", korean: "무네가시메츠케라레루", meaning: "가슴이 조여오다",
+    example: "悲しい話に胸が締め付けられました。", exampleReading: "かなしいはなしにむねがしめつけられました。", exampleKorean: "카나시- 하나시니 무네가 시메츠케라레마시타", exampleMeaning: "슬픈 이야기에 가슴이 조여왔습니다.",
+    breakdown: [
+      { word: "話", reading: "はなし", meaning: "이야기" }
+    ] },
+  { level: "N1", kanji: "胸が張り裂ける", reading: "むねがはりさける", korean: "무네가 하리사케루", meaning: "가슴이 찢어지다",
+    example: "胸が張り裂ける思いでした。", exampleReading: "むねがはりさけるおもいでした。", exampleKorean: "무네가 하리사케루 오모이데시타", exampleMeaning: "가슴이 찢어지는 심정이었습니다.",
+    breakdown: [
+      { word: "思い", reading: "おもい", meaning: "심정" }
+    ] },
+  { level: "N1", kanji: "胸を撫で下ろす", reading: "むねをなでおろす", korean: "무네오나데오로스", meaning: "가슴을 쓸어내리다",
+    example: "無事に着いて胸を撫で下ろしました。", exampleReading: "ぶじについてむねをなでおろしました。", exampleKorean: "부지니 츠이테 무네오 나데오로시마시타", exampleMeaning: "무사히 도착해서 가슴을 쓸어내렸습니다.",
+    breakdown: [
+      { word: "無事に", reading: "ぶじに", meaning: "무사히" }
+    ] },
+  { level: "N1", kanji: "感涙", reading: "かんるい", korean: "칸루이", meaning: "감격의 눈물",
+    example: "感涙にむせびました。", exampleReading: "かんるいにむせびました。", exampleKorean: "칸루이니 무세비마시타", exampleMeaning: "감격의 눈물에 흐느꼈습니다.",
+    breakdown: [
+      { word: "むせびました", reading: "むせびました", meaning: "흐느꼈습니다" }
+    ] },
+  { level: "N1", kanji: "落涙", reading: "らくるい", korean: "라쿠루이", meaning: "낙루(눈물을 흘림)",
+    example: "感動して落涙しました。", exampleReading: "かんどうしてらくるいしました。", exampleKorean: "칸도-시테 라쿠루이 시마시타", exampleMeaning: "감동해서 눈물을 흘렸습니다.",
+    breakdown: [
+      { word: "感動", reading: "かんどう", meaning: "감동" }
+    ] },
+  { level: "N1", kanji: "号泣", reading: "ごうきゅう", korean: "고-큐-", meaning: "대성통곡",
+    example: "映画を見て号泣しました。", exampleReading: "えいがをみてごうきゅうしました。", exampleKorean: "에-가오 미테 고-큐- 시마시타", exampleMeaning: "영화를 보고 대성통곡했습니다.",
+    breakdown: [
+      { word: "映画", reading: "えいが", meaning: "영화" }
+    ] },
+  { level: "N1", kanji: "むせび泣く", reading: "むせびなく", korean: "무세비나쿠", meaning: "흐느껴 울다",
+    example: "彼女はむせび泣きました。", exampleReading: "かのじょはむせびなきました。", exampleKorean: "카노죠와 무세비나키마시타", exampleMeaning: "그녀는 흐느껴 울었습니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N1", kanji: "すすり泣く", reading: "すすりなく", korean: "스스리나쿠", meaning: "훌쩍이며 울다",
+    example: "隅ですすり泣いていました。", exampleReading: "すみですすりないていました。", exampleKorean: "스미데 스스리나이테 이마시타", exampleMeaning: "구석에서 훌쩍이며 울고 있었습니다.",
+    breakdown: [
+      { word: "隅", reading: "すみ", meaning: "구석" }
+    ] },
+  { level: "N1", kanji: "泣き崩れる", reading: "なきくずれる", korean: "나키쿠즈레루", meaning: "울음을 터뜨리며 무너지다",
+    example: "彼女はその場で泣き崩れました。", exampleReading: "かのじょはそのばでなきくずれました。", exampleKorean: "카노죠와 소노 바데 나키쿠즈레마시타", exampleMeaning: "그녀는 그 자리에서 울음을 터뜨렸습니다.",
+    breakdown: [
+      { word: "その場", reading: "そのば", meaning: "그 자리" }
+    ] },
+  { level: "N1", kanji: "涙ぐむ", reading: "なみだぐむ", korean: "나미다구무", meaning: "눈물이 글썽이다",
+    example: "話を聞いて涙ぐみました。", exampleReading: "はなしをきいてなみだぐみました。", exampleKorean: "하나시오 키이테 나미다구미마시타", exampleMeaning: "이야기를 듣고 눈물이 글썽였습니다.",
+    breakdown: [
+      { word: "話", reading: "はなし", meaning: "이야기" }
+    ] },
+  { level: "N1", kanji: "涙腺が緩む", reading: "るいせんがゆるむ", korean: "루이센가유루무", meaning: "눈물샘이 느슨해지다(눈물이 많아지다)",
+    example: "年を取ると涙腺が緩みます。", exampleReading: "としをとるとるいせんがゆるみます。", exampleKorean: "토시오 토루토 루이센가 유루미마스", exampleMeaning: "나이를 먹으면 눈물이 많아집니다.",
+    breakdown: [
+      { word: "年を取ると", reading: "としをとると", meaning: "나이를 먹으면" }
+    ] },
+  { level: "N1", kanji: "感極まる", reading: "かんきわまる", korean: "캉키와마루", meaning: "감격에 겨워하다",
+    example: "感極まって泣いてしまいました。", exampleReading: "かんきわまってないてしまいました。", exampleKorean: "캉키와맛테 나이테 시마이마시타", exampleMeaning: "감격에 겨워 울어버렸습니다.",
+    breakdown: [
+      { word: "泣いて", reading: "ないて", meaning: "울어서" }
+    ] },
+  { level: "N1", kanji: "胸がいっぱいになる", reading: "むねがいっぱいになる", korean: "무네가 입파이니 나루", meaning: "가슴이 벅차다",
+    example: "感謝の気持ちで胸がいっぱいになりました。", exampleReading: "かんしゃのきもちでむねがいっぱいになりました。", exampleKorean: "칸샤노 키모치데 무네가 입파이니 나리마시타", exampleMeaning: "감사한 마음으로 가슴이 벅찼습니다.",
+    breakdown: [
+      { word: "感謝", reading: "かんしゃ", meaning: "감사" }
+    ] },
 ];
