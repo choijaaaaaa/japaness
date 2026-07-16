@@ -13733,6 +13733,201 @@ const VOCAB = [
     breakdown: [
       { word: "増えて", reading: "ふえて", meaning: "늘어서" }
     ] },
+  { level: "N3", kanji: "自浄作用", reading: "じじょうさよう", korean: "지죠-사요-", meaning: "자정작용",
+    example: "川には自浄作用があります。", exampleReading: "かわにはじじょうさようがあります。", exampleKorean: "카와니와 지죠-사요-가 아리마스", exampleMeaning: "강에는 자정작용이 있습니다.",
+    breakdown: [
+      { word: "川", reading: "かわ", meaning: "강" }
+    ] },
+  { level: "N3", kanji: "浄化作用", reading: "じょうかさよう", korean: "죠-카사요-", meaning: "정화작용",
+    example: "森林には浄化作用があります。", exampleReading: "しんりんにはじょうかさようがあります。", exampleKorean: "신린니와 죠-카사요-가 아리마스", exampleMeaning: "숲에는 정화작용이 있습니다.",
+    breakdown: [
+      { word: "森林", reading: "しんりん", meaning: "숲" }
+    ] },
+  { level: "N3", kanji: "抑制作用", reading: "よくせいさよう", korean: "요쿠세-사요-", meaning: "억제작용",
+    example: "この薬には抑制作用があります。", exampleReading: "このくすりにはよくせいさようがあります。", exampleKorean: "코노 쿠스리니와 요쿠세-사요-가 아리마스", exampleMeaning: "이 약에는 억제작용이 있습니다.",
+    breakdown: [
+      { word: "薬", reading: "くすり", meaning: "약" }
+    ] },
+  { level: "N3", kanji: "相乗効果", reading: "そうじょうこうか", korean: "소-죠-코-카", meaning: "상승효과",
+    example: "二つを組み合わせて相乗効果を狙います。", exampleReading: "ふたつをくみあわせてそうじょうこうかをねらいます。", exampleKorean: "후타츠오 쿠미아와세테 소-죠-코-카오 네라이마스", exampleMeaning: "두 가지를 조합해서 상승효과를 노립니다.",
+    breakdown: [
+      { word: "組み合わせて", reading: "くみあわせて", meaning: "조합해서" }
+    ] },
+  { level: "N3", kanji: "副次効果", reading: "ふくじこうか", korean: "후쿠지코-카", meaning: "부차적 효과",
+    example: "運動には副次効果もあります。", exampleReading: "うんどうにはふくじこうかもあります。", exampleKorean: "운도-니와 후쿠지코-카모 아리마스", exampleMeaning: "운동에는 부차적 효과도 있습니다.",
+    breakdown: [
+      { word: "運動", reading: "うんどう", meaning: "운동" }
+    ] },
+  { level: "N3", kanji: "波及効果", reading: "はきゅうこうか", korean: "하큐-코-카", meaning: "파급효과",
+    example: "地域経済への波及効果があります。", exampleReading: "ちいきけいざいへのはきゅうこうかがあります。", exampleKorean: "치이키케-자이에노 하큐-코-카가 아리마스", exampleMeaning: "지역경제에 대한 파급효과가 있습니다.",
+    breakdown: [
+      { word: "地域経済", reading: "ちいきけいざい", meaning: "지역경제" }
+    ] },
+  { level: "N3", kanji: "逓減", reading: "ていげん", korean: "테-겐", meaning: "체감(점점 줄어듦)",
+    example: "効果が逓減しています。", exampleReading: "こうかがていげんしています。", exampleKorean: "코-카가 테-겐 시테 이마스", exampleMeaning: "효과가 점점 줄어들고 있습니다.",
+    breakdown: [
+      { word: "効果", reading: "こうか", meaning: "효과" }
+    ] },
+  { level: "N3", kanji: "逓増", reading: "ていぞう", korean: "테-조-", meaning: "체증(점점 늘어남)",
+    example: "需要が逓増しています。", exampleReading: "じゅようがていぞうしています。", exampleKorean: "쥬요-가 테-조- 시테 이마스", exampleMeaning: "수요가 점점 늘어나고 있습니다.",
+    breakdown: [
+      { word: "需要", reading: "じゅよう", meaning: "수요" }
+    ] },
+  { level: "N3", kanji: "漸増", reading: "ぜんぞう", korean: "젠조-", meaning: "점증(점점 증가)",
+    example: "利用者が漸増しています。", exampleReading: "りようしゃがぜんぞうしています。", exampleKorean: "리요-샤가 젠조- 시테 이마스", exampleMeaning: "이용자가 점점 증가하고 있습니다.",
+    breakdown: [
+      { word: "利用者", reading: "りようしゃ", meaning: "이용자" }
+    ] },
+  { level: "N3", kanji: "漸減", reading: "ぜんげん", korean: "젠겐", meaning: "점감(점점 감소)",
+    example: "人口が漸減しています。", exampleReading: "じんこうがぜんげんしています。", exampleKorean: "진코-가 젠겐 시테 이마스", exampleMeaning: "인구가 점점 감소하고 있습니다.",
+    breakdown: [
+      { word: "人口", reading: "じんこう", meaning: "인구" }
+    ] },
+  { level: "N3", kanji: "急増", reading: "きゅうぞう", korean: "큐-조-", meaning: "급증",
+    example: "感染者が急増しています。", exampleReading: "かんせんしゃがきゅうぞうしています。", exampleKorean: "칸센샤가 큐-조- 시테 이마스", exampleMeaning: "감염자가 급증하고 있습니다.",
+    breakdown: [
+      { word: "感染者", reading: "かんせんしゃ", meaning: "감염자" }
+    ] },
+  { level: "N3", kanji: "急減", reading: "きゅうげん", korean: "큐-겐", meaning: "급감",
+    example: "売上が急減しました。", exampleReading: "うりあげがきゅうげんしました。", exampleKorean: "우리아게가 큐-겐 시마시타", exampleMeaning: "매출이 급감했습니다.",
+    breakdown: [
+      { word: "売上", reading: "うりあげ", meaning: "매출" }
+    ] },
+  { level: "N3", kanji: "横ばい", reading: "よこばい", korean: "요코바이", meaning: "보합세(변화 없음)",
+    example: "株価は横ばいです。", exampleReading: "かぶかはよこばいです。", exampleKorean: "카부카와 요코바이데스", exampleMeaning: "주가는 보합세입니다.",
+    breakdown: [
+      { word: "株価", reading: "かぶか", meaning: "주가" }
+    ] },
+  { level: "N3", kanji: "乱高下", reading: "らんこうげ", korean: "란코-게", meaning: "급등락",
+    example: "株価が乱高下しています。", exampleReading: "かぶかがらんこうげしています。", exampleKorean: "카부카가 란코-게 시테 이마스", exampleMeaning: "주가가 급등락하고 있습니다.",
+    breakdown: [
+      { word: "株価", reading: "かぶか", meaning: "주가" }
+    ] },
+  { level: "N3", kanji: "高止まり", reading: "たかどまり", korean: "타카도마리", meaning: "고공행진(높은 수준 유지)",
+    example: "物価が高止まりしています。", exampleReading: "ぶっかがたかどまりしています。", exampleKorean: "붓카가 타카도마리 시테 이마스", exampleMeaning: "물가가 고공행진하고 있습니다.",
+    breakdown: [
+      { word: "物価", reading: "ぶっか", meaning: "물가" }
+    ] },
+  { level: "N3", kanji: "底値", reading: "そこね", korean: "소코네", meaning: "저가, 바닥값",
+    example: "底値で買いました。", exampleReading: "そこねでかいました。", exampleKorean: "소코네데 카이마시타", exampleMeaning: "바닥값에 샀습니다.",
+    breakdown: [
+      { word: "買いました", reading: "かいました", meaning: "샀습니다" }
+    ] },
+  { level: "N3", kanji: "天井知らず", reading: "てんじょうしらず", korean: "텐죠-시라즈", meaning: "천정부지",
+    example: "価格が天井知らずです。", exampleReading: "かかくがてんじょうしらずです。", exampleKorean: "카카쿠가 텐죠-시라즈데스", exampleMeaning: "가격이 천정부지입니다.",
+    breakdown: [
+      { word: "価格", reading: "かかく", meaning: "가격" }
+    ] },
+  { level: "N3", kanji: "右肩上がり", reading: "みぎかたあがり", korean: "미기카타아가리", meaning: "우상향(꾸준히 상승)",
+    example: "業績が右肩上がりです。", exampleReading: "ぎょうせきがみぎかたあがりです。", exampleKorean: "교-세키가 미기카타아가리데스", exampleMeaning: "실적이 우상향입니다.",
+    breakdown: [
+      { word: "業績", reading: "ぎょうせき", meaning: "실적" }
+    ] },
+  { level: "N3", kanji: "右肩下がり", reading: "みぎかたさがり", korean: "미기카타사가리", meaning: "우하향(꾸준히 하락)",
+    example: "売上が右肩下がりです。", exampleReading: "うりあげがみぎかたさがりです。", exampleKorean: "우리아게가 미기카타사가리데스", exampleMeaning: "매출이 우하향입니다.",
+    breakdown: [
+      { word: "売上", reading: "うりあげ", meaning: "매출" }
+    ] },
+  { level: "N3", kanji: "V字回復", reading: "ブイじかいふく", korean: "부이지카이후쿠", meaning: "V자 회복",
+    example: "業績はV字回復しました。", exampleReading: "ぎょうせきはブイじかいふくしました。", exampleKorean: "교-세키와 부이지카이후쿠 시마시타", exampleMeaning: "실적은 V자 회복을 이루었습니다.",
+    breakdown: [
+      { word: "業績", reading: "ぎょうせき", meaning: "실적" }
+    ] },
+  { level: "N3", kanji: "一進一退", reading: "いっしんいったい", korean: "잇신잇타이", meaning: "일진일퇴(엎치락뒤치락)",
+    example: "病状は一進一退です。", exampleReading: "びょうじょうはいっしんいったいです。", exampleKorean: "뵤-죠-와 잇신잇타이데스", exampleMeaning: "병세는 일진일퇴입니다.",
+    breakdown: [
+      { word: "病状", reading: "びょうじょう", meaning: "병세" }
+    ] },
+  { level: "N3", kanji: "一気呵成", reading: "いっきかせい", korean: "익키카세-", meaning: "일사천리(단숨에)",
+    example: "一気呵成に書き上げました。", exampleReading: "いっきかせいにかきあげました。", exampleKorean: "익키카세-니 카키아게마시타", exampleMeaning: "단숨에 다 써냈습니다.",
+    breakdown: [
+      { word: "書き上げました", reading: "かきあげました", meaning: "다 써냈습니다" }
+    ] },
+  { level: "N3", kanji: "急転直下", reading: "きゅうてんちょっか", korean: "큐-텐쵹카", meaning: "급전직하(급변)",
+    example: "急転直下、解決に至りました。", exampleReading: "きゅうてんちょっか、かいけつにいたりました。", exampleKorean: "큐-텐쵹카, 카이케츠니 이타리마시타", exampleMeaning: "급변하여 해결에 이르렀습니다.",
+    breakdown: [
+      { word: "解決", reading: "かいけつ", meaning: "해결" }
+    ] },
+  { level: "N3", kanji: "紆余", reading: "うよ", korean: "우요", meaning: "우여(구불구불함)",
+    example: "紆余の道を歩みました。", exampleReading: "うよのみちをあゆみました。", exampleKorean: "우요노 미치오 아유미마시타", exampleMeaning: "우여곡절의 길을 걸었습니다.",
+    breakdown: [
+      { word: "道", reading: "みち", meaning: "길" }
+    ] },
+  { level: "N3", kanji: "変遷過程", reading: "へんせんかてい", korean: "헨센카테-", meaning: "변천과정",
+    example: "文化の変遷過程を調べました。", exampleReading: "ぶんかのへんせんかていをしらべました。", exampleKorean: "붕카노 헨센카테-오 시라베마시타", exampleMeaning: "문화의 변천과정을 조사했습니다.",
+    breakdown: [
+      { word: "文化", reading: "ぶんか", meaning: "문화" }
+    ] },
+  { level: "N3", kanji: "推移状況", reading: "すいいじょうきょう", korean: "스이이죠-쿄-", meaning: "추이 상황",
+    example: "感染者の推移状況を確認しました。", exampleReading: "かんせんしゃのすいいじょうきょうをかくにんしました。", exampleKorean: "칸센샤노 스이이죠-쿄-오 카쿠닌 시마시타", exampleMeaning: "감염자의 추이 상황을 확인했습니다.",
+    breakdown: [
+      { word: "感染者", reading: "かんせんしゃ", meaning: "감염자" }
+    ] },
+  { level: "N3", kanji: "趨勢", reading: "すうせい", korean: "스-세-", meaning: "추세",
+    example: "時代の趨勢を読みました。", exampleReading: "じだいのすうせいをよみました。", exampleKorean: "지다이노 스-세-오 요미마시타", exampleMeaning: "시대의 추세를 읽었습니다.",
+    breakdown: [
+      { word: "時代", reading: "じだい", meaning: "시대" }
+    ] },
+  { level: "N3", kanji: "大勢", reading: "たいせい", korean: "타이세-", meaning: "대세",
+    example: "大勢は決まりました。", exampleReading: "たいせいはきまりました。", exampleKorean: "타이세-와 키마리마시타", exampleMeaning: "대세는 정해졌습니다.",
+    breakdown: [
+      { word: "決まりました", reading: "きまりました", meaning: "정해졌습니다" }
+    ] },
+  { level: "N3", kanji: "大勢を占める", reading: "たいせいをしめる", korean: "타이세-오 시메루", meaning: "대세를 차지하다",
+    example: "反対意見が大勢を占めました。", exampleReading: "はんたいいけんがたいせいをしめました。", exampleKorean: "한타이 이켕가 타이세-오 시메마시타", exampleMeaning: "반대 의견이 대세를 차지했습니다.",
+    breakdown: [
+      { word: "反対意見", reading: "はんたいいけん", meaning: "반대 의견" }
+    ] },
+  { level: "N3", kanji: "先行き不透明", reading: "さきゆきふとうめい", korean: "사키유키후토-메-", meaning: "앞날이 불투명함",
+    example: "先行き不透明な状況です。", exampleReading: "さきゆきふとうめいなじょうきょうです。", exampleKorean: "사키유키후토-메-나 죠-쿄-데스", exampleMeaning: "앞날이 불투명한 상황입니다.",
+    breakdown: [
+      { word: "状況", reading: "じょうきょう", meaning: "상황" }
+    ] },
+  { level: "N3", kanji: "先行き懸念", reading: "さきゆきけねん", korean: "사키유키케넨", meaning: "앞날에 대한 우려",
+    example: "先行き懸念が広がっています。", exampleReading: "さきゆきけねんがひろがっています。", exampleKorean: "사키유키케넨가 히로갓테 이마스", exampleMeaning: "앞날에 대한 우려가 확산되고 있습니다.",
+    breakdown: [
+      { word: "広がって", reading: "ひろがって", meaning: "확산되어" }
+    ] },
+  { level: "N3", kanji: "見通し", reading: "みとおし", korean: "미토-시", meaning: "전망",
+    example: "景気の見通しは明るいです。", exampleReading: "けいきのみとおしはあかるいです。", exampleKorean: "케-키노 미토-시와 아카루이데스", exampleMeaning: "경기 전망은 밝습니다.",
+    breakdown: [
+      { word: "景気", reading: "けいき", meaning: "경기" }
+    ] },
+  { level: "N3", kanji: "見通しが立たない", reading: "みとおしがたたない", korean: "미토-시가타타나이", meaning: "전망이 서지 않다",
+    example: "今後の見通しが立ちません。", exampleReading: "こんごのみとおしがたちません。", exampleKorean: "콘고노 미토-시가 타치마셍", exampleMeaning: "향후 전망이 서지 않습니다.",
+    breakdown: [
+      { word: "今後", reading: "こんご", meaning: "향후" }
+    ] },
+  { level: "N3", kanji: "展望が開ける", reading: "てんぼうがひらける", korean: "텐보-가 히라케루", meaning: "전망이 열리다",
+    example: "新しい展望が開けました。", exampleReading: "あたらしいてんぼうがひらけました。", exampleKorean: "아타라시- 텐보-가 히라케마시타", exampleMeaning: "새로운 전망이 열렸습니다.",
+    breakdown: [
+      { word: "新しい", reading: "あたらしい", meaning: "새로운" }
+    ] },
+  { level: "N3", kanji: "展望が明るい", reading: "てんぼうがあかるい", korean: "텐보-가 아카루이", meaning: "전망이 밝다",
+    example: "業界の展望が明るいです。", exampleReading: "ぎょうかいのてんぼうがあかるいです。", exampleKorean: "교-카이노 텐보-가 아카루이데스", exampleMeaning: "업계의 전망이 밝습니다.",
+    breakdown: [
+      { word: "業界", reading: "ぎょうかい", meaning: "업계" }
+    ] },
+  { level: "N3", kanji: "明暗を分ける", reading: "めいあんをわける", korean: "메-안오와케루", meaning: "명암을 가르다",
+    example: "戦略の違いが明暗を分けました。", exampleReading: "せんりゃくのちがいがめいあんをわけました。", exampleKorean: "센랴쿠노 치가이가 메-안오 와케마시타", exampleMeaning: "전략의 차이가 명암을 갈랐습니다.",
+    breakdown: [
+      { word: "戦略", reading: "せんりゃく", meaning: "전략" }
+    ] },
+  { level: "N3", kanji: "浮沈", reading: "ふちん", korean: "후친", meaning: "부침(오르내림)",
+    example: "会社の浮沈を左右します。", exampleReading: "かいしゃのふちんをさゆうします。", exampleKorean: "카이샤노 후친오 사유- 시마스", exampleMeaning: "회사의 부침을 좌우합니다.",
+    breakdown: [
+      { word: "会社", reading: "かいしゃ", meaning: "회사" }
+    ] },
+  { level: "N3", kanji: "消長", reading: "しょうちょう", korean: "쇼-쵸-", meaning: "소장(성쇠)",
+    example: "勢力の消長を見守りました。", exampleReading: "せいりょくのしょうちょうをみまもりました。", exampleKorean: "세-료쿠노 쇼-쵸-오 미마모리마시타", exampleMeaning: "세력의 성쇠를 지켜봤습니다.",
+    breakdown: [
+      { word: "勢力", reading: "せいりょく", meaning: "세력" }
+    ] },
+  { level: "N3", kanji: "潮目", reading: "しおめ", korean: "시오메", meaning: "조류의 경계(흐름이 바뀌는 시점)",
+    example: "時代の潮目が変わりました。", exampleReading: "じだいのしおめがかわりました。", exampleKorean: "지다이노 시오메가 카와리마시타", exampleMeaning: "시대의 흐름이 바뀌었습니다.",
+    breakdown: [
+      { word: "時代", reading: "じだい", meaning: "시대" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
