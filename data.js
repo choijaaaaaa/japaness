@@ -18896,4 +18896,154 @@ const VOCAB = [
     breakdown: [
       { word: "です", reading: "です", meaning: "입니다" }
     ] },
+  { level: "N1", kanji: "寡黙", reading: "かもく", korean: "카모쿠", meaning: "과묵함",
+    example: "彼は寡黙な人です。", exampleReading: "かれはかもくなひとです。", exampleKorean: "카레와 카모쿠나 히토데스", exampleMeaning: "그는 과묵한 사람입니다.",
+    breakdown: [
+      { word: "人", reading: "ひと", meaning: "사람" }
+    ] },
+  { level: "N1", kanji: "饒舌", reading: "じょうぜつ", korean: "죠-제츠", meaning: "다변, 수다스러움",
+    example: "饒舌に語りました。", exampleReading: "じょうぜつにかたりました。", exampleKorean: "죠-제츠니 카타리마시타", exampleMeaning: "수다스럽게 이야기했습니다.",
+    breakdown: [
+      { word: "語りました", reading: "かたりました", meaning: "이야기했습니다" }
+    ] },
+  { level: "N1", kanji: "舌鋒", reading: "ぜっぽう", korean: "젭포-", meaning: "설봉(예리한 언변)",
+    example: "舌鋒鋭く批判しました。", exampleReading: "ぜっぽうするどくひはんしました。", exampleKorean: "젭포- 스루도쿠 히한 시마시타", exampleMeaning: "날카로운 언변으로 비판했습니다.",
+    breakdown: [
+      { word: "批判", reading: "ひはん", meaning: "비판" }
+    ] },
+  { level: "N1", kanji: "弁が立つ", reading: "べんがたつ", korean: "벤가타츠", meaning: "말솜씨가 좋다",
+    example: "彼は弁が立ちます。", exampleReading: "かれはべんがたちます。", exampleKorean: "카레와 벤가 타치마스", exampleMeaning: "그는 말솜씨가 좋습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N1", kanji: "口達者", reading: "くちだっしゃ", korean: "쿠치닷샤", meaning: "말재주가 뛰어남",
+    example: "彼女は口達者です。", exampleReading: "かのじょはくちだっしゃです。", exampleKorean: "카노죠와 쿠치닷샤데스", exampleMeaning: "그녀는 말재주가 뛰어납니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N1", kanji: "能弁", reading: "のうべん", korean: "노-벤", meaning: "능변(말을 잘함)",
+    example: "能弁な政治家です。", exampleReading: "のうべんなせいじかです。", exampleKorean: "노-벤나 세-지카데스", exampleMeaning: "능변인 정치가입니다.",
+    breakdown: [
+      { word: "政治家", reading: "せいじか", meaning: "정치가" }
+    ] },
+  { level: "N1", kanji: "訥弁", reading: "とつべん", korean: "토츠벤", meaning: "눌변(말주변이 없음)",
+    example: "訥弁ですが誠実な人です。", exampleReading: "とつべんですがせいじつなひとです。", exampleKorean: "토츠벤데스가 세-지츠나 히토데스", exampleMeaning: "눌변이지만 성실한 사람입니다.",
+    breakdown: [
+      { word: "誠実な", reading: "せいじつな", meaning: "성실한" }
+    ] },
+  { level: "N1", kanji: "口下手", reading: "くちべた", korean: "쿠치베타", meaning: "말주변이 없음",
+    example: "私は口下手です。", exampleReading: "わたしはくちべたです。", exampleKorean: "와타시와 쿠치베타데스", exampleMeaning: "저는 말주변이 없습니다.",
+    breakdown: [
+      { word: "私", reading: "わたし", meaning: "저" }
+    ] },
+  { level: "N1", kanji: "言葉少な", reading: "ことばずくな", korean: "코토바즈쿠나", meaning: "말수가 적음",
+    example: "言葉少なに答えました。", exampleReading: "ことばずくなにこたえました。", exampleKorean: "코토바즈쿠나니 코타에마시타", exampleMeaning: "말수 적게 대답했습니다.",
+    breakdown: [
+      { word: "答えました", reading: "こたえました", meaning: "대답했습니다" }
+    ] },
+  { level: "N1", kanji: "無口", reading: "むくち", korean: "무쿠치", meaning: "말이 없음",
+    example: "彼は無口な性格です。", exampleReading: "かれはむくちなせいかくです。", exampleKorean: "카레와 무쿠치나 세-카쿠데스", exampleMeaning: "그는 말이 없는 성격입니다.",
+    breakdown: [
+      { word: "性格", reading: "せいかく", meaning: "성격" }
+    ] },
+  { level: "N1", kanji: "寡言", reading: "かげん", korean: "카겐", meaning: "과언(말수가 적음)",
+    example: "寡言な人でした。", exampleReading: "かげんなひとでした。", exampleKorean: "카겐나 히토데시타", exampleMeaning: "말수가 적은 사람이었습니다.",
+    breakdown: [
+      { word: "人", reading: "ひと", meaning: "사람" }
+    ] },
+  { level: "N1", kanji: "雄弁", reading: "ゆうべん", korean: "유-벤", meaning: "웅변",
+    example: "雄弁に語りました。", exampleReading: "ゆうべんにかたりました。", exampleKorean: "유-벤니 카타리마시타", exampleMeaning: "웅변으로 이야기했습니다.",
+    breakdown: [
+      { word: "語りました", reading: "かたりました", meaning: "이야기했습니다" }
+    ] },
+  { level: "N1", kanji: "弁舌", reading: "べんぜつ", korean: "벤제츠", meaning: "변설, 언변",
+    example: "弁舌さわやかでした。", exampleReading: "べんぜつさわやかでした。", exampleKorean: "벤제츠 사와야카데시타", exampleMeaning: "언변이 시원시원했습니다.",
+    breakdown: [
+      { word: "さわやか", reading: "さわやか", meaning: "시원시원함" }
+    ] },
+  { level: "N1", kanji: "舌足らず", reading: "したたらず", korean: "시타타라즈", meaning: "혀 짧은 소리, 표현이 미흡함",
+    example: "舌足らずな説明でした。", exampleReading: "したたらずなせつめいでした。", exampleKorean: "시타타라즈나 세츠메-데시타", exampleMeaning: "표현이 미흡한 설명이었습니다.",
+    breakdown: [
+      { word: "説明", reading: "せつめい", meaning: "설명" }
+    ] },
+  { level: "N1", kanji: "言葉巧み", reading: "ことばたくみ", korean: "코토바타쿠미", meaning: "말솜씨가 교묘함",
+    example: "言葉巧みに誘われました。", exampleReading: "ことばたくみにさそわれました。", exampleKorean: "코토바타쿠미니 사소와레마시타", exampleMeaning: "교묘한 말솜씨에 유혹당했습니다.",
+    breakdown: [
+      { word: "誘われました", reading: "さそわれました", meaning: "유혹당했습니다" }
+    ] },
+  { level: "N1", kanji: "巧言令色", reading: "こうげんれいしょく", korean: "코-겐레-쇼쿠", meaning: "교언영색(아첨하는 말과 태도)",
+    example: "巧言令色に惑わされません。", exampleReading: "こうげんれいしょくにまどわされません。", exampleKorean: "코-겐레-쇼쿠니 마도와사레마셍", exampleMeaning: "교언영색에 현혹되지 않습니다.",
+    breakdown: [
+      { word: "惑わされません", reading: "まどわされません", meaning: "현혹되지 않습니다" }
+    ] },
+  { level: "N1", kanji: "歯に衣着せぬ", reading: "はにきぬきせぬ", korean: "하니 키누키세누", meaning: "기탄없이 말하는",
+    example: "歯に衣着せぬ発言でした。", exampleReading: "はにきぬきせぬはつげんでした。", exampleKorean: "하니 키누키세누 하츠겐데시타", exampleMeaning: "기탄없는 발언이었습니다.",
+    breakdown: [
+      { word: "発言", reading: "はつげん", meaning: "발언" }
+    ] },
+  { level: "N1", kanji: "率直に言う", reading: "そっちょくにいう", korean: "솟쵸쿠니 이우", meaning: "솔직히 말하다",
+    example: "率直に言うと反対です。", exampleReading: "そっちょくにいうとはんたいです。", exampleKorean: "솟쵸쿠니 이우토 한타이데스", exampleMeaning: "솔직히 말하면 반대입니다.",
+    breakdown: [
+      { word: "反対", reading: "はんたい", meaning: "반대" }
+    ] },
+  { level: "N1", kanji: "単刀直入", reading: "たんとうちょくにゅう", korean: "탄토-쵸쿠뉴-", meaning: "단도직입",
+    example: "単刀直入に尋ねました。", exampleReading: "たんとうちょくにゅうにたずねました。", exampleKorean: "탄토-쵸쿠뉴-니 타즈네마시타", exampleMeaning: "단도직입적으로 물었습니다.",
+    breakdown: [
+      { word: "尋ねました", reading: "たずねました", meaning: "물었습니다" }
+    ] },
+  { level: "N1", kanji: "婉曲", reading: "えんきょく", korean: "엔쿄쿠", meaning: "완곡함",
+    example: "婉曲に断りました。", exampleReading: "えんきょくにことわりました。", exampleKorean: "엔쿄쿠니 코토와리마시타", exampleMeaning: "완곡하게 거절했습니다.",
+    breakdown: [
+      { word: "断りました", reading: "ことわりました", meaning: "거절했습니다" }
+    ] },
+  { level: "N1", kanji: "遠回し", reading: "とおまわし", korean: "토-마와시", meaning: "에둘러 말함, 완곡함",
+    example: "遠回しに注意しました。", exampleReading: "とおまわしにちゅういしました。", exampleKorean: "토-마와시니 츄-이 시마시타", exampleMeaning: "에둘러 주의를 줬습니다.",
+    breakdown: [
+      { word: "注意しました", reading: "ちゅういしました", meaning: "주의를 줬습니다" }
+    ] },
+  { level: "N1", kanji: "言葉を濁す", reading: "ことばをにごす", korean: "코토바오니고스", meaning: "말끝을 흐리다",
+    example: "質問に言葉を濁しました。", exampleReading: "しつもんにことばをにごしました。", exampleKorean: "시츠몬니 코토바오 니고시마시타", exampleMeaning: "질문에 말끝을 흐렸습니다.",
+    breakdown: [
+      { word: "質問", reading: "しつもん", meaning: "질문" }
+    ] },
+  { level: "N1", kanji: "はぐらかす", reading: "はぐらかす", korean: "하구라카스", meaning: "얼버무리다",
+    example: "質問をはぐらかされました。", exampleReading: "しつもんをはぐらかされました。", exampleKorean: "시츠몬오 하구라카사레마시타", exampleMeaning: "질문을 얼버무림 당했습니다.",
+    breakdown: [
+      { word: "質問", reading: "しつもん", meaning: "질문" }
+    ] },
+  { level: "N1", kanji: "とぼける", reading: "とぼける", korean: "토보케루", meaning: "시치미 떼다",
+    example: "知らないふりをしてとぼけました。", exampleReading: "しらないふりをしてとぼけました。", exampleKorean: "시라나이 후리오 시테 토보케마시타", exampleMeaning: "모르는 척하며 시치미를 뗐습니다.",
+    breakdown: [
+      { word: "知らないふり", reading: "しらないふり", meaning: "모르는 척" }
+    ] },
+  { level: "N1", kanji: "しらばっくれる", reading: "しらばっくれる", korean: "시라밧쿠레루", meaning: "시치미 떼다(구어)",
+    example: "彼はしらばっくれています。", exampleReading: "かれはしらばっくれています。", exampleKorean: "카레와 시라밧쿠레테 이마스", exampleMeaning: "그는 시치미를 떼고 있습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N1", kanji: "白を切る", reading: "しらをきる", korean: "시라오키루", meaning: "시치미 떼다",
+    example: "最後まで白を切りました。", exampleReading: "さいごまでしらをきりました。", exampleKorean: "사이고마데 시라오 키리마시타", exampleMeaning: "끝까지 시치미를 뗐습니다.",
+    breakdown: [
+      { word: "最後まで", reading: "さいごまで", meaning: "끝까지" }
+    ] },
+  { level: "N1", kanji: "言い逃れる", reading: "いいのがれる", korean: "이이노가레루", meaning: "발뺌하다",
+    example: "責任を言い逃れました。", exampleReading: "せきにんをいいのがれました。", exampleKorean: "세키닌오 이이노가레마시타", exampleMeaning: "책임을 발뺌했습니다.",
+    breakdown: [
+      { word: "責任", reading: "せきにん", meaning: "책임" }
+    ] },
+  { level: "N1", kanji: "言い訳がましい", reading: "いいわけがましい", korean: "이이와케가마시-", meaning: "변명하는 듯한",
+    example: "言い訳がましいことは言いません。", exampleReading: "いいわけがましいことはいいません。", exampleKorean: "이이와케가마시- 코토와 이이마셍", exampleMeaning: "변명하는 듯한 말은 하지 않겠습니다.",
+    breakdown: [
+      { word: "こと", reading: "こと", meaning: "말" }
+    ] },
+  { level: "N1", kanji: "弁明", reading: "べんめい", korean: "벤메-", meaning: "변명",
+    example: "弁明の機会を与えました。", exampleReading: "べんめいのきかいをあたえました。", exampleKorean: "벤메-노 키카이오 아타에마시타", exampleMeaning: "변명의 기회를 주었습니다.",
+    breakdown: [
+      { word: "機会", reading: "きかい", meaning: "기회" }
+    ] },
+  { level: "N1", kanji: "口をつぐむ", reading: "くちをつぐむ", korean: "쿠치오츠구무", meaning: "입을 다물다",
+    example: "それ以上は口をつぐみました。", exampleReading: "それいじょうはくちをつぐみました。", exampleKorean: "소레이죠-와 쿠치오 츠구미마시타", exampleMeaning: "그 이상은 입을 다물었습니다.",
+    breakdown: [
+      { word: "それ以上", reading: "それいじょう", meaning: "그 이상" }
+    ] },
 ];
