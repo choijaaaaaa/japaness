@@ -20587,6 +20587,156 @@ const VOCAB = [
     breakdown: [
       { word: "進んで", reading: "すすんで", meaning: "진행되어" }
     ] },
+  { level: "N2", kanji: "労働基準法", reading: "ろうどうきじゅんほう", korean: "로-도-키쥰호-", meaning: "근로기준법",
+    example: "労働基準法に基づいています。", exampleReading: "ろうどうきじゅんほうにもとづいています。", exampleKorean: "로-도-키쥰호-니 모토즈이테 이마스", exampleMeaning: "근로기준법에 근거하고 있습니다.",
+    breakdown: [
+      { word: "基づいて", reading: "もとづいて", meaning: "근거해서" }
+    ] },
+  { level: "N2", kanji: "労働組合", reading: "ろうどうくみあい", korean: "로-도-쿠미아이", meaning: "노동조합",
+    example: "労働組合に加入しました。", exampleReading: "ろうどうくみあいにかにゅうしました。", exampleKorean: "로-도-쿠미아이니 카뉴- 시마시타", exampleMeaning: "노동조합에 가입했습니다.",
+    breakdown: [
+      { word: "加入", reading: "かにゅう", meaning: "가입" }
+    ] },
+  { level: "N2", kanji: "団体交渉", reading: "だんたいこうしょう", korean: "단타이코-쇼-", meaning: "단체교섭",
+    example: "団体交渉が行われました。", exampleReading: "だんたいこうしょうがおこなわれました。", exampleKorean: "단타이코-쇼-가 오코나와레마시타", exampleMeaning: "단체교섭이 이루어졌습니다.",
+    breakdown: [
+      { word: "行われました", reading: "おこなわれました", meaning: "이루어졌습니다" }
+    ] },
+  { level: "N2", kanji: "ストライキ", reading: "ストライキ", korean: "스토라이키", meaning: "파업",
+    example: "ストライキが実施されました。", exampleReading: "ストライキがじっしされました。", exampleKorean: "스토라이키가 짓시사레마시타", exampleMeaning: "파업이 실시되었습니다.",
+    breakdown: [
+      { word: "実施", reading: "じっし", meaning: "실시" }
+    ] },
+  { level: "N2", kanji: "労使協議会", reading: "ろうしきょうぎかい", korean: "로-시쿄-기카이", meaning: "노사협의회",
+    example: "労使協議会で話し合いました。", exampleReading: "ろうしきょうぎかいではなしあいました。", exampleKorean: "로-시쿄-기카이데 하나시아이마시타", exampleMeaning: "노사협의회에서 논의했습니다.",
+    breakdown: [
+      { word: "話し合いました", reading: "はなしあいました", meaning: "논의했습니다" }
+    ] },
+  { level: "N2", kanji: "就業規則", reading: "しゅうぎょうきそく", korean: "슈-교-키소쿠", meaning: "취업규칙",
+    example: "就業規則を確認しました。", exampleReading: "しゅうぎょうきそくをかくにんしました。", exampleKorean: "슈-교-키소쿠오 카쿠닌 시마시타", exampleMeaning: "취업규칙을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N2", kanji: "36協定", reading: "さぶろくきょうてい", korean: "사부로쿠쿄-테-", meaning: "36협정(초과근무협정)",
+    example: "36協定を締結しました。", exampleReading: "さぶろくきょうていをていけつしました。", exampleKorean: "사부로쿠쿄-테-오 테-케츠 시마시타", exampleMeaning: "36협정을 체결했습니다.",
+    breakdown: [
+      { word: "締結", reading: "ていけつ", meaning: "체결" }
+    ] },
+  { level: "N2", kanji: "有給休暇取得率", reading: "ゆうきゅうきゅうかしゅとくりつ", korean: "유-큐-큐-카슈토쿠리츠", meaning: "유급휴가 취득률",
+    example: "有給休暇取得率が向上しました。", exampleReading: "ゆうきゅうきゅうかしゅとくりつがこうじょうしました。", exampleKorean: "유-큐-큐-카슈토쿠리츠가 코-죠- 시마시타", exampleMeaning: "유급휴가 취득률이 향상되었습니다.",
+    breakdown: [
+      { word: "向上", reading: "こうじょう", meaning: "향상" }
+    ] },
+  { level: "N2", kanji: "育児介護休業法", reading: "いくじかいごきゅうぎょうほう", korean: "이쿠지카이고큐-교-호-", meaning: "육아개호휴업법",
+    example: "育児介護休業法が改正されました。", exampleReading: "いくじかいごきゅうぎょうほうがかいせいされました。", exampleKorean: "이쿠지카이고큐-교-호-가 카이세-사레마시타", exampleMeaning: "육아개호휴업법이 개정되었습니다.",
+    breakdown: [
+      { word: "改正", reading: "かいせい", meaning: "개정" }
+    ] },
+  { level: "N2", kanji: "パワハラ防止法", reading: "パワハラぼうしほう", korean: "파와하라보-시호-", meaning: "직장 내 괴롭힘 방지법",
+    example: "パワハラ防止法が施行されました。", exampleReading: "パワハラぼうしほうがしこうされました。", exampleKorean: "파와하라보-시호-가 시코-사레마시타", exampleMeaning: "직장 내 괴롭힘 방지법이 시행되었습니다.",
+    breakdown: [
+      { word: "施行", reading: "しこう", meaning: "시행" }
+    ] },
+  { level: "N2", kanji: "ハラスメント相談窓口", reading: "ハラスメントそうだんまどぐち", korean: "하라스멘토소-단마도구치", meaning: "괴롭힘 상담 창구",
+    example: "ハラスメント相談窓口を設置しました。", exampleReading: "ハラスメントそうだんまどぐちをせっちしました。", exampleKorean: "하라스멘토소-단마도구치오 셋치 시마시타", exampleMeaning: "괴롭힘 상담 창구를 설치했습니다.",
+    breakdown: [
+      { word: "設置", reading: "せっち", meaning: "설치" }
+    ] },
+  { level: "N2", kanji: "内部通報制度", reading: "ないぶつうほうせいど", korean: "나이부츠-호-세-도", meaning: "내부고발제도",
+    example: "内部通報制度を利用しました。", exampleReading: "ないぶつうほうせいどをりようしました。", exampleKorean: "나이부츠-호-세-도오 리요- 시마시타", exampleMeaning: "내부고발제도를 이용했습니다.",
+    breakdown: [
+      { word: "利用", reading: "りよう", meaning: "이용" }
+    ] },
+  { level: "N2", kanji: "コンプライアンス研修", reading: "コンプライアンスけんしゅう", korean: "콤푸라이안스켄슈-", meaning: "컴플라이언스 연수",
+    example: "コンプライアンス研修を受けました。", exampleReading: "コンプライアンスけんしゅうをうけました。", exampleKorean: "콤푸라이안스켄슈-오 우케마시타", exampleMeaning: "컴플라이언스 연수를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N2", kanji: "情報セキュリティ研修", reading: "じょうほうセキュリティけんしゅう", korean: "죠-호-세큐리티켄슈-", meaning: "정보보안 연수",
+    example: "情報セキュリティ研修が義務化されました。", exampleReading: "じょうほうセキュリティけんしゅうがぎむかされました。", exampleKorean: "죠-호-세큐리티켄슈-가 기무카사레마시타", exampleMeaning: "정보보안 연수가 의무화되었습니다.",
+    breakdown: [
+      { word: "義務化", reading: "ぎむか", meaning: "의무화" }
+    ] },
+  { level: "N2", kanji: "個人情報保護法", reading: "こじんじょうほうほごほう", korean: "코진죠-호-호고호-", meaning: "개인정보보호법",
+    example: "個人情報保護法を遵守しています。", exampleReading: "こじんじょうほうほごほうをじゅんしゅしています。", exampleKorean: "코진죠-호-호고호-오 쥰슈 시테 이마스", exampleMeaning: "개인정보보호법을 준수하고 있습니다.",
+    breakdown: [
+      { word: "遵守", reading: "じゅんしゅ", meaning: "준수" }
+    ] },
+  { level: "N2", kanji: "マイナンバー制度", reading: "マイナンバーせいど", korean: "마이남바-세-도", meaning: "마이넘버 제도",
+    example: "マイナンバー制度が導入されました。", exampleReading: "マイナンバーせいどがどうにゅうされました。", exampleKorean: "마이남바-세-도가 도-뉴-사레마시타", exampleMeaning: "마이넘버 제도가 도입되었습니다.",
+    breakdown: [
+      { word: "導入", reading: "どうにゅう", meaning: "도입" }
+    ] },
+  { level: "N2", kanji: "電子帳簿保存法", reading: "でんしちょうぼほぞんほう", korean: "덴시쵸-보호존호-", meaning: "전자장부보존법",
+    example: "電子帳簿保存法に対応しました。", exampleReading: "でんしちょうぼほぞんほうにたいおうしました。", exampleKorean: "덴시쵸-보호존호-니 타이오- 시마시타", exampleMeaning: "전자장부보존법에 대응했습니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N2", kanji: "インボイス制度", reading: "インボイスせいど", korean: "인보이스세-도", meaning: "인보이스제도",
+    example: "インボイス制度に登録しました。", exampleReading: "インボイスせいどにとうろくしました。", exampleKorean: "인보이스세-도니 토-로쿠 시마시타", exampleMeaning: "인보이스제도에 등록했습니다.",
+    breakdown: [
+      { word: "登録", reading: "とうろく", meaning: "등록" }
+    ] },
+  { level: "N2", kanji: "消費税率", reading: "しょうひぜいりつ", korean: "쇼-히제-리츠", meaning: "소비세율",
+    example: "消費税率が引き上げられました。", exampleReading: "しょうひぜいりつがひきあげられました。", exampleKorean: "쇼-히제-리츠가 히키아게라레마시타", exampleMeaning: "소비세율이 인상되었습니다.",
+    breakdown: [
+      { word: "引き上げられました", reading: "ひきあげられました", meaning: "인상되었습니다" }
+    ] },
+  { level: "N2", kanji: "軽減税率", reading: "けいげんぜいりつ", korean: "케-겐제-리츠", meaning: "경감세율",
+    example: "軽減税率が適用されます。", exampleReading: "けいげんぜいりつがてきようされます。", exampleKorean: "케-겐제-리츠가 테키요-사레마스", exampleMeaning: "경감세율이 적용됩니다.",
+    breakdown: [
+      { word: "適用", reading: "てきよう", meaning: "적용" }
+    ] },
+  { level: "N2", kanji: "年末調整", reading: "ねんまつちょうせい", korean: "넨마츠쵸-세-", meaning: "연말정산",
+    example: "年末調整の書類を提出しました。", exampleReading: "ねんまつちょうせいのしょるいをていしゅつしました。", exampleKorean: "넨마츠쵸-세-노 쇼루이오 테-슈츠 시마시타", exampleMeaning: "연말정산 서류를 제출했습니다.",
+    breakdown: [
+      { word: "書類", reading: "しょるい", meaning: "서류" }
+    ] },
+  { level: "N2", kanji: "確定申告", reading: "かくていしんこく", korean: "카쿠테-신코쿠", meaning: "확정신고(종합소득세 신고)",
+    example: "確定申告をしました。", exampleReading: "かくていしんこくをしました。", exampleKorean: "카쿠테-신코쿠오 시마시타", exampleMeaning: "확정신고를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N2", kanji: "源泉徴収票", reading: "げんせんちょうしゅうひょう", korean: "겐센쵸-슈-효-", meaning: "원천징수영수증",
+    example: "源泉徴収票をもらいました。", exampleReading: "げんせんちょうしゅうひょうをもらいました。", exampleKorean: "겐센쵸-슈-효-오 모라이마시타", exampleMeaning: "원천징수영수증을 받았습니다.",
+    breakdown: [
+      { word: "もらいました", reading: "もらいました", meaning: "받았습니다" }
+    ] },
+  { level: "N2", kanji: "扶養控除", reading: "ふようこうじょ", korean: "후요-코-죠", meaning: "부양공제",
+    example: "扶養控除を申請しました。", exampleReading: "ふようこうじょをしんせいしました。", exampleKorean: "후요-코-죠오 신세- 시마시타", exampleMeaning: "부양공제를 신청했습니다.",
+    breakdown: [
+      { word: "申請", reading: "しんせい", meaning: "신청" }
+    ] },
+  { level: "N2", kanji: "医療費控除", reading: "いりょうひこうじょ", korean: "이료-히코-죠", meaning: "의료비공제",
+    example: "医療費控除を受けました。", exampleReading: "いりょうひこうじょをうけました。", exampleKorean: "이료-히코-죠오 우케마시타", exampleMeaning: "의료비공제를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N2", kanji: "ふるさと納税控除", reading: "ふるさとのうぜいこうじょ", korean: "후루사토노-제-코-죠", meaning: "고향세공제",
+    example: "ふるさと納税控除を利用しました。", exampleReading: "ふるさとのうぜいこうじょをりようしました。", exampleKorean: "후루사토노-제-코-죠오 리요- 시마시타", exampleMeaning: "고향세공제를 이용했습니다.",
+    breakdown: [
+      { word: "利用", reading: "りよう", meaning: "이용" }
+    ] },
+  { level: "N2", kanji: "社会保険料控除", reading: "しゃかいほけんりょうこうじょ", korean: "샤카이호켄료-코-죠", meaning: "사회보험료공제",
+    example: "社会保険料控除を確認しました。", exampleReading: "しゃかいほけんりょうこうじょをかくにんしました。", exampleKorean: "샤카이호켄료-코-죠오 카쿠닌 시마시타", exampleMeaning: "사회보험료공제를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N2", kanji: "所得控除", reading: "しょとくこうじょ", korean: "쇼토쿠코-죠", meaning: "소득공제",
+    example: "所得控除の対象です。", exampleReading: "しょとくこうじょのたいしょうです。", exampleKorean: "쇼토쿠코-죠노 타이쇼-데스", exampleMeaning: "소득공제 대상입니다.",
+    breakdown: [
+      { word: "対象", reading: "たいしょう", meaning: "대상" }
+    ] },
+  { level: "N2", kanji: "税額控除", reading: "ぜいがくこうじょ", korean: "제-가쿠코-죠", meaning: "세액공제",
+    example: "税額控除を適用しました。", exampleReading: "ぜいがくこうじょをてきようしました。", exampleKorean: "제-가쿠코-죠오 테키요- 시마시타", exampleMeaning: "세액공제를 적용했습니다.",
+    breakdown: [
+      { word: "適用", reading: "てきよう", meaning: "적용" }
+    ] },
+  { level: "N2", kanji: "還付金", reading: "かんぷきん", korean: "캄푸킨", meaning: "환급금",
+    example: "還付金が振り込まれました。", exampleReading: "かんぷきんがふりこまれました。", exampleKorean: "캄푸킹가 후리코마레마시타", exampleMeaning: "환급금이 입금되었습니다.",
+    breakdown: [
+      { word: "振り込まれました", reading: "ふりこまれました", meaning: "입금되었습니다" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
