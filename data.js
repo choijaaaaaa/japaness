@@ -17587,6 +17587,156 @@ const VOCAB = [
     breakdown: [
       { word: "働いて", reading: "はたらいて", meaning: "일해서" }
     ] },
+  { level: "N2", kanji: "公判維持", reading: "こうはんいじ", korean: "코-한이지", meaning: "공판유지",
+    example: "検察は公判維持に努めました。", exampleReading: "けんさつはこうはんいじにつとめました。", exampleKorean: "켄사츠와 코-한이지니 츠토메마시타", exampleMeaning: "검찰은 공판유지에 힘썼습니다.",
+    breakdown: [
+      { word: "検察", reading: "けんさつ", meaning: "검찰" }
+    ] },
+  { level: "N2", kanji: "証拠能力", reading: "しょうこのうりょく", korean: "쇼-코노-료쿠", meaning: "증거능력",
+    example: "証拠能力が争われました。", exampleReading: "しょうこのうりょくがあらそわれました。", exampleKorean: "쇼-코노-료쿠가 아라소와레마시타", exampleMeaning: "증거능력이 다투어졌습니다.",
+    breakdown: [
+      { word: "争われました", reading: "あらそわれました", meaning: "다투어졌습니다" }
+    ] },
+  { level: "N2", kanji: "立証責任", reading: "りっしょうせきにん", korean: "릿쇼-세키닌", meaning: "입증책임",
+    example: "立証責任は原告にあります。", exampleReading: "りっしょうせきにんはげんこくにあります。", exampleKorean: "릿쇼-세키닌와 겐코쿠니 아리마스", exampleMeaning: "입증책임은 원고에게 있습니다.",
+    breakdown: [
+      { word: "原告", reading: "げんこく", meaning: "원고" }
+    ] },
+  { level: "N2", kanji: "推定無罪", reading: "すいていむざい", korean: "스이테-무자이", meaning: "무죄추정",
+    example: "推定無罪の原則があります。", exampleReading: "すいていむざいのげんそくがあります。", exampleKorean: "스이테-무자이노 겐소쿠가 아리마스", exampleMeaning: "무죄추정의 원칙이 있습니다.",
+    breakdown: [
+      { word: "原則", reading: "げんそく", meaning: "원칙" }
+    ] },
+  { level: "N2", kanji: "冤罪", reading: "えんざい", korean: "엔자이", meaning: "억울한 죄, 원죄",
+    example: "冤罪が証明されました。", exampleReading: "えんざいがしょうめいされました。", exampleKorean: "엔자이가 쇼-메-사레마시타", exampleMeaning: "억울한 죄가 증명되었습니다.",
+    breakdown: [
+      { word: "証明", reading: "しょうめい", meaning: "증명" }
+    ] },
+  { level: "N2", kanji: "再審請求", reading: "さいしんせいきゅう", korean: "사이신세-큐-", meaning: "재심청구",
+    example: "再審請求を行いました。", exampleReading: "さいしんせいきゅうをおこないました。", exampleKorean: "사이신세-큐-오 오코나이마시타", exampleMeaning: "재심청구를 했습니다.",
+    breakdown: [
+      { word: "行いました", reading: "おこないました", meaning: "했습니다" }
+    ] },
+  { level: "N2", kanji: "恩赦", reading: "おんしゃ", korean: "온샤", meaning: "은사(사면)",
+    example: "恩赦を受けました。", exampleReading: "おんしゃをうけました。", exampleKorean: "온샤오 우케마시타", exampleMeaning: "은사를 받았습니다.",
+    breakdown: [
+      { word: "受けました", reading: "うけました", meaning: "받았습니다" }
+    ] },
+  { level: "N2", kanji: "執行猶予", reading: "しっこうゆうよ", korean: "싴코-유-요", meaning: "집행유예",
+    example: "執行猶予がつきました。", exampleReading: "しっこうゆうよがつきました。", exampleKorean: "싴코-유-요가 츠키마시타", exampleMeaning: "집행유예가 붙었습니다.",
+    breakdown: [
+      { word: "つきました", reading: "つきました", meaning: "붙었습니다" }
+    ] },
+  { level: "N2", kanji: "仮釈放", reading: "かりしゃくほう", korean: "카리샤쿠호-", meaning: "가석방",
+    example: "仮釈放が認められました。", exampleReading: "かりしゃくほうがみとめられました。", exampleKorean: "카리샤쿠호-가 미토메라레마시타", exampleMeaning: "가석방이 인정되었습니다.",
+    breakdown: [
+      { word: "認められました", reading: "みとめられました", meaning: "인정되었습니다" }
+    ] },
+  { level: "N2", kanji: "再犯防止", reading: "さいはんぼうし", korean: "사이한보-시", meaning: "재범방지",
+    example: "再犯防止プログラムに参加しました。", exampleReading: "さいはんぼうしプログラムにさんかしました。", exampleKorean: "사이한보-시 푸로구라무니 상카 시마시타", exampleMeaning: "재범방지 프로그램에 참가했습니다.",
+    breakdown: [
+      { word: "プログラム", reading: "プログラム", meaning: "프로그램" }
+    ] },
+  { level: "N2", kanji: "更生保護", reading: "こうせいほご", korean: "코-세-호고", meaning: "갱생보호",
+    example: "更生保護施設で暮らしています。", exampleReading: "こうせいほごしせつでくらしています。", exampleKorean: "코-세-호고시세츠데 쿠라시테 이마스", exampleMeaning: "갱생보호시설에서 살고 있습니다.",
+    breakdown: [
+      { word: "施設", reading: "しせつ", meaning: "시설" }
+    ] },
+  { level: "N2", kanji: "保護観察", reading: "ほごかんさつ", korean: "호고칸사츠", meaning: "보호관찰",
+    example: "保護観察処分になりました。", exampleReading: "ほごかんさつしょぶんになりました。", exampleKorean: "호고칸사츠쇼분니 나리마시타", exampleMeaning: "보호관찰처분을 받았습니다.",
+    breakdown: [
+      { word: "処分", reading: "しょぶん", meaning: "처분" }
+    ] },
+  { level: "N2", kanji: "少年審判", reading: "しょうねんしんぱん", korean: "쇼-넨신판", meaning: "소년심판",
+    example: "少年審判が開かれました。", exampleReading: "しょうねんしんぱんがひらかれました。", exampleKorean: "쇼-넨신판가 히라카레마시타", exampleMeaning: "소년심판이 열렸습니다.",
+    breakdown: [
+      { word: "開かれました", reading: "ひらかれました", meaning: "열렸습니다" }
+    ] },
+  { level: "N2", kanji: "家庭裁判所調査官", reading: "かていさいばんしょちょうさかん", korean: "카테-사이반쇼쵸-사칸", meaning: "가정재판소 조사관",
+    example: "家庭裁判所調査官が調査しました。", exampleReading: "かていさいばんしょちょうさかんがちょうさしました。", exampleKorean: "카테-사이반쇼쵸-사칸가 쵸-사 시마시타", exampleMeaning: "가정재판소 조사관이 조사했습니다.",
+    breakdown: [
+      { word: "調査", reading: "ちょうさ", meaning: "조사" }
+    ] },
+  { level: "N2", kanji: "民事訴訟", reading: "みんじそしょう", korean: "민지소쇼-", meaning: "민사소송",
+    example: "民事訴訟を起こしました。", exampleReading: "みんじそしょうをおこしました。", exampleKorean: "민지소쇼-오 오코시마시타", exampleMeaning: "민사소송을 제기했습니다.",
+    breakdown: [
+      { word: "起こしました", reading: "おこしました", meaning: "제기했습니다" }
+    ] },
+  { level: "N2", kanji: "刑事訴訟", reading: "けいじそしょう", korean: "케-지소쇼-", meaning: "형사소송",
+    example: "刑事訴訟が進行しています。", exampleReading: "けいじそしょうがしんこうしています。", exampleKorean: "케-지소쇼-가 신코- 시테 이마스", exampleMeaning: "형사소송이 진행되고 있습니다.",
+    breakdown: [
+      { word: "進行", reading: "しんこう", meaning: "진행" }
+    ] },
+  { level: "N2", kanji: "和解", reading: "わかい", korean: "와카이", meaning: "화해(합의)",
+    example: "当事者間で和解しました。", exampleReading: "とうじしゃかんでわかいしました。", exampleKorean: "토-지샤칸데 와카이 시마시타", exampleMeaning: "당사자 간에 화해했습니다.",
+    breakdown: [
+      { word: "当事者", reading: "とうじしゃ", meaning: "당사자" }
+    ] },
+  { level: "N2", kanji: "調停案", reading: "ちょうていあん", korean: "쵸-테-안", meaning: "조정안",
+    example: "調停案を受け入れました。", exampleReading: "ちょうていあんをうけいれました。", exampleKorean: "쵸-테-앙오 우케이레마시타", exampleMeaning: "조정안을 받아들였습니다.",
+    breakdown: [
+      { word: "受け入れました", reading: "うけいれました", meaning: "받아들였습니다" }
+    ] },
+  { level: "N2", kanji: "示談", reading: "じだん", korean: "지단", meaning: "합의(민사)",
+    example: "示談で解決しました。", exampleReading: "じだんでかいけつしました。", exampleKorean: "지단데 카이케츠 시마시타", exampleMeaning: "합의로 해결했습니다.",
+    breakdown: [
+      { word: "解決", reading: "かいけつ", meaning: "해결" }
+    ] },
+  { level: "N2", kanji: "示談金", reading: "じだんきん", korean: "지단킨", meaning: "합의금",
+    example: "示談金を受け取りました。", exampleReading: "じだんきんをうけとりました。", exampleKorean: "지단킹오 우케토리마시타", exampleMeaning: "합의금을 받았습니다.",
+    breakdown: [
+      { word: "受け取りました", reading: "うけとりました", meaning: "받았습니다" }
+    ] },
+  { level: "N2", kanji: "損害賠償請求", reading: "そんがいばいしょうせいきゅう", korean: "손가이바이쇼-세-큐-", meaning: "손해배상청구",
+    example: "損害賠償請求をしました。", exampleReading: "そんがいばいしょうせいきゅうをしました。", exampleKorean: "손가이바이쇼-세-큐-오 시마시타", exampleMeaning: "손해배상청구를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N2", kanji: "慰謝料請求", reading: "いしゃりょうせいきゅう", korean: "이샤료-세-큐-", meaning: "위자료청구",
+    example: "慰謝料請求を検討しています。", exampleReading: "いしゃりょうせいきゅうをけんとうしています。", exampleKorean: "이샤료-세-큐-오 켄토- 시테 이마스", exampleMeaning: "위자료청구를 검토하고 있습니다.",
+    breakdown: [
+      { word: "検討", reading: "けんとう", meaning: "검토" }
+    ] },
+  { level: "N2", kanji: "債権回収", reading: "さいけんかいしゅう", korean: "사이켄카이슈-", meaning: "채권회수",
+    example: "債権回収を行っています。", exampleReading: "さいけんかいしゅうをおこなっています。", exampleKorean: "사이켄카이슈-오 오코낫테 이마스", exampleMeaning: "채권회수를 하고 있습니다.",
+    breakdown: [
+      { word: "行って", reading: "おこなって", meaning: "하고 있어서" }
+    ] },
+  { level: "N2", kanji: "債務整理", reading: "さいむせいり", korean: "사이무세-리", meaning: "채무정리",
+    example: "債務整理を検討しています。", exampleReading: "さいむせいりをけんとうしています。", exampleKorean: "사이무세-리오 켄토- 시테 이마스", exampleMeaning: "채무정리를 검토하고 있습니다.",
+    breakdown: [
+      { word: "検討", reading: "けんとう", meaning: "검토" }
+    ] },
+  { level: "N2", kanji: "自己破産", reading: "じこはさん", korean: "지코하산", meaning: "자기파산",
+    example: "自己破産を申し立てました。", exampleReading: "じこはさんをもうしたてました。", exampleKorean: "지코하상오 모-시타테마시타", exampleMeaning: "자기파산을 신청했습니다.",
+    breakdown: [
+      { word: "申し立てました", reading: "もうしたてました", meaning: "신청했습니다" }
+    ] },
+  { level: "N2", kanji: "個人再生", reading: "こじんさいせい", korean: "코진사이세-", meaning: "개인회생",
+    example: "個人再生の手続きをしました。", exampleReading: "こじんさいせいのてつづきをしました。", exampleKorean: "코진사이세-노 테츠즈키오 시마시타", exampleMeaning: "개인회생 절차를 밟았습니다.",
+    breakdown: [
+      { word: "手続き", reading: "てつづき", meaning: "절차" }
+    ] },
+  { level: "N2", kanji: "任意整理", reading: "にんいせいり", korean: "닌이세-리", meaning: "임의정리",
+    example: "任意整理を弁護士に依頼しました。", exampleReading: "にんいせいりをべんごしにいらいしました。", exampleKorean: "닌이세-리오 벤고시니 이라이 시마시타", exampleMeaning: "임의정리를 변호사에게 의뢰했습니다.",
+    breakdown: [
+      { word: "弁護士", reading: "べんごし", meaning: "변호사" }
+    ] },
+  { level: "N2", kanji: "連帯保証", reading: "れんたいほしょう", korean: "렌타이호쇼-", meaning: "연대보증",
+    example: "連帯保証人になりました。", exampleReading: "れんたいほしょうにんになりました。", exampleKorean: "렌타이호쇼-닌니 나리마시타", exampleMeaning: "연대보증인이 되었습니다.",
+    breakdown: [
+      { word: "なりました", reading: "なりました", meaning: "되었습니다" }
+    ] },
+  { level: "N2", kanji: "債権者", reading: "さいけんしゃ", korean: "사이켄샤", meaning: "채권자",
+    example: "債権者から連絡がありました。", exampleReading: "さいけんしゃかられんらくがありました。", exampleKorean: "사이켄샤카라 렌라쿠가 아리마시타", exampleMeaning: "채권자로부터 연락이 있었습니다.",
+    breakdown: [
+      { word: "連絡", reading: "れんらく", meaning: "연락" }
+    ] },
+  { level: "N2", kanji: "債務者", reading: "さいむしゃ", korean: "사이무샤", meaning: "채무자",
+    example: "債務者として返済を続けています。", exampleReading: "さいむしゃとしてへんさいをつづけています。", exampleKorean: "사이무샤토시테 헨사이오 츠즈케테 이마스", exampleMeaning: "채무자로서 상환을 계속하고 있습니다.",
+    breakdown: [
+      { word: "返済", reading: "へんさい", meaning: "상환" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
