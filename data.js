@@ -3,6 +3,31 @@
 //          meaning(한국어 뜻), example(예문), exampleReading, exampleKorean, exampleMeaning
 const VOCAB = [
   // ---------- N5 ----------
+  { level: "N5", kanji: "雛祭り", reading: "ひなまつり", korean: "히나마츠리", meaning: "히나마츠리(여자아이 명절)",
+    example: "雛祭りを祝いました。", exampleReading: "ひなまつりをいわいました。", exampleKorean: "히나마츠리오 이와이마시타", exampleMeaning: "히나마츠리를 축하했습니다.",
+    breakdown: [
+      { word: "祝いました", reading: "いわいました", meaning: "축하했습니다" }
+    ] },
+  { level: "N5", kanji: "七夕祭り", reading: "たなばたまつり", korean: "타나바타마츠리", meaning: "칠석축제",
+    example: "七夕祭りに行きました。", exampleReading: "たなばたまつりにいきました。", exampleKorean: "타나바타마츠리니 이키마시타", exampleMeaning: "칠석축제에 갔습니다.",
+    breakdown: [
+      { word: "行きました", reading: "いきました", meaning: "갔습니다" }
+    ] },
+  { level: "N5", kanji: "餅つき", reading: "もちつき", korean: "모치츠키", meaning: "떡메치기",
+    example: "餅つきをしました。", exampleReading: "もちつきをしました。", exampleKorean: "모치츠키오 시마시타", exampleMeaning: "떡메치기를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N5", kanji: "お花見", reading: "おはなみ", korean: "오하나미", meaning: "꽃놀이",
+    example: "お花見に行きました。", exampleReading: "おはなみにいきました。", exampleKorean: "오하나미니 이키마시타", exampleMeaning: "꽃놀이를 갔습니다.",
+    breakdown: [
+      { word: "行きました", reading: "いきました", meaning: "갔습니다" }
+    ] },
+  { level: "N5", kanji: "月見", reading: "つきみ", korean: "츠키미", meaning: "달구경",
+    example: "月見をしました。", exampleReading: "つきみをしました。", exampleKorean: "츠키미오 시마시타", exampleMeaning: "달구경을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
   { level: "N5", kanji: "電源", reading: "でんげん", korean: "뎅겐", meaning: "전원",
     example: "電源を入れました。", exampleReading: "でんげんをいれました。", exampleKorean: "뎅겐오 이레마시타", exampleMeaning: "전원을 켰습니다.",
     breakdown: [
@@ -6495,6 +6520,56 @@ const VOCAB = [
     ] },
 
   // ---------- N4 ----------
+  { level: "N4", kanji: "露天風呂", reading: "ろてんぶろ", korean: "로텐부로", meaning: "노천탕",
+    example: "露天風呂に入りました。", exampleReading: "ろてんぶろにはいりました。", exampleKorean: "로텐부로니 하이리마시타", exampleMeaning: "노천탕에 들어갔습니다.",
+    breakdown: [
+      { word: "入りました", reading: "はいりました", meaning: "들어갔습니다" }
+    ] },
+  { level: "N4", kanji: "温泉旅館", reading: "おんせんりょかん", korean: "온센료칸", meaning: "온천여관",
+    example: "温泉旅館に泊まりました。", exampleReading: "おんせんりょかんにとまりました。", exampleKorean: "온센료칸니 토마리마시타", exampleMeaning: "온천여관에 묵었습니다.",
+    breakdown: [
+      { word: "泊まりました", reading: "とまりました", meaning: "묵었습니다" }
+    ] },
+  { level: "N4", kanji: "湯船", reading: "ゆぶね", korean: "유부네", meaning: "욕조",
+    example: "湯船に浸かりました。", exampleReading: "ゆぶねにつかりました。", exampleKorean: "유부네니 츠카리마시타", exampleMeaning: "욕조에 몸을 담갔습니다.",
+    breakdown: [
+      { word: "浸かりました", reading: "つかりました", meaning: "담갔습니다" }
+    ] },
+  { level: "N4", kanji: "かけ湯", reading: "かけゆ", korean: "카케유", meaning: "몸에 물 끼얹기",
+    example: "かけ湯をしてから入りました。", exampleReading: "かけゆをしてからはいりました。", exampleKorean: "카케유오 시테카라 하이리마시타", exampleMeaning: "몸에 물을 끼얹은 후 들어갔습니다.",
+    breakdown: [
+      { word: "入りました", reading: "はいりました", meaning: "들어갔습니다" }
+    ] },
+  { level: "N4", kanji: "脱衣所", reading: "だついじょ", korean: "다츠이죠", meaning: "탈의실",
+    example: "脱衣所で着替えました。", exampleReading: "だついじょできがえました。", exampleKorean: "다츠이죠데 키가에마시타", exampleMeaning: "탈의실에서 옷을 갈아입었습니다.",
+    breakdown: [
+      { word: "着替えました", reading: "きがえました", meaning: "갈아입었습니다" }
+    ] },
+  { level: "N4", kanji: "湯上がり", reading: "ゆあがり", korean: "유아가리", meaning: "목욕 후",
+    example: "湯上がりに牛乳を飲みました。", exampleReading: "ゆあがりにぎゅうにゅうをのみました。", exampleKorean: "유아가리니 규-뉴-오 노미마시타", exampleMeaning: "목욕 후 우유를 마셨습니다.",
+    breakdown: [
+      { word: "牛乳", reading: "ぎゅうにゅう", meaning: "우유" }
+    ] },
+  { level: "N4", kanji: "温泉街", reading: "おんせんがい", korean: "온센가이", meaning: "온천거리",
+    example: "温泉街を散策しました。", exampleReading: "おんせんがいをさんさくしました。", exampleKorean: "온센가이오 산사쿠 시마시타", exampleMeaning: "온천거리를 산책했습니다.",
+    breakdown: [
+      { word: "散策", reading: "さんさく", meaning: "산책" }
+    ] },
+  { level: "N4", kanji: "足湯", reading: "あしゆ", korean: "아시유", meaning: "족욕",
+    example: "足湯に入りました。", exampleReading: "あしゆにはいりました。", exampleKorean: "아시유니 하이리마시타", exampleMeaning: "족욕을 했습니다.",
+    breakdown: [
+      { word: "入りました", reading: "はいりました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "貸切風呂", reading: "かしきりぶろ", korean: "카시키리부로", meaning: "전세탕",
+    example: "貸切風呂を予約しました。", exampleReading: "かしきりぶろをよやくしました。", exampleKorean: "카시키리부로오 요야쿠 시마시타", exampleMeaning: "전세탕을 예약했습니다.",
+    breakdown: [
+      { word: "予約", reading: "よやく", meaning: "예약" }
+    ] },
+  { level: "N4", kanji: "湯めぐり", reading: "ゆめぐり", korean: "유메구리", meaning: "온천순례",
+    example: "湯めぐりを楽しみました。", exampleReading: "ゆめぐりをたのしみました。", exampleKorean: "유메구리오 타노시미마시타", exampleMeaning: "온천순례를 즐겼습니다.",
+    breakdown: [
+      { word: "楽しみました", reading: "たのしみました", meaning: "즐겼습니다" }
+    ] },
   { level: "N4", kanji: "貸出カード", reading: "かしだしカード", korean: "카시다시카-도", meaning: "대출카드(도서관)",
     example: "貸出カードを作りました。", exampleReading: "かしだしカードをつくりました。", exampleKorean: "카시다시카-도오 츠쿠리마시타", exampleMeaning: "대출카드를 만들었습니다.",
     breakdown: [
@@ -12905,6 +12980,41 @@ const VOCAB = [
     ] },
 
   // ---------- N3 ----------
+  { level: "N3", kanji: "一時停止", reading: "いちじていし", korean: "이치지테-시", meaning: "일시정지",
+    example: "一時停止の標識があります。", exampleReading: "いちじていしのひょうしきがあります。", exampleKorean: "이치지테-시노 효-시키가 아리마스", exampleMeaning: "일시정지 표지판이 있습니다.",
+    breakdown: [
+      { word: "標識", reading: "ひょうしき", meaning: "표지판" }
+    ] },
+  { level: "N3", kanji: "追い越し禁止", reading: "おいこしきんし", korean: "오이코시킨시", meaning: "추월금지",
+    example: "追い越し禁止区間です。", exampleReading: "おいこしきんしくかんです。", exampleKorean: "오이코시킨시 쿠칸데스", exampleMeaning: "추월금지구간입니다.",
+    breakdown: [
+      { word: "区間", reading: "くかん", meaning: "구간" }
+    ] },
+  { level: "N3", kanji: "駐停車禁止", reading: "ちゅうていしゃきんし", korean: "츄-테-샤킨시", meaning: "주정차금지",
+    example: "駐停車禁止の標識です。", exampleReading: "ちゅうていしゃきんしのひょうしきです。", exampleKorean: "츄-테-샤킨시노 효-시키데스", exampleMeaning: "주정차금지 표지판입니다.",
+    breakdown: [
+      { word: "標識", reading: "ひょうしき", meaning: "표지판" }
+    ] },
+  { level: "N3", kanji: "信号無視", reading: "しんごうむし", korean: "신고-무시", meaning: "신호위반",
+    example: "信号無視をしてはいけません。", exampleReading: "しんごうむしをしてはいけません。", exampleKorean: "신고-무시오 시테와 이케마셍", exampleMeaning: "신호위반을 해서는 안 됩니다.",
+    breakdown: [
+      { word: "いけません", reading: "いけません", meaning: "안 됩니다" }
+    ] },
+  { level: "N3", kanji: "速度超過", reading: "そくどちょうか", korean: "소쿠도쵸-카", meaning: "속도초과",
+    example: "速度超過で捕まりました。", exampleReading: "そくどちょうかでつかまりました。", exampleKorean: "소쿠도쵸-카데 츠카마리마시타", exampleMeaning: "속도초과로 잡혔습니다.",
+    breakdown: [
+      { word: "捕まりました", reading: "つかまりました", meaning: "잡혔습니다" }
+    ] },
+  { level: "N3", kanji: "運転免許更新", reading: "うんてんめんきょこうしん", korean: "운텐멘쿄코-신", meaning: "운전면허갱신",
+    example: "運転免許更新をしました。", exampleReading: "うんてんめんきょこうしんをしました。", exampleKorean: "운텐멘쿄코-신오 시마시타", exampleMeaning: "운전면허갱신을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N3", kanji: "交通標識", reading: "こうつうひょうしき", korean: "코-츠-효-시키", meaning: "교통표지",
+    example: "交通標識を確認しました。", exampleReading: "こうつうひょうしきをかくにんしました。", exampleKorean: "코-츠-효-시키오 카쿠닌 시마시타", exampleMeaning: "교통표지를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
   { level: "N3", kanji: "生命保険", reading: "せいめいほけん", korean: "세-메-호켄", meaning: "생명보험",
     example: "生命保険に加入しました。", exampleReading: "せいめいほけんにかにゅうしました。", exampleKorean: "세-메-호켄니 카뉴- 시마시타", exampleMeaning: "생명보험에 가입했습니다.",
     breakdown: [
@@ -18340,6 +18450,51 @@ const VOCAB = [
     ] },
 
   // ---------- N2 ----------
+  { level: "N2", kanji: "建築基準法", reading: "けんちくきじゅんほう", korean: "켄치쿠키쥰호-", meaning: "건축기준법",
+    example: "建築基準法を遵守しています。", exampleReading: "けんちくきじゅんほうをじゅんしゅしています。", exampleKorean: "켄치쿠키쥰호-오 쥰슈 시테 이마스", exampleMeaning: "건축기준법을 준수하고 있습니다.",
+    breakdown: [
+      { word: "遵守", reading: "じゅんしゅ", meaning: "준수" }
+    ] },
+  { level: "N2", kanji: "容積率", reading: "ようせきりつ", korean: "요-세키리츠", meaning: "용적률",
+    example: "容積率が制限されています。", exampleReading: "ようせきりつがせいげんされています。", exampleKorean: "요-세키리츠가 세-겐 사레테 이마스", exampleMeaning: "용적률이 제한되고 있습니다.",
+    breakdown: [
+      { word: "制限", reading: "せいげん", meaning: "제한" }
+    ] },
+  { level: "N2", kanji: "建蔽率", reading: "けんぺいりつ", korean: "켄페-리츠", meaning: "건폐율",
+    example: "建蔽率を確認しました。", exampleReading: "けんぺいりつをかくにんしました。", exampleKorean: "켄페-리츠오 카쿠닌 시마시타", exampleMeaning: "건폐율을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N2", kanji: "再開発事業", reading: "さいかいはつじぎょう", korean: "사이카이하츠지교-", meaning: "재개발사업",
+    example: "再開発事業が進んでいます。", exampleReading: "さいかいはつじぎょうがすすんでいます。", exampleKorean: "사이카이하츠지교-가 스슨데 이마스", exampleMeaning: "재개발사업이 진행되고 있습니다.",
+    breakdown: [
+      { word: "進んで", reading: "すすんで", meaning: "진행되어" }
+    ] },
+  { level: "N2", kanji: "景観条例", reading: "けいかんじょうれい", korean: "케-칸죠-레-", meaning: "경관조례",
+    example: "景観条例を制定しました。", exampleReading: "けいかんじょうれいをせいていしました。", exampleKorean: "케-칸죠-레-오 세-테- 시마시타", exampleMeaning: "경관조례를 제정했습니다.",
+    breakdown: [
+      { word: "制定", reading: "せいてい", meaning: "제정" }
+    ] },
+  { level: "N2", kanji: "耐震設計", reading: "たいしんせっけい", korean: "타이신섹케-", meaning: "내진설계",
+    example: "耐震設計を採用しました。", exampleReading: "たいしんせっけいをさいようしました。", exampleKorean: "타이신섹케-오 사이요- 시마시타", exampleMeaning: "내진설계를 채택했습니다.",
+    breakdown: [
+      { word: "採用", reading: "さいよう", meaning: "채택" }
+    ] },
+  { level: "N2", kanji: "免震構造", reading: "めんしんこうぞう", korean: "멘신코-조-", meaning: "면진구조",
+    example: "免震構造を導入しました。", exampleReading: "めんしんこうぞうをどうにゅうしました。", exampleKorean: "멘신코-조-오 도-뉴- 시마시타", exampleMeaning: "면진구조를 도입했습니다.",
+    breakdown: [
+      { word: "導入", reading: "どうにゅう", meaning: "도입" }
+    ] },
+  { level: "N2", kanji: "土地区画整理", reading: "とちくかくせいり", korean: "토치쿠카쿠세-리", meaning: "토지구획정리",
+    example: "土地区画整理事業です。", exampleReading: "とちくかくせいりじぎょうです。", exampleKorean: "토치쿠카쿠세-리지교-데스", exampleMeaning: "토지구획정리사업입니다.",
+    breakdown: [
+      { word: "事業", reading: "じぎょう", meaning: "사업" }
+    ] },
+  { level: "N2", kanji: "インフラ整備", reading: "インフラせいび", korean: "인후라세-비", meaning: "인프라정비",
+    example: "インフラ整備を進めています。", exampleReading: "インフラせいびをすすめています。", exampleKorean: "인후라세-비오 스스메테 이마스", exampleMeaning: "인프라정비를 추진하고 있습니다.",
+    breakdown: [
+      { word: "進めて", reading: "すすめて", meaning: "추진해서" }
+    ] },
   { level: "N2", kanji: "恒星", reading: "こうせい", korean: "코-세-", meaning: "항성",
     example: "恒星を観測しました。", exampleReading: "こうせいをかんそくしました。", exampleKorean: "코-세-오 칸소쿠 시마시타", exampleMeaning: "항성을 관측했습니다.",
     breakdown: [
@@ -22659,6 +22814,56 @@ const VOCAB = [
     ] },
 
   // ---------- N1 ----------
+  { level: "N1", kanji: "防衛機制", reading: "ぼうえいきせい", korean: "보-에-키세-", meaning: "방어기제",
+    example: "防衛機制が働きました。", exampleReading: "ぼうえいきせいがはたらきました。", exampleKorean: "보-에-키세-가 하타라키마시타", exampleMeaning: "방어기제가 작동했습니다.",
+    breakdown: [
+      { word: "働きました", reading: "はたらきました", meaning: "작동했습니다" }
+    ] },
+  { level: "N1", kanji: "認知的不協和", reading: "にんちてきふきょうわ", korean: "닌치테키후쿄-와", meaning: "인지부조화",
+    example: "認知的不協和を感じました。", exampleReading: "にんちてきふきょうわをかんじました。", exampleKorean: "닌치테키후쿄-와오 칸지마시타", exampleMeaning: "인지부조화를 느꼈습니다.",
+    breakdown: [
+      { word: "感じました", reading: "かんじました", meaning: "느꼈습니다" }
+    ] },
+  { level: "N1", kanji: "投影", reading: "とうえい", korean: "토-에-", meaning: "투영(심리학적 방어기제)",
+    example: "自分の感情を投影しました。", exampleReading: "じぶんのかんじょうをとうえいしました。", exampleKorean: "지분노 칸죠-오 토-에- 시마시타", exampleMeaning: "자신의 감정을 투영했습니다.",
+    breakdown: [
+      { word: "感情", reading: "かんじょう", meaning: "감정" }
+    ] },
+  { level: "N1", kanji: "抑圧", reading: "よくあつ", korean: "요쿠아츠", meaning: "억압(심리학)",
+    example: "感情を抑圧していました。", exampleReading: "かんじょうをよくあつしていました。", exampleKorean: "칸죠-오 요쿠아츠 시테 이마시타", exampleMeaning: "감정을 억압하고 있었습니다.",
+    breakdown: [
+      { word: "感情", reading: "かんじょう", meaning: "감정" }
+    ] },
+  { level: "N1", kanji: "昇華", reading: "しょうか", korean: "쇼-카", meaning: "승화(심리학적 방어기제)",
+    example: "欲求を昇華させました。", exampleReading: "よっきゅうをしょうかさせました。", exampleKorean: "욕큐-오 쇼-카 사세마시타", exampleMeaning: "욕구를 승화시켰습니다.",
+    breakdown: [
+      { word: "欲求", reading: "よっきゅう", meaning: "욕구" }
+    ] },
+  { level: "N1", kanji: "退行", reading: "たいこう", korean: "타이코-", meaning: "퇴행(심리학)",
+    example: "退行現象が見られました。", exampleReading: "たいこうげんしょうがみられました。", exampleKorean: "타이코-겐쇼-가 미라레마시타", exampleMeaning: "퇴행현상이 나타났습니다.",
+    breakdown: [
+      { word: "現象", reading: "げんしょう", meaning: "현상" }
+    ] },
+  { level: "N1", kanji: "転移", reading: "てんい", korean: "텐이", meaning: "전이(심리학)",
+    example: "感情の転移が起こりました。", exampleReading: "かんじょうのてんいがおこりました。", exampleKorean: "칸죠-노 텐이가 오코리마시타", exampleMeaning: "감정의 전이가 일어났습니다.",
+    breakdown: [
+      { word: "感情", reading: "かんじょう", meaning: "감정" }
+    ] },
+  { level: "N1", kanji: "合理化", reading: "ごうりか", korean: "고-리카", meaning: "합리화(심리학적 방어기제)",
+    example: "失敗を合理化しました。", exampleReading: "しっぱいをごうりかしました。", exampleKorean: "십파이오 고-리카 시마시타", exampleMeaning: "실패를 합리화했습니다.",
+    breakdown: [
+      { word: "失敗", reading: "しっぱい", meaning: "실패" }
+    ] },
+  { level: "N1", kanji: "投影同一視", reading: "とうえいどういつし", korean: "토-에-도-이츠시", meaning: "투사적 동일시",
+    example: "投影同一視が見られました。", exampleReading: "とうえいどういつしがみられました。", exampleKorean: "토-에-도-이츠시가 미라레마시타", exampleMeaning: "투사적 동일시가 나타났습니다.",
+    breakdown: [
+      { word: "見られました", reading: "みられました", meaning: "나타났습니다" }
+    ] },
+  { level: "N1", kanji: "自己愛", reading: "じこあい", korean: "지코아이", meaning: "자기애",
+    example: "強い自己愛を持っています。", exampleReading: "つよいじこあいをもっています。", exampleKorean: "츠요이 지코아이오 못테 이마스", exampleMeaning: "강한 자기애를 가지고 있습니다.",
+    breakdown: [
+      { word: "強い", reading: "つよい", meaning: "강한" }
+    ] },
   { level: "N1", kanji: "限界効用", reading: "げんかいこうよう", korean: "겐카이코-요-", meaning: "한계효용",
     example: "限界効用逓減の法則です。", exampleReading: "げんかいこうようていげんのほうそくです。", exampleKorean: "겐카이코-요- 테-겐노 호-소쿠데스", exampleMeaning: "한계효용체감의 법칙입니다.",
     breakdown: [
