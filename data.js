@@ -9718,6 +9718,206 @@ const VOCAB = [
     breakdown: [
       { word: "子供", reading: "こども", meaning: "아이" }
     ] },
+  { level: "N4", kanji: "引っ越し業者", reading: "ひっこしぎょうしゃ", korean: "힉코시교-샤", meaning: "이사업체",
+    example: "引っ越し業者に依頼しました。", exampleReading: "ひっこしぎょうしゃにいらいしました。", exampleKorean: "힉코시교-샤니 이라이 시마시타", exampleMeaning: "이사업체에 의뢰했습니다.",
+    breakdown: [
+      { word: "依頼", reading: "いらい", meaning: "의뢰" }
+    ] },
+  { level: "N4", kanji: "荷造り", reading: "にづくり", korean: "니즈쿠리", meaning: "짐 싸기",
+    example: "荷造りを始めました。", exampleReading: "にづくりをはじめました。", exampleKorean: "니즈쿠리오 하지메마시타", exampleMeaning: "짐 싸기를 시작했습니다.",
+    breakdown: [
+      { word: "始めました", reading: "はじめました", meaning: "시작했습니다" }
+    ] },
+  { level: "N4", kanji: "梱包", reading: "こんぽう", korean: "콘포-", meaning: "포장(짐)",
+    example: "食器を梱包しました。", exampleReading: "しょっきをこんぽうしました。", exampleKorean: "쇽키오 콘포- 시마시타", exampleMeaning: "그릇을 포장했습니다.",
+    breakdown: [
+      { word: "食器", reading: "しょっき", meaning: "그릇" }
+    ] },
+  { level: "N4", kanji: "段ボール箱", reading: "だんボールばこ", korean: "단보-루바코", meaning: "골판지 상자",
+    example: "段ボール箱に本を詰めました。", exampleReading: "だんボールばこにほんをつめました。", exampleKorean: "단보-루바코니 홍오 츠메마시타", exampleMeaning: "골판지 상자에 책을 넣었습니다.",
+    breakdown: [
+      { word: "本", reading: "ほん", meaning: "책" }
+    ] },
+  { level: "N4", kanji: "家具配置", reading: "かぐはいち", korean: "카구하이치", meaning: "가구 배치",
+    example: "家具配置を考えました。", exampleReading: "かぐはいちをかんがえました。", exampleKorean: "카구하이치오 캉가에마시타", exampleMeaning: "가구 배치를 생각했습니다.",
+    breakdown: [
+      { word: "考えました", reading: "かんがえました", meaning: "생각했습니다" }
+    ] },
+  { level: "N4", kanji: "新居", reading: "しんきょ", korean: "신쿄", meaning: "새 집",
+    example: "新居に引っ越しました。", exampleReading: "しんきょにひっこしました。", exampleKorean: "신쿄니 힉코시 시마시타", exampleMeaning: "새 집으로 이사했습니다.",
+    breakdown: [
+      { word: "引っ越しました", reading: "ひっこしました", meaning: "이사했습니다" }
+    ] },
+  { level: "N4", kanji: "旧居", reading: "きゅうきょ", korean: "큐-쿄", meaning: "이전 집",
+    example: "旧居を掃除しました。", exampleReading: "きゅうきょをそうじしました。", exampleKorean: "큐-쿄오 소-지 시마시타", exampleMeaning: "이전 집을 청소했습니다.",
+    breakdown: [
+      { word: "掃除", reading: "そうじ", meaning: "청소" }
+    ] },
+  { level: "N4", kanji: "敷金精算", reading: "しききんせいさん", korean: "시키킨세-산", meaning: "보증금 정산",
+    example: "敷金精算をしました。", exampleReading: "しききんせいさんをしました。", exampleKorean: "시키킨세-상오 시마시타", exampleMeaning: "보증금 정산을 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "電気開通", reading: "でんきかいつう", korean: "덴키카이츠-", meaning: "전기 개통",
+    example: "電気開通の手続きをしました。", exampleReading: "でんきかいつうのてつづきをしました。", exampleKorean: "덴키카이츠-노 테츠즈키오 시마시타", exampleMeaning: "전기 개통 절차를 밟았습니다.",
+    breakdown: [
+      { word: "手続き", reading: "てつづき", meaning: "절차" }
+    ] },
+  { level: "N4", kanji: "ガス開栓", reading: "ガスかいせん", korean: "가스카이센", meaning: "가스 개통",
+    example: "ガス開栓に立ち会いました。", exampleReading: "ガスかいせんにたちあいました。", exampleKorean: "가스카이센니 타치아이마시타", exampleMeaning: "가스 개통에 입회했습니다.",
+    breakdown: [
+      { word: "立ち会いました", reading: "たちあいました", meaning: "입회했습니다" }
+    ] },
+  { level: "N4", kanji: "水道開栓", reading: "すいどうかいせん", korean: "스이도-카이센", meaning: "수도 개통",
+    example: "水道開栓の連絡をしました。", exampleReading: "すいどうかいせんのれんらくをしました。", exampleKorean: "스이도-카이센노 렌라쿠오 시마시타", exampleMeaning: "수도 개통 연락을 했습니다.",
+    breakdown: [
+      { word: "連絡", reading: "れんらく", meaning: "연락" }
+    ] },
+  { level: "N4", kanji: "インターネット開通", reading: "インターネットかいつう", korean: "인타-넷토카이츠-", meaning: "인터넷 개통",
+    example: "インターネット開通の工事をしました。", exampleReading: "インターネットかいつうのこうじをしました。", exampleKorean: "인타-넷토카이츠-노 코-지오 시마시타", exampleMeaning: "인터넷 개통 공사를 했습니다.",
+    breakdown: [
+      { word: "工事", reading: "こうじ", meaning: "공사" }
+    ] },
+  { level: "N4", kanji: "住所変更手続き", reading: "じゅうしょへんこうてつづき", korean: "쥬-쇼헨코-테츠즈키", meaning: "주소변경 절차",
+    example: "住所変更手続きをしました。", exampleReading: "じゅうしょへんこうてつづきをしました。", exampleKorean: "쥬-쇼헨코-테츠즈키오 시마시타", exampleMeaning: "주소변경 절차를 밟았습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "転居通知", reading: "てんきょつうち", korean: "텐쿄츠-치", meaning: "이사통지",
+    example: "転居通知を送りました。", exampleReading: "てんきょつうちをおくりました。", exampleKorean: "텐쿄츠-치오 오쿠리마시타", exampleMeaning: "이사통지를 보냈습니다.",
+    breakdown: [
+      { word: "送りました", reading: "おくりました", meaning: "보냈습니다" }
+    ] },
+  { level: "N4", kanji: "近所挨拶", reading: "きんじょあいさつ", korean: "킨죠아이사츠", meaning: "이웃 인사",
+    example: "近所挨拶に回りました。", exampleReading: "きんじょあいさつにまわりました。", exampleKorean: "킨죠아이사츠니 마와리마시타", exampleMeaning: "이웃 인사를 돌았습니다.",
+    breakdown: [
+      { word: "回りました", reading: "まわりました", meaning: "돌았습니다" }
+    ] },
+  { level: "N4", kanji: "町内会", reading: "ちょうないかい", korean: "쵸-나이카이", meaning: "마을회",
+    example: "町内会に参加しました。", exampleReading: "ちょうないかいにさんかしました。", exampleKorean: "쵸-나이카이니 상카 시마시타", exampleMeaning: "마을회에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N4", kanji: "自治会", reading: "じちかい", korean: "지치카이", meaning: "자치회",
+    example: "自治会の会合に出ました。", exampleReading: "じちかいのかいごうにでました。", exampleKorean: "지치카이노 카이고-니 데마시타", exampleMeaning: "자치회 모임에 나갔습니다.",
+    breakdown: [
+      { word: "会合", reading: "かいごう", meaning: "모임" }
+    ] },
+  { level: "N4", kanji: "ゴミ出しルール", reading: "ゴミだしルール", korean: "고미다시루-루", meaning: "쓰레기 배출 규칙",
+    example: "ゴミ出しルールを確認しました。", exampleReading: "ゴミだしルールをかくにんしました。", exampleKorean: "고미다시루-루오 카쿠닌 시마시타", exampleMeaning: "쓰레기 배출 규칙을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "分別収集", reading: "ぶんべつしゅうしゅう", korean: "분베츠슈-슈-", meaning: "분리수거",
+    example: "分別収集に協力しています。", exampleReading: "ぶんべつしゅうしゅうにきょうりょくしています。", exampleKorean: "분베츠슈-슈-니 쿄-료쿠 시테 이마스", exampleMeaning: "분리수거에 협력하고 있습니다.",
+    breakdown: [
+      { word: "協力", reading: "きょうりょく", meaning: "협력" }
+    ] },
+  { level: "N4", kanji: "資源ごみ", reading: "しげんごみ", korean: "시겐고미", meaning: "재활용쓰레기",
+    example: "資源ごみを出しました。", exampleReading: "しげんごみをだしました。", exampleKorean: "시겐고미오 다시마시타", exampleMeaning: "재활용쓰레기를 배출했습니다.",
+    breakdown: [
+      { word: "出しました", reading: "だしました", meaning: "배출했습니다" }
+    ] },
+  { level: "N4", kanji: "粗大ごみ", reading: "そだいごみ", korean: "소다이고미", meaning: "대형쓰레기",
+    example: "粗大ごみを処分しました。", exampleReading: "そだいごみをしょぶんしました。", exampleKorean: "소다이고미오 쇼분 시마시타", exampleMeaning: "대형쓰레기를 처분했습니다.",
+    breakdown: [
+      { word: "処分", reading: "しょぶん", meaning: "처분" }
+    ] },
+  { level: "N4", kanji: "燃えるごみ", reading: "もえるごみ", korean: "모에루고미", meaning: "가연성쓰레기",
+    example: "燃えるごみは火曜日です。", exampleReading: "もえるごみはかようびです。", exampleKorean: "모에루고미와 카요-비데스", exampleMeaning: "가연성쓰레기는 화요일입니다.",
+    breakdown: [
+      { word: "火曜日", reading: "かようび", meaning: "화요일" }
+    ] },
+  { level: "N4", kanji: "燃えないごみ", reading: "もえないごみ", korean: "모에나이고미", meaning: "불연성쓰레기",
+    example: "燃えないごみを出しました。", exampleReading: "もえないごみをだしました。", exampleKorean: "모에나이고미오 다시마시타", exampleMeaning: "불연성쓰레기를 배출했습니다.",
+    breakdown: [
+      { word: "出しました", reading: "だしました", meaning: "배출했습니다" }
+    ] },
+  { level: "N4", kanji: "資源回収日", reading: "しげんかいしゅうび", korean: "시겐카이슈-비", meaning: "자원회수일",
+    example: "資源回収日を確認しました。", exampleReading: "しげんかいしゅうびをかくにんしました。", exampleKorean: "시겐카이슈-비오 카쿠닌 시마시타", exampleMeaning: "자원회수일을 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N4", kanji: "ゴミ収集車", reading: "ゴミしゅうしゅうしゃ", korean: "고미슈-슈-샤", meaning: "쓰레기 수거차",
+    example: "ゴミ収集車が来ました。", exampleReading: "ゴミしゅうしゅうしゃがきました。", exampleKorean: "고미슈-슈-샤가 키마시타", exampleMeaning: "쓰레기 수거차가 왔습니다.",
+    breakdown: [
+      { word: "来ました", reading: "きました", meaning: "왔습니다" }
+    ] },
+  { level: "N4", kanji: "リサイクルセンター", reading: "リサイクルセンター", korean: "리사이쿠루센타-", meaning: "재활용센터",
+    example: "リサイクルセンターに持って行きました。", exampleReading: "リサイクルセンターにもっていきました。", exampleKorean: "리사이쿠루센타-니 못테 이키마시타", exampleMeaning: "재활용센터에 가지고 갔습니다.",
+    breakdown: [
+      { word: "持って行きました", reading: "もっていきました", meaning: "가지고 갔습니다" }
+    ] },
+  { level: "N4", kanji: "町内清掃", reading: "ちょうないせいそう", korean: "쵸-나이세-소-", meaning: "마을 청소",
+    example: "町内清掃に参加しました。", exampleReading: "ちょうないせいそうにさんかしました。", exampleKorean: "쵸-나이세-소-니 상카 시마시타", exampleMeaning: "마을 청소에 참가했습니다.",
+    breakdown: [
+      { word: "参加", reading: "さんか", meaning: "참가" }
+    ] },
+  { level: "N4", kanji: "溝掃除", reading: "みぞそうじ", korean: "미조소-지", meaning: "도랑 청소",
+    example: "溝掃除を手伝いました。", exampleReading: "みぞそうじをてつだいました。", exampleKorean: "미조소-지오 테츠다이마시타", exampleMeaning: "도랑 청소를 도왔습니다.",
+    breakdown: [
+      { word: "手伝いました", reading: "てつだいました", meaning: "도왔습니다" }
+    ] },
+  { level: "N4", kanji: "側溝", reading: "そっこう", korean: "솟코-", meaning: "측구, 배수로",
+    example: "側溝が詰まっています。", exampleReading: "そっこうがつまっています。", exampleKorean: "솟코-가 츠맛테 이마스", exampleMeaning: "배수로가 막혀 있습니다.",
+    breakdown: [
+      { word: "詰まって", reading: "つまって", meaning: "막혀서" }
+    ] },
+  { level: "N4", kanji: "排水溝", reading: "はいすいこう", korean: "하이스이코-", meaning: "배수구",
+    example: "排水溝を掃除しました。", exampleReading: "はいすいこうをそうじしました。", exampleKorean: "하이스이코-오 소-지 시마시타", exampleMeaning: "배수구를 청소했습니다.",
+    breakdown: [
+      { word: "掃除", reading: "そうじ", meaning: "청소" }
+    ] },
+  { level: "N4", kanji: "雨どい", reading: "あまどい", korean: "아마도이", meaning: "빗물받이",
+    example: "雨どいが詰まっています。", exampleReading: "あまどいがつまっています。", exampleKorean: "아마도이가 츠맛테 이마스", exampleMeaning: "빗물받이가 막혀 있습니다.",
+    breakdown: [
+      { word: "詰まって", reading: "つまって", meaning: "막혀서" }
+    ] },
+  { level: "N4", kanji: "網戸", reading: "あみど", korean: "아미도", meaning: "방충망",
+    example: "網戸を閉めました。", exampleReading: "あみどをしめました。", exampleKorean: "아미도오 시메마시타", exampleMeaning: "방충망을 닫았습니다.",
+    breakdown: [
+      { word: "閉めました", reading: "しめました", meaning: "닫았습니다" }
+    ] },
+  { level: "N4", kanji: "網戸掃除", reading: "あみどそうじ", korean: "아미도소-지", meaning: "방충망 청소",
+    example: "網戸掃除をしました。", exampleReading: "あみどそうじをしました。", exampleKorean: "아미도소-지오 시마시타", exampleMeaning: "방충망 청소를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "窓拭き", reading: "まどふき", korean: "마도후키", meaning: "창문 닦기",
+    example: "窓拭きをしました。", exampleReading: "まどふきをしました。", exampleKorean: "마도후키오 시마시타", exampleMeaning: "창문 닦기를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "大掃除", reading: "おおそうじ", korean: "오-소-지", meaning: "대청소",
+    example: "年末に大掃除をします。", exampleReading: "ねんまつにおおそうじをします。", exampleKorean: "넨마츠니 오-소-지오 시마스", exampleMeaning: "연말에 대청소를 합니다.",
+    breakdown: [
+      { word: "年末", reading: "ねんまつ", meaning: "연말" }
+    ] },
+  { level: "N4", kanji: "衣替え", reading: "ころもがえ", korean: "코로모가에", meaning: "계절 옷 정리",
+    example: "衣替えをしました。", exampleReading: "ころもがえをしました。", exampleKorean: "코로모가에오 시마시타", exampleMeaning: "계절 옷 정리를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "クローゼット整理", reading: "クローゼットせいり", korean: "쿠로-젯토세-리", meaning: "옷장 정리",
+    example: "クローゼット整理をしました。", exampleReading: "クローゼットせいりをしました。", exampleKorean: "쿠로-젯토세-리오 시마시타", exampleMeaning: "옷장 정리를 했습니다.",
+    breakdown: [
+      { word: "しました", reading: "しました", meaning: "했습니다" }
+    ] },
+  { level: "N4", kanji: "押し入れ収納", reading: "おしいれしゅうのう", korean: "오시이레슈-노-", meaning: "벽장 수납",
+    example: "押し入れ収納を工夫しました。", exampleReading: "おしいれしゅうのうをくふうしました。", exampleKorean: "오시이레슈-노-오 쿠후- 시마시타", exampleMeaning: "벽장 수납을 궁리했습니다.",
+    breakdown: [
+      { word: "工夫", reading: "くふう", meaning: "궁리" }
+    ] },
+  { level: "N4", kanji: "断捨離", reading: "だんしゃり", korean: "단샤리", meaning: "단샤리(불필요한 것 버리기)",
+    example: "断捨離を始めました。", exampleReading: "だんしゃりをはじめました。", exampleKorean: "단샤리오 하지메마시타", exampleMeaning: "단샤리를 시작했습니다.",
+    breakdown: [
+      { word: "始めました", reading: "はじめました", meaning: "시작했습니다" }
+    ] },
+  { level: "N4", kanji: "ミニマリスト", reading: "ミニマリスト", korean: "미니마리스토", meaning: "미니멀리스트",
+    example: "ミニマリストを目指しています。", exampleReading: "ミニマリストをめざしています。", exampleKorean: "미니마리스토오 메자시테 이마스", exampleMeaning: "미니멀리스트를 지향하고 있습니다.",
+    breakdown: [
+      { word: "目指して", reading: "めざして", meaning: "지향해서" }
+    ] },
 
   // ---------- N3 ----------
   { level: "N3", kanji: "影響", reading: "えいきょう", korean: "에-쿄-", meaning: "영향",
