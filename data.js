@@ -19087,6 +19087,156 @@ const VOCAB = [
     breakdown: [
       { word: "プロジェクト", reading: "プロジェクト", meaning: "프로젝트" }
     ] },
+  { level: "N2", kanji: "減価償却", reading: "げんかしょうきゃく", korean: "겐카쇼-캬쿠", meaning: "감가상각",
+    example: "減価償却費を計上しました。", exampleReading: "げんかしょうきゃくひをけいじょうしました。", exampleKorean: "겐카쇼-캬쿠히오 케-죠- 시마시타", exampleMeaning: "감가상각비를 계상했습니다.",
+    breakdown: [
+      { word: "計上", reading: "けいじょう", meaning: "계상" }
+    ] },
+  { level: "N2", kanji: "棚卸し", reading: "たなおろし", korean: "타나오로시", meaning: "재고조사",
+    example: "年末に棚卸しをします。", exampleReading: "ねんまつにたなおろしをします。", exampleKorean: "넨마츠니 타나오로시오 시마스", exampleMeaning: "연말에 재고조사를 합니다.",
+    breakdown: [
+      { word: "年末", reading: "ねんまつ", meaning: "연말" }
+    ] },
+  { level: "N2", kanji: "原価計算", reading: "げんかけいさん", korean: "겐카케-산", meaning: "원가계산",
+    example: "原価計算を見直しました。", exampleReading: "げんかけいさんをみなおしました。", exampleKorean: "겐카케-산오 미나오시마시타", exampleMeaning: "원가계산을 재검토했습니다.",
+    breakdown: [
+      { word: "見直しました", reading: "みなおしました", meaning: "재검토했습니다" }
+    ] },
+  { level: "N2", kanji: "損益分岐点", reading: "そんえきぶんきてん", korean: "손에키분키텐", meaning: "손익분기점",
+    example: "損益分岐点を計算しました。", exampleReading: "そんえきぶんきてんをけいさんしました。", exampleKorean: "손에키분키텐오 케-산 시마시타", exampleMeaning: "손익분기점을 계산했습니다.",
+    breakdown: [
+      { word: "計算", reading: "けいさん", meaning: "계산" }
+    ] },
+  { level: "N2", kanji: "キャッシュフロー計算書", reading: "キャッシュフローけいさんしょ", korean: "캿슈후로-케-산쇼", meaning: "현금흐름표",
+    example: "キャッシュフロー計算書を確認しました。", exampleReading: "キャッシュフローけいさんしょをかくにんしました。", exampleKorean: "캿슈후로-케-산쇼오 카쿠닌 시마시타", exampleMeaning: "현금흐름표를 확인했습니다.",
+    breakdown: [
+      { word: "確認", reading: "かくにん", meaning: "확인" }
+    ] },
+  { level: "N2", kanji: "売上総利益", reading: "うりあげそうりえき", korean: "우리아게소-리에키", meaning: "매출총이익",
+    example: "売上総利益が増加しました。", exampleReading: "うりあげそうりえきがぞうかしました。", exampleKorean: "우리아게소-리에키가 조-카 시마시타", exampleMeaning: "매출총이익이 증가했습니다.",
+    breakdown: [
+      { word: "増加", reading: "ぞうか", meaning: "증가" }
+    ] },
+  { level: "N2", kanji: "営業利益", reading: "えいぎょうりえき", korean: "에-교-리에키", meaning: "영업이익",
+    example: "営業利益が黒字転換しました。", exampleReading: "えいぎょうりえきがくろじてんかんしました。", exampleKorean: "에-교-리에키가 쿠로지텐칸 시마시타", exampleMeaning: "영업이익이 흑자전환했습니다.",
+    breakdown: [
+      { word: "黒字転換", reading: "くろじてんかん", meaning: "흑자전환" }
+    ] },
+  { level: "N2", kanji: "経常利益", reading: "けいじょうりえき", korean: "케-죠-리에키", meaning: "경상이익",
+    example: "経常利益は前年並みでした。", exampleReading: "けいじょうりえきはぜんねんなみでした。", exampleKorean: "케-죠-리에키와 젠넨나미데시타", exampleMeaning: "경상이익은 전년 수준이었습니다.",
+    breakdown: [
+      { word: "前年並み", reading: "ぜんねんなみ", meaning: "전년 수준" }
+    ] },
+  { level: "N2", kanji: "純利益", reading: "じゅんりえき", korean: "쥰리에키", meaning: "순이익",
+    example: "純利益が過去最高でした。", exampleReading: "じゅんりえきがかこさいこうでした。", exampleKorean: "쥰리에키가 카코사이코-데시타", exampleMeaning: "순이익이 사상 최고였습니다.",
+    breakdown: [
+      { word: "過去最高", reading: "かこさいこう", meaning: "사상 최고" }
+    ] },
+  { level: "N2", kanji: "自己資本比率", reading: "じこしほんひりつ", korean: "지코시혼히리츠", meaning: "자기자본비율",
+    example: "自己資本比率が改善しました。", exampleReading: "じこしほんひりつがかいぜんしました。", exampleKorean: "지코시혼히리츠가 카이젠 시마시타", exampleMeaning: "자기자본비율이 개선되었습니다.",
+    breakdown: [
+      { word: "改善", reading: "かいぜん", meaning: "개선" }
+    ] },
+  { level: "N2", kanji: "負債比率", reading: "ふさいひりつ", korean: "후사이히리츠", meaning: "부채비율",
+    example: "負債比率が高いです。", exampleReading: "ふさいひりつがたかいです。", exampleKorean: "후사이히리츠가 타카이데스", exampleMeaning: "부채비율이 높습니다.",
+    breakdown: [
+      { word: "高い", reading: "たかい", meaning: "높다" }
+    ] },
+  { level: "N2", kanji: "流動比率", reading: "りゅうどうひりつ", korean: "류-도-히리츠", meaning: "유동비율",
+    example: "流動比率を分析しました。", exampleReading: "りゅうどうひりつをぶんせきしました。", exampleKorean: "류-도-히리츠오 분세키 시마시타", exampleMeaning: "유동비율을 분석했습니다.",
+    breakdown: [
+      { word: "分析", reading: "ぶんせき", meaning: "분석" }
+    ] },
+  { level: "N2", kanji: "当座比率", reading: "とうざひりつ", korean: "토-자히리츠", meaning: "당좌비율",
+    example: "当座比率が悪化しています。", exampleReading: "とうざひりつがあっかしています。", exampleKorean: "토-자히리츠가 악카 시테 이마스", exampleMeaning: "당좌비율이 악화되고 있습니다.",
+    breakdown: [
+      { word: "悪化", reading: "あっか", meaning: "악화" }
+    ] },
+  { level: "N2", kanji: "総資産回転率", reading: "そうしさんかいてんりつ", korean: "소-시산카이텐리츠", meaning: "총자산회전율",
+    example: "総資産回転率を改善します。", exampleReading: "そうしさんかいてんりつをかいぜんします。", exampleKorean: "소-시산카이텐리츠오 카이젠 시마스", exampleMeaning: "총자산회전율을 개선합니다.",
+    breakdown: [
+      { word: "改善", reading: "かいぜん", meaning: "개선" }
+    ] },
+  { level: "N2", kanji: "投資利回り", reading: "とうしりまわり", korean: "토-시리마와리", meaning: "투자수익률",
+    example: "投資利回りが高いです。", exampleReading: "とうしりまわりがたかいです。", exampleKorean: "토-시리마와리가 타카이데스", exampleMeaning: "투자수익률이 높습니다.",
+    breakdown: [
+      { word: "高い", reading: "たかい", meaning: "높다" }
+    ] },
+  { level: "N2", kanji: "配当利回り", reading: "はいとうりまわり", korean: "하이토-리마와리", meaning: "배당수익률",
+    example: "配当利回りを比較しました。", exampleReading: "はいとうりまわりをひかくしました。", exampleKorean: "하이토-리마와리오 히카쿠 시마시타", exampleMeaning: "배당수익률을 비교했습니다.",
+    breakdown: [
+      { word: "比較", reading: "ひかく", meaning: "비교" }
+    ] },
+  { level: "N2", kanji: "株主優待", reading: "かぶぬしゆうたい", korean: "카부누시유-타이", meaning: "주주우대",
+    example: "株主優待を受け取りました。", exampleReading: "かぶぬしゆうたいをうけとりました。", exampleKorean: "카부누시유-타이오 우케토리마시타", exampleMeaning: "주주우대를 받았습니다.",
+    breakdown: [
+      { word: "受け取りました", reading: "うけとりました", meaning: "받았습니다" }
+    ] },
+  { level: "N2", kanji: "増配", reading: "ぞうはい", korean: "조-하이", meaning: "증배(배당 증가)",
+    example: "増配を発表しました。", exampleReading: "ぞうはいをはっぴょうしました。", exampleKorean: "조-하이오 핫표- 시마시타", exampleMeaning: "증배를 발표했습니다.",
+    breakdown: [
+      { word: "発表", reading: "はっぴょう", meaning: "발표" }
+    ] },
+  { level: "N2", kanji: "減配", reading: "げんぱい", korean: "겐파이", meaning: "감배(배당 감소)",
+    example: "減配を余儀なくされました。", exampleReading: "げんぱいをよぎなくされました。", exampleKorean: "겐파이오 요기나쿠사레마시타", exampleMeaning: "감배를 할 수밖에 없었습니다.",
+    breakdown: [
+      { word: "余儀なく", reading: "よぎなく", meaning: "할 수밖에 없이" }
+    ] },
+  { level: "N2", kanji: "無配", reading: "むはい", korean: "무하이", meaning: "무배당",
+    example: "今期は無配になりました。", exampleReading: "こんきはむはいになりました。", exampleKorean: "콘키와 무하이니 나리마시타", exampleMeaning: "이번 기는 무배당이 되었습니다.",
+    breakdown: [
+      { word: "今期", reading: "こんき", meaning: "이번 기" }
+    ] },
+  { level: "N2", kanji: "株式分割", reading: "かぶしきぶんかつ", korean: "카부시키분카츠", meaning: "주식분할",
+    example: "株式分割を実施しました。", exampleReading: "かぶしきぶんかつをじっししました。", exampleKorean: "카부시키분카츠오 짓시 시마시타", exampleMeaning: "주식분할을 실시했습니다.",
+    breakdown: [
+      { word: "実施", reading: "じっし", meaning: "실시" }
+    ] },
+  { level: "N2", kanji: "自社株買い", reading: "じしゃかぶがい", korean: "지샤카부가이", meaning: "자사주 매입",
+    example: "自社株買いを発表しました。", exampleReading: "じしゃかぶがいをはっぴょうしました。", exampleKorean: "지샤카부가이오 핫표- 시마시타", exampleMeaning: "자사주 매입을 발표했습니다.",
+    breakdown: [
+      { word: "発表", reading: "はっぴょう", meaning: "발표" }
+    ] },
+  { level: "N2", kanji: "時価総額", reading: "じかそうがく", korean: "지카소-가쿠", meaning: "시가총액",
+    example: "時価総額が急増しました。", exampleReading: "じかそうがくがきゅうぞうしました。", exampleKorean: "지카소-가쿠가 큐-조- 시마시타", exampleMeaning: "시가총액이 급증했습니다.",
+    breakdown: [
+      { word: "急増", reading: "きゅうぞう", meaning: "급증" }
+    ] },
+  { level: "N2", kanji: "公開買い付け", reading: "こうかいかいつけ", korean: "코-카이카이츠케", meaning: "공개매수",
+    example: "公開買い付けを実施しました。", exampleReading: "こうかいかいつけをじっししました。", exampleKorean: "코-카이카이츠케오 짓시 시마시타", exampleMeaning: "공개매수를 실시했습니다.",
+    breakdown: [
+      { word: "実施", reading: "じっし", meaning: "실시" }
+    ] },
+  { level: "N2", kanji: "敵対的買収", reading: "てきたいてきばいしゅう", korean: "테키타이테키바이슈-", meaning: "적대적 인수합병",
+    example: "敵対的買収を仕掛けられました。", exampleReading: "てきたいてきばいしゅうをしかけられました。", exampleKorean: "테키타이테키바이슈-오 시카케라레마시타", exampleMeaning: "적대적 인수합병 공격을 받았습니다.",
+    breakdown: [
+      { word: "仕掛けられました", reading: "しかけられました", meaning: "공격을 받았습니다" }
+    ] },
+  { level: "N2", kanji: "友好的買収", reading: "ゆうこうてきばいしゅう", korean: "유-코-테키바이슈-", meaning: "우호적 인수합병",
+    example: "友好的買収が成立しました。", exampleReading: "ゆうこうてきばいしゅうがせいりつしました。", exampleKorean: "유-코-테키바이슈-가 세-리츠 시마시타", exampleMeaning: "우호적 인수합병이 성립했습니다.",
+    breakdown: [
+      { word: "成立", reading: "せいりつ", meaning: "성립" }
+    ] },
+  { level: "N2", kanji: "企業合併", reading: "きぎょうがっぺい", korean: "키교-갓페-", meaning: "기업합병",
+    example: "企業合併の計画が発表されました。", exampleReading: "きぎょうがっぺいのけいかくがはっぴょうされました。", exampleKorean: "키교-갓페-노 케-카쿠가 핫표-사레마시타", exampleMeaning: "기업합병 계획이 발표되었습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N2", kanji: "買収防衛策", reading: "ばいしゅうぼうえいさく", korean: "바이슈-보-에-사쿠", meaning: "인수합병 방어책",
+    example: "買収防衛策を導入しました。", exampleReading: "ばいしゅうぼうえいさくをどうにゅうしました。", exampleKorean: "바이슈-보-에-사쿠오 도-뉴- 시마시타", exampleMeaning: "인수합병 방어책을 도입했습니다.",
+    breakdown: [
+      { word: "導入", reading: "どうにゅう", meaning: "도입" }
+    ] },
+  { level: "N2", kanji: "株主提案", reading: "かぶぬしていあん", korean: "카부누시테-안", meaning: "주주제안",
+    example: "株主提案が否決されました。", exampleReading: "かぶぬしていあんがひけつされました。", exampleKorean: "카부누시테-안가 히케츠사레마시타", exampleMeaning: "주주제안이 부결되었습니다.",
+    breakdown: [
+      { word: "否決", reading: "ひけつ", meaning: "부결" }
+    ] },
+  { level: "N2", kanji: "委任状争奪戦", reading: "いにんじょうそうだつせん", korean: "이닌죠-소-다츠센", meaning: "위임장 쟁탈전",
+    example: "委任状争奪戦が激化しました。", exampleReading: "いにんじょうそうだつせんがげきかしました。", exampleKorean: "이닌죠-소-다츠센가 게키카 시마시타", exampleMeaning: "위임장 쟁탈전이 격화되었습니다.",
+    breakdown: [
+      { word: "激化", reading: "げきか", meaning: "격화" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
