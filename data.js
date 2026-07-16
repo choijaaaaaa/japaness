@@ -13562,6 +13562,156 @@ const VOCAB = [
     breakdown: [
       { word: "商品", reading: "しょうひん", meaning: "상품" }
     ] },
+  { level: "N2", kanji: "芸術性", reading: "げいじゅつせい", korean: "게-쥬츠세-", meaning: "예술성",
+    example: "この作品には芸術性があります。", exampleReading: "このさくひんにはげいじゅつせいがあります。", exampleKorean: "코노 사쿠힌니와 게-쥬츠세-가 아리마스", exampleMeaning: "이 작품에는 예술성이 있습니다.",
+    breakdown: [
+      { word: "作品", reading: "さくひん", meaning: "작품" }
+    ] },
+  { level: "N2", kanji: "美意識", reading: "びいしき", korean: "비이시키", meaning: "미의식",
+    example: "日本人は美意識が高いです。", exampleReading: "にほんじんはびいしきがたかいです。", exampleKorean: "니혼진와 비이시키가 타카이데스", exampleMeaning: "일본인은 미의식이 높습니다.",
+    breakdown: [
+      { word: "日本人", reading: "にほんじん", meaning: "일본인" }
+    ] },
+  { level: "N2", kanji: "審美眼", reading: "しんびがん", korean: "신비간", meaning: "심미안",
+    example: "彼は審美眼があります。", exampleReading: "かれはしんびがんがあります。", exampleKorean: "카레와 신비간가 아리마스", exampleMeaning: "그는 심미안이 있습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N2", kanji: "感性", reading: "かんせい", korean: "칸세-", meaning: "감성",
+    example: "豊かな感性を持っています。", exampleReading: "ゆたかなかんせいをもっています。", exampleKorean: "유타카나 칸세-오 못테 이마스", exampleMeaning: "풍부한 감성을 가지고 있습니다.",
+    breakdown: [
+      { word: "豊かな", reading: "ゆたかな", meaning: "풍부한" }
+    ] },
+  { level: "N2", kanji: "表現力", reading: "ひょうげんりょく", korean: "효-겐료쿠", meaning: "표현력",
+    example: "表現力を磨いています。", exampleReading: "ひょうげんりょくをみがいています。", exampleKorean: "효-겐료쿠오 미가이테 이마스", exampleMeaning: "표현력을 갈고닦고 있습니다.",
+    breakdown: [
+      { word: "磨いて", reading: "みがいて", meaning: "갈고닦아서" }
+    ] },
+  { level: "N2", kanji: "演出", reading: "えんしゅつ", korean: "엔슈츠", meaning: "연출",
+    example: "舞台の演出を担当しました。", exampleReading: "ぶたいのえんしゅつをたんとうしました。", exampleKorean: "부타이노 엔슈츠오 탄토- 시마시타", exampleMeaning: "무대 연출을 담당했습니다.",
+    breakdown: [
+      { word: "舞台", reading: "ぶたい", meaning: "무대" }
+    ] },
+  { level: "N2", kanji: "演出家", reading: "えんしゅつか", korean: "엔슈츠카", meaning: "연출가",
+    example: "有名な演出家です。", exampleReading: "ゆうめいなえんしゅつかです。", exampleKorean: "유-메-나 엔슈츠카데스", exampleMeaning: "유명한 연출가입니다.",
+    breakdown: [
+      { word: "有名な", reading: "ゆうめいな", meaning: "유명한" }
+    ] },
+  { level: "N2", kanji: "脚本", reading: "きゃくほん", korean: "캬쿠혼", meaning: "각본",
+    example: "脚本を書きました。", exampleReading: "きゃくほんをかきました。", exampleKorean: "캬쿠홍오 카키마시타", exampleMeaning: "각본을 썼습니다.",
+    breakdown: [
+      { word: "書きました", reading: "かきました", meaning: "썼습니다" }
+    ] },
+  { level: "N2", kanji: "脚本家", reading: "きゃくほんか", korean: "캬쿠혼카", meaning: "각본가",
+    example: "彼女は脚本家です。", exampleReading: "かのじょはきゃくほんかです。", exampleKorean: "카노죠와 캬쿠혼카데스", exampleMeaning: "그녀는 각본가입니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N2", kanji: "原作", reading: "げんさく", korean: "겐사쿠", meaning: "원작",
+    example: "この映画は小説が原作です。", exampleReading: "このえいがはしょうせつがげんさくです。", exampleKorean: "코노 에-가와 쇼-세츠가 겐사쿠데스", exampleMeaning: "이 영화는 소설이 원작입니다.",
+    breakdown: [
+      { word: "映画", reading: "えいが", meaning: "영화" }
+    ] },
+  { level: "N2", kanji: "舞台美術", reading: "ぶたいびじゅつ", korean: "부타이비쥬츠", meaning: "무대미술",
+    example: "舞台美術を担当しました。", exampleReading: "ぶたいびじゅつをたんとうしました。", exampleKorean: "부타이비쥬츠오 탄토- 시마시타", exampleMeaning: "무대미술을 담당했습니다.",
+    breakdown: [
+      { word: "担当", reading: "たんとう", meaning: "담당" }
+    ] },
+  { level: "N2", kanji: "演技力", reading: "えんぎりょく", korean: "엔기료쿠", meaning: "연기력",
+    example: "彼の演技力に感動しました。", exampleReading: "かれのえんぎりょくにかんどうしました。", exampleKorean: "카레노 엔기료쿠니 칸도- 시마시타", exampleMeaning: "그의 연기력에 감동했습니다.",
+    breakdown: [
+      { word: "感動", reading: "かんどう", meaning: "감동" }
+    ] },
+  { level: "N2", kanji: "台詞回し", reading: "せりふまわし", korean: "세리후마와시", meaning: "대사 처리(연기 방식)",
+    example: "台詞回しが自然でした。", exampleReading: "せりふまわしがしぜんでした。", exampleKorean: "세리후마와시가 시젠데시타", exampleMeaning: "대사 처리가 자연스러웠습니다.",
+    breakdown: [
+      { word: "自然", reading: "しぜん", meaning: "자연스러움" }
+    ] },
+  { level: "N2", kanji: "間合い", reading: "まあい", korean: "마아이", meaning: "간격, 타이밍",
+    example: "絶妙な間合いで話しました。", exampleReading: "ぜつみょうなまあいではなしました。", exampleKorean: "제츠묘-나 마아이데 하나시마시타", exampleMeaning: "절묘한 타이밍으로 이야기했습니다.",
+    breakdown: [
+      { word: "絶妙な", reading: "ぜつみょうな", meaning: "절묘한" }
+    ] },
+  { level: "N2", kanji: "緩急", reading: "かんきゅう", korean: "캉큐-", meaning: "완급",
+    example: "緩急をつけて話しました。", exampleReading: "かんきゅうをつけてはなしました。", exampleKorean: "캉큐-오 츠케테 하나시마시타", exampleMeaning: "완급을 조절해서 이야기했습니다.",
+    breakdown: [
+      { word: "話しました", reading: "はなしました", meaning: "이야기했습니다" }
+    ] },
+  { level: "N2", kanji: "抑揚", reading: "よくよう", korean: "요쿠요-", meaning: "억양",
+    example: "抑揚をつけて読みました。", exampleReading: "よくようをつけてよみました。", exampleKorean: "요쿠요-오 츠케테 요미마시타", exampleMeaning: "억양을 넣어서 읽었습니다.",
+    breakdown: [
+      { word: "読みました", reading: "よみました", meaning: "읽었습니다" }
+    ] },
+  { level: "N2", kanji: "情感", reading: "じょうかん", korean: "죠-칸", meaning: "정감",
+    example: "情感豊かに演じました。", exampleReading: "じょうかんゆたかにえんじました。", exampleKorean: "죠-칸 유타카니 엔지마시타", exampleMeaning: "정감 있게 연기했습니다.",
+    breakdown: [
+      { word: "演じました", reading: "えんじました", meaning: "연기했습니다" }
+    ] },
+  { level: "N2", kanji: "余韻を残す", reading: "よいんをのこす", korean: "요인오노코스", meaning: "여운을 남기다",
+    example: "最後まで余韻を残す演奏でした。", exampleReading: "さいごまでよいんをのこすえんそうでした。", exampleKorean: "사이고마데 요인오 노코스 엔소-데시타", exampleMeaning: "끝까지 여운을 남기는 연주였습니다.",
+    breakdown: [
+      { word: "演奏", reading: "えんそう", meaning: "연주" }
+    ] },
+  { level: "N2", kanji: "余白", reading: "よはく", korean: "요하쿠", meaning: "여백",
+    example: "絵に余白を残しました。", exampleReading: "えによはくをのこしました。", exampleKorean: "에니 요하쿠오 노코시마시타", exampleMeaning: "그림에 여백을 남겼습니다.",
+    breakdown: [
+      { word: "絵", reading: "え", meaning: "그림" }
+    ] },
+  { level: "N2", kanji: "行間", reading: "ぎょうかん", korean: "교-칸", meaning: "행간",
+    example: "行間を読み取ってください。", exampleReading: "ぎょうかんをよみとってください。", exampleKorean: "교-칸오 요미톳테 쿠다사이", exampleMeaning: "행간을 읽어 주세요.",
+    breakdown: [
+      { word: "読み取って", reading: "よみとって", meaning: "읽어서" }
+    ] },
+  { level: "N2", kanji: "完成度", reading: "かんせいど", korean: "칸세-도", meaning: "완성도",
+    example: "この作品は完成度が高いです。", exampleReading: "このさくひんはかんせいどがたかいです。", exampleKorean: "코노 사쿠힌와 칸세-도가 타카이데스", exampleMeaning: "이 작품은 완성도가 높습니다.",
+    breakdown: [
+      { word: "作品", reading: "さくひん", meaning: "작품" }
+    ] },
+  { level: "N2", kanji: "造形", reading: "ぞうけい", korean: "조-케-", meaning: "조형",
+    example: "独特な造形の作品です。", exampleReading: "どくとくなぞうけいのさくひんです。", exampleKorean: "도쿠토쿠나 조-케-노 사쿠힌데스", exampleMeaning: "독특한 조형의 작품입니다.",
+    breakdown: [
+      { word: "独特な", reading: "どくとくな", meaning: "독특한" }
+    ] },
+  { level: "N2", kanji: "意匠", reading: "いしょう", korean: "이쇼-", meaning: "의장(디자인)",
+    example: "意匠登録をしました。", exampleReading: "いしょうとうろくをしました。", exampleKorean: "이쇼- 토-로쿠오 시마시타", exampleMeaning: "의장 등록을 했습니다.",
+    breakdown: [
+      { word: "登録", reading: "とうろく", meaning: "등록" }
+    ] },
+  { level: "N2", kanji: "美的感覚", reading: "びてきかんかく", korean: "비테키칸카쿠", meaning: "미적감각",
+    example: "彼女は美的感覚が優れています。", exampleReading: "かのじょはびてきかんかくがすぐれています。", exampleKorean: "카노죠와 비테키칸카쿠가 스구레테 이마스", exampleMeaning: "그녀는 미적감각이 뛰어납니다.",
+    breakdown: [
+      { word: "優れて", reading: "すぐれて", meaning: "뛰어나서" }
+    ] },
+  { level: "N2", kanji: "感受性", reading: "かんじゅせい", korean: "칸쥬세-", meaning: "감수성",
+    example: "子供の頃から感受性が強いです。", exampleReading: "こどものころからかんじゅせいがつよいです。", exampleKorean: "코도모노 코로카라 칸쥬세-가 츠요이데스", exampleMeaning: "어릴 때부터 감수성이 강합니다.",
+    breakdown: [
+      { word: "子供の頃", reading: "こどものころ", meaning: "어릴 때" }
+    ] },
+  { level: "N2", kanji: "芸術家", reading: "げいじゅつか", korean: "게-쥬츠카", meaning: "예술가",
+    example: "彼は有名な芸術家です。", exampleReading: "かれはゆうめいなげいじゅつかです。", exampleKorean: "카레와 유-메-나 게-쥬츠카데스", exampleMeaning: "그는 유명한 예술가입니다.",
+    breakdown: [
+      { word: "有名な", reading: "ゆうめいな", meaning: "유명한" }
+    ] },
+  { level: "N2", kanji: "巨匠", reading: "きょしょう", korean: "쿄쇼-", meaning: "거장",
+    example: "映画界の巨匠です。", exampleReading: "えいがかいのきょしょうです。", exampleKorean: "에-가카이노 쿄쇼-데스", exampleMeaning: "영화계의 거장입니다.",
+    breakdown: [
+      { word: "映画界", reading: "えいがかい", meaning: "영화계" }
+    ] },
+  { level: "N2", kanji: "名匠", reading: "めいしょう", korean: "메-쇼-", meaning: "명장",
+    example: "陶芸の名匠です。", exampleReading: "とうげいのめいしょうです。", exampleKorean: "토-게-노 메-쇼-데스", exampleMeaning: "도예의 명장입니다.",
+    breakdown: [
+      { word: "陶芸", reading: "とうげい", meaning: "도예" }
+    ] },
+  { level: "N2", kanji: "職人技", reading: "しょくにんわざ", korean: "쇼쿠닌와자", meaning: "장인의 솜씨",
+    example: "職人技が光る作品です。", exampleReading: "しょくにんわざがひかるさくひんです。", exampleKorean: "쇼쿠닌와자가 히카루 사쿠힌데스", exampleMeaning: "장인의 솜씨가 빛나는 작품입니다.",
+    breakdown: [
+      { word: "光る", reading: "ひかる", meaning: "빛나다" }
+    ] },
+  { level: "N2", kanji: "匠", reading: "たくみ", korean: "타쿠미", meaning: "장인, 명공",
+    example: "匠の技が受け継がれています。", exampleReading: "たくみのわざがうけつがれています。", exampleKorean: "타쿠미노 와자가 우케츠가레테 이마스", exampleMeaning: "장인의 기술이 계승되고 있습니다.",
+    breakdown: [
+      { word: "技", reading: "わざ", meaning: "기술" }
+    ] },
 
   // ---------- N1 ----------
   { level: "N1", kanji: "収束", reading: "しゅうそく", korean: "슈-소쿠", meaning: "수습, 종식",
