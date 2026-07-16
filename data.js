@@ -16916,4 +16916,154 @@ const VOCAB = [
     breakdown: [
       { word: "権力", reading: "けんりょく", meaning: "권력" }
     ] },
+  { level: "N1", kanji: "忸怩たる", reading: "じくじたる", korean: "지쿠지타루", meaning: "부끄러운, 참담한",
+    example: "忸怩たる思いです。", exampleReading: "じくじたるおもいです。", exampleKorean: "지쿠지타루 오모이데스", exampleMeaning: "참담한 심정입니다.",
+    breakdown: [
+      { word: "思い", reading: "おもい", meaning: "심정" }
+    ] },
+  { level: "N1", kanji: "慙愧", reading: "ざんき", korean: "잔키", meaning: "참괴(부끄러움)",
+    example: "慙愧に堪えません。", exampleReading: "ざんきにたえません。", exampleKorean: "잔키니 타에마셍", exampleMeaning: "부끄러움을 견딜 수 없습니다.",
+    breakdown: [
+      { word: "堪えません", reading: "たえません", meaning: "견딜 수 없습니다" }
+    ] },
+  { level: "N1", kanji: "汗顔", reading: "かんがん", korean: "캉간", meaning: "한안(부끄러워 땀이 남)",
+    example: "汗顔の至りです。", exampleReading: "かんがんのいたりです。", exampleKorean: "캉간노 이타리데스", exampleMeaning: "정말 부끄럽습니다.",
+    breakdown: [
+      { word: "至り", reading: "いたり", meaning: "극에 달함" }
+    ] },
+  { level: "N1", kanji: "面目ない", reading: "めんぼくない", korean: "멘보쿠나이", meaning: "면목없다",
+    example: "面目ないことをしました。", exampleReading: "めんぼくないことをしました。", exampleKorean: "멘보쿠나이 코토오 시마시타", exampleMeaning: "면목없는 일을 했습니다.",
+    breakdown: [
+      { word: "こと", reading: "こと", meaning: "일" }
+    ] },
+  { level: "N1", kanji: "面目丸潰れ", reading: "めんぼくまるつぶれ", korean: "멘보쿠마루츠부레", meaning: "체면이 완전히 구겨짐",
+    example: "面目丸潰れになりました。", exampleReading: "めんぼくまるつぶれになりました。", exampleKorean: "멘보쿠마루츠부레니 나리마시타", exampleMeaning: "체면이 완전히 구겨졌습니다.",
+    breakdown: [
+      { word: "なりました", reading: "なりました", meaning: "되었습니다" }
+    ] },
+  { level: "N1", kanji: "赤面", reading: "せきめん", korean: "세키멘", meaning: "적면(부끄러워 얼굴이 빨개짐)",
+    example: "赤面するほど恥ずかしかったです。", exampleReading: "せきめんするほどはずかしかったです。", exampleKorean: "세키멘스루호도 하즈카시캇타데스", exampleMeaning: "얼굴이 빨개질 정도로 부끄러웠습니다.",
+    breakdown: [
+      { word: "恥ずかしかった", reading: "はずかしかった", meaning: "부끄러웠다" }
+    ] },
+  { level: "N1", kanji: "恥じ入る", reading: "はじいる", korean: "하지이루", meaning: "몹시 부끄러워하다",
+    example: "自分の行動を恥じ入りました。", exampleReading: "じぶんのこうどうをはじいりました。", exampleKorean: "지분노 코-도-오 하지이리마시타", exampleMeaning: "자신의 행동을 몹시 부끄러워했습니다.",
+    breakdown: [
+      { word: "行動", reading: "こうどう", meaning: "행동" }
+    ] },
+  { level: "N1", kanji: "羞恥心", reading: "しゅうちしん", korean: "슈-치신", meaning: "수치심",
+    example: "羞恥心を感じました。", exampleReading: "しゅうちしんをかんじました。", exampleKorean: "슈-치신오 칸지마시타", exampleMeaning: "수치심을 느꼈습니다.",
+    breakdown: [
+      { word: "感じました", reading: "かんじました", meaning: "느꼈습니다" }
+    ] },
+  { level: "N1", kanji: "自嘲", reading: "じちょう", korean: "지쵸-", meaning: "자조",
+    example: "自嘲気味に笑いました。", exampleReading: "じちょうぎみにわらいました。", exampleKorean: "지쵸-기미니 와라이마시타", exampleMeaning: "자조 섞인 웃음을 지었습니다.",
+    breakdown: [
+      { word: "笑いました", reading: "わらいました", meaning: "웃었습니다" }
+    ] },
+  { level: "N1", kanji: "自虐", reading: "じぎゃく", korean: "지갹", meaning: "자학",
+    example: "自虐的なジョークでした。", exampleReading: "じぎゃくてきなジョークでした。", exampleKorean: "지갹테키나 죠-쿠데시타", exampleMeaning: "자학적인 농담이었습니다.",
+    breakdown: [
+      { word: "ジョーク", reading: "ジョーク", meaning: "농담" }
+    ] },
+  { level: "N1", kanji: "自己嫌悪", reading: "じこけんお", korean: "지코켄오", meaning: "자기혐오",
+    example: "自己嫌悪に陥りました。", exampleReading: "じこけんおにおちいりました。", exampleKorean: "지코켄오니 오치이리마시타", exampleMeaning: "자기혐오에 빠졌습니다.",
+    breakdown: [
+      { word: "陥りました", reading: "おちいりました", meaning: "빠졌습니다" }
+    ] },
+  { level: "N1", kanji: "自責の念", reading: "じせきのねん", korean: "지세키노넨", meaning: "자책감",
+    example: "自責の念に駆られています。", exampleReading: "じせきのねんにかられています。", exampleKorean: "지세키노넨니 카라레테 이마스", exampleMeaning: "자책감에 시달리고 있습니다.",
+    breakdown: [
+      { word: "駆られて", reading: "かられて", meaning: "시달려서" }
+    ] },
+  { level: "N1", kanji: "悔恨", reading: "かいこん", korean: "카이콘", meaning: "회한",
+    example: "悔恨の情を抱いています。", exampleReading: "かいこんのじょうをいだいています。", exampleKorean: "카이콘노 죠-오 이다이테 이마스", exampleMeaning: "회한의 정을 품고 있습니다.",
+    breakdown: [
+      { word: "情", reading: "じょう", meaning: "정" }
+    ] },
+  { level: "N1", kanji: "悔悟", reading: "かいご", korean: "카이고", meaning: "회오, 뉘우침",
+    example: "悔悟の念を示しました。", exampleReading: "かいごのねんをしめしました。", exampleKorean: "카이고노 넨오 시메시마시타", exampleMeaning: "회오의 뜻을 나타냈습니다.",
+    breakdown: [
+      { word: "示しました", reading: "しめしました", meaning: "나타냈습니다" }
+    ] },
+  { level: "N1", kanji: "後悔先に立たず", reading: "こうかいさきにたたず", korean: "코-카이 사키니 타타즈", meaning: "후회는 늦다(속담)",
+    example: "後悔先に立たずと言います。", exampleReading: "こうかいさきにたたずといいます。", exampleKorean: "코-카이 사키니 타타즈토 이이마스", exampleMeaning: "후회는 늦다는 말이 있습니다.",
+    breakdown: [
+      { word: "言います", reading: "いいます", meaning: "말합니다" }
+    ] },
+  { level: "N1", kanji: "痛恨", reading: "つうこん", korean: "츠-콘", meaning: "통한",
+    example: "痛恨のミスをしました。", exampleReading: "つうこんのミスをしました。", exampleKorean: "츠-콘노 미스오 시마시타", exampleMeaning: "통한의 실수를 했습니다.",
+    breakdown: [
+      { word: "ミス", reading: "ミス", meaning: "실수" }
+    ] },
+  { level: "N1", kanji: "痛切", reading: "つうせつ", korean: "츠-세츠", meaning: "통절함",
+    example: "痛切に反省しています。", exampleReading: "つうせつにはんせいしています。", exampleKorean: "츠-세츠니 한세- 시테 이마스", exampleMeaning: "통절히 반성하고 있습니다.",
+    breakdown: [
+      { word: "反省", reading: "はんせい", meaning: "반성" }
+    ] },
+  { level: "N1", kanji: "切実", reading: "せつじつ", korean: "세츠지츠", meaning: "절실함",
+    example: "切実な願いです。", exampleReading: "せつじつなねがいです。", exampleKorean: "세츠지츠나 네가이데스", exampleMeaning: "절실한 소원입니다.",
+    breakdown: [
+      { word: "願い", reading: "ねがい", meaning: "소원" }
+    ] },
+  { level: "N1", kanji: "悲痛", reading: "ひつう", korean: "히츠-", meaning: "비통함",
+    example: "悲痛な表情を見せました。", exampleReading: "ひつうなひょうじょうをみせました。", exampleKorean: "히츠-나 효-죠-오 미세마시타", exampleMeaning: "비통한 표정을 보였습니다.",
+    breakdown: [
+      { word: "表情", reading: "ひょうじょう", meaning: "표정" }
+    ] },
+  { level: "N1", kanji: "断腸の思い", reading: "だんちょうのおもい", korean: "단쵸-노오모이", meaning: "단장의 아픔(창자가 끊어지는 심정)",
+    example: "断腸の思いで決断しました。", exampleReading: "だんちょうのおもいでけつだんしました。", exampleKorean: "단쵸-노 오모이데 케츠단 시마시타", exampleMeaning: "단장의 아픔으로 결단했습니다.",
+    breakdown: [
+      { word: "決断", reading: "けつだん", meaning: "결단" }
+    ] },
+  { level: "N1", kanji: "苦渋の決断", reading: "くじゅうのけつだん", korean: "쿠쥬-노 케츠단", meaning: "고심 끝의 결단",
+    example: "苦渋の決断を下しました。", exampleReading: "くじゅうのけつだんをくだしました。", exampleKorean: "쿠쥬-노 케츠단오 쿠다시마시타", exampleMeaning: "고심 끝의 결단을 내렸습니다.",
+    breakdown: [
+      { word: "下しました", reading: "くだしました", meaning: "내렸습니다" }
+    ] },
+  { level: "N1", kanji: "苦汁をなめる", reading: "くじゅうをなめる", korean: "쿠쥬-오나메루", meaning: "쓴맛을 보다",
+    example: "競争社会で苦汁をなめました。", exampleReading: "きょうそうしゃかいでくじゅうをなめました。", exampleKorean: "쿄-소-샤카이데 쿠쥬-오 나메마시타", exampleMeaning: "경쟁사회에서 쓴맛을 봤습니다.",
+    breakdown: [
+      { word: "競争社会", reading: "きょうそうしゃかい", meaning: "경쟁사회" }
+    ] },
+  { level: "N1", kanji: "屈辱", reading: "くつじょく", korean: "쿠츠죠쿠", meaning: "굴욕",
+    example: "屈辱を味わいました。", exampleReading: "くつじょくをあじわいました。", exampleKorean: "쿠츠죠쿠오 아지와이마시타", exampleMeaning: "굴욕을 맛봤습니다.",
+    breakdown: [
+      { word: "味わいました", reading: "あじわいました", meaning: "맛봤습니다" }
+    ] },
+  { level: "N1", kanji: "無念", reading: "むねん", korean: "무넨", meaning: "원통함, 유감",
+    example: "無念な結果に終わりました。", exampleReading: "むねんなけっかにおわりました。", exampleKorean: "무넨나 켁카니 오와리마시타", exampleMeaning: "원통한 결과로 끝났습니다.",
+    breakdown: [
+      { word: "結果", reading: "けっか", meaning: "결과" }
+    ] },
+  { level: "N1", kanji: "心残り", reading: "こころのこり", korean: "코코로노코리", meaning: "미련, 아쉬움",
+    example: "少し心残りがあります。", exampleReading: "すこしこころのこりがあります。", exampleKorean: "스코시 코코로노코리가 아리마스", exampleMeaning: "조금 아쉬움이 있습니다.",
+    breakdown: [
+      { word: "少し", reading: "すこし", meaning: "조금" }
+    ] },
+  { level: "N1", kanji: "未練がましい", reading: "みれんがましい", korean: "미렌가마시-", meaning: "미련이 남은 듯한",
+    example: "未練がましいことは言いません。", exampleReading: "みれんがましいことはいいません。", exampleKorean: "미렌가마시- 코토와 이이마셍", exampleMeaning: "미련이 남은 듯한 말은 하지 않겠습니다.",
+    breakdown: [
+      { word: "こと", reading: "こと", meaning: "말" }
+    ] },
+  { level: "N1", kanji: "遺恨", reading: "いこん", korean: "이콘", meaning: "원한",
+    example: "遺恨を残しました。", exampleReading: "いこんをのこしました。", exampleKorean: "이콘오 노코시마시타", exampleMeaning: "원한을 남겼습니다.",
+    breakdown: [
+      { word: "残しました", reading: "のこしました", meaning: "남겼습니다" }
+    ] },
+  { level: "N1", kanji: "恨み", reading: "うらみ", korean: "우라미", meaning: "원한",
+    example: "恨みを抱いています。", exampleReading: "うらみをいだいています。", exampleKorean: "우라미오 이다이테 이마스", exampleMeaning: "원한을 품고 있습니다.",
+    breakdown: [
+      { word: "抱いて", reading: "いだいて", meaning: "품고 있어서" }
+    ] },
+  { level: "N1", kanji: "憎しみ", reading: "にくしみ", korean: "니쿠시미", meaning: "미움",
+    example: "憎しみを乗り越えました。", exampleReading: "にくしみをのりこえました。", exampleKorean: "니쿠시미오 노리코에마시타", exampleMeaning: "미움을 극복했습니다.",
+    breakdown: [
+      { word: "乗り越えました", reading: "のりこえました", meaning: "극복했습니다" }
+    ] },
+  { level: "N1", kanji: "憎悪", reading: "ぞうお", korean: "조-오", meaning: "증오",
+    example: "激しい憎悪を感じました。", exampleReading: "はげしいぞうおをかんじました。", exampleKorean: "하게시- 조-오오 칸지마시타", exampleMeaning: "격렬한 증오를 느꼈습니다.",
+    breakdown: [
+      { word: "激しい", reading: "はげしい", meaning: "격렬한" }
+    ] },
 ];
