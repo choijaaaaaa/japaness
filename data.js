@@ -24286,4 +24286,154 @@ const VOCAB = [
     breakdown: [
       { word: "選手たち", reading: "せんしゅたち", meaning: "선수들" }
     ] },
+  { level: "N1", kanji: "一意専心", reading: "いちいせんしん", korean: "이치이센신", meaning: "일의전심(한마음으로 전념함)",
+    example: "一意専心、研究に打ち込みました。", exampleReading: "いちいせんしん、けんきゅうにうちこみました。", exampleKorean: "이치이센신, 켕큐-니 우치코미마시타", exampleMeaning: "일의전심, 연구에 몰두했습니다.",
+    breakdown: [
+      { word: "研究", reading: "けんきゅう", meaning: "연구" }
+    ] },
+  { level: "N1", kanji: "無我夢中", reading: "むがむちゅう", korean: "무가무츄-", meaning: "무아지경",
+    example: "無我夢中で走りました。", exampleReading: "むがむちゅうではしりました。", exampleKorean: "무가무츄-데 하시리마시타", exampleMeaning: "무아지경으로 뛰었습니다.",
+    breakdown: [
+      { word: "走りました", reading: "はしりました", meaning: "뛰었습니다" }
+    ] },
+  { level: "N1", kanji: "没入感", reading: "ぼつにゅうかん", korean: "보츠뉴-칸", meaning: "몰입감",
+    example: "ゲームの没入感がすごいです。", exampleReading: "ゲームのぼつにゅうかんがすごいです。", exampleKorean: "게-무노 보츠뉴-캉가 스고이데스", exampleMeaning: "게임의 몰입감이 대단합니다.",
+    breakdown: [
+      { word: "ゲーム", reading: "ゲーム", meaning: "게임" }
+    ] },
+  { level: "N1", kanji: "心酔", reading: "しんすい", korean: "신스이", meaning: "심취",
+    example: "彼の思想に心酔しています。", exampleReading: "かれのしそうにしんすいしています。", exampleKorean: "카레노 시소-니 신스이 시테 이마스", exampleMeaning: "그의 사상에 심취해 있습니다.",
+    breakdown: [
+      { word: "思想", reading: "しそう", meaning: "사상" }
+    ] },
+  { level: "N1", kanji: "心を奪われる", reading: "こころをうばわれる", korean: "코코로오우바와레루", meaning: "마음을 빼앗기다",
+    example: "景色に心を奪われました。", exampleReading: "けしきにこころをうばわれました。", exampleKorean: "케시키니 코코로오 우바와레마시타", exampleMeaning: "경치에 마음을 빼앗겼습니다.",
+    breakdown: [
+      { word: "景色", reading: "けしき", meaning: "경치" }
+    ] },
+  { level: "N1", kanji: "虜になる", reading: "とりこになる", korean: "토리코니나루", meaning: "포로가 되다(매료되다)",
+    example: "彼女の魅力の虜になりました。", exampleReading: "かのじょのみりょくのとりこになりました。", exampleKorean: "카노죠노 미료쿠노 토리코니 나리마시타", exampleMeaning: "그녀의 매력에 매료되었습니다.",
+    breakdown: [
+      { word: "魅力", reading: "みりょく", meaning: "매력" }
+    ] },
+  { level: "N1", kanji: "取り憑かれる", reading: "とりつかれる", korean: "토리츠카레루", meaning: "사로잡히다, 홀리다",
+    example: "仕事に取り憑かれています。", exampleReading: "しごとにとりつかれています。", exampleKorean: "시고토니 토리츠카레테 이마스", exampleMeaning: "일에 사로잡혀 있습니다.",
+    breakdown: [
+      { word: "仕事", reading: "しごと", meaning: "일" }
+    ] },
+  { level: "N1", kanji: "とりこ", reading: "とりこ", korean: "토리코", meaning: "포로(매료된 사람)",
+    example: "味のとりこになりました。", exampleReading: "あじのとりこになりました。", exampleKorean: "아지노 토리코니 나리마시타", exampleMeaning: "맛에 사로잡혔습니다.",
+    breakdown: [
+      { word: "味", reading: "あじ", meaning: "맛" }
+    ] },
+  { level: "N1", kanji: "病みつき", reading: "やみつき", korean: "야미츠키", meaning: "중독됨, 헤어나지 못함",
+    example: "病みつきになる美味しさです。", exampleReading: "やみつきになるおいしさです。", exampleKorean: "야미츠키니 나루 오이시사데스", exampleMeaning: "중독되는 맛있음입니다.",
+    breakdown: [
+      { word: "美味しさ", reading: "おいしさ", meaning: "맛있음" }
+    ] },
+  { level: "N1", kanji: "はまり込む", reading: "はまりこむ", korean: "하마리코무", meaning: "깊이 빠지다",
+    example: "趣味にはまり込みました。", exampleReading: "しゅみにはまりこみました。", exampleKorean: "슈미니 하마리코미마시타", exampleMeaning: "취미에 깊이 빠졌습니다.",
+    breakdown: [
+      { word: "趣味", reading: "しゅみ", meaning: "취미" }
+    ] },
+  { level: "N1", kanji: "夢中になる", reading: "むちゅうになる", korean: "무츄-니나루", meaning: "몰두하다, 열중하다",
+    example: "ゲームに夢中になりました。", exampleReading: "ゲームにむちゅうになりました。", exampleKorean: "게-무니 무츄-니 나리마시타", exampleMeaning: "게임에 몰두했습니다.",
+    breakdown: [
+      { word: "ゲーム", reading: "ゲーム", meaning: "게임" }
+    ] },
+  { level: "N1", kanji: "熱狂", reading: "ねっきょう", korean: "넥쿄-", meaning: "열광",
+    example: "観客が熱狂しました。", exampleReading: "かんきゃくがねっきょうしました。", exampleKorean: "칸캬쿠가 넥쿄- 시마시타", exampleMeaning: "관객이 열광했습니다.",
+    breakdown: [
+      { word: "観客", reading: "かんきゃく", meaning: "관객" }
+    ] },
+  { level: "N1", kanji: "狂喜", reading: "きょうき", korean: "쿄-키", meaning: "광희(미친 듯이 기뻐함)",
+    example: "合格の知らせに狂喜しました。", exampleReading: "ごうかくのしらせにきょうきしました。", exampleKorean: "고-카쿠노 시라세니 쿄-키 시마시타", exampleMeaning: "합격 소식에 미친 듯이 기뻐했습니다.",
+    breakdown: [
+      { word: "知らせ", reading: "しらせ", meaning: "소식" }
+    ] },
+  { level: "N1", kanji: "有頂天", reading: "うちょうてん", korean: "우쵸-텐", meaning: "기뻐서 어쩔 줄 모름",
+    example: "合格して有頂天になりました。", exampleReading: "ごうかくしてうちょうてんになりました。", exampleKorean: "고-카쿠시테 우쵸-텐니 나리마시타", exampleMeaning: "합격해서 기뻐서 어쩔 줄 몰랐습니다.",
+    breakdown: [
+      { word: "合格", reading: "ごうかく", meaning: "합격" }
+    ] },
+  { level: "N1", kanji: "舞い上がる", reading: "まいあがる", korean: "마이아가루", meaning: "들뜨다, 흥분하다",
+    example: "嬉しくて舞い上がりました。", exampleReading: "うれしくてまいあがりました。", exampleKorean: "우레시쿠테 마이아가리마시타", exampleMeaning: "기뻐서 들떴습니다.",
+    breakdown: [
+      { word: "嬉しくて", reading: "うれしくて", meaning: "기뻐서" }
+    ] },
+  { level: "N1", kanji: "浮かれる", reading: "うかれる", korean: "우카레루", meaning: "들뜨다",
+    example: "祭りの雰囲気に浮かれました。", exampleReading: "まつりのふんいきにうかれました。", exampleKorean: "마츠리노 훙이키니 우카레마시타", exampleMeaning: "축제 분위기에 들떴습니다.",
+    breakdown: [
+      { word: "雰囲気", reading: "ふんいき", meaning: "분위기" }
+    ] },
+  { level: "N1", kanji: "喜色満面", reading: "きしょくまんめん", korean: "키쇼쿠만멘", meaning: "희색만면(기쁨이 얼굴에 가득함)",
+    example: "喜色満面で報告しました。", exampleReading: "きしょくまんめんでほうこくしました。", exampleKorean: "키쇼쿠만멘데 호-코쿠 시마시타", exampleMeaning: "희색만면으로 보고했습니다.",
+    breakdown: [
+      { word: "報告", reading: "ほうこく", meaning: "보고" }
+    ] },
+  { level: "N1", kanji: "破顔一笑", reading: "はがんいっしょう", korean: "하간잇쇼-", meaning: "파안일소(활짝 웃음)",
+    example: "破顔一笑して答えました。", exampleReading: "はがんいっしょうしてこたえました。", exampleKorean: "하간잇쇼-시테 코타에마시타", exampleMeaning: "활짝 웃으며 대답했습니다.",
+    breakdown: [
+      { word: "答えました", reading: "こたえました", meaning: "대답했습니다" }
+    ] },
+  { level: "N1", kanji: "恍惚", reading: "こうこつ", korean: "코-코츠", meaning: "황홀",
+    example: "音楽に恍惚となりました。", exampleReading: "おんがくにこうこつとなりました。", exampleKorean: "옹가쿠니 코-코츠토 나리마시타", exampleMeaning: "음악에 황홀해졌습니다.",
+    breakdown: [
+      { word: "音楽", reading: "おんがく", meaning: "음악" }
+    ] },
+  { level: "N1", kanji: "陶酔", reading: "とうすい", korean: "토-스이", meaning: "도취",
+    example: "自分の話に陶酔しています。", exampleReading: "じぶんのはなしにとうすいしています。", exampleKorean: "지분노 하나시니 토-스이 시테 이마스", exampleMeaning: "자신의 이야기에 도취해 있습니다.",
+    breakdown: [
+      { word: "話", reading: "はなし", meaning: "이야기" }
+    ] },
+  { level: "N1", kanji: "快哉を叫ぶ", reading: "かいさいをさけぶ", korean: "카이사이오사케부", meaning: "쾌재를 부르다",
+    example: "勝利に快哉を叫びました。", exampleReading: "しょうりにかいさいをさけびました。", exampleKorean: "쇼-리니 카이사이오 사케비마시타", exampleMeaning: "승리에 쾌재를 불렀습니다.",
+    breakdown: [
+      { word: "勝利", reading: "しょうり", meaning: "승리" }
+    ] },
+  { level: "N1", kanji: "快哉", reading: "かいさい", korean: "카이사이", meaning: "쾌재",
+    example: "快哉を叫びたい気分です。", exampleReading: "かいさいをさけびたいきぶんです。", exampleKorean: "카이사이오 사케비타이 키분데스", exampleMeaning: "쾌재를 부르고 싶은 기분입니다.",
+    breakdown: [
+      { word: "気分", reading: "きぶん", meaning: "기분" }
+    ] },
+  { level: "N1", kanji: "気を良くする", reading: "きをよくする", korean: "키오요쿠스루", meaning: "기분이 좋아지다",
+    example: "褒められて気を良くしました。", exampleReading: "ほめられてきをよくしました。", exampleKorean: "호메라레테 키오 요쿠 시마시타", exampleMeaning: "칭찬받아서 기분이 좋아졌습니다.",
+    breakdown: [
+      { word: "褒められて", reading: "ほめられて", meaning: "칭찬받아서" }
+    ] },
+  { level: "N1", kanji: "得意満面", reading: "とくいまんめん", korean: "토쿠이만멘", meaning: "득의만면",
+    example: "得意満面な表情でした。", exampleReading: "とくいまんめんなひょうじょうでした。", exampleKorean: "토쿠이만멘나 효-죠-데시타", exampleMeaning: "득의만면한 표정이었습니다.",
+    breakdown: [
+      { word: "表情", reading: "ひょうじょう", meaning: "표정" }
+    ] },
+  { level: "N1", kanji: "鼻高々", reading: "はなたかだか", korean: "하나타카다카", meaning: "콧대가 높음(우쭐함)",
+    example: "賞をもらって鼻高々です。", exampleReading: "しょうをもらってはなたかだかです。", exampleKorean: "쇼-오 모랏테 하나타카다카데스", exampleMeaning: "상을 받아서 우쭐해 있습니다.",
+    breakdown: [
+      { word: "賞", reading: "しょう", meaning: "상" }
+    ] },
+  { level: "N1", kanji: "我を忘れる", reading: "われをわすれる", korean: "와레오와스레루", meaning: "정신을 잃다(몰입해서)",
+    example: "我を忘れて没頭しました。", exampleReading: "われをわすれてぼっとうしました。", exampleKorean: "와레오 와스레테 봇토- 시마시타", exampleMeaning: "정신없이 몰두했습니다.",
+    breakdown: [
+      { word: "没頭", reading: "ぼっとう", meaning: "몰두" }
+    ] },
+  { level: "N1", kanji: "息をのむ", reading: "いきをのむ", korean: "이키오노무", meaning: "숨을 죽이다(놀라서)",
+    example: "美しさに息をのみました。", exampleReading: "うつくしさにいきをのみました。", exampleKorean: "우츠쿠시사니 이키오 노미마시타", exampleMeaning: "아름다움에 숨을 죽였습니다.",
+    breakdown: [
+      { word: "美しさ", reading: "うつくしさ", meaning: "아름다움" }
+    ] },
+  { level: "N1", kanji: "目を輝かせる", reading: "めをかがやかせる", korean: "메오카가야카세루", meaning: "눈을 반짝이다",
+    example: "子供が目を輝かせました。", exampleReading: "こどもがめをかがやかせました。", exampleKorean: "코도모가 메오 카가야카세마시타", exampleMeaning: "아이가 눈을 반짝였습니다.",
+    breakdown: [
+      { word: "子供", reading: "こども", meaning: "아이" }
+    ] },
+  { level: "N1", kanji: "溜飲を下げる", reading: "りゅういんをさげる", korean: "류-인오사게루", meaning: "속이 후련해지다",
+    example: "反論して溜飲を下げました。", exampleReading: "はんろんしてりゅういんをさげました。", exampleKorean: "한론시테 류-인오 사게마시타", exampleMeaning: "반론해서 속이 후련해졌습니다.",
+    breakdown: [
+      { word: "反論", reading: "はんろん", meaning: "반론" }
+    ] },
+  { level: "N1", kanji: "会心の笑み", reading: "かいしんのえみ", korean: "카이신노에미", meaning: "회심의 미소",
+    example: "会心の笑みを浮かべました。", exampleReading: "かいしんのえみをうかべました。", exampleKorean: "카이신노 에미오 우카베마시타", exampleMeaning: "회심의 미소를 지었습니다.",
+    breakdown: [
+      { word: "浮かべました", reading: "うかべました", meaning: "지었습니다" }
+    ] },
 ];
