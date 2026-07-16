@@ -11053,6 +11053,206 @@ const VOCAB = [
     breakdown: [
       { word: "人", reading: "ひと", meaning: "사람" }
     ] },
+  { level: "N3", kanji: "見晴らし", reading: "みはらし", korean: "미하라시", meaning: "전망",
+    example: "山頂からの見晴らしが最高でした。", exampleReading: "さんちょうからのみはらしがさいこうでした。", exampleKorean: "산쵸-카라노 미하라시가 사이코-데시타", exampleMeaning: "산꼭대기에서의 전망이 최고였습니다.",
+    breakdown: [
+      { word: "山頂", reading: "さんちょう", meaning: "산꼭대기" }
+    ] },
+  { level: "N3", kanji: "眺望", reading: "ちょうぼう", korean: "쵸-보-", meaning: "조망",
+    example: "ホテルの部屋から眺望がいいです。", exampleReading: "ホテルのへやからちょうぼうがいいです。", exampleKorean: "호테루노 헤야카라 쵸-보-가 이-데스", exampleMeaning: "호텔 방에서의 조망이 좋습니다.",
+    breakdown: [
+      { word: "ホテル", reading: "ホテル", meaning: "호텔" }
+    ] },
+  { level: "N3", kanji: "景勝地", reading: "けいしょうち", korean: "케-쇼-치", meaning: "경승지",
+    example: "この地域は景勝地として有名です。", exampleReading: "このちいきはけいしょうちとしてゆうめいです。", exampleKorean: "코노 치이키와 케-쇼-치토시테 유-메-데스", exampleMeaning: "이 지역은 경승지로 유명합니다.",
+    breakdown: [
+      { word: "地域", reading: "ちいき", meaning: "지역" }
+    ] },
+  { level: "N3", kanji: "絶景", reading: "ぜっけい", korean: "젝케-", meaning: "절경",
+    example: "そこは絶景でした。", exampleReading: "そこはぜっけいでした。", exampleKorean: "소코와 젝케-데시타", exampleMeaning: "그곳은 절경이었습니다.",
+    breakdown: [
+      { word: "そこ", reading: "そこ", meaning: "그곳" }
+    ] },
+  { level: "N3", kanji: "秘境", reading: "ひきょう", korean: "히쿄-", meaning: "비경",
+    example: "秘境を旅しました。", exampleReading: "ひきょうをたびしました。", exampleKorean: "히쿄-오 타비시마시타", exampleMeaning: "비경을 여행했습니다.",
+    breakdown: [
+      { word: "旅しました", reading: "たびしました", meaning: "여행했습니다" }
+    ] },
+  { level: "N3", kanji: "穴場", reading: "あなば", korean: "아나바", meaning: "숨은 명소",
+    example: "地元の穴場スポットです。", exampleReading: "じもとのあなばスポットです。", exampleKorean: "지모토노 아나바 스폿토데스", exampleMeaning: "현지의 숨은 명소입니다.",
+    breakdown: [
+      { word: "地元", reading: "じもと", meaning: "현지" }
+    ] },
+  { level: "N3", kanji: "名所旧跡", reading: "めいしょきゅうせき", korean: "메-쇼큐-세키", meaning: "명소구적",
+    example: "名所旧跡を巡りました。", exampleReading: "めいしょきゅうせきをめぐりました。", exampleKorean: "메-쇼큐-세키오 메구리마시타", exampleMeaning: "명소구적을 둘러봤습니다.",
+    breakdown: [
+      { word: "巡りました", reading: "めぐりました", meaning: "둘러봤습니다" }
+    ] },
+  { level: "N3", kanji: "史跡", reading: "しせき", korean: "시세키", meaning: "사적",
+    example: "史跡を見学しました。", exampleReading: "しせきをけんがくしました。", exampleKorean: "시세키오 켕가쿠 시마시타", exampleMeaning: "사적을 견학했습니다.",
+    breakdown: [
+      { word: "見学", reading: "けんがく", meaning: "견학" }
+    ] },
+  { level: "N3", kanji: "遺跡", reading: "いせき", korean: "이세키", meaning: "유적",
+    example: "古代の遺跡を発掘しました。", exampleReading: "こだいのいせきをはっくつしました。", exampleKorean: "코다이노 이세키오 학쿠츠 시마시타", exampleMeaning: "고대 유적을 발굴했습니다.",
+    breakdown: [
+      { word: "古代", reading: "こだい", meaning: "고대" }
+    ] },
+  { level: "N3", kanji: "古都", reading: "こと", korean: "코토", meaning: "고도(옛 수도)",
+    example: "京都は日本の古都です。", exampleReading: "きょうとはにほんのことです。", exampleKorean: "쿄-토와 니혼노 코토데스", exampleMeaning: "교토는 일본의 고도입니다.",
+    breakdown: [
+      { word: "京都", reading: "きょうと", meaning: "교토" }
+    ] },
+  { level: "N3", kanji: "原生林", reading: "げんせいりん", korean: "겐세-린", meaning: "원시림",
+    example: "原生林を歩きました。", exampleReading: "げんせいりんをあるきました。", exampleKorean: "겐세-린오 아루키마시타", exampleMeaning: "원시림을 걸었습니다.",
+    breakdown: [
+      { word: "歩きました", reading: "あるきました", meaning: "걸었습니다" }
+    ] },
+  { level: "N3", kanji: "渓谷", reading: "けいこく", korean: "케-코쿠", meaning: "계곡",
+    example: "渓谷でハイキングをしました。", exampleReading: "けいこくでハイキングをしました。", exampleKorean: "케-코쿠데 하이킹구오 시마시타", exampleMeaning: "계곡에서 하이킹을 했습니다.",
+    breakdown: [
+      { word: "ハイキング", reading: "ハイキング", meaning: "하이킹" }
+    ] },
+  { level: "N3", kanji: "断崖", reading: "だんがい", korean: "단가이", meaning: "단애, 절벽",
+    example: "断崖の上に立ちました。", exampleReading: "だんがいのうえにたちました。", exampleKorean: "단가이노 우에니 타치마시타", exampleMeaning: "절벽 위에 섰습니다.",
+    breakdown: [
+      { word: "上", reading: "うえ", meaning: "위" }
+    ] },
+  { level: "N3", kanji: "絶壁", reading: "ぜっぺき", korean: "젭페키", meaning: "절벽",
+    example: "絶壁に立つ城でした。", exampleReading: "ぜっぺきにたつしろでした。", exampleKorean: "젭페키니 타츠 시로데시타", exampleMeaning: "절벽에 서 있는 성이었습니다.",
+    breakdown: [
+      { word: "城", reading: "しろ", meaning: "성" }
+    ] },
+  { level: "N3", kanji: "山頂", reading: "さんちょう", korean: "산쵸-", meaning: "산꼭대기",
+    example: "山頂から景色を眺めました。", exampleReading: "さんちょうからけしきをながめました。", exampleKorean: "산쵸-카라 케시키오 나가메마시타", exampleMeaning: "산꼭대기에서 경치를 바라보았습니다.",
+    breakdown: [
+      { word: "景色", reading: "けしき", meaning: "경치" }
+    ] },
+  { level: "N3", kanji: "山麓", reading: "さんろく", korean: "산로쿠", meaning: "산기슭",
+    example: "山麓に村があります。", exampleReading: "さんろくにむらがあります。", exampleKorean: "산로쿠니 무라가 아리마스", exampleMeaning: "산기슭에 마을이 있습니다.",
+    breakdown: [
+      { word: "村", reading: "むら", meaning: "마을" }
+    ] },
+  { level: "N3", kanji: "稜線", reading: "りょうせん", korean: "료-센", meaning: "능선",
+    example: "山の稜線が美しいです。", exampleReading: "やまのりょうせんがうつくしいです。", exampleKorean: "야마노 료-센가 우츠쿠시-데스", exampleMeaning: "산의 능선이 아름답습니다.",
+    breakdown: [
+      { word: "山", reading: "やま", meaning: "산" }
+    ] },
+  { level: "N3", kanji: "分水嶺", reading: "ぶんすいれい", korean: "분스이레-", meaning: "분수령",
+    example: "この山は分水嶺です。", exampleReading: "このやまはぶんすいれいです。", exampleKorean: "코노 야마와 분스이레-데스", exampleMeaning: "이 산은 분수령입니다.",
+    breakdown: [
+      { word: "山", reading: "やま", meaning: "산" }
+    ] },
+  { level: "N3", kanji: "水源", reading: "すいげん", korean: "스이겐", meaning: "수원",
+    example: "この川の水源を訪ねました。", exampleReading: "このかわのすいげんをたずねました。", exampleKorean: "코노 카와노 스이겡오 타즈네마시타", exampleMeaning: "이 강의 수원을 찾아가 봤습니다.",
+    breakdown: [
+      { word: "川", reading: "かわ", meaning: "강" }
+    ] },
+  { level: "N3", kanji: "源流", reading: "げんりゅう", korean: "겐류-", meaning: "원류",
+    example: "川の源流を探しました。", exampleReading: "かわのげんりゅうをさがしました。", exampleKorean: "카와노 겐류-오 사가시마시타", exampleMeaning: "강의 원류를 찾았습니다.",
+    breakdown: [
+      { word: "川", reading: "かわ", meaning: "강" }
+    ] },
+  { level: "N3", kanji: "交渉術", reading: "こうしょうじゅつ", korean: "코-쇼-쥬츠", meaning: "교섭술",
+    example: "彼は交渉術に長けています。", exampleReading: "かれはこうしょうじゅつにたけています。", exampleKorean: "카레와 코-쇼-쥬츠니 타케테 이마스", exampleMeaning: "그는 교섭술에 뛰어납니다.",
+    breakdown: [
+      { word: "長けて", reading: "たけて", meaning: "뛰어나서" }
+    ] },
+  { level: "N3", kanji: "商談", reading: "しょうだん", korean: "쇼-단", meaning: "상담(비즈니스)",
+    example: "取引先と商談しました。", exampleReading: "とりひきさきとしょうだんしました。", exampleKorean: "토리히키사키토 쇼-단 시마시타", exampleMeaning: "거래처와 상담했습니다.",
+    breakdown: [
+      { word: "取引先", reading: "とりひきさき", meaning: "거래처" }
+    ] },
+  { level: "N3", kanji: "談判", reading: "だんぱん", korean: "단판", meaning: "담판",
+    example: "直接談判に行きました。", exampleReading: "ちょくせつだんぱんにいきました。", exampleKorean: "쵸쿠세츠 단판니 이키마시타", exampleMeaning: "직접 담판을 지으러 갔습니다.",
+    breakdown: [
+      { word: "直接", reading: "ちょくせつ", meaning: "직접" }
+    ] },
+  { level: "N3", kanji: "合意形成", reading: "ごういけいせい", korean: "고-이케-세-", meaning: "합의형성",
+    example: "関係者間で合意形成を図りました。", exampleReading: "かんけいしゃかんでごういけいせいをはかりました。", exampleKorean: "칸케-샤칸데 고-이케-세-오 하카리마시타", exampleMeaning: "관계자 간에 합의형성을 도모했습니다.",
+    breakdown: [
+      { word: "関係者", reading: "かんけいしゃ", meaning: "관계자" }
+    ] },
+  { level: "N3", kanji: "コンセンサス", reading: "コンセンサス", korean: "콘센사스", meaning: "컨센서스, 합의",
+    example: "社内でコンセンサスを得ました。", exampleReading: "しゃないでコンセンサスをえました。", exampleKorean: "샤나이데 콘센사스오 에마시타", exampleMeaning: "사내에서 컨센서스를 얻었습니다.",
+    breakdown: [
+      { word: "社内", reading: "しゃない", meaning: "사내" }
+    ] },
+  { level: "N3", kanji: "根回し", reading: "ねまわし", korean: "네마와시", meaning: "사전정지작업",
+    example: "事前に根回しをしました。", exampleReading: "じぜんにねまわしをしました。", exampleKorean: "지젠니 네마와시오 시마시타", exampleMeaning: "사전에 정지작업을 했습니다.",
+    breakdown: [
+      { word: "事前に", reading: "じぜんに", meaning: "사전에" }
+    ] },
+  { level: "N3", kanji: "落着", reading: "らくちゃく", korean: "라쿠챠쿠", meaning: "낙착, 매듭지음",
+    example: "交渉がようやく落着しました。", exampleReading: "こうしょうがようやくらくちゃくしました。", exampleKorean: "코-쇼-가 요-야쿠 라쿠챠쿠 시마시타", exampleMeaning: "교섭이 마침내 낙착되었습니다.",
+    breakdown: [
+      { word: "ようやく", reading: "ようやく", meaning: "마침내" }
+    ] },
+  { level: "N3", kanji: "決着", reading: "けっちゃく", korean: "켁챠쿠", meaning: "결착",
+    example: "話し合いに決着がつきました。", exampleReading: "はなしあいにけっちゃくがつきました。", exampleKorean: "하나시아이니 켁챠쿠가 츠키마시타", exampleMeaning: "논의에 결착이 났습니다.",
+    breakdown: [
+      { word: "話し合い", reading: "はなしあい", meaning: "논의" }
+    ] },
+  { level: "N3", kanji: "円満解決", reading: "えんまんかいけつ", korean: "엔만카이케츠", meaning: "원만해결",
+    example: "トラブルが円満解決しました。", exampleReading: "トラブルがえんまんかいけつしました。", exampleKorean: "토라부루가 엔만카이케츠 시마시타", exampleMeaning: "문제가 원만하게 해결되었습니다.",
+    breakdown: [
+      { word: "トラブル", reading: "トラブル", meaning: "문제" }
+    ] },
+  { level: "N3", kanji: "仲裁", reading: "ちゅうさい", korean: "츄-사이", meaning: "중재",
+    example: "第三者が仲裁に入りました。", exampleReading: "だいさんしゃがちゅうさいにはいりました。", exampleKorean: "다이산샤가 츄-사이니 하이리마시타", exampleMeaning: "제3자가 중재에 나섰습니다.",
+    breakdown: [
+      { word: "第三者", reading: "だいさんしゃ", meaning: "제3자" }
+    ] },
+  { level: "N3", kanji: "調停", reading: "ちょうてい", korean: "쵸-테-", meaning: "조정(법적)",
+    example: "家庭裁判所で調停を受けました。", exampleReading: "かていさいばんしょでちょうていをうけました。", exampleKorean: "카테-사이반쇼데 쵸-테-오 우케마시타", exampleMeaning: "가정재판소에서 조정을 받았습니다.",
+    breakdown: [
+      { word: "家庭裁判所", reading: "かていさいばんしょ", meaning: "가정재판소" }
+    ] },
+  { level: "N3", kanji: "合意書", reading: "ごういしょ", korean: "고-이쇼", meaning: "합의서",
+    example: "合意書にサインしました。", exampleReading: "ごういしょにサインしました。", exampleKorean: "고-이쇼니 사인 시마시타", exampleMeaning: "합의서에 서명했습니다.",
+    breakdown: [
+      { word: "サイン", reading: "サイン", meaning: "서명" }
+    ] },
+  { level: "N3", kanji: "覚書", reading: "おぼえがき", korean: "오보에가키", meaning: "각서",
+    example: "覚書を交わしました。", exampleReading: "おぼえがきをかわしました。", exampleKorean: "오보에가키오 카와시마시타", exampleMeaning: "각서를 주고받았습니다.",
+    breakdown: [
+      { word: "交わしました", reading: "かわしました", meaning: "주고받았습니다" }
+    ] },
+  { level: "N3", kanji: "念書", reading: "ねんしょ", korean: "넨쇼", meaning: "각서(다짐)",
+    example: "念書を書かせました。", exampleReading: "ねんしょをかかせました。", exampleKorean: "넨쇼오 카카세마시타", exampleMeaning: "각서를 쓰게 했습니다.",
+    breakdown: [
+      { word: "書かせました", reading: "かかせました", meaning: "쓰게 했습니다" }
+    ] },
+  { level: "N3", kanji: "誓約書", reading: "せいやくしょ", korean: "세-야쿠쇼", meaning: "서약서",
+    example: "誓約書に署名しました。", exampleReading: "せいやくしょにしょめいしました。", exampleKorean: "세-야쿠쇼니 쇼메- 시마시타", exampleMeaning: "서약서에 서명했습니다.",
+    breakdown: [
+      { word: "署名", reading: "しょめい", meaning: "서명" }
+    ] },
+  { level: "N3", kanji: "密約", reading: "みつやく", korean: "미츠야쿠", meaning: "밀약",
+    example: "両国は密約を結びました。", exampleReading: "りょうこくはみつやくをむすびました。", exampleKorean: "료-코쿠와 미츠야쿠오 무스비마시타", exampleMeaning: "양국은 밀약을 맺었습니다.",
+    breakdown: [
+      { word: "両国", reading: "りょうこく", meaning: "양국" }
+    ] },
+  { level: "N3", kanji: "内諾", reading: "ないだく", korean: "나이다쿠", meaning: "내락(비공식 승낙)",
+    example: "内諾を得ました。", exampleReading: "ないだくをえました。", exampleKorean: "나이다쿠오 에마시타", exampleMeaning: "내락을 얻었습니다.",
+    breakdown: [
+      { word: "得ました", reading: "えました", meaning: "얻었습니다" }
+    ] },
+  { level: "N3", kanji: "破談", reading: "はだん", korean: "하단", meaning: "파담(합의 파기)",
+    example: "結婚の話が破談になりました。", exampleReading: "けっこんのはなしがはだんになりました。", exampleKorean: "켁콘노 하나시가 하단니 나리마시타", exampleMeaning: "결혼 이야기가 파담이 되었습니다.",
+    breakdown: [
+      { word: "結婚", reading: "けっこん", meaning: "결혼" }
+    ] },
+  { level: "N3", kanji: "白紙撤回", reading: "はくしてっかい", korean: "하쿠시텍카이", meaning: "백지철회",
+    example: "計画を白紙撤回しました。", exampleReading: "けいかくをはくしてっかいしました。", exampleKorean: "케-카쿠오 하쿠시텍카이 시마시타", exampleMeaning: "계획을 백지철회했습니다.",
+    breakdown: [
+      { word: "計画", reading: "けいかく", meaning: "계획" }
+    ] },
+  { level: "N3", kanji: "反故", reading: "ほご", korean: "호고", meaning: "파기(약속을 깸)",
+    example: "約束を反故にしました。", exampleReading: "やくそくをほごにしました。", exampleKorean: "야쿠소쿠오 호고니 시마시타", exampleMeaning: "약속을 파기했습니다.",
+    breakdown: [
+      { word: "約束", reading: "やくそく", meaning: "약속" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
