@@ -14928,6 +14928,206 @@ const VOCAB = [
     breakdown: [
       { word: "考え方", reading: "かんがえかた", meaning: "사고방식" }
     ] },
+  { level: "N3", kanji: "地政学", reading: "ちせいがく", korean: "치세-가쿠", meaning: "지정학",
+    example: "地政学の観点から分析しました。", exampleReading: "ちせいがくのかんてんからぶんせきしました。", exampleKorean: "치세-가쿠노 칸텐카라 분세키 시마시타", exampleMeaning: "지정학적 관점에서 분석했습니다.",
+    breakdown: [
+      { word: "観点", reading: "かんてん", meaning: "관점" }
+    ] },
+  { level: "N3", kanji: "覇権", reading: "はけん", korean: "하켄", meaning: "패권",
+    example: "覇権を争っています。", exampleReading: "はけんをあらそっています。", exampleKorean: "하켕오 아라솟테 이마스", exampleMeaning: "패권을 다투고 있습니다.",
+    breakdown: [
+      { word: "争って", reading: "あらそって", meaning: "다투어서" }
+    ] },
+  { level: "N3", kanji: "覇権争い", reading: "はけんあらそい", korean: "하켕아라소이", meaning: "패권다툼",
+    example: "二国間の覇権争いが続いています。", exampleReading: "にこくかんのはけんあらそいがつづいています。", exampleKorean: "니코쿠칸노 하켕아라소이가 츠즈이테 이마스", exampleMeaning: "양국 간의 패권다툼이 계속되고 있습니다.",
+    breakdown: [
+      { word: "二国間", reading: "にこくかん", meaning: "양국 간" }
+    ] },
+  { level: "N3", kanji: "勢力圏", reading: "せいりょくけん", korean: "세-료쿠켄", meaning: "세력권",
+    example: "勢力圏を拡大しています。", exampleReading: "せいりょくけんをかくだいしています。", exampleKorean: "세-료쿠켄오 카쿠다이 시테 이마스", exampleMeaning: "세력권을 확대하고 있습니다.",
+    breakdown: [
+      { word: "拡大", reading: "かくだい", meaning: "확대" }
+    ] },
+  { level: "N3", kanji: "同盟関係", reading: "どうめいかんけい", korean: "도-메-칸케-", meaning: "동맹관계",
+    example: "両国は同盟関係にあります。", exampleReading: "りょうこくはどうめいかんけいにあります。", exampleKorean: "료-코쿠와 도-메-칸케-니 아리마스", exampleMeaning: "양국은 동맹관계에 있습니다.",
+    breakdown: [
+      { word: "両国", reading: "りょうこく", meaning: "양국" }
+    ] },
+  { level: "N3", kanji: "軍事同盟", reading: "ぐんじどうめい", korean: "군지도-메-", meaning: "군사동맹",
+    example: "軍事同盟を結びました。", exampleReading: "ぐんじどうめいをむすびました。", exampleKorean: "군지도-메-오 무스비마시타", exampleMeaning: "군사동맹을 맺었습니다.",
+    breakdown: [
+      { word: "結びました", reading: "むすびました", meaning: "맺었습니다" }
+    ] },
+  { level: "N3", kanji: "抑止力", reading: "よくしりょく", korean: "요쿠시료쿠", meaning: "억지력",
+    example: "軍事的抑止力を維持しています。", exampleReading: "ぐんじてきよくしりょくをいじしています。", exampleKorean: "군지테키 요쿠시료쿠오 이지 시테 이마스", exampleMeaning: "군사적 억지력을 유지하고 있습니다.",
+    breakdown: [
+      { word: "維持", reading: "いじ", meaning: "유지" }
+    ] },
+  { level: "N3", kanji: "安全保障", reading: "あんぜんほしょう", korean: "안젠호쇼-", meaning: "안전보장",
+    example: "安全保障政策を見直しました。", exampleReading: "あんぜんほしょうせいさくをみなおしました。", exampleKorean: "안젠호쇼-세-사쿠오 미나오시마시타", exampleMeaning: "안전보장 정책을 재검토했습니다.",
+    breakdown: [
+      { word: "政策", reading: "せいさく", meaning: "정책" }
+    ] },
+  { level: "N3", kanji: "有事", reading: "ゆうじ", korean: "유-지", meaning: "유사시(비상시)",
+    example: "有事に備えています。", exampleReading: "ゆうじにそなえています。", exampleKorean: "유-지니 소나에테 이마스", exampleMeaning: "유사시에 대비하고 있습니다.",
+    breakdown: [
+      { word: "備えて", reading: "そなえて", meaning: "대비해서" }
+    ] },
+  { level: "N3", kanji: "平時", reading: "へいじ", korean: "헤-지", meaning: "평시",
+    example: "平時と有事の対応が異なります。", exampleReading: "へいじとゆうじのたいおうがことなります。", exampleKorean: "헤-지토 유-지노 타이오-가 코토나리마스", exampleMeaning: "평시와 유사시의 대응이 다릅니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N3", kanji: "緊張緩和", reading: "きんちょうかんわ", korean: "킨쵸-칸와", meaning: "긴장완화",
+    example: "緊張緩和が進んでいます。", exampleReading: "きんちょうかんわがすすんでいます。", exampleKorean: "킨쵸-칸와가 스슨데 이마스", exampleMeaning: "긴장완화가 진행되고 있습니다.",
+    breakdown: [
+      { word: "進んで", reading: "すすんで", meaning: "진행되어" }
+    ] },
+  { level: "N3", kanji: "対話路線", reading: "たいわろせん", korean: "타이와로센", meaning: "대화노선",
+    example: "対話路線を維持しています。", exampleReading: "たいわろせんをいじしています。", exampleKorean: "타이와로센오 이지 시테 이마스", exampleMeaning: "대화노선을 유지하고 있습니다.",
+    breakdown: [
+      { word: "維持", reading: "いじ", meaning: "유지" }
+    ] },
+  { level: "N3", kanji: "強硬路線", reading: "きょうこうろせん", korean: "쿄-코-로센", meaning: "강경노선",
+    example: "強硬路線に転じました。", exampleReading: "きょうこうろせんにてんじました。", exampleKorean: "쿄-코-로센니 텐지마시타", exampleMeaning: "강경노선으로 전환했습니다.",
+    breakdown: [
+      { word: "転じました", reading: "てんじました", meaning: "전환했습니다" }
+    ] },
+  { level: "N3", kanji: "融和路線", reading: "ゆうわろせん", korean: "유-와로센", meaning: "융화노선",
+    example: "融和路線を取っています。", exampleReading: "ゆうわろせんをとっています。", exampleKorean: "유-와로센오 톳테 이마스", exampleMeaning: "융화노선을 취하고 있습니다.",
+    breakdown: [
+      { word: "取って", reading: "とって", meaning: "취해서" }
+    ] },
+  { level: "N3", kanji: "制裁措置", reading: "せいさいそち", korean: "세-사이소치", meaning: "제재조치",
+    example: "制裁措置を発動しました。", exampleReading: "せいさいそちをはつどうしました。", exampleKorean: "세-사이소치오 하츠도- 시마시타", exampleMeaning: "제재조치를 발동했습니다.",
+    breakdown: [
+      { word: "発動", reading: "はつどう", meaning: "발동" }
+    ] },
+  { level: "N3", kanji: "経済封鎖", reading: "けいざいふうさ", korean: "케-자이후-사", meaning: "경제봉쇄",
+    example: "経済封鎖を実施しました。", exampleReading: "けいざいふうさをじっししました。", exampleKorean: "케-자이후-사오 짓시 시마시타", exampleMeaning: "경제봉쇄를 실시했습니다.",
+    breakdown: [
+      { word: "実施", reading: "じっし", meaning: "실시" }
+    ] },
+  { level: "N3", kanji: "孤立化", reading: "こりつか", korean: "코리츠카", meaning: "고립화",
+    example: "国際社会で孤立化しています。", exampleReading: "こくさいしゃかいでこりつかしています。", exampleKorean: "코쿠사이샤카이데 코리츠카 시테 이마스", exampleMeaning: "국제사회에서 고립화되고 있습니다.",
+    breakdown: [
+      { word: "国際社会", reading: "こくさいしゃかい", meaning: "국제사회" }
+    ] },
+  { level: "N3", kanji: "包囲網", reading: "ほういもう", korean: "호-이모-", meaning: "포위망",
+    example: "包囲網を築きました。", exampleReading: "ほういもうをきずきました。", exampleKorean: "호-이모-오 키즈키마시타", exampleMeaning: "포위망을 구축했습니다.",
+    breakdown: [
+      { word: "築きました", reading: "きずきました", meaning: "구축했습니다" }
+    ] },
+  { level: "N3", kanji: "均衡外交", reading: "きんこうがいこう", korean: "킨코-가이코-", meaning: "균형외교",
+    example: "均衡外交を展開しています。", exampleReading: "きんこうがいこうをてんかいしています。", exampleKorean: "킨코-가이코-오 텐카이 시테 이마스", exampleMeaning: "균형외교를 전개하고 있습니다.",
+    breakdown: [
+      { word: "展開", reading: "てんかい", meaning: "전개" }
+    ] },
+  { level: "N3", kanji: "等距離外交", reading: "とうきょりがいこう", korean: "토-쿄리가이코-", meaning: "등거리외교",
+    example: "等距離外交を維持しています。", exampleReading: "とうきょりがいこうをいじしています。", exampleKorean: "토-쿄리가이코-오 이지 시테 이마스", exampleMeaning: "등거리외교를 유지하고 있습니다.",
+    breakdown: [
+      { word: "維持", reading: "いじ", meaning: "유지" }
+    ] },
+  { level: "N3", kanji: "多国間協議", reading: "たこくかんきょうぎ", korean: "타코쿠칸쿄-기", meaning: "다자간협의",
+    example: "多国間協議が開かれました。", exampleReading: "たこくかんきょうぎがひらかれました。", exampleKorean: "타코쿠칸쿄-기가 히라카레마시타", exampleMeaning: "다자간협의가 열렸습니다.",
+    breakdown: [
+      { word: "開かれました", reading: "ひらかれました", meaning: "열렸습니다" }
+    ] },
+  { level: "N3", kanji: "二国間協議", reading: "にこくかんきょうぎ", korean: "니코쿠칸쿄-기", meaning: "양자간협의",
+    example: "二国間協議を実施しました。", exampleReading: "にこくかんきょうぎをじっししました。", exampleKorean: "니코쿠칸쿄-기오 짓시 시마시타", exampleMeaning: "양자간협의를 실시했습니다.",
+    breakdown: [
+      { word: "実施", reading: "じっし", meaning: "실시" }
+    ] },
+  { level: "N3", kanji: "首脳会談", reading: "しゅのうかいだん", korean: "슈노-카이단", meaning: "정상회담",
+    example: "首脳会談が行われました。", exampleReading: "しゅのうかいだんがおこなわれました。", exampleKorean: "슈노-카이단가 오코나와레마시타", exampleMeaning: "정상회담이 열렸습니다.",
+    breakdown: [
+      { word: "行われました", reading: "おこなわれました", meaning: "열렸습니다" }
+    ] },
+  { level: "N3", kanji: "外相会談", reading: "がいしょうかいだん", korean: "가이쇼-카이단", meaning: "외무장관회담",
+    example: "外相会談が予定されています。", exampleReading: "がいしょうかいだんがよていされています。", exampleKorean: "가이쇼-카이단가 요테-사레테 이마스", exampleMeaning: "외무장관회담이 예정되어 있습니다.",
+    breakdown: [
+      { word: "予定", reading: "よてい", meaning: "예정" }
+    ] },
+  { level: "N3", kanji: "国際世論", reading: "こくさいよろん", korean: "코쿠사이요론", meaning: "국제여론",
+    example: "国際世論が注目しています。", exampleReading: "こくさいよろんがちゅうもくしています。", exampleKorean: "코쿠사이요론가 츄-모쿠 시테 이마스", exampleMeaning: "국제여론이 주목하고 있습니다.",
+    breakdown: [
+      { word: "注目", reading: "ちゅうもく", meaning: "주목" }
+    ] },
+  { level: "N3", kanji: "国際社会", reading: "こくさいしゃかい", korean: "코쿠사이샤카이", meaning: "국제사회",
+    example: "国際社会から批判されました。", exampleReading: "こくさいしゃかいからひはんされました。", exampleKorean: "코쿠사이샤카이카라 히한사레마시타", exampleMeaning: "국제사회로부터 비판받았습니다.",
+    breakdown: [
+      { word: "批判", reading: "ひはん", meaning: "비판" }
+    ] },
+  { level: "N3", kanji: "国連安保理", reading: "こくれんあんぽり", korean: "코쿠렌암포리", meaning: "유엔안보리",
+    example: "国連安保理で議論されました。", exampleReading: "こくれんあんぽりでぎろんされました。", exampleKorean: "코쿠렌암포리데 기론사레마시타", exampleMeaning: "유엔안보리에서 논의되었습니다.",
+    breakdown: [
+      { word: "議論", reading: "ぎろん", meaning: "논의" }
+    ] },
+  { level: "N3", kanji: "拒否権", reading: "きょひけん", korean: "쿄히켄", meaning: "거부권",
+    example: "常任理事国は拒否権を持っています。", exampleReading: "じょうにんりじこくはきょひけんをもっています。", exampleKorean: "죠-닌리지코쿠와 쿄히켕오 못테 이마스", exampleMeaning: "상임이사국은 거부권을 가지고 있습니다.",
+    breakdown: [
+      { word: "常任理事国", reading: "じょうにんりじこく", meaning: "상임이사국" }
+    ] },
+  { level: "N3", kanji: "経済制裁解除", reading: "けいざいせいさいかいじょ", korean: "케-자이세-사이카이죠", meaning: "경제제재해제",
+    example: "経済制裁解除を求めました。", exampleReading: "けいざいせいさいかいじょをもとめました。", exampleKorean: "케-자이세-사이카이죠오 모토메마시타", exampleMeaning: "경제제재해제를 요구했습니다.",
+    breakdown: [
+      { word: "求めました", reading: "もとめました", meaning: "요구했습니다" }
+    ] },
+  { level: "N3", kanji: "人道支援", reading: "じんどうしえん", korean: "진도-시엔", meaning: "인도적지원",
+    example: "人道支援を行っています。", exampleReading: "じんどうしえんをおこなっています。", exampleKorean: "진도-시엔오 오코낫테 이마스", exampleMeaning: "인도적지원을 실시하고 있습니다.",
+    breakdown: [
+      { word: "行って", reading: "おこなって", meaning: "실시해서" }
+    ] },
+  { level: "N3", kanji: "難民キャンプ", reading: "なんみんキャンプ", korean: "난민캼푸", meaning: "난민캠프",
+    example: "難民キャンプを訪問しました。", exampleReading: "なんみんキャンプをほうもんしました。", exampleKorean: "난민캼푸오 호-몬 시마시타", exampleMeaning: "난민캠프를 방문했습니다.",
+    breakdown: [
+      { word: "訪問", reading: "ほうもん", meaning: "방문" }
+    ] },
+  { level: "N3", kanji: "国境紛争", reading: "こっきょうふんそう", korean: "콕쿄-훈소-", meaning: "국경분쟁",
+    example: "国境紛争が続いています。", exampleReading: "こっきょうふんそうがつづいています。", exampleKorean: "콕쿄-훈소-가 츠즈이테 이마스", exampleMeaning: "국경분쟁이 계속되고 있습니다.",
+    breakdown: [
+      { word: "続いて", reading: "つづいて", meaning: "계속되어" }
+    ] },
+  { level: "N3", kanji: "領土問題", reading: "りょうどもんだい", korean: "료-도몬다이", meaning: "영토문제",
+    example: "領土問題が未解決です。", exampleReading: "りょうどもんだいがみかいけつです。", exampleKorean: "료-도몬다이가 미카이케츠데스", exampleMeaning: "영토문제가 미해결입니다.",
+    breakdown: [
+      { word: "未解決", reading: "みかいけつ", meaning: "미해결" }
+    ] },
+  { level: "N3", kanji: "歴史認識", reading: "れきしにんしき", korean: "레키시닌시키", meaning: "역사인식",
+    example: "歴史認識の違いがあります。", exampleReading: "れきしにんしきのちがいがあります。", exampleKorean: "레키시닌시키노 치가이가 아리마스", exampleMeaning: "역사인식의 차이가 있습니다.",
+    breakdown: [
+      { word: "違い", reading: "ちがい", meaning: "차이" }
+    ] },
+  { level: "N3", kanji: "戦後処理", reading: "せんごしょり", korean: "센고쇼리", meaning: "전후처리",
+    example: "戦後処理が課題となっています。", exampleReading: "せんごしょりがかだいとなっています。", exampleKorean: "센고쇼리가 카다이토 낫테 이마스", exampleMeaning: "전후처리가 과제가 되고 있습니다.",
+    breakdown: [
+      { word: "課題", reading: "かだい", meaning: "과제" }
+    ] },
+  { level: "N3", kanji: "賠償問題", reading: "ばいしょうもんだい", korean: "바이쇼-몬다이", meaning: "배상문제",
+    example: "賠償問題を協議しました。", exampleReading: "ばいしょうもんだいをきょうぎしました。", exampleKorean: "바이쇼-몬다이오 쿄-기 시마시타", exampleMeaning: "배상문제를 협의했습니다.",
+    breakdown: [
+      { word: "協議", reading: "きょうぎ", meaning: "협의" }
+    ] },
+  { level: "N3", kanji: "和平交渉", reading: "わへいこうしょう", korean: "와헤-코-쇼-", meaning: "평화교섭",
+    example: "和平交渉が再開されました。", exampleReading: "わへいこうしょうがさいかいされました。", exampleKorean: "와헤-코-쇼-가 사이카이사레마시타", exampleMeaning: "평화교섭이 재개되었습니다.",
+    breakdown: [
+      { word: "再開", reading: "さいかい", meaning: "재개" }
+    ] },
+  { level: "N3", kanji: "停戦合意", reading: "ていせんごうい", korean: "테-센고-이", meaning: "정전합의",
+    example: "停戦合意に至りました。", exampleReading: "ていせんごういにいたりました。", exampleKorean: "테-센고-이니 이타리마시타", exampleMeaning: "정전합의에 이르렀습니다.",
+    breakdown: [
+      { word: "至りました", reading: "いたりました", meaning: "이르렀습니다" }
+    ] },
+  { level: "N3", kanji: "休戦協定", reading: "きゅうせんきょうてい", korean: "큐-센쿄-테-", meaning: "휴전협정",
+    example: "休戦協定が結ばれました。", exampleReading: "きゅうせんきょうていがむすばれました。", exampleKorean: "큐-센쿄-테-가 무스바레마시타", exampleMeaning: "휴전협정이 체결되었습니다.",
+    breakdown: [
+      { word: "結ばれました", reading: "むすばれました", meaning: "체결되었습니다" }
+    ] },
+  { level: "N3", kanji: "終戦記念日", reading: "しゅうせんきねんび", korean: "슈-센키넨비", meaning: "종전기념일",
+    example: "終戦記念日に黙祷しました。", exampleReading: "しゅうせんきねんびにもくとうしました。", exampleKorean: "슈-센키넨비니 모쿠토- 시마시타", exampleMeaning: "종전기념일에 묵도했습니다.",
+    breakdown: [
+      { word: "黙祷", reading: "もくとう", meaning: "묵도" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
