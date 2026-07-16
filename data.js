@@ -11753,6 +11753,206 @@ const VOCAB = [
     breakdown: [
       { word: "約束", reading: "やくそく", meaning: "약속" }
     ] },
+  { level: "N3", kanji: "理不尽", reading: "りふじん", korean: "리후진", meaning: "불합리함",
+    example: "理不尽な要求をされました。", exampleReading: "りふじんなようきゅうをされました。", exampleKorean: "리후진나 요-큐-오 사레마시타", exampleMeaning: "불합리한 요구를 받았습니다.",
+    breakdown: [
+      { word: "要求", reading: "ようきゅう", meaning: "요구" }
+    ] },
+  { level: "N3", kanji: "不条理", reading: "ふじょうり", korean: "후죠-리", meaning: "부조리",
+    example: "不条理な社会に憤りを感じます。", exampleReading: "ふじょうりなしゃかいにいきどおりをかんじます。", exampleKorean: "후죠-리나 샤카이니 이키도오리오 칸지마스", exampleMeaning: "부조리한 사회에 분노를 느낍니다.",
+    breakdown: [
+      { word: "社会", reading: "しゃかい", meaning: "사회" }
+    ] },
+  { level: "N3", kanji: "筋違い", reading: "すじちがい", korean: "스지치가이", meaning: "이치에 안 맞음, 잘못 짚음",
+    example: "それは筋違いな批判です。", exampleReading: "それはすじちがいなひはんです。", exampleKorean: "소레와 스지치가이나 히한데스", exampleMeaning: "그것은 이치에 맞지 않는 비판입니다.",
+    breakdown: [
+      { word: "批判", reading: "ひはん", meaning: "비판" }
+    ] },
+  { level: "N3", kanji: "的外れ", reading: "まとはずれ", korean: "마토하즈레", meaning: "핵심을 벗어남",
+    example: "的外れな意見でした。", exampleReading: "まとはずれないけんでした。", exampleKorean: "마토하즈레나 이켄데시타", exampleMeaning: "핵심을 벗어난 의견이었습니다.",
+    breakdown: [
+      { word: "意見", reading: "いけん", meaning: "의견" }
+    ] },
+  { level: "N3", kanji: "見当違い", reading: "けんとうちがい", korean: "켄토-치가이", meaning: "예상이 빗나감",
+    example: "見当違いの方向に進んでいました。", exampleReading: "けんとうちがいのほうこうにすすんでいました。", exampleKorean: "켄토-치가이노 호-코-니 스슨데 이마시타", exampleMeaning: "엉뚱한 방향으로 나아가고 있었습니다.",
+    breakdown: [
+      { word: "方向", reading: "ほうこう", meaning: "방향" }
+    ] },
+  { level: "N3", kanji: "的を射る", reading: "まとをいる", korean: "마토오이루", meaning: "정곡을 찌르다",
+    example: "的を射た指摘でした。", exampleReading: "まとをいたしてきでした。", exampleKorean: "마토오 이타 시테키데시타", exampleMeaning: "정곡을 찌른 지적이었습니다.",
+    breakdown: [
+      { word: "指摘", reading: "してき", meaning: "지적" }
+    ] },
+  { level: "N3", kanji: "要領を得る", reading: "ようりょうをえる", korean: "요-료-오에루", meaning: "요령을 터득하다",
+    example: "説明が要領を得ませんでした。", exampleReading: "せつめいがようりょうをえませんでした。", exampleKorean: "세츠메-가 요-료-오 에마센데시타", exampleMeaning: "설명이 요령부득이었습니다.",
+    breakdown: [
+      { word: "説明", reading: "せつめい", meaning: "설명" }
+    ] },
+  { level: "N3", kanji: "要領が悪い", reading: "ようりょうがわるい", korean: "요-료-가 와루이", meaning: "요령이 없다",
+    example: "彼は要領が悪いです。", exampleReading: "かれはようりょうがわるいです。", exampleKorean: "카레와 요-료-가 와루이데스", exampleMeaning: "그는 요령이 없습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N3", kanji: "要点を押さえる", reading: "ようてんをおさえる", korean: "요-텐오오사에루", meaning: "요점을 짚다",
+    example: "要点を押さえて説明しました。", exampleReading: "ようてんをおさえてせつめいしました。", exampleKorean: "요-텐오 오사에테 세츠메- 시마시타", exampleMeaning: "요점을 짚어서 설명했습니다.",
+    breakdown: [
+      { word: "説明", reading: "せつめい", meaning: "설명" }
+    ] },
+  { level: "N3", kanji: "核心を突く", reading: "かくしんをつく", korean: "카쿠신오츠쿠", meaning: "핵심을 찌르다",
+    example: "核心を突く質問でした。", exampleReading: "かくしんをつくしつもんでした。", exampleKorean: "카쿠신오 츠쿠 시츠몬데시타", exampleMeaning: "핵심을 찌르는 질문이었습니다.",
+    breakdown: [
+      { word: "質問", reading: "しつもん", meaning: "질문" }
+    ] },
+  { level: "N3", kanji: "痛いところを突く", reading: "いたいところをつく", korean: "이타이토코로오츠쿠", meaning: "아픈 곳을 찌르다",
+    example: "痛いところを突かれました。", exampleReading: "いたいところをつかれました。", exampleKorean: "이타이토코로오 츠카레마시타", exampleMeaning: "아픈 곳을 찔렸습니다.",
+    breakdown: [
+      { word: "突かれました", reading: "つかれました", meaning: "찔렸습니다" }
+    ] },
+  { level: "N3", kanji: "図星", reading: "ずぼし", korean: "즈보시", meaning: "정곡, 급소",
+    example: "図星を指されました。", exampleReading: "ずぼしをさされました。", exampleKorean: "즈보시오 사사레마시타", exampleMeaning: "정곡을 찔렸습니다.",
+    breakdown: [
+      { word: "指されました", reading: "さされました", meaning: "찔렸습니다" }
+    ] },
+  { level: "N3", kanji: "図星を指す", reading: "ずぼしをさす", korean: "즈보시오사스", meaning: "정곡을 찌르다",
+    example: "彼女は図星を指しました。", exampleReading: "かのじょはずぼしをさしました。", exampleKorean: "카노죠와 즈보시오 사시마시타", exampleMeaning: "그녀는 정곡을 찔렀습니다.",
+    breakdown: [
+      { word: "彼女", reading: "かのじょ", meaning: "그녀" }
+    ] },
+  { level: "N3", kanji: "虚を突く", reading: "きょをつく", korean: "쿄오츠쿠", meaning: "허를 찌르다",
+    example: "相手の虚を突きました。", exampleReading: "あいてのきょをつきました。", exampleKorean: "아이테노 쿄오 츠키마시타", exampleMeaning: "상대의 허를 찔렀습니다.",
+    breakdown: [
+      { word: "相手", reading: "あいて", meaning: "상대" }
+    ] },
+  { level: "N3", kanji: "裏をかく", reading: "うらをかく", korean: "우라오카쿠", meaning: "허를 찌르다, 뒤통수를 치다",
+    example: "相手の裏をかきました。", exampleReading: "あいてのうらをかきました。", exampleKorean: "아이테노 우라오 카키마시타", exampleMeaning: "상대의 허를 찔렀습니다.",
+    breakdown: [
+      { word: "相手", reading: "あいて", meaning: "상대" }
+    ] },
+  { level: "N3", kanji: "機先を制する", reading: "きせんをせいする", korean: "키센오세-스루", meaning: "기선을 제압하다",
+    example: "機先を制する発言をしました。", exampleReading: "きせんをせいするはつげんをしました。", exampleKorean: "키센오 세-스루 하츠겡오 시마시타", exampleMeaning: "기선을 제압하는 발언을 했습니다.",
+    breakdown: [
+      { word: "発言", reading: "はつげん", meaning: "발언" }
+    ] },
+  { level: "N3", kanji: "先手を打つ", reading: "せんてをうつ", korean: "센테오우츠", meaning: "선수를 치다",
+    example: "先手を打って準備しました。", exampleReading: "せんてをうってじゅんびしました。", exampleKorean: "센테오 웃테 쥰비 시마시타", exampleMeaning: "선수를 쳐서 준비했습니다.",
+    breakdown: [
+      { word: "準備", reading: "じゅんび", meaning: "준비" }
+    ] },
+  { level: "N3", kanji: "後手に回る", reading: "ごてにまわる", korean: "고테니마와루", meaning: "뒤처지다, 수세에 몰리다",
+    example: "対応が後手に回りました。", exampleReading: "たいおうがごてにまわりました。", exampleKorean: "타이오-가 고테니 마와리마시타", exampleMeaning: "대응이 뒤처졌습니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N3", kanji: "後手後手", reading: "ごてごて", korean: "고테고테", meaning: "계속 뒤처짐",
+    example: "対応が後手後手になりました。", exampleReading: "たいおうがごてごてになりました。", exampleKorean: "타이오-가 고테고테니 나리마시타", exampleMeaning: "대응이 계속 뒤처지게 되었습니다.",
+    breakdown: [
+      { word: "対応", reading: "たいおう", meaning: "대응" }
+    ] },
+  { level: "N3", kanji: "出遅れる", reading: "でおくれる", korean: "데오쿠레루", meaning: "출발이 늦다, 뒤처지다",
+    example: "競争に出遅れました。", exampleReading: "きょうそうにでおくれました。", exampleKorean: "쿄-소-니 데오쿠레마시타", exampleMeaning: "경쟁에 뒤처졌습니다.",
+    breakdown: [
+      { word: "競争", reading: "きょうそう", meaning: "경쟁" }
+    ] },
+  { level: "N3", kanji: "先制攻撃", reading: "せんせいこうげき", korean: "센세-코-게키", meaning: "선제공격",
+    example: "先制攻撃を仕掛けました。", exampleReading: "せんせいこうげきをしかけました。", exampleKorean: "센세-코-게키오 시카케마시타", exampleMeaning: "선제공격을 걸었습니다.",
+    breakdown: [
+      { word: "仕掛けました", reading: "しかけました", meaning: "걸었습니다" }
+    ] },
+  { level: "N3", kanji: "奇襲", reading: "きしゅう", korean: "키슈-", meaning: "기습",
+    example: "夜明けに奇襲をかけました。", exampleReading: "よあけにきしゅうをかけました。", exampleKorean: "요아케니 키슈-오 카케마시타", exampleMeaning: "새벽에 기습을 걸었습니다.",
+    breakdown: [
+      { word: "夜明け", reading: "よあけ", meaning: "새벽" }
+    ] },
+  { level: "N3", kanji: "陽動作戦", reading: "ようどうさくせん", korean: "요-도-사쿠센", meaning: "양동작전",
+    example: "陽動作戦を展開しました。", exampleReading: "ようどうさくせんをてんかいしました。", exampleKorean: "요-도-사쿠셍오 텐카이 시마시타", exampleMeaning: "양동작전을 전개했습니다.",
+    breakdown: [
+      { word: "展開", reading: "てんかい", meaning: "전개" }
+    ] },
+  { level: "N3", kanji: "布陣", reading: "ふじん", korean: "후진", meaning: "포진",
+    example: "強力な布陣を敷きました。", exampleReading: "きょうりょくなふじんをしきました。", exampleKorean: "쿄-료쿠나 후진오 시키마시타", exampleMeaning: "강력한 포진을 갖췄습니다.",
+    breakdown: [
+      { word: "強力な", reading: "きょうりょくな", meaning: "강력한" }
+    ] },
+  { level: "N3", kanji: "態勢", reading: "たいせい", korean: "타이세-", meaning: "태세",
+    example: "受け入れ態勢を整えました。", exampleReading: "うけいれたいせいをととのえました。", exampleKorean: "우케이레 타이세-오 토토노에마시타", exampleMeaning: "수용 태세를 갖췄습니다.",
+    breakdown: [
+      { word: "受け入れ", reading: "うけいれ", meaning: "수용" }
+    ] },
+  { level: "N3", kanji: "万全を期す", reading: "ばんぜんをきす", korean: "반젠오키스", meaning: "만전을 기하다",
+    example: "万全を期して準備しました。", exampleReading: "ばんぜんをきしてじゅんびしました。", exampleKorean: "반젠오 키시테 쥰비 시마시타", exampleMeaning: "만전을 기해서 준비했습니다.",
+    breakdown: [
+      { word: "準備", reading: "じゅんび", meaning: "준비" }
+    ] },
+  { level: "N3", kanji: "抜かりない", reading: "ぬかりない", korean: "누카리나이", meaning: "빈틈없다",
+    example: "準備に抜かりはありません。", exampleReading: "じゅんびにぬかりはありません。", exampleKorean: "쥰비니 누카리와 아리마셍", exampleMeaning: "준비에 빈틈은 없습니다.",
+    breakdown: [
+      { word: "準備", reading: "じゅんび", meaning: "준비" }
+    ] },
+  { level: "N3", kanji: "隙", reading: "すき", korean: "스키", meaning: "틈, 빈틈",
+    example: "相手に隙を見せませんでした。", exampleReading: "あいてにすきをみせませんでした。", exampleKorean: "아이테니 스키오 미세마센데시타", exampleMeaning: "상대에게 빈틈을 보이지 않았습니다.",
+    breakdown: [
+      { word: "相手", reading: "あいて", meaning: "상대" }
+    ] },
+  { level: "N3", kanji: "隙を突く", reading: "すきをつく", korean: "스키오츠쿠", meaning: "틈을 노리다",
+    example: "相手の隙を突きました。", exampleReading: "あいてのすきをつきました。", exampleKorean: "아이테노 스키오 츠키마시타", exampleMeaning: "상대의 틈을 노렸습니다.",
+    breakdown: [
+      { word: "相手", reading: "あいて", meaning: "상대" }
+    ] },
+  { level: "N3", kanji: "死角", reading: "しかく", korean: "시카쿠", meaning: "사각(빈틈)",
+    example: "カメラの死角になっています。", exampleReading: "カメラのしかくになっています。", exampleKorean: "카메라노 시카쿠니 낫테 이마스", exampleMeaning: "카메라의 사각지대가 되어 있습니다.",
+    breakdown: [
+      { word: "カメラ", reading: "カメラ", meaning: "카메라" }
+    ] },
+  { level: "N3", kanji: "盲点", reading: "もうてん", korean: "모-텐", meaning: "맹점",
+    example: "そこが盲点でした。", exampleReading: "そこがもうてんでした。", exampleKorean: "소코가 모-텐데시타", exampleMeaning: "그곳이 맹점이었습니다.",
+    breakdown: [
+      { word: "そこ", reading: "そこ", meaning: "그곳" }
+    ] },
+  { level: "N3", kanji: "落とし穴", reading: "おとしあな", korean: "오토시아나", meaning: "함정",
+    example: "契約書に落とし穴がありました。", exampleReading: "けいやくしょにおとしあながありました。", exampleKorean: "케-야쿠쇼니 오토시아나가 아리마시타", exampleMeaning: "계약서에 함정이 있었습니다.",
+    breakdown: [
+      { word: "契約書", reading: "けいやくしょ", meaning: "계약서" }
+    ] },
+  { level: "N3", kanji: "罠", reading: "わな", korean: "와나", meaning: "덫, 함정",
+    example: "罠にはめられました。", exampleReading: "わなにはめられました。", exampleKorean: "와나니 하메라레마시타", exampleMeaning: "함정에 빠졌습니다.",
+    breakdown: [
+      { word: "はめられました", reading: "はめられました", meaning: "빠졌습니다" }
+    ] },
+  { level: "N3", kanji: "策略", reading: "さくりゃく", korean: "사쿠랴쿠", meaning: "책략",
+    example: "策略を練りました。", exampleReading: "さくりゃくをねりました。", exampleKorean: "사쿠랴쿠오 네리마시타", exampleMeaning: "책략을 짰습니다.",
+    breakdown: [
+      { word: "練りました", reading: "ねりました", meaning: "짰습니다" }
+    ] },
+  { level: "N3", kanji: "謀略", reading: "ぼうりゃく", korean: "보-랴쿠", meaning: "모략",
+    example: "謀略に巻き込まれました。", exampleReading: "ぼうりゃくにまきこまれました。", exampleKorean: "보-랴쿠니 마키코마레마시타", exampleMeaning: "모략에 휘말렸습니다.",
+    breakdown: [
+      { word: "巻き込まれました", reading: "まきこまれました", meaning: "휘말렸습니다" }
+    ] },
+  { level: "N3", kanji: "陰謀", reading: "いんぼう", korean: "인보-", meaning: "음모",
+    example: "陰謀を企てました。", exampleReading: "いんぼうをくわだてました。", exampleKorean: "인보-오 쿠와다테마시타", exampleMeaning: "음모를 꾸몄습니다.",
+    breakdown: [
+      { word: "企てました", reading: "くわだてました", meaning: "꾸몄습니다" }
+    ] },
+  { level: "N3", kanji: "企み", reading: "たくらみ", korean: "타쿠라미", meaning: "계략, 음모",
+    example: "彼の企みに気づきました。", exampleReading: "かれのたくらみにきづきました。", exampleKorean: "카레노 타쿠라미니 키즈키마시타", exampleMeaning: "그의 계략을 눈치챘습니다.",
+    breakdown: [
+      { word: "気づきました", reading: "きづきました", meaning: "눈치챘습니다" }
+    ] },
+  { level: "N3", kanji: "目論見", reading: "もくろみ", korean: "모쿠로미", meaning: "목적, 계획(속셈)",
+    example: "彼の目論見は失敗しました。", exampleReading: "かれのもくろみはしっぱいしました。", exampleKorean: "카레노 모쿠로미와 싯파이 시마시타", exampleMeaning: "그의 속셈은 실패했습니다.",
+    breakdown: [
+      { word: "失敗", reading: "しっぱい", meaning: "실패" }
+    ] },
+  { level: "N3", kanji: "腹積もり", reading: "はらづもり", korean: "하라즈모리", meaning: "속셈, 마음속 계획",
+    example: "彼には腹積もりがあるようです。", exampleReading: "かれにははらづもりがあるようです。", exampleKorean: "카레니와 하라즈모리가 아루요-데스", exampleMeaning: "그에게는 속셈이 있는 것 같습니다.",
+    breakdown: [
+      { word: "彼", reading: "かれ", meaning: "그" }
+    ] },
+  { level: "N3", kanji: "深謀遠慮", reading: "しんぼうえんりょ", korean: "심보-엔료", meaning: "심모원려",
+    example: "深謀遠慮に基づく決断でした。", exampleReading: "しんぼうえんりょにもとづくけつだんでした。", exampleKorean: "심보-엔료니 모토즈쿠 케츠단데시타", exampleMeaning: "심모원려에 근거한 결단이었습니다.",
+    breakdown: [
+      { word: "決断", reading: "けつだん", meaning: "결단" }
+    ] },
 
   // ---------- N2 ----------
   { level: "N2", kanji: "抽象的", reading: "ちゅうしょうてき", korean: "츄-쇼-테키", meaning: "추상적",
