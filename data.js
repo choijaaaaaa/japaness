@@ -22486,4 +22486,154 @@ const VOCAB = [
     breakdown: [
       { word: "覚えて", reading: "おぼえて", meaning: "느끼고 있어서" }
     ] },
+  { level: "N1", kanji: "円熟", reading: "えんじゅく", korean: "엔쥬쿠", meaning: "원숙함",
+    example: "円熟の境地に達しました。", exampleReading: "えんじゅくのきょうちにたっしました。", exampleKorean: "엔쥬쿠노 쿄-치니 탓시마시타", exampleMeaning: "원숙한 경지에 도달했습니다.",
+    breakdown: [
+      { word: "境地", reading: "きょうち", meaning: "경지" }
+    ] },
+  { level: "N1", kanji: "老成", reading: "ろうせい", korean: "로-세-", meaning: "노숙함(나이보다 성숙함)",
+    example: "彼は老成した考え方をします。", exampleReading: "かれはろうせいしたかんがえかたをします。", exampleKorean: "카레와 로-세-시타 캉가에카타오 시마스", exampleMeaning: "그는 노숙한 사고방식을 가지고 있습니다.",
+    breakdown: [
+      { word: "考え方", reading: "かんがえかた", meaning: "사고방식" }
+    ] },
+  { level: "N1", kanji: "老練", reading: "ろうれん", korean: "로-렌", meaning: "노련함",
+    example: "老練な手腕を発揮しました。", exampleReading: "ろうれんなしゅわんをはっきしました。", exampleKorean: "로-렌나 슈완오 학키 시마시타", exampleMeaning: "노련한 수완을 발휘했습니다.",
+    breakdown: [
+      { word: "手腕", reading: "しゅわん", meaning: "수완" }
+    ] },
+  { level: "N1", kanji: "熟達", reading: "じゅくたつ", korean: "쥬쿠타츠", meaning: "숙달",
+    example: "技術に熟達しています。", exampleReading: "ぎじゅつにじゅくたつしています。", exampleKorean: "기쥬츠니 쥬쿠타츠 시테 이마스", exampleMeaning: "기술에 숙달되어 있습니다.",
+    breakdown: [
+      { word: "技術", reading: "ぎじゅつ", meaning: "기술" }
+    ] },
+  { level: "N1", kanji: "手練", reading: "てだれ", korean: "테다레", meaning: "숙련(솜씨가 뛰어남)",
+    example: "手練の技を見せました。", exampleReading: "てだれのわざをみせました。", exampleKorean: "테다레노 와자오 미세마시타", exampleMeaning: "숙련된 기술을 보였습니다.",
+    breakdown: [
+      { word: "技", reading: "わざ", meaning: "기술" }
+    ] },
+  { level: "N1", kanji: "手だれ", reading: "てだれ", korean: "테다레", meaning: "숙련자",
+    example: "手だれの職人です。", exampleReading: "てだれのしょくにんです。", exampleKorean: "테다레노 쇼쿠닌데스", exampleMeaning: "숙련된 장인입니다.",
+    breakdown: [
+      { word: "職人", reading: "しょくにん", meaning: "장인" }
+    ] },
+  { level: "N1", kanji: "達人の域", reading: "たつじんのいき", korean: "타츠진노이키", meaning: "달인의 경지",
+    example: "達人の域に達しました。", exampleReading: "たつじんのいきにたっしました。", exampleKorean: "타츠진노 이키니 탓시마시타", exampleMeaning: "달인의 경지에 도달했습니다.",
+    breakdown: [
+      { word: "達しました", reading: "たっしました", meaning: "도달했습니다" }
+    ] },
+  { level: "N1", kanji: "極意", reading: "ごくい", korean: "고쿠이", meaning: "극의(비법)",
+    example: "武道の極意を教わりました。", exampleReading: "ぶどうのごくいをおそわりました。", exampleKorean: "부도-노 고쿠이오 오소와리마시타", exampleMeaning: "무도의 극의를 배웠습니다.",
+    breakdown: [
+      { word: "武道", reading: "ぶどう", meaning: "무도" }
+    ] },
+  { level: "N1", kanji: "奥義", reading: "おうぎ", korean: "오-기", meaning: "오의(비전)",
+    example: "奥義を伝授されました。", exampleReading: "おうぎをでんじゅされました。", exampleKorean: "오-기오 덴쥬사레마시타", exampleMeaning: "오의를 전수받았습니다.",
+    breakdown: [
+      { word: "伝授", reading: "でんじゅ", meaning: "전수" }
+    ] },
+  { level: "N1", kanji: "秘伝", reading: "ひでん", korean: "히덴", meaning: "비전(비밀 전수법)",
+    example: "秘伝のタレを使っています。", exampleReading: "ひでんのタレをつかっています。", exampleKorean: "히덴노 타레오 츠캇테 이마스", exampleMeaning: "비전의 소스를 사용하고 있습니다.",
+    breakdown: [
+      { word: "タレ", reading: "タレ", meaning: "소스" }
+    ] },
+  { level: "N1", kanji: "会得", reading: "えとく", korean: "에토쿠", meaning: "터득",
+    example: "コツを会得しました。", exampleReading: "コツをえとくしました。", exampleKorean: "코츠오 에토쿠 시마시타", exampleMeaning: "요령을 터득했습니다.",
+    breakdown: [
+      { word: "コツ", reading: "コツ", meaning: "요령" }
+    ] },
+  { level: "N1", kanji: "体得", reading: "たいとく", korean: "타이토쿠", meaning: "체득",
+    example: "経験を通して体得しました。", exampleReading: "けいけんをとおしてたいとくしました。", exampleKorean: "케-켄오 토-시테 타이토쿠 시마시타", exampleMeaning: "경험을 통해 체득했습니다.",
+    breakdown: [
+      { word: "経験", reading: "けいけん", meaning: "경험" }
+    ] },
+  { level: "N1", kanji: "習熟", reading: "しゅうじゅく", korean: "슈-쥬쿠", meaning: "숙지, 숙련",
+    example: "操作に習熟しています。", exampleReading: "そうさにしゅうじゅくしています。", exampleKorean: "소-사니 슈-쥬쿠 시테 이마스", exampleMeaning: "조작에 숙련되어 있습니다.",
+    breakdown: [
+      { word: "操作", reading: "そうさ", meaning: "조작" }
+    ] },
+  { level: "N1", kanji: "練達", reading: "れんたつ", korean: "렌타츠", meaning: "연달(숙달)",
+    example: "練達した技術者です。", exampleReading: "れんたつしたぎじゅつしゃです。", exampleKorean: "렌타츠시타 기쥬츠샤데스", exampleMeaning: "연달한 기술자입니다.",
+    breakdown: [
+      { word: "技術者", reading: "ぎじゅつしゃ", meaning: "기술자" }
+    ] },
+  { level: "N1", kanji: "熟練の技", reading: "じゅくれんのわざ", korean: "쥬쿠렌노와자", meaning: "숙련된 기술",
+    example: "熟練の技が光ります。", exampleReading: "じゅくれんのわざがひかります。", exampleKorean: "쥬쿠렌노 와자가 히카리마스", exampleMeaning: "숙련된 기술이 빛납니다.",
+    breakdown: [
+      { word: "光ります", reading: "ひかります", meaning: "빛납니다" }
+    ] },
+  { level: "N1", kanji: "匠の域", reading: "たくみのいき", korean: "타쿠미노이키", meaning: "장인의 경지",
+    example: "匠の域に達した職人です。", exampleReading: "たくみのいきにたっしたしょくにんです。", exampleKorean: "타쿠미노 이키니 탓시타 쇼쿠닌데스", exampleMeaning: "장인의 경지에 도달한 장인입니다.",
+    breakdown: [
+      { word: "職人", reading: "しょくにん", meaning: "장인" }
+    ] },
+  { level: "N1", kanji: "神業", reading: "かみわざ", korean: "카미와자", meaning: "신기(신의 기술)",
+    example: "神業としか言えません。", exampleReading: "かみわざとしかいえません。", exampleKorean: "카미와자토시카 이에마셍", exampleMeaning: "신기라고밖에 말할 수 없습니다.",
+    breakdown: [
+      { word: "しか", reading: "しか", meaning: "밖에" }
+    ] },
+  { level: "N1", kanji: "妙技", reading: "みょうぎ", korean: "묘-기", meaning: "묘기",
+    example: "妙技に観客が沸きました。", exampleReading: "みょうぎにかんきゃくがわきました。", exampleKorean: "묘-기니 칸캬쿠가 와키마시타", exampleMeaning: "묘기에 관객이 열광했습니다.",
+    breakdown: [
+      { word: "観客", reading: "かんきゃく", meaning: "관객" }
+    ] },
+  { level: "N1", kanji: "離れ業", reading: "はなれわざ", korean: "하나레와자", meaning: "놀라운 재주",
+    example: "離れ業をやってのけました。", exampleReading: "はなれわざをやってのけました。", exampleKorean: "하나레와자오 얏테노케마시타", exampleMeaning: "놀라운 재주를 해냈습니다.",
+    breakdown: [
+      { word: "やってのけました", reading: "やってのけました", meaning: "해냈습니다" }
+    ] },
+  { level: "N1", kanji: "荒業", reading: "あらわざ", korean: "아라와자", meaning: "거친 기술, 대담한 방법",
+    example: "荒業でピンチを乗り越えました。", exampleReading: "あらわざでピンチをのりこえました。", exampleKorean: "아라와자데 핀치오 노리코에마시타", exampleMeaning: "대담한 방법으로 위기를 극복했습니다.",
+    breakdown: [
+      { word: "ピンチ", reading: "ピンチ", meaning: "위기" }
+    ] },
+  { level: "N1", kanji: "一朝一夕", reading: "いっちょういっせき", korean: "잇쵸-잇세키", meaning: "일조일석(단기간)",
+    example: "一朝一夕にはできません。", exampleReading: "いっちょういっせきにはできません。", exampleKorean: "잇쵸-잇세키니와 데키마셍", exampleMeaning: "단기간에는 할 수 없습니다.",
+    breakdown: [
+      { word: "できません", reading: "できません", meaning: "할 수 없습니다" }
+    ] },
+  { level: "N1", kanji: "石の上にも三年", reading: "いしのうえにもさんねん", korean: "이시노우에니모산넨", meaning: "돌 위에도 3년(인내의 중요성)",
+    example: "石の上にも三年です。", exampleReading: "いしのうえにもさんねんです。", exampleKorean: "이시노우에니모 산넨데스", exampleMeaning: "돌 위에도 3년이라는 말이 있습니다.",
+    breakdown: [
+      { word: "三年", reading: "さんねん", meaning: "3년" }
+    ] },
+  { level: "N1", kanji: "継続は力なり", reading: "けいぞくはちからなり", korean: "케-조쿠와치카라나리", meaning: "계속이 힘이다(속담)",
+    example: "継続は力なりと信じています。", exampleReading: "けいぞくはちからなりとしんじています。", exampleKorean: "케-조쿠와 치카라나리토 신지테 이마스", exampleMeaning: "계속이 힘이라고 믿고 있습니다.",
+    breakdown: [
+      { word: "信じて", reading: "しんじて", meaning: "믿어서" }
+    ] },
+  { level: "N1", kanji: "千里の道も一歩から", reading: "せんりのみちもいっぽから", korean: "센리노미치모잇포카라", meaning: "천리길도 한 걸음부터",
+    example: "千里の道も一歩からです。", exampleReading: "せんりのみちもいっぽからです。", exampleKorean: "센리노미치모 잇포카라데스", exampleMeaning: "천리길도 한 걸음부터입니다.",
+    breakdown: [
+      { word: "一歩", reading: "いっぽ", meaning: "한 걸음" }
+    ] },
+  { level: "N1", kanji: "塵も積もれば山となる", reading: "ちりもつもればやまとなる", korean: "치리모츠모레바야마토나루", meaning: "티끌 모아 태산",
+    example: "塵も積もれば山となるということわざです。", exampleReading: "ちりもつもればやまとなるということわざです。", exampleKorean: "치리모츠모레바 야마토나루토이우 코토와자데스", exampleMeaning: "티끌 모아 태산이라는 속담입니다.",
+    breakdown: [
+      { word: "ことわざ", reading: "ことわざ", meaning: "속담" }
+    ] },
+  { level: "N1", kanji: "習うより慣れよ", reading: "ならうよりなれよ", korean: "나라우요리나레요", meaning: "배우기보다 익숙해져라",
+    example: "習うより慣れよと言われます。", exampleReading: "ならうよりなれよといわれます。", exampleKorean: "나라우요리나레요토 이와레마스", exampleMeaning: "배우기보다 익숙해지라는 말을 듣습니다.",
+    breakdown: [
+      { word: "言われます", reading: "いわれます", meaning: "말을 듣습니다" }
+    ] },
+  { level: "N1", kanji: "光陰矢の如し", reading: "こういんやのごとし", korean: "코-인야노고토시", meaning: "세월은 화살과 같다",
+    example: "光陰矢の如しと感じます。", exampleReading: "こういんやのごとしとかんじます。", exampleKorean: "코-인야노고토시토 칸지마스", exampleMeaning: "세월은 화살과 같다고 느낍니다.",
+    breakdown: [
+      { word: "感じます", reading: "かんじます", meaning: "느낍니다" }
+    ] },
+  { level: "N1", kanji: "日進月歩", reading: "にっしんげっぽ", korean: "닛신겟포", meaning: "일진월보(끊임없는 발전)",
+    example: "技術は日進月歩です。", exampleReading: "ぎじゅつはにっしんげっぽです。", exampleKorean: "기쥬츠와 닛신겟포데스", exampleMeaning: "기술은 일진월보입니다.",
+    breakdown: [
+      { word: "技術", reading: "ぎじゅつ", meaning: "기술" }
+    ] },
+  { level: "N1", kanji: "切磋琢磨", reading: "せっさたくま", korean: "셋사타쿠마", meaning: "절차탁마(서로 연마함)",
+    example: "仲間と切磋琢磨しています。", exampleReading: "なかまとせっさたくましています。", exampleKorean: "나카마토 셋사타쿠마 시테 이마스", exampleMeaning: "동료와 절차탁마하고 있습니다.",
+    breakdown: [
+      { word: "仲間", reading: "なかま", meaning: "동료" }
+    ] },
+  { level: "N1", kanji: "刻苦勉励", reading: "こっくべんれい", korean: "콕쿠벤레-", meaning: "각고면려(온갖 고생을 견디며 노력함)",
+    example: "刻苦勉励の末、合格しました。", exampleReading: "こっくべんれいのすえ、ごうかくしました。", exampleKorean: "콕쿠벤레-노 스에, 고-카쿠 시마시타", exampleMeaning: "각고면려 끝에 합격했습니다.",
+    breakdown: [
+      { word: "合格", reading: "ごうかく", meaning: "합격" }
+    ] },
 ];
