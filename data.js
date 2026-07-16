@@ -5783,6 +5783,206 @@ const VOCAB = [
     breakdown: [
       { word: "敗れました", reading: "やぶれました", meaning: "패했습니다" }
     ] },
+  { level: "N5", kanji: "文房具店", reading: "ぶんぼうぐてん", korean: "분보-구텐", meaning: "문구점",
+    example: "文房具店でノートを買いました。", exampleReading: "ぶんぼうぐてんでノートをかいました。", exampleKorean: "분보-구텐데 노-토오 카이마시타", exampleMeaning: "문구점에서 노트를 샀습니다.",
+    breakdown: [
+      { word: "ノート", reading: "ノート", meaning: "노트" }
+    ] },
+  { level: "N5", kanji: "眼鏡店", reading: "めがねてん", korean: "메가네텐", meaning: "안경점",
+    example: "眼鏡店で眼鏡を作りました。", exampleReading: "めがねてんでめがねをつくりました。", exampleKorean: "메가네텐데 메가네오 츠쿠리마시타", exampleMeaning: "안경점에서 안경을 맞췄습니다.",
+    breakdown: [
+      { word: "眼鏡", reading: "めがね", meaning: "안경" }
+    ] },
+  { level: "N5", kanji: "時計店", reading: "とけいてん", korean: "토케-텐", meaning: "시계점",
+    example: "時計店で時計を修理しました。", exampleReading: "とけいてんでとけいをしゅうりしました。", exampleKorean: "토케-텐데 토케-오 슈-리 시마시타", exampleMeaning: "시계점에서 시계를 수리했습니다.",
+    breakdown: [
+      { word: "時計", reading: "とけい", meaning: "시계" }
+    ] },
+  { level: "N5", kanji: "宝石店", reading: "ほうせきてん", korean: "호-세키텐", meaning: "보석점",
+    example: "宝石店で指輪を見ました。", exampleReading: "ほうせきてんでゆびわをみました。", exampleKorean: "호-세키텐데 유비와오 미마시타", exampleMeaning: "보석점에서 반지를 봤습니다.",
+    breakdown: [
+      { word: "指輪", reading: "ゆびわ", meaning: "반지" }
+    ] },
+  { level: "N5", kanji: "化粧品店", reading: "けしょうひんてん", korean: "케쇼-힌텐", meaning: "화장품 가게",
+    example: "化粧品店で口紅を買いました。", exampleReading: "けしょうひんてんでくちべにをかいました。", exampleKorean: "케쇼-힌텐데 쿠치베니오 카이마시타", exampleMeaning: "화장품 가게에서 립스틱을 샀습니다.",
+    breakdown: [
+      { word: "口紅", reading: "くちべに", meaning: "립스틱" }
+    ] },
+  { level: "N5", kanji: "雑貨店", reading: "ざっかてん", korean: "작카텐", meaning: "잡화점",
+    example: "雑貨店で可愛い物を見つけました。", exampleReading: "ざっかてんでかわいいものをみつけました。", exampleKorean: "작카텐데 카와이- 모노오 미츠케마시타", exampleMeaning: "잡화점에서 귀여운 물건을 찾았습니다.",
+    breakdown: [
+      { word: "可愛い物", reading: "かわいいもの", meaning: "귀여운 물건" }
+    ] },
+  { level: "N5", kanji: "家具店", reading: "かぐてん", korean: "카구텐", meaning: "가구점",
+    example: "家具店でソファを選びました。", exampleReading: "かぐてんでソファをえらびました。", exampleKorean: "카구텐데 소화오 에라비마시타", exampleMeaning: "가구점에서 소파를 골랐습니다.",
+    breakdown: [
+      { word: "ソファ", reading: "ソファ", meaning: "소파" }
+    ] },
+  { level: "N5", kanji: "電器店", reading: "でんきてん", korean: "덴키텐", meaning: "전자제품점",
+    example: "電器店で冷蔵庫を買いました。", exampleReading: "でんきてんでれいぞうこをかいました。", exampleKorean: "덴키텐데 레-조-코오 카이마시타", exampleMeaning: "전자제품점에서 냉장고를 샀습니다.",
+    breakdown: [
+      { word: "冷蔵庫", reading: "れいぞうこ", meaning: "냉장고" }
+    ] },
+  { level: "N5", kanji: "携帯電話ショップ", reading: "けいたいでんわショップ", korean: "케-타이덴와숍푸", meaning: "휴대폰 매장",
+    example: "携帯電話ショップで契約しました。", exampleReading: "けいたいでんわショップでけいやくしました。", exampleKorean: "케-타이덴와숍푸데 케-야쿠 시마시타", exampleMeaning: "휴대폰 매장에서 계약했습니다.",
+    breakdown: [
+      { word: "契約", reading: "けいやく", meaning: "계약" }
+    ] },
+  { level: "N5", kanji: "カメラ店", reading: "カメラてん", korean: "카메라텐", meaning: "카메라 가게",
+    example: "カメラ店でレンズを買いました。", exampleReading: "カメラてんでレンズをかいました。", exampleKorean: "카메라텐데 렌즈오 카이마시타", exampleMeaning: "카메라 가게에서 렌즈를 샀습니다.",
+    breakdown: [
+      { word: "レンズ", reading: "レンズ", meaning: "렌즈" }
+    ] },
+  { level: "N5", kanji: "楽器店", reading: "がっきてん", korean: "각키텐", meaning: "악기점",
+    example: "楽器店でギターを試奏しました。", exampleReading: "がっきてんでギターをしそうしました。", exampleKorean: "각키텐데 기타-오 시소- 시마시타", exampleMeaning: "악기점에서 기타를 시연해봤습니다.",
+    breakdown: [
+      { word: "ギター", reading: "ギター", meaning: "기타" }
+    ] },
+  { level: "N5", kanji: "スポーツ用品店", reading: "スポーツようひんてん", korean: "스포-츠요-힌텐", meaning: "스포츠용품점",
+    example: "スポーツ用品店で靴を買いました。", exampleReading: "スポーツようひんてんでくつをかいました。", exampleKorean: "스포-츠요-힌텐데 쿠츠오 카이마시타", exampleMeaning: "스포츠용품점에서 신발을 샀습니다.",
+    breakdown: [
+      { word: "靴", reading: "くつ", meaning: "신발" }
+    ] },
+  { level: "N5", kanji: "ペットショップ用品", reading: "ペットショップようひん", korean: "펫토숍푸요-힌", meaning: "펫샵 용품",
+    example: "ペットショップ用品を購入しました。", exampleReading: "ペットショップようひんをこうにゅうしました。", exampleKorean: "펫토숍푸요-힌오 코-뉴- 시마시타", exampleMeaning: "펫샵 용품을 구입했습니다.",
+    breakdown: [
+      { word: "購入", reading: "こうにゅう", meaning: "구입" }
+    ] },
+  { level: "N5", kanji: "園芸店", reading: "えんげいてん", korean: "엔게-텐", meaning: "원예점",
+    example: "園芸店で花の種を買いました。", exampleReading: "えんげいてんではなのたねをかいました。", exampleKorean: "엔게-텐데 하나노 타네오 카이마시타", exampleMeaning: "원예점에서 꽃씨를 샀습니다.",
+    breakdown: [
+      { word: "花の種", reading: "はなのたね", meaning: "꽃씨" }
+    ] },
+  { level: "N5", kanji: "金物屋", reading: "かなものや", korean: "카나모노야", meaning: "철물점",
+    example: "金物屋で工具を買いました。", exampleReading: "かなものやでこうぐをかいました。", exampleKorean: "카나모노야데 코-구오 카이마시타", exampleMeaning: "철물점에서 공구를 샀습니다.",
+    breakdown: [
+      { word: "工具", reading: "こうぐ", meaning: "공구" }
+    ] },
+  { level: "N5", kanji: "布団屋", reading: "ふとんや", korean: "후톤야", meaning: "이불 가게",
+    example: "布団屋で新しい布団を買いました。", exampleReading: "ふとんやであたらしいふとんをかいました。", exampleKorean: "후톤야데 아타라시- 후통오 카이마시타", exampleMeaning: "이불 가게에서 새 이불을 샀습니다.",
+    breakdown: [
+      { word: "新しい", reading: "あたらしい", meaning: "새로운" }
+    ] },
+  { level: "N5", kanji: "布地屋", reading: "ぬのじや", korean: "누노지야", meaning: "원단 가게",
+    example: "布地屋で布を選びました。", exampleReading: "ぬのじやでぬのをえらびました。", exampleKorean: "누노지야데 누노오 에라비마시타", exampleMeaning: "원단 가게에서 천을 골랐습니다.",
+    breakdown: [
+      { word: "布", reading: "ぬの", meaning: "천" }
+    ] },
+  { level: "N5", kanji: "手芸店", reading: "しゅげいてん", korean: "슈게-텐", meaning: "수예점",
+    example: "手芸店で毛糸を買いました。", exampleReading: "しゅげいてんでけいとをかいました。", exampleKorean: "슈게-텐데 케이토오 카이마시타", exampleMeaning: "수예점에서 털실을 샀습니다.",
+    breakdown: [
+      { word: "毛糸", reading: "けいと", meaning: "털실" }
+    ] },
+  { level: "N5", kanji: "古着屋", reading: "ふるぎや", korean: "후루기야", meaning: "헌옷가게",
+    example: "古着屋で服を買いました。", exampleReading: "ふるぎやでふくをかいました。", exampleKorean: "후루기야데 후쿠오 카이마시타", exampleMeaning: "헌옷가게에서 옷을 샀습니다.",
+    breakdown: [
+      { word: "服", reading: "ふく", meaning: "옷" }
+    ] },
+  { level: "N5", kanji: "リサイクルショップ", reading: "リサイクルショップ", korean: "리사이쿠루숍푸", meaning: "중고물품점",
+    example: "リサイクルショップで家具を買いました。", exampleReading: "リサイクルショップでかぐをかいました。", exampleKorean: "리사이쿠루숍푸데 카구오 카이마시타", exampleMeaning: "중고물품점에서 가구를 샀습니다.",
+    breakdown: [
+      { word: "家具", reading: "かぐ", meaning: "가구" }
+    ] },
+  { level: "N5", kanji: "靴修理店", reading: "くつしゅうりてん", korean: "쿠츠슈-리텐", meaning: "구두 수선점",
+    example: "靴修理店で靴を直しました。", exampleReading: "くつしゅうりてんでくつをなおしました。", exampleKorean: "쿠츠슈-리텐데 쿠츠오 나오시마시타", exampleMeaning: "구두 수선점에서 신발을 고쳤습니다.",
+    breakdown: [
+      { word: "靴", reading: "くつ", meaning: "신발" }
+    ] },
+  { level: "N5", kanji: "傘修理", reading: "かさしゅうり", korean: "카사슈-리", meaning: "우산 수리",
+    example: "傘修理を頼みました。", exampleReading: "かさしゅうりをたのみました。", exampleKorean: "카사슈-리오 타노미마시타", exampleMeaning: "우산 수리를 부탁했습니다.",
+    breakdown: [
+      { word: "頼みました", reading: "たのみました", meaning: "부탁했습니다" }
+    ] },
+  { level: "N5", kanji: "鍵屋", reading: "かぎや", korean: "카기야", meaning: "열쇠 가게",
+    example: "鍵屋で合鍵を作りました。", exampleReading: "かぎやであいかぎをつくりました。", exampleKorean: "카기야데 아이카기오 츠쿠리마시타", exampleMeaning: "열쇠 가게에서 여벌 열쇠를 만들었습니다.",
+    breakdown: [
+      { word: "合鍵", reading: "あいかぎ", meaning: "여벌 열쇠" }
+    ] },
+  { level: "N5", kanji: "印鑑屋", reading: "いんかんや", korean: "인칸야", meaning: "도장 가게",
+    example: "印鑑屋で印鑑を作りました。", exampleReading: "いんかんやでいんかんをつくりました。", exampleKorean: "인칸야데 인캉오 츠쿠리마시타", exampleMeaning: "도장 가게에서 도장을 만들었습니다.",
+    breakdown: [
+      { word: "印鑑", reading: "いんかん", meaning: "도장" }
+    ] },
+  { level: "N5", kanji: "写真屋", reading: "しゃしんや", korean: "샤신야", meaning: "사진관",
+    example: "写真屋で証明写真を撮りました。", exampleReading: "しゃしんやでしょうめいしゃしんをとりました。", exampleKorean: "샤신야데 쇼-메-샤싱오 토리마시타", exampleMeaning: "사진관에서 증명사진을 찍었습니다.",
+    breakdown: [
+      { word: "証明写真", reading: "しょうめいしゃしん", meaning: "증명사진" }
+    ] },
+  { level: "N5", kanji: "クリーニング店", reading: "クリーニングてん", korean: "쿠리-닝구텐", meaning: "세탁소",
+    example: "クリーニング店にスーツを出しました。", exampleReading: "クリーニングてんにスーツをだしました。", exampleKorean: "쿠리-닝구텐니 스-츠오 다시마시타", exampleMeaning: "세탁소에 정장을 맡겼습니다.",
+    breakdown: [
+      { word: "スーツ", reading: "スーツ", meaning: "정장" }
+    ] },
+  { level: "N5", kanji: "レンタルショップ", reading: "レンタルショップ", korean: "렌타루숍푸", meaning: "대여점",
+    example: "レンタルショップでDVDを借りました。", exampleReading: "レンタルショップでDVDをかりました。", exampleKorean: "렌타루숍푸데 디부이디-오 카리마시타", exampleMeaning: "대여점에서 DVD를 빌렸습니다.",
+    breakdown: [
+      { word: "DVD", reading: "DVD", meaning: "DVD" }
+    ] },
+  { level: "N5", kanji: "貸衣装屋", reading: "かしいしょうや", korean: "카시이쇼-야", meaning: "의상 대여점",
+    example: "貸衣装屋で着物を借りました。", exampleReading: "かしいしょうやできものをかりました。", exampleKorean: "카시이쇼-야데 키모노오 카리마시타", exampleMeaning: "의상 대여점에서 기모노를 빌렸습니다.",
+    breakdown: [
+      { word: "着物", reading: "きもの", meaning: "기모노" }
+    ] },
+  { level: "N5", kanji: "引越し業者比較", reading: "ひっこしぎょうしゃひかく", korean: "힉코시교-샤히카쿠", meaning: "이사업체 비교",
+    example: "引越し業者比較サイトを利用しました。", exampleReading: "ひっこしぎょうしゃひかくサイトをりようしました。", exampleKorean: "힉코시교-샤히카쿠 사이토오 리요- 시마시타", exampleMeaning: "이사업체 비교 사이트를 이용했습니다.",
+    breakdown: [
+      { word: "サイト", reading: "サイト", meaning: "사이트" }
+    ] },
+  { level: "N5", kanji: "不用品回収", reading: "ふようひんかいしゅう", korean: "후요-힌카이슈-", meaning: "불용품 회수",
+    example: "不用品回収を依頼しました。", exampleReading: "ふようひんかいしゅうをいらいしました。", exampleKorean: "후요-힌카이슈-오 이라이 시마시타", exampleMeaning: "불용품 회수를 의뢰했습니다.",
+    breakdown: [
+      { word: "依頼", reading: "いらい", meaning: "의뢰" }
+    ] },
+  { level: "N5", kanji: "粗大ごみ回収", reading: "そだいごみかいしゅう", korean: "소다이고미카이슈-", meaning: "대형쓰레기 회수",
+    example: "粗大ごみ回収を申し込みました。", exampleReading: "そだいごみかいしゅうをもうしこみました。", exampleKorean: "소다이고미카이슈-오 모-시코미마시타", exampleMeaning: "대형쓰레기 회수를 신청했습니다.",
+    breakdown: [
+      { word: "申し込みました", reading: "もうしこみました", meaning: "신청했습니다" }
+    ] },
+  { level: "N5", kanji: "家電リサイクル", reading: "かでんリサイクル", korean: "카덴리사이쿠루", meaning: "가전 재활용",
+    example: "家電リサイクル料金を払いました。", exampleReading: "かでんリサイクルりょうきんをはらいました。", exampleKorean: "카덴리사이쿠루 료-킹오 하라이마시타", exampleMeaning: "가전 재활용 요금을 냈습니다.",
+    breakdown: [
+      { word: "料金", reading: "りょうきん", meaning: "요금" }
+    ] },
+  { level: "N5", kanji: "古紙回収", reading: "こしかいしゅう", korean: "코시카이슈-", meaning: "폐지 회수",
+    example: "古紙回収の日に出しました。", exampleReading: "こしかいしゅうのひにだしました。", exampleKorean: "코시카이슈-노 히니 다시마시타", exampleMeaning: "폐지 회수하는 날에 내놓았습니다.",
+    breakdown: [
+      { word: "日", reading: "ひ", meaning: "날" }
+    ] },
+  { level: "N5", kanji: "ビン缶回収", reading: "ビンかんかいしゅう", korean: "빈칸카이슈-", meaning: "병캔 회수",
+    example: "ビン缶回収に出しました。", exampleReading: "ビンかんかいしゅうにだしました。", exampleKorean: "빈칸카이슈-니 다시마시타", exampleMeaning: "병캔 회수에 내놓았습니다.",
+    breakdown: [
+      { word: "出しました", reading: "だしました", meaning: "내놓았습니다" }
+    ] },
+  { level: "N5", kanji: "資源ごみ回収日", reading: "しげんごみかいしゅうび", korean: "시겐고미카이슈-비", meaning: "자원쓰레기 회수일",
+    example: "資源ごみ回収日は水曜日です。", exampleReading: "しげんごみかいしゅうびはすいようびです。", exampleKorean: "시겐고미카이슈-비와 스이요-비데스", exampleMeaning: "자원쓰레기 회수일은 수요일입니다.",
+    breakdown: [
+      { word: "水曜日", reading: "すいようび", meaning: "수요일" }
+    ] },
+  { level: "N5", kanji: "町の電気屋さん", reading: "まちのでんきやさん", korean: "마치노 덴키야산", meaning: "동네 전파상",
+    example: "町の電気屋さんに修理を頼みました。", exampleReading: "まちのでんきやさんにしゅうりをたのみました。", exampleKorean: "마치노 덴키야산니 슈-리오 타노미마시타", exampleMeaning: "동네 전파상에 수리를 부탁했습니다.",
+    breakdown: [
+      { word: "修理", reading: "しゅうり", meaning: "수리" }
+    ] },
+  { level: "N5", kanji: "個人商店", reading: "こじんしょうてん", korean: "코진쇼-텐", meaning: "개인상점",
+    example: "個人商店を営んでいます。", exampleReading: "こじんしょうてんをいとなんでいます。", exampleKorean: "코진쇼-텐오 이토난데 이마스", exampleMeaning: "개인상점을 운영하고 있습니다.",
+    breakdown: [
+      { word: "営んで", reading: "いとなんで", meaning: "운영해서" }
+    ] },
+  { level: "N5", kanji: "大型スーパー", reading: "おおがたスーパー", korean: "오-가타스-파-", meaning: "대형마트",
+    example: "大型スーパーで買い物をしました。", exampleReading: "おおがたスーパーでかいものをしました。", exampleKorean: "오-가타스-파-데 카이모노오 시마시타", exampleMeaning: "대형마트에서 장을 봤습니다.",
+    breakdown: [
+      { word: "買い物", reading: "かいもの", meaning: "장보기" }
+    ] },
+  { level: "N5", kanji: "ホームセンター", reading: "ホームセンター", korean: "호-무센타-", meaning: "홈센터(생활용품점)",
+    example: "ホームセンターで工具を買いました。", exampleReading: "ホームセンターでこうぐをかいました。", exampleKorean: "호-무센타-데 코-구오 카이마시타", exampleMeaning: "홈센터에서 공구를 샀습니다.",
+    breakdown: [
+      { word: "工具", reading: "こうぐ", meaning: "공구" }
+    ] },
+  { level: "N5", kanji: "ドラッグストア", reading: "ドラッグストア", korean: "도락구스토아", meaning: "드럭스토어",
+    example: "ドラッグストアで薬を買いました。", exampleReading: "ドラッグストアでくすりをかいました。", exampleKorean: "도락구스토아데 쿠스리오 카이마시타", exampleMeaning: "드럭스토어에서 약을 샀습니다.",
+    breakdown: [
+      { word: "薬", reading: "くすり", meaning: "약" }
+    ] },
 
   // ---------- N4 ----------
   { level: "N4", kanji: "経験", reading: "けいけん", korean: "케-켄", meaning: "경험",
