@@ -13,6 +13,8 @@
     <p class="subtitle">JLPT N5 ~ N1 단어와 예문으로 공부하기</p>
   </header>
 
+  <div id="stats-bar" class="stats-bar" aria-live="polite"></div>
+
   <nav class="level-tabs" aria-label="JLPT 레벨 선택">
     <button class="level-tab is-active" data-level="ALL" aria-pressed="true">전체</button>
     <button class="level-tab" data-level="N5" aria-pressed="false">N5</button>
@@ -21,6 +23,7 @@
     <button class="level-tab" data-level="N2" aria-pressed="false">N2</button>
     <button class="level-tab" data-level="N1" aria-pressed="false">N1</button>
     <button class="level-tab" data-level="접속사" aria-pressed="false">접속사</button>
+    <button class="level-tab" data-level="한자" aria-pressed="false">한자</button>
   </nav>
 
   <div class="toolbar">
@@ -34,6 +37,7 @@
     <div class="toolbar-buttons">
       <button id="mode-toggle" class="toolbar-btn" aria-pressed="false">📚 단어장 보기</button>
       <button id="shuffle-btn" class="toolbar-btn" aria-label="단어 순서 섞기">🔀 섞기</button>
+      <button id="review-toggle" class="toolbar-btn" aria-pressed="false">🔁 복습 모드</button>
     </div>
   </div>
 
@@ -113,12 +117,80 @@
           <p class="example-meaning"></p>
           <ul class="breakdown-list" hidden></ul>
         </div>
+        <div class="srs-buttons">
+          <button class="srs-wrong-btn" type="button">😵 몰랐음</button>
+          <button class="srs-known-btn" type="button">😊 외웠음</button>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <template id="kanji-word-template">
+    <article class="word-card kanji-card">
+      <div class="word-card-top">
+        <span class="level-badge"></span>
+        <div class="word-main">
+          <span class="kanji"></span>
+          <span class="reading kanji-korean"></span>
+        </div>
+        <div class="word-actions">
+          <button class="tts-btn" type="button">🔊 듣기</button>
+        </div>
+      </div>
+      <p class="meaning"></p>
+      <p class="kanji-readings">
+        <span class="kanji-reading-group"><span class="kanji-reading-label">음독</span><span class="onyomi"></span></span>
+        <span class="kanji-reading-group"><span class="kanji-reading-label">훈독</span><span class="kunyomi"></span></span>
+      </p>
+      <div class="mnemonic-box">
+        <p class="mnemonic"></p>
+      </div>
+      <div class="example-block">
+        <p class="related-words-label">관련 단어</p>
+        <ul class="breakdown-list related-words"></ul>
+      </div>
+    </article>
+  </template>
+
+  <template id="kanji-quiz-template">
+    <article class="quiz-card kanji-quiz-card">
+      <span class="level-badge"></span>
+
+      <div class="quiz-question">
+        <p class="kanji-line"><span class="kanji"></span></p>
+      </div>
+
+      <div class="quiz-controls">
+        <button class="tts-word-btn" type="button">🔊 발음</button>
+        <button class="reveal-btn" type="button" aria-pressed="false">정답 확인</button>
+      </div>
+
+      <div class="quiz-answer" hidden>
+        <p class="kanji-korean"></p>
+        <p class="meaning"></p>
+        <p class="kanji-readings">
+          <span class="kanji-reading-group"><span class="kanji-reading-label">음독</span><span class="onyomi"></span></span>
+          <span class="kanji-reading-group"><span class="kanji-reading-label">훈독</span><span class="kunyomi"></span></span>
+        </p>
+        <div class="mnemonic-box">
+          <p class="mnemonic"></p>
+        </div>
+        <div class="example-answer">
+          <p class="related-words-label">관련 단어</p>
+          <ul class="breakdown-list related-words"></ul>
+        </div>
+        <div class="srs-buttons">
+          <button class="srs-wrong-btn" type="button">😵 몰랐음</button>
+          <button class="srs-known-btn" type="button">😊 외웠음</button>
+        </div>
       </div>
     </article>
   </template>
 
   <script src="data.js"></script>
   <script src="connectives.js"></script>
+  <script src="kanji.js"></script>
+  <script src="progress.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
