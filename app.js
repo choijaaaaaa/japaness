@@ -102,6 +102,21 @@ function highlightExample(example, kanji) {
   return escapeHtml(example);
 }
 
+// WHY: 박스 레벨은 progress.js에 저장만 되고 카드에는 안 보이면 사용자가 자기 진도를 확인할 수 없다.
+// 학습 이력이 없으면 배지를 숨기고, 있으면 박스 단계를 점으로, 마스터하면 별표로 표시한다.
+function renderProgressBadge(el, item) {
+  if (!el) return;
+  const p = getItemProgress(item);
+  if (!p) {
+    el.hidden = true;
+    return;
+  }
+  el.hidden = false;
+  const total = BOX_INTERVAL_DAYS.length;
+  const dots = "●".repeat(p.box + 1) + "○".repeat(total - p.box - 1);
+  el.textContent = isMastered(item) ? `★ 마스터 ${dots}` : `📦 ${dots}`;
+}
+
 function renderBreakdown(listEl, breakdown) {
   listEl.innerHTML = "";
   if (!breakdown || breakdown.length === 0) {
@@ -122,6 +137,7 @@ function buildWordCard(word) {
   const badge = node.querySelector(".level-badge");
   badge.textContent = word.category || word.level;
   badge.dataset.level = word.category ? "접속사" : word.level;
+  renderProgressBadge(node.querySelector(".progress-badge"), word);
 
   node.querySelector(".kanji").textContent = word.kanji;
   node.querySelector(".reading").textContent = word.reading;
@@ -167,6 +183,7 @@ function buildQuizCard(word) {
   const badge = node.querySelector(".level-badge");
   badge.textContent = word.category || word.level;
   badge.dataset.level = word.category ? "접속사" : word.level;
+  renderProgressBadge(node.querySelector(".progress-badge"), word);
 
   node.querySelector(".kanji").textContent = word.kanji;
   node.querySelector(".kanji-reading").textContent = `(${word.reading})`;
@@ -217,6 +234,7 @@ function buildKanjiCard(entry) {
   const badge = node.querySelector(".level-badge");
   badge.textContent = entry.level;
   badge.dataset.level = entry.level;
+  renderProgressBadge(node.querySelector(".progress-badge"), entry);
 
   node.querySelector(".kanji").textContent = entry.char;
   node.querySelector(".kanji-korean").textContent = entry.korean;
@@ -240,6 +258,7 @@ function buildKanjiQuizCard(entry) {
   const badge = node.querySelector(".level-badge");
   badge.textContent = entry.level;
   badge.dataset.level = entry.level;
+  renderProgressBadge(node.querySelector(".progress-badge"), entry);
 
   node.querySelector(".kanji").textContent = entry.char;
   node.querySelector(".kanji-korean").textContent = entry.korean;

@@ -225,6 +225,14 @@ body {
 .level-badge[data-level="N1"] { background: var(--color-n1); }
 .level-badge[data-level="접속사"] { background: var(--color-setsu); }
 
+.progress-badge {
+  flex: 0 0 auto;
+  font-size: 0.7rem;
+  color: var(--color-text-muted);
+  align-self: center;
+  letter-spacing: 1px;
+}
+
 /* ---------- 한자 카드 ---------- */
 
 .kanji-card .kanji,
@@ -429,6 +437,12 @@ body {
   position: absolute;
   top: var(--space-3);
   right: var(--space-3);
+}
+
+.quiz-card .progress-badge {
+  position: absolute;
+  top: var(--space-3);
+  left: var(--space-3);
 }
 
 .quiz-question {
